@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  web-router:
+    build: 
+      context: .
+      args:
+        landscape: prod
+    read_only: true
+    ports:
+      - 80:80
+      - 443:443
+    #restart: always
+    environment:
+      - LANDSCAPE=prod
+      - ALLOW_DOCKER_NETS=true

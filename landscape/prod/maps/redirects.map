@@ -1,0 +1,7 @@
+# This file contains vanity redirects.  This means that the destination URL is an absolute 
+# value and the URI is not put on the end
+#
+
+# StudentLink main menu
+_/studentlink /link/bin/uiscgi_studentlink.pl/uismpl/?ModuleName=menu.pl&NewMenu=Home ;
+_/geography/brdf http://www-modis.bu.edu/brdf ;
