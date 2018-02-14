@@ -1,0 +1,19 @@
+# This is the buildspec used by CodeBuild to generate the image
+#
+version: 0.2
+phases:
+  pre_build:
+    commands:
+      - $(aws ecr get-login --no-include-email )
+      - TAG="$(echo $CODEBUILD_RESOLVED_SOURCE_VERSION | head -c 8)"
+      - IMAGEURI="${REPOSITORY_URI}:${TAG}"
+  build:
+    commands:
+      - docker build --build-arg "landscape=$LANDSCAPE" --tag "$IMAGEURI" .
+      - docker run -e "LANDSCAPE=$LANDSCAPE" "$IMAGEURI" /usr/sbin/run-nginx.sh -t
+  post_build:
+    commands:
+      - docker push "$IMAGEURI"
+      - printf '[{"name":"bu-webrouter", "imageUri":"%s"}]' "$IMAGEURI" >build.json 
+artifacts:
+  files: build.json
