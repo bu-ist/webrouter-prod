@@ -66,7 +66,7 @@ _/cellphone-compliance     django ;
 _/dnamixtures        django ;
 _/systems-programming/django-sysmon  django ;
 _/courseware-manager     django ;
-_/bufellow/admin       django ;
+_/bufellow/db-admin       django ;
 _/summer/admin       django ;
 _/html-email       django ;
 _/betabionics        django ;
@@ -89,9 +89,6 @@ _/law-pub        django ;
 # /phpbin misc:
 ##############
 #/phpbin/efs   http://software33-dbin.bu.edu:181
-##generic phpauth testing for vista
-#/phpbin/vista-devl  balancer://phpauth
-#/phpbin/vista   balancer://phpauth
 
 ##############
 # The /dbin USW34 or USW18 Section:
