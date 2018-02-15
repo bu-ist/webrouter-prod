@@ -1,0 +1,11 @@
+These scripts help create the initial NGINX routing configuration.  Generally one uses the following process:
+
+1) Get on a system with access to both AFS and the Isilon (and permissions to both so klog).
+
+2) Run the ./scan_www.py script with the landscape as the first parameter.  Capture the output in a file (I use `./scan_www.py test | tee test-20180215.csv`
+
+3) Run the csv2nginx.py filter to convert the csv file into the initial nginx map entries.  `./csv2nginx.py test-20180215.csv >initial.map`
+
+4) Append to the end of the `landscape/<land>/maps/sites.map`
+
+5) Review and look for duplicates
