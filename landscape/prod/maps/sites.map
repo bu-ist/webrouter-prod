@@ -8,7 +8,6 @@ _/geography/brdf redirect ;
 # items from the www:phpmap.txt
 _/buniverse phpbin ;
 _/maps phpbin ;
-_/bufellow/db-admin django ;
 _/nisdev phpbin ;
 
 # These mappings are needed for Shibboleth authentication
