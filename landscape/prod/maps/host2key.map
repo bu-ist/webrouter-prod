@@ -1,0 +1,11 @@
+# The first map file maps the host header into the hostname for the lookup
+
+# all the www.bu.edu systems map to the same hostkey
+www-test.bu.edu _ ;
+www-devl.bu.edu _ ;
+www-syst.bu.edu _ ;
+www.bu.edu _ ;
+
+# these are the cloudfront names for www.bu.edu systems
+#
+d3gf0nyd2txb3d.cloudfront.net _ ;
