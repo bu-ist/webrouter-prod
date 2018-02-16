@@ -179,7 +179,9 @@ _/interactive-design content ;
   _/caderonline content ;  # top-level
   _/casgov content ;  # top-level
   _/cagt content ;  # top-level
-  _/cap deck content ;  # top-level
+  # The Isilon has this directory but we don't think it is being used.
+  # This should not be supported.  dsmk & adamzp 20180216
+  #_/cap deck content ;  # top-level
   _/cas-scholars content ;  # top-level
   _/cmmh content ;  # top-level
   _/cmbs content ;  # top-level
@@ -477,7 +479,8 @@ _/interactive-design content ;
   _/nida-mrc content ;  # top-level
   _/niscms content ;  # top-level
   _/nitrides content ;  # top-level
-  _/nisdev content ;  # top-level
+  # using entry pointing to phpbin at the top of the file
+  #_/nisdev content ;  # top-level
   _/nightingale content ;  # top-level
   _/niteo content ;  # top-level
   _/nisguide content ;  # top-level
@@ -656,7 +659,8 @@ _/interactive-design content ;
   _/map content ;  # top-level
   _/marks-test-blog3 content ;  # top-level
   _/machozi content ;  # top-level
-  _/maps content ;  # top-level
+  # using entry pointing to phpbin at the top of the file
+  #_/maps content ;  # top-level
   _/management content ;  # top-level
   _/marcom/stationery content ;  # 
   _/marcom/email content ;  # 
@@ -739,7 +743,8 @@ _/interactive-design content ;
   _/met/msmonline content ;  # 
   _/met/acela content ;  # 
   _/met/event-calendar content ;  # 
-  _/met/USA content ;  # 
+  # NGINX map entries are not case sensitive so we need to comment out one of the USA/usa
+  #_/met/USA content ;  # 
   _/met/50 content ;  # 
   _/met/usa content ;  # 
   _/met/grad11 content ;  # 
@@ -749,9 +754,11 @@ _/interactive-design content ;
   _/met/yellowpages content ;  # 
   _/met/audio content ;  # 
   _/met/landing-pages content ;  # 
-  _/met/Agganis content ;  # 
+  # NGINX map entries are not case sensitive so we need to comment out one of them 
+  #_/met/Agganis content ;  # 
   _/met/web content ;  # 
-  _/met/Acela content ;  # 
+  # NGINX map entries are not case sensitive so we need to comment out one of them 
+  #_/met/Acela content ;  # 
   _/met/magazine content ;  # 
   _/met/mag content ;  # 
   _/met/email-campaign content ;  # 
@@ -952,7 +959,6 @@ _/interactive-design content ;
   _/internal-research content ;  # top-level
   _/inauguration content ;  # top-level
   _/index3.html content ;  # top-level
-  _/investinprevention content ;  # top-level
   _/interactive content ;  # top-level
   _/insidecampaign content ;  # top-level
   _/infocenter content ;  # top-level
@@ -1075,7 +1081,6 @@ _/interactive-design content ;
   _/eforwarding content ;  # top-level
   _/electric content ;  # top-level
   _/eliewieselday content ;  # top-level
-  _/eliewieselday  content ;  # top-level
   _/eliewieselarchive content ;  # top-level
   _/eportfolio/wp-assets content ;  # 
   _/episcopal content ;  # top-level
@@ -1342,7 +1347,7 @@ _/interactive-design content ;
   _/finaid content ;  # top-level
   _/finplanners content ;  # top-level
   _/firesafety content ;  # top-level
-  _/fifty-states content ;  # top-level
+  #_/fifty-states content ;  # top-level
   _/fiscalsummit content ;  # top-level
   _/findmyprint content ;  # top-level
   _/festival content ;  # top-level
@@ -1381,7 +1386,6 @@ _/interactive-design content ;
   _/laane content ;  # top-level
   _/law.bkup content ;  # top-level
   _/language content ;  # top-level
-  _/lacelebratesbu  content ;  # top-level
   _/lawgiving content ;  # top-level
   _/laverdes content ;  # top-level
   _/lamovie content ;  # top-level
@@ -1480,15 +1484,17 @@ _/interactive-design content ;
   _/payment content ;  # top-level
   _/pm content ;  # top-level
   _/phylogeny content ;  # top-level
-  _/phpbin.rw content ;  # top-level
-  _/phpbin content ;  # top-level
+  # The .rw and .ro items are related to filesystem and should not be part of the front-end map which 
+  # only cares that /phpbin/ goes to the phpbin backend.  
+  #_/phpbin.rw content ;  # top-level
+  #_/phpbin.ro content ;  # top-level
+  #_/phpbin content ;  # top-level
   _/photo content ;  # top-level
   _/physics-resources content ;  # top-level
   _/phys-biophys content ;  # top-level
   _/phhprc content ;  # top-level
   _/phpbin-selector content ;  # top-level
   _/physics content ;  # top-level
-  _/phpbin.ro content ;  # top-level
   _/pipgiving content ;  # top-level
   _/pike content ;  # top-level
   _/pin content ;  # top-level
@@ -1586,7 +1592,7 @@ _/interactive-design content ;
   _/techweb-survey content ;  # top-level
   _/test-blog content ;  # top-level
   _/testnfs content ;  # top-level
-  _/testing content ;  # top-level
+  #_/testing content ;  # top-level
   _/tech/plan content ;  # 
   _/tech/slp content ;  # 
   _/test content ;  # top-level
@@ -1903,7 +1909,7 @@ _/interactive-design content ;
   _/ballab content ;  # top-level
   _/bands/graphics content ;  # 
   _/bands/common content ;  # 
-  _/bashoexpress  content ;  # top-level
+  #_/bashoexpress  content ;  # top-level
   _/bam2012/wp-assets content ;  # 
   _/barc2007 content ;  # top-level
   _/barc2015 content ;  # top-level
@@ -2027,7 +2033,7 @@ _/interactive-design content ;
   _/busmgiving content ;  # top-level
   _/buonline content ;  # top-level
   _/bua25 content ;  # top-level
-  _/busmphonathon content ;  # top-level
+  #_/busmphonathon content ;  # top-level
   _/bu2do content ;  # top-level
   _/busm content ;  # top-level
   _/buildingbu content ;  # top-level
