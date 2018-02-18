@@ -8,4 +8,5 @@ www.bu.edu _ ;
 
 # these are the cloudfront names for www.bu.edu systems
 #
-d3gf0nyd2txb3d.cloudfront.net _ ;
+d6c88qfbxnvam.cloudfront.net _ ;
+prod-webrouter-1806055511.us-east-1.elb.amazonaws.com _ ;
