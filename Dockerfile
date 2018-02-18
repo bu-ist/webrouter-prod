@@ -1,7 +1,7 @@
 # These are all defined in the base image
 #
 #FROM dsmk/web-router-base:latest
-FROM buist/websites-webrouter-base:2018.02.02
+FROM buist/websites-webrouter-base:2018.02.17
 
 # for now this is our split and everything below this is for a different location
 #
