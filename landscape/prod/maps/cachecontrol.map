@@ -5,4 +5,8 @@
   legacy "no-cache, no-store" ;
   django "no-cache, no-store" ;
   content-nocache "no-cache, no-store" ;
+  # non-WordPress static content can not be
+  # cached because Weblogin does not set the 
+  # no-cache header on protected content.
+  content "no-cache, no-store" ;
 
