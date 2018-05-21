@@ -1,9 +1,9 @@
 ### Common mapping to all bu.edu systems
-version 20180218 ;
+_/version 20180218 ;
 
 # redirects
-_/studentlink redirect ;
-_/geography/brdf redirect ;
+_/studentlink redirect_asis ;
+_/geography/brdf redirect_asis ;
 
 # items from the www:phpmap.txt
 _/buniverse phpbin ;
@@ -26,6 +26,8 @@ _/link uiscgi_content ;
 
 # These are the old tomcat servlets on the server
 _/uis_web3270 legacy ;
+_/uis_eostc legacy ;
+# not certain that the following is necessary
 _/uiszl_eostc legacy ;
 _/uiszl_j2ee legacy ;
 
@@ -174,7 +176,7 @@ _/interactive-design content ;
   _/capbridge content ;  # top-level
   _/careerex content ;  # top-level
   _/cab content ;  # top-level
-  _/calendar content ;  # top-level
+  _/calendar phpbin ;  # top-level
   _/casdemo content ;  # top-level
   _/caderonline content ;  # top-level
   _/casgov content ;  # top-level
@@ -625,6 +627,7 @@ _/interactive-design content ;
   _/adlab content ;  # top-level
   _/admissions content ;  # top-level
   _/auctions content ;  # top-level
+  _/auth-test content ; #top-level for authentication load test
   _/auckland content ;  # top-level
   _/aux content ;  # top-level
   _/abl content ;  # top-level
@@ -1609,6 +1612,8 @@ _/interactive-design content ;
   _/tech-backup content ;  # top-level
   _/tech-restricted content ;  # top-level
   _/test-to-production content ;  # top-level
+  _/testshibro content ; #top-level
+  _/testshibrw content ; #top-level
   _/techorg content ;  # top-level
   _/terriers content ;  # top-level
   _/tech-refresh content ;  # top-level
