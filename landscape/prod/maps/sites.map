@@ -404,6 +404,9 @@ _/interactive-design content ;
   _/cball content ;  # top-level
   _/cbm content ;  # top-level
   _/yac content ;  # top-level
+  _/y2kpartners content ;  # 2018-06-04 resync
+  _/y2k content ;  # 2018-06-04 resync
+  _/y2k-partners content ;  # 2018-06-04 resync
   _/yourimpact content ;  # top-level
   _/yourbusm content ;  # top-level
   _/yourgift content ;  # top-level
@@ -594,7 +597,7 @@ _/interactive-design content ;
   _/alumnicenter content ;  # top-level
   _/alumniweekend content ;  # top-level
   _/alistaircooke content ;  # top-level
-  _/alert content ;  # top-level
+  _/alert content-nocache ;  # top-level
   _/alumnirelations content ;  # top-level
   _/alumni/images content ;  # 
   _/alumni/common content ;  # 
@@ -685,7 +688,7 @@ _/interactive-design content ;
   _/make content ;  # top-level
   _/marks-test-blog content ;  # top-level
   _/marsh content ;  # top-level
-  _/math/ness content ;  # 
+  # _/math/ness content ;  # 2018-06-04 resync
   _/math/wp-assets content ;  # 
   _/mathfinance content ;  # top-level
   _/matta content ;  # top-level
@@ -707,6 +710,7 @@ _/interactive-design content ;
   _/minds content ;  # top-level
   _/mickswan content ;  # top-level
   _/midas content ;  # top-level
+  _/mini-mba content ;  # 2018-06-04 resync
   _/militarynight content ;  # top-level
   _/mitit content ;  # top-level
   _/microscopylab content ;  # top-level
@@ -718,6 +722,7 @@ _/interactive-design content ;
   _/medlibstaff content ;  # top-level
   _/met50 content ;  # top-level
   _/menorca content ;  # top-level
+  _/met-lp content ;  # 2018-06-04 resync
   _/medfellowship content ;  # top-level
   _/metfacultydevelopment content ;  # top-level
   _/medclassnotes content ;  # top-level
@@ -733,10 +738,12 @@ _/interactive-design content ;
   _/mentalhealth content ;  # top-level
   _/medschoolgradprograms content ;  # top-level
   _/medenews content ;  # top-level
+  _/medstudy content ;  # 2018-06-04 resync
   _/metro content ;  # top-level
   _/meller content ;  # top-level
   _/medschool content ;  # top-level
   _/met/common content ;  # 
+  _/met/events content ;  # 2018-06-04 resync
   _/met/advertising content ;  # 
   _/met/linkedin content ;  # 
   _/met/elive content ;  # 
@@ -844,6 +851,9 @@ _/interactive-design content ;
   _/mba-essays content ;  # top-level
   _/mba content ;  # top-level
   _/mba-facts content ;  # top-level
+  _/28qatest content ;  # 2018-06-04 resync
+  _/25000 content ;  # 2018-06-04 resync
+  _/200word content ;  # 2018-06-04 resync
   _/qa-2 content ;  # top-level
   _/qatest28 content ;  # top-level
   _/qa-3 content ;  # top-level
@@ -919,12 +929,14 @@ _/interactive-design content ;
   _/honordeanmeenan content ;  # top-level
   _/homecoming content ;  # top-level
   _/honordeanwells content ;  # top-level
+  _/holickehlersdanlosfund content ;  # 2018-06-04 resync
   _/homeimages content ;  # top-level
   _/homepage2 content ;  # top-level
   _/hr/flash content ;  # 
   _/hr/articulate content ;  # 
   _/hr/documents content ;  # 
   _/hre content ;  # top-level
+  _/hghrstudies content ;  # top-level
   _/hprp content ;  # top-level
   _/hpcworkshop content ;  # top-level
   _/hpl content ;  # top-level
@@ -989,6 +1001,7 @@ _/interactive-design content ;
   _/ihs content ;  # top-level
   _/iip content ;  # top-level
   _/ionchannelcalcium content ;  # top-level
+  _/i3e-ac content ;  # 2018-06-04 resync
   _/irc content ;  # top-level
   _/ircenter content ;  # top-level
   _/iraopportunity content ;  # top-level
@@ -1049,11 +1062,13 @@ _/interactive-design content ;
   _/excellence content ;  # top-level
   _/executivevp content ;  # top-level
   _/encoder content ;  # top-level
+  _/execemf content ;  # 2018-06-04 resync
   _/energytransitions content ;  # top-level
   _/environment content ;  # top-level
   _/entrepreneurship content ;  # top-level
   _/enrsa content ;  # top-level
   _/eng/magmodel content ;  # 
+  _/eng/wp-assets content ;  # 2018-06-04 resync
   _/enact/wp-assets content ;  # 
   _/eas content ;  # top-level
   _/earthhouse content ;  # top-level
@@ -1101,6 +1116,7 @@ _/interactive-design content ;
   _/eso/wp-assets content ;  # 
   _/eso/academic-data-warehouse content ;  # 
   _/esl content ;  # top-level
+  _/estateguide content ;  # 2018-06-04 resync
   _/esf content ;  # top-level
   _/education content ;  # top-level
   _/eugene content ;  # top-level
@@ -1231,13 +1247,16 @@ _/interactive-design content ;
   _/galacticring content ;  # top-level
   _/games content ;  # top-level
   _/gastronomy content ;  # top-level
-  _/gmf content ;  # top-level
+  # _/gmf content ;  # 2018-06-04 resync
   _/gms content ;  # top-level
+  _/g2kge content ;  # top-level
   _/ghi content ;  # top-level
   _/ghpci content ;  # top-level
   _/give content ;  # top-level
   _/giving content ;  # top-level
+  _/givetohillel content ;  # top-level
   _/givetobuti content ;  # top-level
+  _/give2cas content ;  # top-level
   _/giftcalculator content ;  # top-level
   _/givethepoint content ;  # top-level
   _/givetowtbu content ;  # top-level
@@ -1304,6 +1323,7 @@ _/interactive-design content ;
   _/globalquestionnaire content ;  # top-level
   _/globaldayofservice content ;  # top-level
   _/glaisne content ;  # top-level
+  _/globalprograms content ;  # 2018-06-04 resync
   _/globalfuture content ;  # top-level
   _/glc content ;  # top-level
   _/globaldaysofservice/logyourhours content ;  # 
@@ -1322,6 +1342,7 @@ _/interactive-design content ;
   _/gsm content ;  # top-level
   _/gsi content ;  # top-level
   _/gds content ;  # top-level
+  _/gdp-cn content ;  # top-level
   _/fcoi content ;  # top-level
   _/fye content ;  # top-level
   _/fy101 content ;  # top-level
@@ -1409,6 +1430,7 @@ _/interactive-design content ;
   _/laprogram/wp-assets content ;  # 
   _/lawyearbooks content ;  # top-level
 ##TODO: get phpmap entry for law-pub and put in separate file
+  _/languages content ;  # top-level
   _/lab content ;  # top-level
   _/languagelearning content ;  # top-level
   _/laloba content ;  # top-level
@@ -1494,6 +1516,7 @@ _/interactive-design content ;
   _/pace content ;  # top-level
   _/payment content ;  # top-level
   _/pm content ;  # top-level
+  _/p2pguide content ;  # top-level
   _/phylogeny content ;  # top-level
   # The .rw and .ro items are related to filesystem and should not be part of the front-end map which 
   # only cares that /phpbin/ goes to the phpbin backend.  
@@ -1526,6 +1549,7 @@ _/interactive-design content ;
   _/polymer content ;  # top-level
   _/pocketmba content ;  # top-level
   _/prerelease content ;  # top-level
+  _/practicemanagement content ;  # top-level
   _/proposaldevelopment content ;  # top-level
   _/prism content ;  # top-level
   _/precisiondx content ;  # top-level
@@ -1545,6 +1569,7 @@ _/interactive-design content ;
   _/preservation content ;  # top-level
   _/practice content ;  # top-level
   _/prostars content ;  # top-level
+  _/projectred content ;  # top-level
   _/presenter content ;  # top-level
   _/projects content ;  # top-level
   _/prs content ;  # top-level
@@ -1553,6 +1578,7 @@ _/interactive-design content ;
   _/prevmedresidency content ;  # top-level
   _/procurement content ;  # top-level
   _/playground content ;  # top-level
+  _/platform content ;  # top-level
   _/plakias content ;  # top-level
   _/plan2015 content ;  # top-level
   _/plannedgiving content ;  # top-level
@@ -1564,6 +1590,7 @@ _/interactive-design content ;
   _/psychsig content ;  # top-level
   _/psc content ;  # top-level
   _/psp content ;  # top-level
+  _/pdx content ;  # top-level
   _/pusteblume content ;  # top-level
   _/publications content ;  # top-level
   _/purchasing content ;  # top-level
@@ -1607,7 +1634,9 @@ _/interactive-design content ;
   _/tech/plan content ;  # 
   _/tech/slp content ;  # 
   _/test content ;  # top-level
+  _/terrierconnection content ;  # top-level
   _/terriermarketplace content ;  # top-level
+  _/terriertales content ;  # top-level
   _/tedbu content ;  # top-level
   _/techinternal/wp-assets content ;  # 
   _/test4proxyroute content ;  # top-level
@@ -1649,6 +1678,7 @@ _/interactive-design content ;
   _/transportation content ;  # top-level
   _/transportationnudges content ;  # top-level
   _/transfer content ;  # top-level
+  _/training content ;  # top-level
   _/trl content ;  # top-level
   _/transgenic content ;  # top-level
   _/trusteescholars content ;  # top-level
@@ -1658,6 +1688,7 @@ _/interactive-design content ;
   _/ttt content ;  # top-level
   _/tskoog content ;  # top-level
   _/tso content ;  # top-level
+  _/tdl content ;  # top-level
   _/turnitin content ;  # top-level
   _/tutorials content ;  # top-level
   _/tulliusgroup content ;  # top-level
@@ -1730,6 +1761,7 @@ _/interactive-design content ;
   _/shongchallenge content ;  # top-level
   _/showme content ;  # top-level
   _/sha content ;  # top-level
+  _/shsmobile content ;  # top-level
   _/sif content ;  # top-level
   _/sil content ;  # top-level
   _/silber content ;  # top-level
@@ -1799,6 +1831,7 @@ _/interactive-design content ;
   _/stay-test content ;  # top-level
   _/strategicreport content ;  # top-level
   _/sthfulladmission content ;  # top-level
+  _/studentgiving content ;  # top-level
   _/sthope content ;  # top-level
   _/stimulus content ;  # top-level
   _/studyfinder content ;  # top-level
@@ -1806,6 +1839,7 @@ _/interactive-design content ;
   _/stemcells content ;  # top-level
   _/stayemployed content ;  # top-level
   _/stamasfund content ;  # top-level
+  _/state-authorization content ;  # top-level
   _/ssw/common content ;  # 
   _/ssw/wp-assets content ;  # 
 ##TODO: get phpmap entry for ssw/usfostercare and put in separate file
@@ -1815,6 +1849,7 @@ _/interactive-design content ;
   _/supportaphasiacenter content ;  # top-level
   _/summerterm content ;  # top-level
   _/suemac content ;  # top-level
+  _/susilo content ;  # 2018-06-04 resync (WordPress to content)
   _/suppliers content ;  # top-level
   _/summerfun content ;  # top-level
   _/survey content ;  # top-level
@@ -1852,6 +1887,7 @@ _/interactive-design content ;
   _/directory content ;  # top-level
   _/diaspora-fig content ;  # top-level
   _/diversity content ;  # top-level
+  _/digital-strategy content ;  # top-level
   _/digication content ;  # top-level
   _/distance content ;  # top-level
   _/diploma content ;  # top-level
@@ -1885,6 +1921,7 @@ _/interactive-design content ;
   _/dos/facebook content ;  # 
   _/double-it content ;  # top-level
   _/dlanglai content ;  # top-level
+  _/dtp content ;  # top-level
   _/dsgsupport content ;  # top-level
   _/dsg content ;  # top-level
   _/ds-biolobby content ;  # top-level
@@ -1950,7 +1987,7 @@ _/interactive-design content ;
   _/biomedcrimas content ;  # top-level
   _/biorobotics content ;  # top-level
   _/bioskin content ;  # top-level
-  _/becf content ;  # top-level
+  # _/becf content ;  # 2018-06-04 resync (content to WordPress)
   _/bemerson content ;  # top-level
   _/behaviorlab content ;  # top-level
   _/beanpot-party content ;  # top-level
@@ -2049,6 +2086,7 @@ _/interactive-design content ;
   #_/busmphonathon content ;  # top-level
   _/bu2do content ;  # top-level
   _/busm content ;  # top-level
+  _/bu-wheel-merger/wp-assets content ;  # top-level
   _/buildingbu content ;  # top-level
   _/busm-pm content ;  # top-level
   _/buapayments/wp-assets content ;  # 
@@ -2059,8 +2097,10 @@ _/interactive-design content ;
   _/buildbu content ;  # top-level
   _/buc content ;  # top-level
   _/bucentral content ;  # top-level
+  _/buwg content ;  # top-level
   _/buwc content ;  # top-level
   _/buinchicago content ;  # top-level
+  _/buenvisions content ;  # top-level
   _/budentalapparelsale content ;  # top-level
   _/bumc-it content ;  # top-level
   _/but content ;  # top-level
