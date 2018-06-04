@@ -176,6 +176,7 @@ _/interactive-design content ;
   _/capbridge content ;  # top-level
   _/careerex content ;  # top-level
   _/cab content ;  # top-level
+  _/cart content ; # 2018-06-04 cleanup
   _/calendar phpbin ;  # top-level
   _/casdemo content ;  # top-level
   _/caderonline content ;  # top-level
@@ -214,6 +215,7 @@ _/interactive-design content ;
   _/celebrationvip content ;  # top-level
   _/celebrationcake content ;  # top-level
   _/censsis content ;  # top-level
+  _/celop/wp-assets content ;  # 2018-06-04 cleanup
   _/celop/dev content ;  # 
   _/centurychallenge content ;  # top-level
 ##TODO: get phpmap entry for cellphone-compliance and put in separate file
@@ -274,7 +276,7 @@ _/interactive-design content ;
   _/com/registration content ;  # 
   _/com/special content ;  # 
   _/com/socialmediaday content ;  # 
-  _/com/orientation content ;  # 
+  # _/com/orientation content ;  # 2018-06-04 removal
   _/com/live-it content ;  # 
   _/com/ems-review content ;  # 
   _/com/mobile-life-workshop content ;  # 
@@ -286,6 +288,7 @@ _/interactive-design content ;
   _/com/dar content ;  # 
   _/com/lambert-review content ;  # 
   _/com/data-storytelling content ;  # 
+  _/com/data-narrative content ;  # 2018-06-04 addition
   _/com/graduate content ;  # 
   _/com/daly-review content ;  # 
   _/com/labor-films content ;  # 
@@ -350,7 +353,7 @@ _/interactive-design content ;
   _/cghdac content ;  # top-level
   _/cgs-events content ;  # top-level
   _/cfait content ;  # top-level
-  _/cfa/johndaverio content ;  # 
+  # _/cfa/johndaverio content ;  # 2018-06-04 removal
   _/cfa/ppc7 content ;  # 
   _/cfa/ppc1 content ;  # 
   _/cfa/musiceducation.bu.edu content ;  # 
@@ -358,7 +361,7 @@ _/interactive-design content ;
   _/cfa/wp-assets content ;  # 
   _/cfa/ppc3 content ;  # 
   _/cfa/ppc4 content ;  # 
-  _/cfa/ppc5 content ;  # 
+  # _/cfa/ppc5 content ;  # 2018-06-04 pass
   _/cfa/ppc6 content ;  # 
   _/cfa/loans content ;  # 
   _/cfa-alumni content ;  # top-level
