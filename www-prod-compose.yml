@@ -6,7 +6,7 @@ services:
       context: .
       args:
         landscape: prod
-    read_only: true
+    #read_only: true
     ports:
       - 80:80
       - 443:443
