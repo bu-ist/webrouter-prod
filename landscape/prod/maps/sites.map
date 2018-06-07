@@ -107,8 +107,9 @@ _/explore phpbin ;
 _/maps/livebus phpbin ;
 _/bumobile phpbin ;
 
-_/marcom content ;
-_/interactive-design content ;
+# No longer necessary - they should go to WordPress
+# _/marcom content ;
+# _/interactive-design content ;
 
 ####### From stub files/directory scan
 
