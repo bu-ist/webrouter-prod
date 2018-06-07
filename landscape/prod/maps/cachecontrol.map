@@ -10,3 +10,4 @@
   # no-cache header on protected content.
   content "no-cache, no-store" ;
 
+  apps-rewrite "no-cache, no-store" ;
