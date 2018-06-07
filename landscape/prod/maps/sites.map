@@ -30,6 +30,7 @@ _/uis_eostc legacy ;
 # not certain that the following is necessary
 _/uiszl_eostc legacy ;
 _/uiszl_j2ee legacy ;
+_/formlogin legacy ;
 
 #admissions wordpress
 
@@ -1323,7 +1324,7 @@ _/interactive-design content ;
   _/globalquestionnaire content ;  # top-level
   _/globaldayofservice content ;  # top-level
   _/glaisne content ;  # top-level
-  _/globalprograms content ;  # 2018-06-04 resync
+  # _/globalprograms content ;  # 2018-06-04 resync
   _/globalfuture content ;  # top-level
   _/glc content ;  # top-level
   _/globaldaysofservice/logyourhours content ;  # 
