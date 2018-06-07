@@ -954,7 +954,7 @@ _/interactive-design content ;
   _/huntington content ;  # top-level
   _/humandevelopment content ;  # top-level
   _/humanitiesforums content ;  # top-level
-  _/hub content ;  # top-level
+  # _/hub content ;  # top-level 2018-0-07
   _/icshm content ;  # top-level
   _/ict content ;  # top-level
   _/icce15 content ;  # top-level
