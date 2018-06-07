@@ -2056,6 +2056,7 @@ _/interactive-design content ;
   _/buvs content ;  # top-level
   _/buworkscentral content ;  # top-level
   _/bu-nano content ;  # top-level
+  _/bu-wheelock-merger content ;  # top-level
   _/busm-facultycentral content ;  # top-level
   _/buba content ;  # top-level
   _/busmplus/form content ;  # 
