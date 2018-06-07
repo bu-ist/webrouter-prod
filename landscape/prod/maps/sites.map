@@ -176,7 +176,7 @@ _/bumobile phpbin ;
   _/caryl content ;  # top-level
   _/cardiovascular-medicine content ;  # top-level
   _/casw content ;  # top-level
-  _/capbridge content ;  # top-level
+  # _/capbridge content ;  # top-level
   _/careerex content ;  # top-level
   _/cab content ;  # top-level
   _/cart content ; # 2018-06-04 cleanup
