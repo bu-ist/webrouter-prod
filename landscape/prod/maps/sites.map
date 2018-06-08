@@ -107,9 +107,6 @@ _/explore phpbin ;
 _/maps/livebus phpbin ;
 _/bumobile phpbin ;
 
-# No longer necessary - they should go to WordPress
-# _/marcom content ;
-# _/interactive-design content ;
 
 ####### From stub files/directory scan
 
@@ -176,7 +173,6 @@ _/bumobile phpbin ;
   _/caryl content ;  # top-level
   _/cardiovascular-medicine content ;  # top-level
   _/casw content ;  # top-level
-  # _/capbridge content ;  # top-level
   _/careerex content ;  # top-level
   _/cab content ;  # top-level
   _/cart content ; # 2018-06-04 cleanup
@@ -185,12 +181,8 @@ _/bumobile phpbin ;
   _/caderonline content ;  # top-level
   _/casgov content ;  # top-level
   _/cagt content ;  # top-level
-  # The Isilon has this directory but we don't think it is being used.
-  # This should not be supported.  dsmk & adamzp 20180216
-  #_/cap deck content ;  # top-level
   _/cas-scholars content ;  # top-level
   _/cmmh content ;  # top-level
-  _/cmbs content ;  # top-level
   _/cmezian content ;  # top-level
   _/cme content ;  # top-level
   _/cmld content ;  # top-level
@@ -319,7 +311,6 @@ _/bumobile phpbin ;
   _/commonground content ;  # top-level
   _/computationalimmunology/documentation content ;  # 
   _/computing content ;  # top-level
-  _/coeinwomenshealth content ;  # top-level
   _/compnet content ;  # top-level
   _/comm content ;  # top-level
   _/connect content ;  # top-level
@@ -333,13 +324,9 @@ _/bumobile phpbin ;
   _/com-csc content ;  # top-level
   _/compbiomed content ;  # top-level
   _/complete content ;  # top-level
-  _/crownfunding content ;  # top-level
   _/creative content ;  # top-level
-  _/create-staging-test content ;  # top-level
   _/crm content ;  # top-level
   _/crossdomain.xml content ;  # top-level
-  _/crewsstagingtest content ;  # top-level
-  _/cresent content ;  # top-level
   _/crro content ;  # top-level
   _/crxpress content ;  # top-level
   _/cruiseandlearn content ;  # top-level
@@ -356,7 +343,6 @@ _/bumobile phpbin ;
   _/cghdac content ;  # top-level
   _/cgs-events content ;  # top-level
   _/cfait content ;  # top-level
-  # _/cfa/johndaverio content ;  # 2018-06-04 removal
   _/cfa/ppc7 content ;  # 
   _/cfa/ppc1 content ;  # 
   _/cfa/musiceducation.bu.edu content ;  # 
@@ -364,9 +350,9 @@ _/bumobile phpbin ;
   _/cfa/wp-assets content ;  # 
   _/cfa/ppc3 content ;  # 
   _/cfa/ppc4 content ;  # 
-  # _/cfa/ppc5 content ;  # 2018-06-04 pass
   _/cfa/ppc6 content ;  # 
   _/cfa/loans content ;  # 
+  _/cfa/incite content ; # 
   _/cfa-alumni content ;  # top-level
   _/cfdi content ;  # top-level
   _/cleanenergyventures content ;  # top-level
@@ -380,7 +366,6 @@ _/bumobile phpbin ;
   _/climate content ;  # top-level
   _/classroom content ;  # top-level
   _/classgift content ;  # top-level
-  _/climateactionprod content ;  # top-level
   _/cpr content ;  # top-level
   _/cphs/archive content ;  # 
   _/ctf content ;  # top-level
@@ -439,7 +424,6 @@ _/bumobile phpbin ;
   _/wilsonwonglab content ;  # top-level
   _/wireless content ;  # top-level
   _/winterfest content ;  # top-level
-  _/wiseatwarren content ;  # top-level
   _/webcast content ;  # top-level
   _/webmail content ;  # top-level
   _/websummit content ;  # top-level
@@ -451,7 +435,6 @@ _/bumobile phpbin ;
   _/webcentral/common content ;  # 
   _/weddings content ;  # top-level
   _/weblogin content ;  # top-level
-  _/womenshealth content ;  # top-level
   _/womenspolo content ;  # top-level
   _/womensguild/wp-assets content ;  # 
   _/woundbiotech content ;  # top-level
@@ -483,7 +466,6 @@ _/bumobile phpbin ;
   _/narrative content ;  # top-level
   _/naturalconference content ;  # top-level
   _/nml content ;  # top-level
-  _/nime6 content ;  # top-level
   _/nis-bkup content ;  # top-level
   _/nis-sym content ;  # top-level
   _/nislab content ;  # top-level
@@ -549,7 +531,6 @@ _/bumobile phpbin ;
   _/anxiety content ;  # top-level
   _/annualgiving content ;  # top-level
   _/aaastudy content ;  # top-level
-  _/ampprogram content ;  # top-level
   _/ame content ;  # top-level
   _/amp content ;  # top-level
   _/amplab content ;  # top-level
@@ -562,7 +543,6 @@ _/bumobile phpbin ;
   _/aegdalumnidinner content ;  # top-level
   _/aemdprl content ;  # top-level
   _/aeacus content ;  # top-level
-  _/aodhealth/output content ;  # 
   _/aodhealth/wp-assets content ;  # 
   _/ar content ;  # top-level
   _/arion/wp-assets content ;  # 
@@ -584,12 +564,9 @@ _/bumobile phpbin ;
   _/ag content ;  # top-level
   _/agganisbackup content ;  # top-level
   _/agganis content ;  # top-level
-  _/agep content ;  # top-level
   _/agni content ;  # top-level
-  _/agni-test-staging content ;  # top-level
   _/af-rotc content ;  # top-level
   _/afox content ;  # top-level
-  _/afrotc content ;  # top-level
   _/africa/wp-assets content ;  # 
   _/africa/publication-assets content ;  # 
   _/afr content ;  # top-level
@@ -684,24 +661,20 @@ _/bumobile phpbin ;
   _/marcom/president content ;  # 
   _/marcom/projects content ;  # 
   _/madlab content ;  # top-level
-  _/madridib content ;  # top-level
   _/masscoalitionfororalhealth content ;  # top-level
   _/marks-test content ;  # top-level
   _/makeagift content ;  # top-level
   _/make content ;  # top-level
   _/marks-test-blog content ;  # top-level
   _/marsh content ;  # top-level
-  # _/math/ness content ;  # 2018-06-04 resync
   _/math/wp-assets content ;  # 
   _/mathfinance content ;  # top-level
-  _/matta content ;  # top-level
   _/marks-test-blog2 content ;  # top-level
   _/mathematicseducation content ;  # top-level
   _/masstwins content ;  # top-level
   _/mahoa content ;  # top-level
   _/marketplaceinfo content ;  # top-level
   _/mathfinanceconference content ;  # top-level
-  _/mamh content ;  # top-level
   _/masterit content ;  # top-level
   _/match content ;  # top-level
   _/management-event content ;  # top-level
@@ -715,7 +688,6 @@ _/bumobile phpbin ;
   _/midas content ;  # top-level
   _/mini-mba content ;  # 2018-06-04 resync
   _/militarynight content ;  # top-level
-  _/mitit content ;  # top-level
   _/microscopylab content ;  # top-level
   _/microarray content ;  # top-level
   _/mih content ;  # top-level
@@ -804,7 +776,6 @@ _/bumobile phpbin ;
   _/mobilelab content ;  # top-level
   _/motives content ;  # top-level
   _/moc content ;  # top-level
-  _/mgburns content ;  # top-level
   _/mgburns-medical content ;  # top-level
   _/mfd content ;  # top-level
   _/mfll content ;  # top-level
@@ -817,7 +788,6 @@ _/bumobile phpbin ;
   _/mpact content ;  # top-level
   _/msim content ;  # top-level
   _/msms content ;  # top-level
-  _/msgs-ga content ;  # top-level
   _/msmsinfo content ;  # top-level
   _/msadvertising content ;  # top-level
   _/msmsin9 content ;  # top-level
@@ -827,7 +797,6 @@ _/bumobile phpbin ;
   _/msmf content ;  # top-level
   _/msmba content ;  # top-level
   _/mslade-test content ;  # top-level
-  _/msr content ;  # top-level
   _/mdparents content ;  # top-level
   _/mdowney content ;  # top-level
   _/muedpolicyproject content ;  # top-level
@@ -836,7 +805,6 @@ _/bumobile phpbin ;
   _/muhlbergerlab content ;  # top-level
   _/mbta content ;  # top-level
   _/mbabu content ;  # top-level
-  _/mba-info content ;  # top-level
   _/mba2010 content ;  # top-level
   _/mbanorth content ;  # top-level
   _/mbafocus content ;  # top-level
@@ -956,7 +924,6 @@ _/bumobile phpbin ;
   _/huntington content ;  # top-level
   _/humandevelopment content ;  # top-level
   _/humanitiesforums content ;  # top-level
-  # _/hub content ;  # top-level 2018-0-07
   _/icshm content ;  # top-level
   _/ict content ;  # top-level
   _/icce15 content ;  # top-level
@@ -969,7 +936,6 @@ _/bumobile phpbin ;
   _/interactive-design/exported content ;  # 
   _/interv content ;  # top-level
   _/index2.html content ;  # top-level
-  _/investinprevention  content ;  # top-level
   _/investigate content ;  # top-level
   _/index.html content ;  # top-level
   _/integratedmed content ;  # top-level
@@ -989,6 +955,7 @@ _/bumobile phpbin ;
   _/injurypsychology content ;  # top-level
   _/inmlprograms content ;  # top-level
   _/inmlcore content ;  # top-level
+  _/investinprevention content ;  # top-level
   _/investinginprevention content ;  # top-level
   _/indigobirds content ;  # top-level
   _/iaen content ;  # top-level
@@ -1029,7 +996,6 @@ _/bumobile phpbin ;
   _/itunes content ;  # top-level
   _/istnews content ;  # top-level
   _/isi content ;  # top-level
-  _/isingh2 content ;  # top-level
   _/ist-sa content ;  # top-level
   _/isec content ;  # top-level
   _/isso/wp-assets content ;  # 
@@ -1088,7 +1054,6 @@ _/bumobile phpbin ;
   _/emba content ;  # top-level
   _/emergingmedia content ;  # top-level
   _/embacurriculum content ;  # top-level
-  _/emt content ;  # top-level
   _/events content ;  # top-level
   _/evening-info content ;  # top-level
   _/evp content ;  # top-level
@@ -1161,7 +1126,6 @@ _/bumobile phpbin ;
   _/orpm content ;  # top-level
   _/orl content ;  # top-level
   _/ofa content ;  # top-level
-  _/ofr content ;  # top-level
   _/offices content ;  # top-level
   _/offcampus content ;  # top-level
   _/office365 content ;  # top-level
@@ -1203,7 +1167,6 @@ _/bumobile phpbin ;
   _/reg/graphics content ;  # 
   _/reg/gainful-employment content ;  # 
   _/reg/schedules content ;  # 
-  _/refugeehollywood content ;  # top-level
   _/recognizes content ;  # top-level
   _/reply content ;  # top-level
   _/receptions content ;  # top-level
@@ -1246,7 +1209,6 @@ _/bumobile phpbin ;
   _/rbarnett content ;  # top-level
   _/gcc content ;  # top-level
   _/gyoung content ;  # top-level
-  _/gwic content ;  # top-level
   _/galacticring content ;  # top-level
   _/games content ;  # top-level
   _/gastronomy content ;  # top-level
@@ -1281,7 +1243,6 @@ _/bumobile phpbin ;
   _/givetobu content ;  # top-level
   _/givingback content ;  # top-level
   _/gep content ;  # top-level
-  _/geriatricsfellowship content ;  # top-level
   _/gensex content ;  # top-level
   _/generalsurgery content ;  # top-level
   _/geochemistry content ;  # top-level
@@ -1305,6 +1266,7 @@ _/bumobile phpbin ;
   _/google46db49694c214422.html content ;  # top-level
   _/google99ca0794d90971e7.html content ;  # top-level
   _/googlec64352682593c8e8.html content ;  # top-level
+  _/googlec64352682593c8e8.html content ;  # top-level
   _/gobu content ;  # top-level
   _/govcenter content ;  # top-level
   _/googlec7df21def707f08f.html content ;  # top-level
@@ -1319,7 +1281,6 @@ _/bumobile phpbin ;
   _/gradanniversary2015 content ;  # top-level
   _/grenoble content ;  # top-level
   _/gradanniversary1966 content ;  # top-level
-  _/groshek-review content ;  # top-level
   _/green content ;  # top-level
   _/graphics content ;  # top-level
   _/globalexec content ;  # top-level
@@ -1378,12 +1339,12 @@ _/bumobile phpbin ;
   _/finance content ;  # top-level
   _/finaid/status_documents content ;  # top-level
   _/finaid/pdfs content ;  # top-level
+  _/finaid/test content ;  # 
   _/finaid/fedfunds content ;  # top-level
   _/finaid wordpress ;  # top-level
   _/finplanners content ;  # top-level
   _/firesafety content ;  # top-level
   #_/fifty-states content ;  # top-level
-  _/fiscalsummit content ;  # top-level
   _/findmyprint content ;  # top-level
   _/festival content ;  # top-level
   _/feltensteinchallenge content ;  # top-level
@@ -1406,7 +1367,6 @@ _/bumobile phpbin ;
   _/flexi-framework content ;  # top-level
   _/flexi-basic content ;  # top-level
   _/florencenightingale content ;  # top-level
-  _/ftms content ;  # top-level
   _/ftp-survey content ;  # top-level
   _/ftl content ;  # top-level
   _/fsl content ;  # top-level
@@ -1426,6 +1386,7 @@ _/bumobile phpbin ;
   _/lamovie content ;  # top-level
   _/law/communications content ;  # 
   _/law/graphics content ;  # 
+  _/law/news content ; #
   _/law/seipp content ;  # 
   _/law/events content ;  # 
   _/law/workingpapers-archive content ;  # 
@@ -1573,7 +1534,6 @@ _/bumobile phpbin ;
   _/practice content ;  # top-level
   _/prostars content ;  # top-level
   _/projectred content ;  # top-level
-  _/presenter content ;  # top-level
   _/projects content ;  # top-level
   _/prs content ;  # top-level
   _/premed content ;  # top-level
@@ -1590,10 +1550,8 @@ _/bumobile phpbin ;
   _/pt3 content ;  # top-level
   _/ptc content ;  # top-level
   _/psych/charris content ;  # 
-  _/psychsig content ;  # top-level
   _/psc content ;  # top-level
   _/psp content ;  # top-level
-  _/pdx content ;  # top-level
   _/pusteblume content ;  # top-level
   _/publications content ;  # top-level
   _/purchasing content ;  # top-level
@@ -1636,6 +1594,7 @@ _/bumobile phpbin ;
   #_/testing content ;  # top-level
   _/tech/plan content ;  # 
   _/tech/slp content ;  # 
+  _/tech/wp-assets content ; # 
   _/test content ;  # top-level
   _/terrierconnection content ;  # top-level
   _/terriermarketplace content ;  # top-level
@@ -1679,7 +1638,6 @@ _/bumobile phpbin ;
   _/trustees-intranet/install content ;  # 
   _/tricia content ;  # top-level
   _/transportation content ;  # top-level
-  _/transportationnudges content ;  # top-level
   _/transfer content ;  # top-level
   _/training content ;  # top-level
   _/trl content ;  # top-level
@@ -1738,7 +1696,6 @@ _/bumobile phpbin ;
   _/sargent/wp-assets content ;  # 
   _/sargent.ro/wp-assets content ;  # 
   _/sao content ;  # top-level
-  _/sarorder content ;  # top-level
   _/sarhouse content ;  # top-level
   _/samlab content ;  # top-level
   _/sac content ;  # top-level
@@ -1882,7 +1839,6 @@ _/bumobile phpbin ;
   _/data content ;  # top-level
   _/dayofservice content ;  # top-level
   _/danielsen/wp-assets content ;  # 
-  _/darlibrary content ;  # top-level
   _/dme content ;  # top-level
   _/disability/wp-assets content ;  # 
   _/dinghysailors content ;  # top-level
@@ -1955,19 +1911,16 @@ _/bumobile phpbin ;
   _/bnorc content ;  # top-level
   _/backbay content ;  # top-level
   _/bashoexpress content ;  # top-level
-  _/barc content ;  # top-level
   _/baburmemorial content ;  # top-level
   _/battleforbu content ;  # top-level
   _/bahec content ;  # top-level
   _/ballab content ;  # top-level
   _/bands/graphics content ;  # 
   _/bands/common content ;  # 
-  #_/bashoexpress  content ;  # top-level
   _/bam2012/wp-assets content ;  # 
   _/barc2007 content ;  # top-level
   _/barc2015 content ;  # top-level
   _/bme-tic content ;  # top-level
-  _/bmcm content ;  # top-level
   _/bhlp content ;  # top-level
   _/bionicpancreas content ;  # top-level
   _/biosci content ;  # top-level
@@ -2087,7 +2040,6 @@ _/bumobile phpbin ;
   _/busmgiving content ;  # top-level
   _/buonline content ;  # top-level
   _/bua25 content ;  # top-level
-  #_/busmphonathon content ;  # top-level
   _/bu2do content ;  # top-level
   _/busm content ;  # top-level
   _/bu-wheel-merger/wp-assets content ;  # top-level
