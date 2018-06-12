@@ -1151,7 +1151,6 @@ _/bumobile phpbin ;
   _/raisethebar content ;  # top-level
   _/ravidlab content ;  # top-level
   _/rvs content ;  # top-level
-  _/rhcollab content ;  # top-level
   _/rhett-talks content ;  # top-level
   _/rize content ;  # top-level
   _/rideshare content ;  # top-level
