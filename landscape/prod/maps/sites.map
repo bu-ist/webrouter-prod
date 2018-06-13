@@ -61,7 +61,6 @@ _/degree-audit degree-advice ;
 
 ### Django applications
 #
-_/index django ;
 ##
 _/fifty-states       django ;
 #changed fifty-states Name to /ssw/usfostercare
