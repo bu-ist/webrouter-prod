@@ -236,7 +236,10 @@ _/bumobile phpbin ;
   _/cohenchallenge content ;  # top-level
   _/commencement/wp-assets content ;  # 
   _/coreframework content ;  # top-level
-  _/common content ;  # top-level
+  _/common/bueas content ;
+  _/common/hp content ;
+  _/common/level2 content ;
+  _/common/wp-assets content ;
   _/contact content ;  # top-level
   _/commsurvey content ;  # top-level
   _/composition content ;  # top-level
