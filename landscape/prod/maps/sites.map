@@ -5,6 +5,7 @@ _/version 20180218 ;
 _/studentlink redirect_asis ;
 _/applicantlink redirect_asis ;
 _/geography/brdf redirect_asis ;
+_/givenow redirect_asis ;
 
 # items from the www:phpmap.txt
 _/buniverse phpbin ;
