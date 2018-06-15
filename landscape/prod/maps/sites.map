@@ -6,6 +6,7 @@ _/studentlink redirect_asis ;
 _/applicantlink redirect_asis ;
 _/employeelink redirect_asis ;
 _/geography/brdf redirect_asis ;
+_/givenow redirect_asis ;
 
 # items from the www:phpmap.txt
 _/buniverse phpbin ;
@@ -236,7 +237,10 @@ _/bumobile phpbin ;
   _/cohenchallenge content ;  # top-level
   _/commencement/wp-assets content ;  # 
   _/coreframework content ;  # top-level
-  _/common content ;  # top-level
+  _/common/bueas content ;
+  _/common/hp content ;
+  _/common/level2 content ;
+  _/common/wp-assets content ;
   _/contact content ;  # top-level
   _/commsurvey content ;  # top-level
   _/composition content ;  # top-level
