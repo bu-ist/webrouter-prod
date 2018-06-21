@@ -1300,6 +1300,7 @@ _/bumobile phpbin ;
   _/globaloperations content ;  # top-level
   _/globalmfg content ;  # top-level
   _/globalmediakit content ;  # top-level
+  _/globalprograms/wp-assets content;
   _/global-crisis content ;  # top-level
   _/gpmm content ;  # top-level
   _/gpts/wp-assets content ;  # 
