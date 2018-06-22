@@ -1293,7 +1293,7 @@ _/bumobile phpbin ;
   # _/globalprograms content ;  # 2018-06-04 resync
   _/globalfuture content ;  # top-level
   _/glc content ;  # top-level
-  _/globaldaysofservice/logyourhours content ;  # 
+  _/globaldaysofservice content ;  # 
   _/glacier content ;  # top-level
   _/globe content ;  # top-level
   _/globalhouse content ;  # top-level
