@@ -104,7 +104,6 @@ _/law-pub        django ;
 # PHPBIN sites
 _/summer/courses-test phpbin ;
 _/summer/courses phpbin ;
-_/dining/api phpbin ;
 _/explore phpbin ;
 _/maps/livebus phpbin ;
 _/bumobile phpbin ;
