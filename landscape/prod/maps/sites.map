@@ -362,6 +362,7 @@ _/bumobile phpbin ;
   _/cleanenergyventures content ;  # top-level
   _/clarion content ;  # top-level
   _/clinicalinvestigation content ;  # top-level
+  _/clinicalresearch content ;
   _/cliveg content ;  # top-level
   _/classics/wp-assets content ;  # 
   _/classgiftlove content ;  # top-level
