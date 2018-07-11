@@ -1279,6 +1279,7 @@ _/bumobile phpbin ;
   _/go content ;  # top-level
   _/gradanniversary2011 content ;  # top-level
   _/gradanniversary1991 content ;  # top-level
+  _/grandopening redirect_asis ;
   _/grs content ;  # top-level
   _/gradanniversary2006 content ;  # top-level
   _/gradanniversary2015 content ;  # top-level
