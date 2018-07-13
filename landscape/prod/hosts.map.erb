@@ -29,3 +29,15 @@ uiscgi_content <%= ENV['BACKEND_UISCGI_CONTENT'] || "ist-uiscgi-content-#{ENV['L
 # app-rewrite backend to make certain that the /apps-rewrite is on the path
 # #
 apps-rewrite <%= ENV['BACKEND_PHPBIN'] || "ist-web-phpbin-#{ENV['LANDSCAPE']}.bu.edu" %>/apps-rewrite ;
+
+# ###
+# The following backend types provide the homepage in S3.
+# There are multiple entries because the the homepage needs to map to
+# a subdirectory on the S3 bucket.
+#
+# This aws_homepage bucket is used for everything that maps normally:
+aws_home buaws-websites-homepage-prod.s3-website-us-east-1.amazonaws.com ;
+
+# These entries are necessary to map to specific URLs in the /home space:
+#
+aws_home_index buaws-websites-homepage-prod.s3-website-us-east-1.amazonaws.com/home/index.html ;
