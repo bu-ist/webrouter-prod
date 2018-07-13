@@ -1542,7 +1542,7 @@ _/bumobile phpbin ;
   _/projects content ;  # top-level
   _/prs content ;  # top-level
   _/premed content ;  # top-level
-  _/preview content ;  # top-level
+  _/preview aws_home ;  # top-level
   _/prevmedresidency content ;  # top-level
   _/procurement content ;  # top-level
   _/playground content ;  # top-level
