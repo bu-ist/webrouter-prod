@@ -8,6 +8,7 @@ _/employeelink redirect_asis ;
 _/geography/brdf redirect_asis ;
 _/givenow redirect_asis ;
 _/business-analytics redirect_asis ;
+_/kssf redirect_asis ; # 2018-07-10 INC12451604
 
 # items from the www:phpmap.txt
 _/buniverse phpbin ;
