@@ -1,0 +1,19 @@
+# This map determines what scheme to use for the upstream request.  Most
+# backends support both http and https but some backends (for example S3 buckets)
+# only support http.  The default is $scheme and the external file backend_scheme.map
+# allows the forcing of the backend.
+#
+# Most entries will be of form:
+#
+# backend_name http ;
+#
+# This will cause the backend to only do http even if the original client request was through https.  Note
+# that this only determines the scheme but the X-Method variables will be based on the original client connection.
+#
+
+# Home Page backends
+aws_home http ;
+aws_home_index http ;
+
+# This test entry is to a fixed value to simplify the test scripts
+checkhostheader http ;
