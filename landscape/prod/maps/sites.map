@@ -901,7 +901,7 @@ _/bumobile phpbin ;
   _/hoarding content ;  # top-level
   _/hockeygolf content ;  # top-level
   _/homepage content ;  # top-level
-  _/home content ;  # top-level
+  _/home aws_home ;  # top-level
   _/holmul content ;  # top-level
   _/honordeanmeenan content ;  # top-level
   _/homecoming content ;  # top-level
@@ -943,7 +943,7 @@ _/bumobile phpbin ;
   _/interv content ;  # top-level
   _/index2.html content ;  # top-level
   _/investigate content ;  # top-level
-  _/index.html content ;  # top-level
+  _/index.html aws_home_index ;  # top-level
   _/integratedmed content ;  # top-level
   _/inaugural content ;  # top-level
   _/info/downloads content ;  # 
