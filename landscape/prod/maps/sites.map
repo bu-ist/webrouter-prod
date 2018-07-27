@@ -78,7 +78,6 @@ _/html-email       django ;
 _/betabionics        django ;
 _/rpm-agreements       django ;
 # _/provost        django ; should be wordpress 
-_/wp-deploy        django ;
 #ghir          django ; # /ghir = /globalhealth
 #globalhealth        django ; # Wait to add this
 _/law-pub        django ;
