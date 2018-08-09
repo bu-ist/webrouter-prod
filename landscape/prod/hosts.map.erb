@@ -1,14 +1,14 @@
 legacy <%= ENV['BACKEND_WEB_LEGACY'] || "ist-web-legacy-#{ENV['LANDSCAPE']}.bu.edu" %> ;
 
 # these are the old content servers using buapache configuration
-content <%= ENV['BACKEND_WEB_OLDCONTENT'] || "ist-web-oldcontent-#{ENV['LANDSCAPE']}.bu.edu" %> ;
-content-nocache <%= ENV['BACKEND_WEB_OLDCONTENT'] || "ist-web-oldcontent-#{ENV['LANDSCAPE']}.bu.edu" %> ;
-content-cache <%= ENV['BACKEND_WEB_OLDCONTENT'] || "ist-web-oldcontent-#{ENV['LANDSCAPE']}.bu.edu" %> ;
+oldcontent <%= ENV['BACKEND_WEB_OLDCONTENT'] || "ist-web-oldcontent-#{ENV['LANDSCAPE']}.bu.edu" %> ;
+oldcontent-nocache <%= ENV['BACKEND_WEB_OLDCONTENT'] || "ist-web-oldcontent-#{ENV['LANDSCAPE']}.bu.edu" %> ;
+oldcontent-cache <%= ENV['BACKEND_WEB_OLDCONTENT'] || "ist-web-oldcontent-#{ENV['LANDSCAPE']}.bu.edu" %> ;
 
 # these are the new content servers built as part of the Weblogin retirement project
-#content <%= ENV['BACKEND_WEB_CONTENT'] || "ist-web-content-#{ENV['LANDSCAPE']}.bu.edu" %> ;
-#content-nocache <%= ENV['BACKEND_WEB_CONTENT'] || "ist-web-content-#{ENV['LANDSCAPE']}.bu.edu" %> ;
-#content-cache <%= ENV['BACKEND_WEB_CONTENT'] || "ist-web-content-#{ENV['LANDSCAPE']}.bu.edu" %> ;
+content <%= ENV['BACKEND_WEB_CONTENT'] || "ist-web-content-#{ENV['LANDSCAPE']}.bu.edu" %> ;
+content-nocache <%= ENV['BACKEND_WEB_CONTENT'] || "ist-web-content-#{ENV['LANDSCAPE']}.bu.edu" %> ;
+content-cache <%= ENV['BACKEND_WEB_CONTENT'] || "ist-web-content-#{ENV['LANDSCAPE']}.bu.edu" %> ;
 
 wpassets <%= ENV['BACKEND_WP_CONTENT'] || "ist-wp-assets-#{ENV['LANDSCAPE']}.bu.edu" %> ;
 
