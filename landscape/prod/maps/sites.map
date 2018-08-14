@@ -487,7 +487,6 @@ _/bumobile phpbin ;
   _/nisprojects content ;  # top-level
   _/nis content ;  # top-level
   _/neurorehabilitationlab content ;  # top-level
-  _/newstaticsite content ; #top-level
   _/newswire content ;  # top-level
   _/newindex4.html content ;  # top-level
   _/neuroengineering content ;  # top-level
