@@ -864,7 +864,6 @@ _/bumobile phpbin ;
   _/vending/documents content ;  #
   _/vrc content ;  # top-level
   _/vpdos content ;  # top-level
-  _/vpensa content ;  # top-level
   _/hj2013 content ;  # top-level
   _/hcep content ;  # top-level
   _/hydrology content ;  # top-level
