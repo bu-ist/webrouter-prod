@@ -2,7 +2,7 @@
 _/version 20180720 ;
 
 # TEMPORARY CHANGE
-_/bfenster/ content ;
+_/bfenster content ;
 
 # redirects
 _/studentlink redirect_asis ;
@@ -108,7 +108,6 @@ _/law-pub        django ;
 # PHPBIN sites
 _/summer/courses-test phpbin ;
 _/summer/courses phpbin ;
-_/explore phpbin ;
 _/maps/livebus phpbin ;
 _/bumobile phpbin ;
 
@@ -1029,6 +1028,7 @@ _/bumobile phpbin ;
   _/exerciseandcancer content ;  # top-level
   _/exec content ;  # top-level
   _/experience-room content ;  # top-level
+  _/explore phpbin ;
 ##TODO: get phpmap entry for explore and put in separate file
   _/execed content ;  # top-level
   _/exed content ;  # top-level
