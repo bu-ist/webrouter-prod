@@ -1,6 +1,9 @@
 ### Common mapping to all bu.edu systems
 _/version 20180720 ;
 
+# TEMPORARY CHANGE
+_/bfenster/ content ;
+
 # redirects
 _/studentlink redirect_asis ;
 _/applicantlink redirect_asis ;
