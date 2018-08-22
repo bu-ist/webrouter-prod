@@ -1524,7 +1524,6 @@ _/bumobile phpbin ;
   _/pocketmba content ;  # top-level
   _/prerelease content ;  # top-level
   _/practicemanagement content ;  # top-level
-  _/proposaldevelopment content ;  # top-level
   _/prism content ;  # top-level
   _/precisiondx content ;  # top-level
   _/prudential content ;  # top-level
