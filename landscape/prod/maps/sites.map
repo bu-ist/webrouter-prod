@@ -2091,7 +2091,7 @@ _/bumobile phpbin ;
   _/buleads content ;  # top-level
   _/build content ;  # top-level
   _/burppe content ;  # top-level
-  _/celebratela ; # top-level INC12492982
+  _/celebratela redirect_asis ; # top-level INC12492982
 ### 1939 content
 ### 774 wordpress
 ### 16 app
