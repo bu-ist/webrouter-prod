@@ -14,6 +14,7 @@ _/business-analytics redirect_asis ;
 _/kssf redirect_asis ; # 2018-07-10 INC12451604
 _/sthfund redirect_asis ;
 _/scholarshipimpact redirect_asis ;
+_/celebratela redirect_asis ;
 
 # items from the www:phpmap.txt
 _/buniverse phpbin ;
