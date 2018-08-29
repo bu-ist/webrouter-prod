@@ -690,7 +690,7 @@ _/bumobile phpbin ;
   _/match content ;
   _/management-event content ;
   _/maci content ;
-  _/maccp content ; # top-level
+  _/maccp content ;
   _/mvp content ;
   _/mhbm content ;
   _/millionhours content ;
