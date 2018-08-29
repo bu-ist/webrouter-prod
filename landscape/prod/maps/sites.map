@@ -1398,7 +1398,7 @@ _/bumobile phpbin ;
   _/lamovie content ;
   _/law/communications content ;
   _/law/graphics content ;
-  _/law/news content ; #
+  _/law/news content ;
   _/law/seipp content ;
   _/law/events content ;
   _/law/workingpapers-archive content ;
@@ -1493,7 +1493,7 @@ _/bumobile phpbin ;
   _/payment content ;
   _/pm content ;
   _/p2pguide content ;
-  _/p48pu6em39z6neb6rre8i4wx35x6dv.html content ; # top-level
+  _/p48pu6em39z6neb6rre8i4wx35x6dv.html content ;
   _/phylogeny content ;
   # The .rw and .ro items are related to filesystem and should not be part of the front-end map which
   # only cares that /phpbin/ goes to the phpbin backend.
@@ -1606,7 +1606,7 @@ _/bumobile phpbin ;
   #_/testing content ;
   _/tech/plan content ;
   _/tech/slp content ;
-  _/tech/wp-assets content ; #
+  _/tech/wp-assets content ;
   _/test content ;
   _/terrierconnection content ;
   _/terriermarketplace content ;
@@ -1623,8 +1623,8 @@ _/bumobile phpbin ;
   _/tech-backup content ;
   _/tech-restricted content ;
   _/test-to-production content ;
-  _/testshibro content ; #top-level
-  _/testshibrw content ; #top-level
+  _/testshibro content ;
+  _/testshibrw content ;
   _/techorg content ;
   _/terriers content ;
   _/tech-refresh content ;
