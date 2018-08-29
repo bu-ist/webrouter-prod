@@ -43,10 +43,6 @@ _/uiszl_eostc legacy ;
 _/uiszl_j2ee legacy ;
 _/formlogin legacy ;
 
-#admissions wordpress
-
-# dbin
-
 # default application backends
 _/dbin dbin ;
 _/phpbin phpbin ;
@@ -61,7 +57,6 @@ _/degree-audit degree-advice ;
 
 # Send old-style redirects and aliases to the content backend
 # we are not transitioning anything older than 2009 unless necessary.
-#
 
 ##### END of common prefix
 ###############################################
@@ -69,8 +64,7 @@ _/degree-audit degree-advice ;
 ##### PHPMAP items
 
 ### Django applications
-#
-##
+
 _/fifty-states       django ;
 #changed fifty-states Name to /ssw/usfostercare
 _/ssw/usfostercare     django ;
@@ -89,7 +83,6 @@ _/wp-deploy        django ;
 _/law-pub        django ;
 
 # Ask Web team about:
-#
 ##############
 # /dbin misc:
 ##############
