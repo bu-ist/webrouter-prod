@@ -654,8 +654,6 @@ _/bumobile phpbin ;
   _/map content ;
   _/marks-test-blog3 content ;
   _/machozi content ;
-  # using entry pointing to phpbin at the top of the file
-  #_/maps content ;
   _/management content ;
   _/marcom/stationery content ;
   _/marcom/email content ;
