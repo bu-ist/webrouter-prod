@@ -736,8 +736,6 @@ _/bumobile phpbin ;
   _/met/msmonline content ;
   _/met/acela content ;
   _/met/event-calendar content ;
-  # NGINX map entries are not case sensitive so we need to comment out one of the USA/usa
-  #_/met/USA content ;
   _/met/50 content ;
   _/met/usa content ;
   _/met/grad11 content ;
@@ -747,11 +745,7 @@ _/bumobile phpbin ;
   _/met/yellowpages content ;
   _/met/audio content ;
   _/met/landing-pages content ;
-  # NGINX map entries are not case sensitive so we need to comment out one of them
-  #_/met/Agganis content ;
   _/met/web content ;
-  # NGINX map entries are not case sensitive so we need to comment out one of them
-  #_/met/Acela content ;
   _/met/magazine content ;
   _/met/mag content ;
   _/met/email-campaign content ;
