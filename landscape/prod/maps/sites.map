@@ -401,9 +401,9 @@ _/bumobile phpbin ;
   _/cball content ;
   _/cbm content ;
   _/yac content ;
-  _/y2kpartners content ;  # 2018-06-04 resync
-  _/y2k content ;  # 2018-06-04 resync
-  _/y2k-partners content ;  # 2018-06-04 resync
+  _/y2kpartners content ;
+  _/y2k content ;
+  _/y2k-partners content ;
   _/yourimpact content ;
   _/yourbusm content ;
   _/yourgift content ;
@@ -695,7 +695,7 @@ _/bumobile phpbin ;
   _/minds content ;
   _/mickswan content ;
   _/midas content ;
-  _/mini-mba content ;  # 2018-06-04 resync
+  _/mini-mba content ;
   _/militarynight content ;
   _/microscopylab content ;
   _/microarray content ;
@@ -706,7 +706,7 @@ _/bumobile phpbin ;
   _/medlibstaff content ;
   _/met50 content ;
   _/menorca content ;
-  _/met-lp content ;  # 2018-06-04 resync
+  _/met-lp content ;
   _/medfellowship content ;
   _/metfacultydevelopment content ;
   _/medclassnotes content ;
@@ -722,12 +722,12 @@ _/bumobile phpbin ;
   _/mentalhealth content ;
   _/medschoolgradprograms content ;
   _/medenews content ;
-  _/medstudy content ;  # 2018-06-04 resync
+  _/medstudy content ;
   _/metro content ;
   _/meller content ;
   _/medschool content ;
   _/met/common content ;
-  _/met/events content ;  # 2018-06-04 resync
+  _/met/events content ;
   _/met/advertising content ;
   _/met/linkedin content ;
   _/met/elive content ;
@@ -831,9 +831,9 @@ _/bumobile phpbin ;
   _/mba-essays content ;
   _/mba content ;
   _/mba-facts content ;
-  _/28qatest content ;  # 2018-06-04 resync
-  _/25000 content ;  # 2018-06-04 resync
-  _/200word content ;  # 2018-06-04 resync
+  _/28qatest content ;
+  _/25000 content ;
+  _/200word content ;
   _/qa-2 content ;
   _/qatest28 content ;
   _/qa-3 content ;
@@ -908,7 +908,7 @@ _/bumobile phpbin ;
   _/honordeanmeenan content ;
   _/homecoming content ;
   _/honordeanwells content ;
-  _/holickehlersdanlosfund content ;  # 2018-06-04 resync
+  _/holickehlersdanlosfund content ;
   _/homeimages content ;
   _/homepage2 content ;
   _/hr/flash content ;
@@ -978,7 +978,7 @@ _/bumobile phpbin ;
   _/ihs content ;
   _/iip content ;
   _/ionchannelcalcium content ;
-  _/i3e-ac content ;  # 2018-06-04 resync
+  _/i3e-ac content ;
   _/irc content ;
   _/ircenter content ;
   _/iraopportunity content ;
@@ -1038,13 +1038,13 @@ _/bumobile phpbin ;
   _/excellence content ;
   _/executivevp content ;
   _/encoder content ;
-  _/execemf content ;  # 2018-06-04 resync
+  _/execemf content ;
   _/energytransitions content ;
   _/environment content ;
   _/entrepreneurship content ;
   _/enrsa content ;
   _/eng/magmodel content ;
-  _/eng/wp-assets content ;  # 2018-06-04 resync
+  _/eng/wp-assets content ;
   _/enact/wp-assets content ;
   _/eas content ;
   _/earthhouse content ;
@@ -1091,7 +1091,7 @@ _/bumobile phpbin ;
   _/eso/wp-assets content ;
   _/eso/academic-data-warehouse content ;
   _/esl content ;
-  _/estateguide content ;  # 2018-06-04 resync
+  _/estateguide content ;
   _/esf content ;
   _/education content ;
   _/eugene content ;
@@ -1216,7 +1216,7 @@ _/bumobile phpbin ;
   _/galacticring content ;
   _/games content ;
   _/gastronomy content ;
-  # _/gmf content ;  # 2018-06-04 resync
+  # _/gmf content ;
   _/gms content ;
   _/g2kge content ;
   _/ghi content ;
@@ -1291,7 +1291,7 @@ _/bumobile phpbin ;
   _/globalquestionnaire content ;
   _/globaldayofservice content ;
   _/glaisne content ;
-  # _/globalprograms content ;  # 2018-06-04 resync
+  # _/globalprograms content ;
   _/globalfuture content ;
   _/glc content ;
   _/globaldaysofservice content ;
@@ -1811,7 +1811,7 @@ _/bumobile phpbin ;
   _/supportaphasiacenter content ;
   _/summerterm content ;
   _/suemac content ;
-  _/susilo content ;  # 2018-06-04 resync (WordPress to content)
+  _/susilo content ;
   _/suppliers content ;
   _/summerfun content ;
   _/survey content ;
@@ -1939,7 +1939,7 @@ _/bumobile phpbin ;
   _/biomedcrimas content ;
   _/biorobotics content ;
   _/bioskin content ;
-  # _/becf content ;  # 2018-06-04 resync (content to WordPress)
+  # _/becf content ;
   _/bemerson content ;
   _/behaviorlab content ;
   _/beanpot-party content ;
