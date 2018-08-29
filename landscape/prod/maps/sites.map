@@ -1284,7 +1284,6 @@ _/bumobile phpbin ;
   _/globalquestionnaire content ;
   _/globaldayofservice content ;
   _/glaisne content ;
-  # _/globalprograms content ;
   _/globalfuture content ;
   _/glc content ;
   _/globaldaysofservice content ;
