@@ -122,8 +122,8 @@ _/bumobile phpbin ;
   _/jamsponsor content ;
   _/jam-now content ;
   _/jmedday content ;
-  _/jewishstudies/shtetl content ;  #
-  _/journalofeducation/wp-assets content ;  #
+  _/jewishstudies/shtetl content ;
+  _/journalofeducation/wp-assets content ;
   _/joevita content ;
   _/jobs content ;
   _/journals content ;
@@ -132,11 +132,11 @@ _/bumobile phpbin ;
   _/johndesz content ;
   _/jfa content ;
   _/jlengel content ;
-  _/jlab/wp-assets content ;  #
+  _/jlab/wp-assets content ;
   _/jp content ;
   _/jts2000 content ;
   _/jd content ;
-  _/judaicstudies/shtetl content ;  #
+  _/judaicstudies/shtetl content ;
   _/judicialaffairs content ;
   _/zhdanovalab content ;
   _/ccrd content ;
@@ -152,7 +152,7 @@ _/bumobile phpbin ;
   _/cawses content ;
   _/casestudies content ;
   _/caregivinghealthresearch content ;
-  _/campaign/docs content ;  #
+  _/campaign/docs content ;
   _/campaignvip content ;
   _/caswriting content ;
   _/cateringonthecharles content ;
@@ -165,14 +165,14 @@ _/bumobile phpbin ;
   _/cap content ;
   _/cashelpdesk content ;
   _/campaignkickoff content ;
-  _/cas/common content ;  #
-  _/cas/invite content ;  #
-  _/cas/newsletter content ;  #
-  _/cas/impactx2 content ;  #
-  _/cas/ar content ;  #
-  _/cas/wp-assets content ;  #
-  _/cas/telegraph content ;  #
-  _/cas/magazine content ;  #
+  _/cas/common content ;
+  _/cas/invite content ;
+  _/cas/newsletter content ;
+  _/cas/impactx2 content ;
+  _/cas/ar content ;
+  _/cas/wp-assets content ;
+  _/cas/telegraph content ;
+  _/cas/magazine content ;
   _/catholic content ;
   _/casstudentacademiclife content ;
   _/caswpinternal content ;
@@ -218,7 +218,7 @@ _/bumobile phpbin ;
   _/celebrationcake content ;
   _/censsis content ;
   _/celop/wp-assets content ;  # 2018-06-04 cleanup
-  _/celop/dev content ;  #
+  _/celop/dev content ;
   _/centurychallenge content ;
 ##TODO: get phpmap entry for cellphone-compliance and put in separate file
   _/cell-met content ;
@@ -237,11 +237,11 @@ _/bumobile phpbin ;
   _/conscious content ;
   _/congregationalstudies content ;
   _/coursenet content ;
-  _/codes/simulations content ;  #
+  _/codes/simulations content ;
   _/comment content ;
   _/cobth content ;
   _/cohenchallenge content ;
-  _/commencement/wp-assets content ;  #
+  _/commencement/wp-assets content ;
   _/coreframework content ;
   _/common/bueas content ;
   _/common/hp content ;
@@ -258,68 +258,68 @@ _/bumobile phpbin ;
   _/computational-biomedicine content ;
   _/commavefair content ;
   _/coredesign content ;
-  _/cohstar/wp-assets content ;  #
-  _/com/givetoday content ;  #
-  _/com/playitforward content ;  #
-  _/com/greatdebate content ;  #
-  _/com/test content ;  #
-  _/com/scripts content ;  #
-  _/com/ndow content ;  #
-  _/com/networking content ;  #
-  _/com/course-feeds content ;  #
-  _/com/beaudoin-review content ;  #
-  _/com/narrative content ;  #
-  _/com/flash content ;  #
-  _/com/support-necir content ;  #
-  _/com/humor content ;  #
-  _/com/pradvanced content ;  #
-  _/com/crc content ;  #
-  _/com/lib content ;  #
-  _/com/redstonenyc content ;  #
-  _/com/redstonewest content ;  #
-  _/com/linkedin content ;  #
-  _/com/registration content ;  #
-  _/com/special content ;  #
-  _/com/socialmediaday content ;  #
+  _/cohstar/wp-assets content ;
+  _/com/givetoday content ;
+  _/com/playitforward content ;
+  _/com/greatdebate content ;
+  _/com/test content ;
+  _/com/scripts content ;
+  _/com/ndow content ;
+  _/com/networking content ;
+  _/com/course-feeds content ;
+  _/com/beaudoin-review content ;
+  _/com/narrative content ;
+  _/com/flash content ;
+  _/com/support-necir content ;
+  _/com/humor content ;
+  _/com/pradvanced content ;
+  _/com/crc content ;
+  _/com/lib content ;
+  _/com/redstonenyc content ;
+  _/com/redstonewest content ;
+  _/com/linkedin content ;
+  _/com/registration content ;
+  _/com/special content ;
+  _/com/socialmediaday content ;
   # _/com/orientation content ;  # 2018-06-04 removal
-  _/com/live-it content ;  #
-  _/com/ems-review content ;  #
-  _/com/mobile-life-workshop content ;  #
-  _/com/necir-registration content ;  #
-  _/com/amp-registration content ;  #
-  _/com/design-request content ;  #
-  _/com/cmcs content ;  #
-  _/com/new-courses content ;  #
-  _/com/dar content ;  #
-  _/com/lambert-review content ;  #
-  _/com/data-storytelling content ;  #
+  _/com/live-it content ;
+  _/com/ems-review content ;
+  _/com/mobile-life-workshop content ;
+  _/com/necir-registration content ;
+  _/com/amp-registration content ;
+  _/com/design-request content ;
+  _/com/cmcs content ;
+  _/com/new-courses content ;
+  _/com/dar content ;
+  _/com/lambert-review content ;
+  _/com/data-storytelling content ;
   _/com/data-narrative content ;  # 2018-06-04 addition
-  _/com/graduate content ;  #
-  _/com/daly-review content ;  #
-  _/com/labor-films content ;  #
-  _/com/jaramillo-review content ;  #
-  _/com/wu-review content ;  #
-  _/com/student-magazines content ;  #
-  _/com/graduate-programs content ;  #
-  _/com/supa-review content ;  #
-  _/com/film-tv-facts content ;  #
-  _/com/photo-workshops content ;  #
-  _/com/hong-review content ;  #
-  _/com/science-storytelling content ;  #
-  _/com/wtbu-radio content ;  #
-  _/com/groshek-review content ;  #
-  _/com/science-communication content ;  #
-  _/com/social-media-analysis content ;  #
-  _/com/tsay-vogel-review content ;  #
-  _/com/vigil-review content ;  #
-  _/com/sports_institute content ;  #
-  _/com/images content ;  #
-  _/com/includes content ;  #
-  _/compliance/videos content ;  #
-  _/compliance/videos_restricted1 content ;  #
-  _/compliance/openvideos content ;  #
+  _/com/graduate content ;
+  _/com/daly-review content ;
+  _/com/labor-films content ;
+  _/com/jaramillo-review content ;
+  _/com/wu-review content ;
+  _/com/student-magazines content ;
+  _/com/graduate-programs content ;
+  _/com/supa-review content ;
+  _/com/film-tv-facts content ;
+  _/com/photo-workshops content ;
+  _/com/hong-review content ;
+  _/com/science-storytelling content ;
+  _/com/wtbu-radio content ;
+  _/com/groshek-review content ;
+  _/com/science-communication content ;
+  _/com/social-media-analysis content ;
+  _/com/tsay-vogel-review content ;
+  _/com/vigil-review content ;
+  _/com/sports_institute content ;
+  _/com/images content ;
+  _/com/includes content ;
+  _/compliance/videos content ;
+  _/compliance/videos_restricted1 content ;
+  _/compliance/openvideos content ;
   _/commonground content ;
-  _/computationalimmunology/documentation content ;  #
+  _/computationalimmunology/documentation content ;
   _/computing content ;
   _/compnet content ;
   _/comm content ;
@@ -345,7 +345,7 @@ _/bumobile phpbin ;
   _/cre content ;
   _/crtimes content ;
   _/cghd content ;
-  _/cgs/wp-assets content ;  #
+  _/cgs/wp-assets content ;
   _/cgap content ;
   _/cga content ;
   _/cgs60th content ;
@@ -353,15 +353,15 @@ _/bumobile phpbin ;
   _/cghdac content ;
   _/cgs-events content ;
   _/cfait content ;
-  _/cfa/ppc7 content ;  #
-  _/cfa/ppc1 content ;  #
-  _/cfa/musiceducation.bu.edu content ;  #
-  _/cfa/ppc2 content ;  #
-  _/cfa/wp-assets content ;  #
-  _/cfa/ppc3 content ;  #
-  _/cfa/ppc4 content ;  #
-  _/cfa/ppc6 content ;  #
-  _/cfa/loans content ;  #
+  _/cfa/ppc7 content ;
+  _/cfa/ppc1 content ;
+  _/cfa/musiceducation.bu.edu content ;
+  _/cfa/ppc2 content ;
+  _/cfa/wp-assets content ;
+  _/cfa/ppc3 content ;
+  _/cfa/ppc4 content ;
+  _/cfa/ppc6 content ;
+  _/cfa/loans content ;
   _/cfa/incite content ; #
   _/cfa-alumni content ;
   _/cfdi content ;
@@ -370,7 +370,7 @@ _/bumobile phpbin ;
   _/clinicalinvestigation content ;
   _/clinicalresearch content ;
   _/cliveg content ;
-  _/classics/wp-assets content ;  #
+  _/classics/wp-assets content ;
   _/classgiftlove content ;
   _/climateaction content ;
   _/clerkship-subinternship content ;
@@ -378,18 +378,18 @@ _/bumobile phpbin ;
   _/classroom content ;
   _/classgift content ;
   _/cpr content ;
-  _/cphs/archive content ;  #
+  _/cphs/archive content ;
   _/ctf content ;
   _/ctxpress content ;
-  _/cs/wp-assets content ;  #
-  _/csp/uv content ;  #
-  _/csp/PASS content ;  #
-  _/csp/Conferences content ;  #
-  _/csp/seminar content ;  #
-  _/csp/pss2012 content ;  #
-  _/csp/MUAN content ;  #
-  _/csp/trespass content ;  #
-  _/csp/hall_display content ;  #
+  _/cs/wp-assets content ;
+  _/csp/uv content ;
+  _/csp/PASS content ;
+  _/csp/Conferences content ;
+  _/csp/seminar content ;
+  _/csp/pss2012 content ;
+  _/csp/MUAN content ;
+  _/csp/trespass content ;
+  _/csp/hall_display content ;
   _/csharp content ;
   _/csiacademy content ;
   _/css content ;
@@ -425,7 +425,7 @@ _/bumobile phpbin ;
   _/whistlingduck content ;
   _/whatsnew content ;
   _/whatsnew.html content ;
-  _/win/data content ;  #
+  _/win/data content ;
   _/wiesel-memorial content ;
   _/wiki content ;
   _/wine content ;
@@ -438,16 +438,16 @@ _/bumobile phpbin ;
   _/webcast content ;
   _/webmail content ;
   _/websummit content ;
-  _/webteam/mgburns content ;  #
-  _/webteam/projects content ;  #
-  _/webteam/hiring content ;  #
-  _/webteam/presentations content ;  #
-  _/webteam/clrux content ;  #
-  _/webcentral/common content ;  #
+  _/webteam/mgburns content ;
+  _/webteam/projects content ;
+  _/webteam/hiring content ;
+  _/webteam/presentations content ;
+  _/webteam/clrux content ;
+  _/webcentral/common content ;
   _/weddings content ;
   _/weblogin content ;
   _/womenspolo content ;
-  _/womensguild/wp-assets content ;  #
+  _/womensguild/wp-assets content ;
   _/woundbiotech content ;
   _/wonca content ;
   _/wow content ;
@@ -455,10 +455,10 @@ _/bumobile phpbin ;
   _/wordpress content ;
   _/wolozinlab content ;
   _/wgrimes content ;
-  _/wgs/wp-assets content ;  #
-  _/wpmu/forms content ;  #
-  _/wpmu/static content ;  #
-  _/wpmu/foo content ;  #
+  _/wgs/wp-assets content ;
+  _/wpmu/forms content ;
+  _/wpmu/static content ;
+  _/wpmu/foo content ;
 ##TODO: get phpmap entry for wp-deploy and put in separate file
   _/wtbu content ;
   _/wbball content ;
@@ -467,7 +467,7 @@ _/bumobile phpbin ;
   _/xcc content ;
   _/xyz content ;
   _/nycgala content ;
-  _/nassr-2013/wp-assets content ;  #
+  _/nassr-2013/wp-assets content ;
   _/naitest content ;
   _/navyrotc content ;
   _/nassr2013 content ;
@@ -497,7 +497,7 @@ _/bumobile phpbin ;
   _/neuroengineering content ;
   _/newmedia content ;
   _/netreg content ;
-  _/neurorehab/wp-assets content ;  #
+  _/neurorehab/wp-assets content ;
   _/neural content ;
   _/newyear content ;
   _/newman content ;
@@ -525,7 +525,7 @@ _/bumobile phpbin ;
   _/actforhealth content ;
   _/aclonline content ;
   _/acor content ;
-  _/academics/archive content ;  #
+  _/academics/archive content ;
   _/actuary content ;
   _/act content ;
   _/academics-archive content ;
@@ -554,10 +554,10 @@ _/bumobile phpbin ;
   _/aegdalumnidinner content ;
   _/aemdprl content ;
   _/aeacus content ;
-  _/aodhealth/wp-assets content ;  #
+  _/aodhealth/wp-assets content ;
   _/ar content ;
-  _/arion/wp-assets content ;  #
-  _/arion/forms content ;  #
+  _/arion/wp-assets content ;
+  _/arion/forms content ;
   _/arn content ;
   _/arche content ;
   _/artaid content ;
@@ -578,20 +578,20 @@ _/bumobile phpbin ;
   _/agni content ;
   _/af-rotc content ;
   _/afox content ;
-  _/africa/wp-assets content ;  #
-  _/africa/publication-assets content ;  #
+  _/africa/wp-assets content ;
+  _/africa/publication-assets content ;
   _/afr content ;
   _/alumnicollege content ;
   _/albert content ;
-  _/alzresearch/wp-assets content ;  #
+  _/alzresearch/wp-assets content ;
   _/alumni-forms content ;
   _/alumnicenter content ;
   _/alumniweekend content ;
   _/alistaircooke content ;
   _/alert content-nocache ;
   _/alumnirelations content ;
-  _/alumni/images content ;  #
-  _/alumni/common content ;  #
+  _/alumni/images content ;
+  _/alumni/common content ;
   _/alcoholeducationforyouth content ;
   _/aldolase content ;
   _/aphasia content ;
@@ -599,7 +599,7 @@ _/bumobile phpbin ;
   _/aparc content ;
   _/apc content ;
   _/apply content ;
-  _/ap/wp-assets content ;  #
+  _/ap/wp-assets content ;
   _/apps-rewrite content ;
   _/api content ;
   _/atttend content ;
@@ -613,12 +613,12 @@ _/bumobile phpbin ;
   _/asllrp content ;
   _/asianalumni content ;
   _/assist_tech content ;
-  _/astronomy/ast_display content ;  #
-  _/astronomy/wp-assets content ;  #
-  _/astronomy/visualizations content ;  #
+  _/astronomy/ast_display content ;
+  _/astronomy/wp-assets content ;
+  _/astronomy/visualizations content ;
   _/ascend content ;
   _/advancement content ;
-  _/addictions/wp-assets content ;  #
+  _/addictions/wp-assets content ;
   _/addiction content ;
   _/admissionsstatic content ;
   _/adlab content ;
@@ -631,7 +631,7 @@ _/bumobile phpbin ;
   _/aux content ;
   _/abl content ;
   _/aboutcgs content ;
-  _/abroad/wp-assets content ;  #
+  _/abroad/wp-assets content ;
   _/abroad-dublin content ;
   _/abroad2 content ;
   _/abroadatbu content ;
@@ -664,13 +664,13 @@ _/bumobile phpbin ;
   # using entry pointing to phpbin at the top of the file
   #_/maps content ;
   _/management content ;
-  _/marcom/stationery content ;  #
-  _/marcom/email content ;  #
-  _/marcom/html-emails content ;  #
-  _/marcom/formswritable content ;  #
-  _/marcom/downloads content ;  #
-  _/marcom/president content ;  #
-  _/marcom/projects content ;  #
+  _/marcom/stationery content ;
+  _/marcom/email content ;
+  _/marcom/html-emails content ;
+  _/marcom/formswritable content ;
+  _/marcom/downloads content ;
+  _/marcom/president content ;
+  _/marcom/projects content ;
   _/madlab content ;
   _/masscoalitionfororalhealth content ;
   _/marks-test content ;
@@ -678,7 +678,7 @@ _/bumobile phpbin ;
   _/make content ;
   _/marks-test-blog content ;
   _/marsh content ;
-  _/math/wp-assets content ;  #
+  _/math/wp-assets content ;
   _/mathfinance content ;
   _/marks-test-blog2 content ;
   _/mathematicseducation content ;
@@ -729,54 +729,54 @@ _/bumobile phpbin ;
   _/metro content ;
   _/meller content ;
   _/medschool content ;
-  _/met/common content ;  #
+  _/met/common content ;
   _/met/events content ;  # 2018-06-04 resync
-  _/met/advertising content ;  #
-  _/met/linkedin content ;  #
-  _/met/elive content ;  #
-  _/met/htmlemail content ;  #
-  _/met/output content ;  #
-  _/met/northcampus content ;  #
-  _/met/homepage content ;  #
-  _/met/pm content ;  #
-  _/met/shared content ;  #
-  _/met/ads content ;  #
-  _/met/forbes content ;  #
-  _/met/msmonline content ;  #
-  _/met/acela content ;  #
-  _/met/event-calendar content ;  #
+  _/met/advertising content ;
+  _/met/linkedin content ;
+  _/met/elive content ;
+  _/met/htmlemail content ;
+  _/met/output content ;
+  _/met/northcampus content ;
+  _/met/homepage content ;
+  _/met/pm content ;
+  _/met/shared content ;
+  _/met/ads content ;
+  _/met/forbes content ;
+  _/met/msmonline content ;
+  _/met/acela content ;
+  _/met/event-calendar content ;
   # NGINX map entries are not case sensitive so we need to comment out one of the USA/usa
-  #_/met/USA content ;  #
-  _/met/50 content ;  #
-  _/met/usa content ;  #
-  _/met/grad11 content ;  #
-  _/met/bestofboston content ;  #
-  _/met/health-it content ;  #
-  _/met/pmi content ;  #
-  _/met/yellowpages content ;  #
-  _/met/audio content ;  #
-  _/met/landing-pages content ;  #
+  #_/met/USA content ;
+  _/met/50 content ;
+  _/met/usa content ;
+  _/met/grad11 content ;
+  _/met/bestofboston content ;
+  _/met/health-it content ;
+  _/met/pmi content ;
+  _/met/yellowpages content ;
+  _/met/audio content ;
+  _/met/landing-pages content ;
   # NGINX map entries are not case sensitive so we need to comment out one of them
-  #_/met/Agganis content ;  #
-  _/met/web content ;  #
+  #_/met/Agganis content ;
+  _/met/web content ;
   # NGINX map entries are not case sensitive so we need to comment out one of them
-  #_/met/Acela content ;  #
-  _/met/magazine content ;  #
-  _/met/mag content ;  #
-  _/met/email-campaign content ;  #
-  _/met/merry content ;  #
-  _/met/commencement-photos-login content ;  #
-  _/met/apply content ;  #
-  _/met/agganis content ;  #
+  #_/met/Acela content ;
+  _/met/magazine content ;
+  _/met/mag content ;
+  _/met/email-campaign content ;
+  _/met/merry content ;
+  _/met/commencement-photos-login content ;
+  _/met/apply content ;
+  _/met/agganis content ;
   _/metropolitan content ;
   _/medalumni content ;
-  _/metit/wp-assets content ;  #
+  _/metit/wp-assets content ;
   _/medstures content ;
   _/mentornet content ;
-  _/metinternational/registration content ;  #
-  _/metinternational/application content ;  #
-  _/metinternational/dual-degree-application content ;  #
-  _/metinternational/degree-pathway-application content ;  #
+  _/metinternational/registration content ;
+  _/metinternational/application content ;
+  _/metinternational/dual-degree-application content ;
+  _/metinternational/degree-pathway-application content ;
   _/mkramer content ;
   _/moreinfo content ;
   _/modern-med content ;
@@ -794,7 +794,7 @@ _/bumobile phpbin ;
   _/mfeldman content ;
   _/mlkjr content ;
   _/mlstaff content ;
-  _/mlcl/placement content ;  #
+  _/mlcl/placement content ;
   _/mln content ;
   _/mlv content ;
   _/mpact content ;
@@ -847,8 +847,8 @@ _/bumobile phpbin ;
   _/qtencodersdp content ;
   _/qsb content ;
   _/qst content ;
-  _/questrom/secure content ;  #
-  _/questrom/its-docs content ;  #
+  _/questrom/secure content ;
+  _/questrom/its-docs content ;
   _/quito content ;
   _/quickpolls content ;
   _/quantumconcepts content ;
@@ -866,7 +866,7 @@ _/bumobile phpbin ;
   _/video content ;
   _/vip content ;
   _/vista content ;
-  _/vending/documents content ;  #
+  _/vending/documents content ;
   _/vrc content ;
   _/vpdos content ;
   _/hj2013 content ;
@@ -884,9 +884,9 @@ _/bumobile phpbin ;
   _/hipart content ;
   _/hiccse content ;
   _/high-throughput content ;
-  _/history/gradconference content ;  #
-  _/history/APHI content ;  #
-  _/history/apps content ;  #
+  _/history/gradconference content ;
+  _/history/APHI content ;
+  _/history/apps content ;
   _/hi content ;
   _/historic content ;
   _/helpinfo content ;
@@ -901,8 +901,8 @@ _/bumobile phpbin ;
   _/home-media content ;
   _/hotelcommonwealth content ;
   _/housing2010 content ;
-  _/hospitality/revenator content ;  #
-  _/hospitality/wp-assets content ;  #
+  _/hospitality/revenator content ;
+  _/hospitality/wp-assets content ;
   _/hoarding content ;
   _/hockeygolf content ;
   _/homepage content ;
@@ -914,9 +914,9 @@ _/bumobile phpbin ;
   _/holickehlersdanlosfund content ;  # 2018-06-04 resync
   _/homeimages content ;
   _/homepage2 content ;
-  _/hr/flash content ;  #
-  _/hr/articulate content ;  #
-  _/hr/documents content ;  #
+  _/hr/flash content ;
+  _/hr/articulate content ;
+  _/hr/documents content ;
   _/hre content ;
   _/hghrstudies content ;
   _/hprp content ;
@@ -942,16 +942,16 @@ _/bumobile phpbin ;
   _/icons content ;
   _/integrativemed content ;
   _/inst-tech content ;
-  _/interactive-design/resources content ;  #
-  _/interactive-design/2 content ;  #
-  _/interactive-design/exported content ;  #
+  _/interactive-design/resources content ;
+  _/interactive-design/2 content ;
+  _/interactive-design/exported content ;
   _/interv content ;
   _/index2.html content ;
   _/investigate content ;
   _/index.html aws_home_index ;
   _/integratedmed content ;
   _/inaugural content ;
-  _/info/downloads content ;  #
+  _/info/downloads content ;
   _/inml content ;
   _/inmlcfp content ;
   _/infancp content ;
@@ -1009,7 +1009,7 @@ _/bumobile phpbin ;
   _/isi content ;
   _/ist-sa content ;
   _/isec content ;
-  _/isso/wp-assets content ;  #
+  _/isso/wp-assets content ;
   _/iscip content ;
   _/ist-automation content ;
   _/ist content ;
@@ -1021,7 +1021,7 @@ _/bumobile phpbin ;
   _/echu content ;
   _/ecrop content ;
   _/ecologyonline content ;
-  _/econ/RePEc content ;  #
+  _/econ/RePEc content ;
   _/ece-clotho content ;
   _/ecofest content ;
   _/ecllscholarship content ;
@@ -1048,9 +1048,9 @@ _/bumobile phpbin ;
   _/environment content ;
   _/entrepreneurship content ;
   _/enrsa content ;
-  _/eng/magmodel content ;  #
+  _/eng/magmodel content ;
   _/eng/wp-assets content ;  # 2018-06-04 resync
-  _/enact/wp-assets content ;  #
+  _/enact/wp-assets content ;
   _/eas content ;
   _/earthhouse content ;
   _/embafaculty content ;
@@ -1074,7 +1074,7 @@ _/bumobile phpbin ;
   _/ehs-mobile-test content ;
   _/ehs-mc content ;
   _/ehsmc content ;
-  _/ehs/wp-assets content ;  #
+  _/ehs/wp-assets content ;
   _/eeef content ;
   _/ee content ;
   _/eeo content ;
@@ -1085,7 +1085,7 @@ _/bumobile phpbin ;
   _/electric content ;
   _/eliewieselday content ;
   _/eliewieselarchive content ;
-  _/eportfolio/wp-assets content ;  #
+  _/eportfolio/wp-assets content ;
   _/episcopal content ;
   _/etc content ;
   _/ethno content ;
@@ -1093,8 +1093,8 @@ _/bumobile phpbin ;
   _/esa content ;
   _/escort content ;
   _/estateplanning content ;
-  _/eso/wp-assets content ;  #
-  _/eso/academic-data-warehouse content ;  #
+  _/eso/wp-assets content ;
+  _/eso/academic-data-warehouse content ;
   _/esl content ;
   _/estateguide content ;  # 2018-06-04 resync
   _/esf content ;
@@ -1120,10 +1120,10 @@ _/bumobile phpbin ;
   _/ocn content ;
   _/ocs content ;
   _/onestop content ;
-  _/online/static content ;  #
+  _/online/static content ;
   _/online-portal content ;
-  _/onbase-ug/installer content ;  #
-  _/onbase-ug/training content ;  #
+  _/onbase-ug/installer content ;
+  _/onbase-ug/training content ;
   _/oas content ;
   _/oaa content ;
   _/oma content ;
@@ -1169,15 +1169,15 @@ _/bumobile phpbin ;
   _/richardgoldsteinlab content ;
   _/recycling content ;
   _/recording content ;
-  _/realestate/panos content ;  #
+  _/realestate/panos content ;
   _/researchcommittees content ;
   _/research-compliance content ;
   _/resilience content ;
-  _/reg/common content ;  #
-  _/reg/information content ;  #
-  _/reg/graphics content ;  #
-  _/reg/gainful-employment content ;  #
-  _/reg/schedules content ;  #
+  _/reg/common content ;
+  _/reg/information content ;
+  _/reg/graphics content ;
+  _/reg/gainful-employment content ;
+  _/reg/schedules content ;
   _/recognizes content ;
   _/reply content ;
   _/receptions content ;
@@ -1195,13 +1195,13 @@ _/bumobile phpbin ;
   _/retirement-dinner content ;
   _/retired content ;
   _/resnet content ;
-  _/research/xml content ;  #
-  _/research/spotlight content ;  #
-  _/research/magazine content ;  #
-  _/research/wp-assets content ;  #
-  _/research/magazine2008 content ;  #
-  _/research/email content ;  #
-  _/research/careerfair2016 content ;  #
+  _/research/xml content ;
+  _/research/spotlight content ;
+  _/research/magazine content ;
+  _/research/wp-assets content ;
+  _/research/magazine2008 content ;
+  _/research/email content ;
+  _/research/careerfair2016 content ;
   _/reunion content ;
   _/resources content ;
   _/robots.txt content ;
@@ -1211,7 +1211,7 @@ _/bumobile phpbin ;
   _/rosenbergarchive content ;
   _/rrtcout content ;
   _/rl content ;
-  _/rpm/panos content ;  #
+  _/rpm/panos content ;
 ##TODO: get phpmap entry for rpm-agreements and put in separate file
 # skipping rp18p.GIF as we should only add the redirect2lower if necessary
   _/rsg content ;
@@ -1264,8 +1264,8 @@ _/bumobile phpbin ;
   _/geophysics content ;
   _/genome content ;
   _/geology content ;
-  _/geddes/kanji content ;  #
-  _/geddes/course content ;  #
+  _/geddes/kanji content ;
+  _/geddes/course content ;
   _/getready content ;
   _/geriatrics content ;
   _/genetics content ;
@@ -1301,7 +1301,7 @@ _/bumobile phpbin ;
   # _/globalprograms content ;  # 2018-06-04 resync
   _/globalfuture content ;
   _/glc content ;
-  _/globaldaysofservice content ;  #
+  _/globaldaysofservice content ;
   _/glacier content ;
   _/globe content ;
   _/globalhouse content ;
@@ -1312,7 +1312,7 @@ _/bumobile phpbin ;
   _/globalprograms/wp-assets content;
   _/global-crisis content ;
   _/gpmm content ;
-  _/gpts/wp-assets content ;  #
+  _/gpts/wp-assets content ;
   _/gpto content ;
   _/gsu content ;
   _/gsm content ;
@@ -1325,17 +1325,17 @@ _/bumobile phpbin ;
   _/fy103 content ;
   _/fysopstyle content ;
   _/favicon.ico content ;
-  _/familymed/forms content ;  #
-  _/familymed/distance content ;  #
-  _/familymed/meddebt content ;  #
+  _/familymed/forms content ;
+  _/familymed/distance content ;
+  _/familymed/meddebt content ;
   _/faculty-council content ;
   _/fanboyfoodtruck content ;
   _/facultycentral content ;
-  _/facilities/webcams content ;  #
+  _/facilities/webcams content ;
   _/fammed content ;
   _/farewell content ;
   _/fafc-files content ;
-  _/fafc/wp-assets content ;  #
+  _/fafc/wp-assets content ;
   _/faculty-mslade1 content ;
   _/fafc-temp content ;
   _/facultycouncil content ;
@@ -1343,7 +1343,7 @@ _/bumobile phpbin ;
   _/fabde content ;
   _/faculty-funding content ;
   _/facial-rejuvenation content ;
-  _/faculty/ear content ;  #
+  _/faculty/ear content ;
   _/fames content ;
   _/favoritepoem content ;
   _/fmherbalstudy content ;
@@ -1351,7 +1351,7 @@ _/bumobile phpbin ;
   _/finance content ;
   _/finaid/status_documents content ;
   _/finaid/pdfs content ;
-  _/finaid/test content ;  #
+  _/finaid/test content ;
   _/finaid/fedfunds content ;
   _/finaid wordpress ;
   _/finplanners content ;
@@ -1396,14 +1396,14 @@ _/bumobile phpbin ;
   _/lawgiving content ;
   _/laverdes content ;
   _/lamovie content ;
-  _/law/communications content ;  #
-  _/law/graphics content ;  #
+  _/law/communications content ;
+  _/law/graphics content ;
   _/law/news content ; #
-  _/law/seipp content ;  #
-  _/law/events content ;  #
-  _/law/workingpapers-archive content ;  #
-  _/law/journals-archive content ;  #
-  _/laprogram/wp-assets content ;  #
+  _/law/seipp content ;
+  _/law/events content ;
+  _/law/workingpapers-archive content ;
+  _/law/journals-archive content ;
+  _/laprogram/wp-assets content ;
   _/lawyearbooks content ;
 ##TODO: get phpmap entry for law-pub and put in separate file
   _/languages content ;
@@ -1411,13 +1411,13 @@ _/bumobile phpbin ;
   _/languagelearning content ;
   _/laloba content ;
   _/lawdean content ;
-  _/lawlibrary/intranet content ;  #
-  _/lawlibrary/graphics content ;  #
-  _/lawlibrary/e-reserves content ;  #
-  _/lawlibrary/common content ;  #
-  _/lawlibrary/facultypublications content ;  #
-  _/lawlibrary/eJournals content ;  #
-  _/lawlibrary/restrictedaccess content ;  #
+  _/lawlibrary/intranet content ;
+  _/lawlibrary/graphics content ;
+  _/lawlibrary/e-reserves content ;
+  _/lawlibrary/common content ;
+  _/lawlibrary/facultypublications content ;
+  _/lawlibrary/eJournals content ;
+  _/lawlibrary/restrictedaccess content ;
   _/latenightkitchen content ;
   _/lastingloyal content ;
   _/lmn content ;
@@ -1426,8 +1426,8 @@ _/bumobile phpbin ;
   _/linguistics.ro content ;
   _/lifesciences content ;
   _/literary content ;
-  _/library/wp-assets content ;  #
-  _/library/primo content ;  #
+  _/library/wp-assets content ;
+  _/library/primo content ;
   _/liveon content ;
   _/linux content ;
   _/links content ;
@@ -1488,7 +1488,7 @@ _/bumobile phpbin ;
   _/paadmissions content ;
   _/parentfund content ;
   _/padova content ;
-  _/parking/dbtemplates content ;  #
+  _/parking/dbtemplates content ;
   _/pace content ;
   _/payment content ;
   _/pm content ;
@@ -1511,8 +1511,8 @@ _/bumobile phpbin ;
   _/pin content ;
   _/personnel content ;
   _/perd content ;
-  _/peaclab/temm11 content ;  #
-  _/peaclab/apmmi11 content ;  #
+  _/peaclab/temm11 content ;
+  _/peaclab/apmmi11 content ;
   _/pehs content ;
   _/pemba-essays content ;
   _/perlstaff content ;
@@ -1531,10 +1531,10 @@ _/bumobile phpbin ;
   _/precisiondx content ;
   _/prudential content ;
   _/professional content ;
-  _/provost/secure content ;  #
-  _/provost/admin content ;  #
-  _/provost/wp-assets content ;  #
-  _/provost/complexity2008 content ;  #
+  _/provost/secure content ;
+  _/provost/admin content ;
+  _/provost/wp-assets content ;
+  _/provost/complexity2008 content ;
   _/proarte content ;
   _/provost2 content ;
   _/presidentsearch content ;
@@ -1558,10 +1558,10 @@ _/bumobile phpbin ;
   _/plan2015 content ;
   _/plannedgiving content ;
   _/pledges content ;
-  _/ptfellowship/wp-assets content ;  #
+  _/ptfellowship/wp-assets content ;
   _/pt3 content ;
   _/ptc content ;
-  _/psych/charris content ;  #
+  _/psych/charris content ;
   _/psc content ;
   _/psp content ;
   _/pusteblume content ;
@@ -1592,8 +1592,8 @@ _/bumobile phpbin ;
   _/thehive content ;
   _/thanksgiving content ;
   _/theotrauma content ;
-  _/thebus/gtfs content ;  #
-  _/thebus/wp-assets content ;  #
+  _/thebus/gtfs content ;
+  _/thebus/wp-assets content ;
   _/tickle content ;
   _/tims content ;
   _/techconnect content ;
@@ -1604,15 +1604,15 @@ _/bumobile phpbin ;
   _/test-blog content ;
   _/testnfs content ;
   #_/testing content ;
-  _/tech/plan content ;  #
-  _/tech/slp content ;  #
+  _/tech/plan content ;
+  _/tech/slp content ;
   _/tech/wp-assets content ; #
   _/test content ;
   _/terrierconnection content ;
   _/terriermarketplace content ;
   _/terriertales content ;
   _/tedbu content ;
-  _/techinternal/wp-assets content ;  #
+  _/techinternal/wp-assets content ;
   _/test4proxyroute content ;
   _/teenpanic content ;
   _/tech-prod content ;
@@ -1633,21 +1633,21 @@ _/bumobile phpbin ;
   _/testprep content ;
   _/techweb content ;
   _/terriertoasts content ;
-  _/today/common content ;  #
-  _/today/media content ;  #
-  _/today/wpassets content ;  #
-  _/today/bubooks content ;  #
-  _/today/projects content ;  #
-  _/today/frozenfour content ;  #
-  _/today/blasts content ;  #
-  _/today/commencement content ;  #
-  _/today/v2-devl content ;  #
-  _/today/news content ;  #
-  _/today/buniverse content ;  #
-  _/today/v2 content ;  #
+  _/today/common content ;
+  _/today/media content ;
+  _/today/wpassets content ;
+  _/today/bubooks content ;
+  _/today/projects content ;
+  _/today/frozenfour content ;
+  _/today/blasts content ;
+  _/today/commencement content ;
+  _/today/v2-devl content ;
+  _/today/news content ;
+  _/today/buniverse content ;
+  _/today/v2 content ;
   _/tol content ;
   _/today-spash content ;
-  _/trustees-intranet/install content ;  #
+  _/trustees-intranet/install content ;
   _/tricia content ;
   _/transportation content ;
   _/transfer content ;
@@ -1684,7 +1684,7 @@ _/bumobile phpbin ;
   _/sccc content ;
   _/sclerodermaworkshop content ;
   _/schoolphys content ;
-  _/scnc/wp-assets content ;  #
+  _/scnc/wp-assets content ;
   _/scv content ;
   _/scv_import content ;
 # skipping systems-programming.RESTORED as we should only add the redirect2lower if necessary
@@ -1705,8 +1705,8 @@ _/bumobile phpbin ;
   _/sargentcamp content ;
   _/sargenteconnection content ;
   _/sarptat content ;
-  _/sargent/wp-assets content ;  #
-  _/sargent.ro/wp-assets content ;  #
+  _/sargent/wp-assets content ;
+  _/sargent.ro/wp-assets content ;
   _/sao content ;
   _/sarhouse content ;
   _/samlab content ;
@@ -1715,7 +1715,7 @@ _/bumobile phpbin ;
   _/saa content ;
   _/sail content ;
   _/satellite content ;
-  _/safety/stand-up content ;  #
+  _/safety/stand-up content ;
   _/sm322 content ;
   _/smgcentennial content ;
   _/smgalum content ;
@@ -1746,8 +1746,8 @@ _/bumobile phpbin ;
   _/se-demo content ;
   _/sed-gpape content ;
   _/service-now content ;
-  _/sedreadingclinic/wp-assets content ;  #
-  _/sed/wp-assets content ;  #
+  _/sedreadingclinic/wp-assets content ;
+  _/sed/wp-assets content ;
   _/secret content ;
   _/seniors content ;
   _/securitycampimport content ;
@@ -1758,11 +1758,11 @@ _/bumobile phpbin ;
   _/sedimc content ;
   _/session content ;
   _/sep content ;
-  _/security/advisories content ;  #
+  _/security/advisories content ;
   _/software content ;
   _/south content ;
   _/sourceguide content ;
-  _/sourcing/contracted_suppliers_ui content ;  #
+  _/sourcing/contracted_suppliers_ui content ;
   _/southfloridacelebratesbu content ;
   _/srp content ;
   _/sfa content ;
@@ -1773,7 +1773,7 @@ _/bumobile phpbin ;
   _/spirithealth content ;
   _/spidr content ;
   _/specialreports content ;
-  _/sph/wp-assets content ;  #
+  _/sph/wp-assets content ;
   _/sph-imports content ;
   _/spectrumarts content ;
   _/sph40th content ;
@@ -1789,7 +1789,7 @@ _/bumobile phpbin ;
   _/startup content ;
   _/study content ;
   _/studentexperience content ;
-  _/sthacker/stata content ;  #
+  _/sthacker/stata content ;
   _/state content ;
   _/stay content ;
   _/stepup content ;
@@ -1812,10 +1812,10 @@ _/bumobile phpbin ;
   _/stayemployed content ;
   _/stamasfund content ;
   _/state-authorization content ;
-  _/ssw/common content ;  #
-  _/ssw/wp-assets content ;  #
+  _/ssw/common content ;
+  _/ssw/wp-assets content ;
 ##TODO: get phpmap entry for ssw/usfostercare and put in separate file
-  _/sscores/downloads content ;  #
+  _/sscores/downloads content ;
   _/sswphd content ;
   _/sdb-osa-eval content ;
   _/supportaphasiacenter content ;
@@ -1850,9 +1850,9 @@ _/bumobile phpbin ;
   _/danrather content ;
   _/data content ;
   _/dayofservice content ;
-  _/danielsen/wp-assets content ;  #
+  _/danielsen/wp-assets content ;
   _/dme content ;
-  _/disability/wp-assets content ;  #
+  _/disability/wp-assets content ;
   _/dinghysailors content ;
   _/diabetescenter content ;
   _/directory content ;
@@ -1864,17 +1864,17 @@ _/bumobile phpbin ;
   _/diploma content ;
   _/discoveries content ;
   _/digitalrevolutionevent content ;
-  _/diversitytaskforce/media content ;  #
+  _/diversitytaskforce/media content ;
   _/dinegreen content ;
   _/discover content ;
   _/disted content ;
 ##TODO: get phpmap entry for dining/api and put in separate file
-  _/dining/wp-assets content ;  #
-  _/dining/report2015 content ;  #
-  _/dining/report2013 content ;  #
-  _/dining/report2014 content ;  #
-  _/dining/report2017 content ;  #
-  _/dining/report2016 content ;  #
+  _/dining/wp-assets content ;
+  _/dining/report2015 content ;
+  _/dining/report2013 content ;
+  _/dining/report2014 content ;
+  _/dining/report2017 content ;
+  _/dining/report2016 content ;
 ##TODO: get phpmap entry for degree-advice and put in separate file
   _/degreecomplete content ;
   _/dev content ;
@@ -1884,12 +1884,12 @@ _/bumobile phpbin ;
   _/dermatology-associates content ;
   _/dentalassisting content ;
 ##TODO: get phpmap entry for degree-audit and put in separate file
-  _/dental/lobbyscreen content ;  #
-  _/dental/nerb-mcmanama content ;  #
+  _/dental/lobbyscreen content ;
+  _/dental/nerb-mcmanama content ;
   _/dos-test content ;
   _/doubleit content ;
-  _/dos/lulingzi content ;  #
-  _/dos/facebook content ;  #
+  _/dos/lulingzi content ;
+  _/dos/facebook content ;
   _/double-it content ;
   _/dlanglai content ;
   _/dsgsupport content ;
@@ -1926,9 +1926,9 @@ _/bumobile phpbin ;
   _/battleforbu content ;
   _/bahec content ;
   _/ballab content ;
-  _/bands/graphics content ;  #
-  _/bands/common content ;  #
-  _/bam2012/wp-assets content ;  #
+  _/bands/graphics content ;
+  _/bands/common content ;
+  _/bam2012/wp-assets content ;
   _/barc2007 content ;
   _/barc2015 content ;
   _/bme-tic content ;
@@ -1950,7 +1950,7 @@ _/bumobile phpbin ;
   _/biomedforensic content ;
   _/biomed content ;
   _/biomedresearchtech content ;
-  _/biology/herps content ;  #
+  _/biology/herps content ;
   _/biomedcrimas content ;
   _/biorobotics content ;
   _/bioskin content ;
@@ -1971,40 +1971,40 @@ _/bumobile phpbin ;
   _/booth content ;
   _/bostoneveningwithbu content ;
   _/bonrc content ;
-  _/bostonia/bostonia_archives content ;  #
-  _/bostonia/web content ;  #
-  _/bostonia/summer08 content ;  #
-  _/bostonia/spring08 content ;  #
-  _/bostonia/winter08 content ;  #
-  _/bostonia/spring09 content ;  #
-  _/bostonia/winter09 content ;  #
-  _/bostonia/fall08 content ;  #
-  _/bostonia/search content ;  #
-  _/bostonia/global content ;  #
-  _/bostonia/link content ;  #
-  _/bostonia/summer11 content ;  #
-  _/bostonia/extra content ;  #
-  _/bostonia/email content ;  #
-  _/bostonia/Scripts content ;  #
-  _/bostonia/summer09 content ;  #
-  _/bostonia/toc content ;  #
-  _/bostonia/fall09 content ;  #
-  _/bostonia/fall11 content ;  #
-  _/bostonia/winter-spring12 content ;  #
-  _/bostonia/winter-spring10 content ;  #
-  _/bostonia/campaign12 content ;  #
-  _/bostonia/css content ;  #
-  _/bostonia/summer10 content ;  #
-  _/bostonia/fall10 content ;  #
-  _/bostonia/winter-spring11 content ;  #
-  _/bostonia/summer12 content ;  #
-  _/bostonia/wpassets content ;  #
+  _/bostonia/bostonia_archives content ;
+  _/bostonia/web content ;
+  _/bostonia/summer08 content ;
+  _/bostonia/spring08 content ;
+  _/bostonia/winter08 content ;
+  _/bostonia/spring09 content ;
+  _/bostonia/winter09 content ;
+  _/bostonia/fall08 content ;
+  _/bostonia/search content ;
+  _/bostonia/global content ;
+  _/bostonia/link content ;
+  _/bostonia/summer11 content ;
+  _/bostonia/extra content ;
+  _/bostonia/email content ;
+  _/bostonia/Scripts content ;
+  _/bostonia/summer09 content ;
+  _/bostonia/toc content ;
+  _/bostonia/fall09 content ;
+  _/bostonia/fall11 content ;
+  _/bostonia/winter-spring12 content ;
+  _/bostonia/winter-spring10 content ;
+  _/bostonia/campaign12 content ;
+  _/bostonia/css content ;
+  _/bostonia/summer10 content ;
+  _/bostonia/fall10 content ;
+  _/bostonia/winter-spring11 content ;
+  _/bostonia/summer12 content ;
+  _/bostonia/wpassets content ;
   _/bostonroc content ;
   _/books content ;
   _/bostonscholars content ;
   _/borinsky content ;
   _/braintree content ;
-  _/bravi/archive content ;  #
+  _/bravi/archive content ;
   _/brussels content ;
   _/bridge content ;
   _/brownstone content ;
@@ -2025,7 +2025,7 @@ _/bumobile phpbin ;
   _/bu-wheelock-merger/wp-assets content ;
   _/busm-facultycentral content ;
   _/buba content ;
-  _/busmplus/form content ;  #
+  _/busmplus/form content ;
   _/buinphiladelphia content ;
   _/bubin content ;
   _/bu.edu content ;
@@ -2037,9 +2037,9 @@ _/bumobile phpbin ;
   _/buildyourbu content ;
   _/butheatre content ;
   _/buworks-files content ;
-  _/buapay/wp-assets content ;  #
+  _/buapay/wp-assets content ;
 ##TODO: get phpmap entry for bumobile and put in separate file
-  _/bucie/wp-assets content ;  #
+  _/bucie/wp-assets content ;
   _/bumclive content ;
   _/busmphonathon  content ;
   _/bunano content ;
@@ -2056,7 +2056,7 @@ _/bumobile phpbin ;
   _/bu-wheel-merger/wp-assets content ;
   _/buildingbu content ;
   _/busm-pm content ;
-  _/buapayments/wp-assets content ;  #
+  _/buapayments/wp-assets content ;
   _/buloyalty content ;
   _/burc content ;
   _/buspace content ;
@@ -2073,22 +2073,22 @@ _/bumobile phpbin ;
   _/but content ;
 ##TODO: get phpmap entry for buniverse and put in separate file
   _/bus content ;
-  _/buworks/assets content ;  #
-  _/buworks/error content ;  #
-  _/buworks/help content ;  #
+  _/buworks/assets content ;
+  _/buworks/error content ;
+  _/buworks/help content ;
   _/buworks-training content ;
   _/burst content ;
 ##TODO: get phpmap entry for bufellow/db-admin and put in separate file
-  _/bufellow/output content ;  #
+  _/bufellow/output content ;
   _/buworksforum content ;
   _/bua content ;
   _/buworks-staff content ;
   _/bualumnicenter content ;
   _/bucde content ;
-  _/bucld/wp-assets content ;  #
+  _/bucld/wp-assets content ;
   _/bumc-research content ;
   _/bumc-pulmonarycenter content ;
-  _/bucflp/wp-assets content ;  #
+  _/bucflp/wp-assets content ;
   _/buleads content ;
   _/build content ;
   _/burppe content ;
