@@ -220,7 +220,6 @@ _/bumobile phpbin ;
   _/celop/wp-assets content ;  # 2018-06-04 cleanup
   _/celop/dev content ;
   _/centurychallenge content ;
-##TODO: get phpmap entry for cellphone-compliance and put in separate file
   _/cell-met content ;
   _/centers content ;
   _/ces content ;
@@ -324,7 +323,6 @@ _/bumobile phpbin ;
   _/compnet content ;
   _/comm content ;
   _/connect content ;
-##TODO: get phpmap entry for courseware-manager and put in separate file
   _/comjobs content ;
   _/copyright content ;
   _/collegechampion content ;
@@ -459,7 +457,6 @@ _/bumobile phpbin ;
   _/wpmu/forms content ;
   _/wpmu/static content ;
   _/wpmu/foo content ;
-##TODO: get phpmap entry for wp-deploy and put in separate file
   _/wtbu content ;
   _/wbball content ;
   _/wbur content ;
@@ -925,7 +922,6 @@ _/bumobile phpbin ;
   _/hts-core content ;
   _/htc content ;
   _/htbin.ph content ;
-##TODO: get phpmap entry for html-email and put in separate file
   _/htmg content ;
   _/hdhd content ;
   _/hdgolf content ;
@@ -1032,7 +1028,6 @@ _/bumobile phpbin ;
   _/exec content ;
   _/experience-room content ;
   _/explore phpbin ;
-##TODO: get phpmap entry for explore and put in separate file
   _/execed content ;
   _/exed content ;
   _/extended content ;
@@ -1212,7 +1207,6 @@ _/bumobile phpbin ;
   _/rrtcout content ;
   _/rl content ;
   _/rpm/panos content ;
-##TODO: get phpmap entry for rpm-agreements and put in separate file
 # skipping rp18p.GIF as we should only add the redirect2lower if necessary
   _/rsg content ;
   _/rss content ;
@@ -1405,7 +1399,6 @@ _/bumobile phpbin ;
   _/law/journals-archive content ;
   _/laprogram/wp-assets content ;
   _/lawyearbooks content ;
-##TODO: get phpmap entry for law-pub and put in separate file
   _/languages content ;
   _/lab content ;
   _/languagelearning content ;
@@ -1814,7 +1807,6 @@ _/bumobile phpbin ;
   _/state-authorization content ;
   _/ssw/common content ;
   _/ssw/wp-assets content ;
-##TODO: get phpmap entry for ssw/usfostercare and put in separate file
   _/sscores/downloads content ;
   _/sswphd content ;
   _/sdb-osa-eval content ;
@@ -1841,7 +1833,6 @@ _/bumobile phpbin ;
   _/dje content ;
   _/dcg content ;
   _/dna content ;
-##TODO: get phpmap entry for dnamixtures and put in separate file
   _/darwin2009 content ;
   _/darwin content ;
   _/dan content ;
@@ -1868,14 +1859,12 @@ _/bumobile phpbin ;
   _/dinegreen content ;
   _/discover content ;
   _/disted content ;
-##TODO: get phpmap entry for dining/api and put in separate file
   _/dining/wp-assets content ;
   _/dining/report2015 content ;
   _/dining/report2013 content ;
   _/dining/report2014 content ;
   _/dining/report2017 content ;
   _/dining/report2016 content ;
-##TODO: get phpmap entry for degree-advice and put in separate file
   _/degreecomplete content ;
   _/dev content ;
   _/dentures content ;
@@ -1883,7 +1872,6 @@ _/bumobile phpbin ;
   _/devbio content ;
   _/dermatology-associates content ;
   _/dentalassisting content ;
-##TODO: get phpmap entry for degree-audit and put in separate file
   _/dental/lobbyscreen content ;
   _/dental/nerb-mcmanama content ;
   _/dos-test content ;
@@ -1958,7 +1946,6 @@ _/bumobile phpbin ;
   _/bemerson content ;
   _/behaviorlab content ;
   _/beanpot-party content ;
-##TODO: get phpmap entry for betabionics and put in separate file
   _/bergethonlab content ;
   _/betonrhett content ;
   _/benefitstaskforce content ;
@@ -2038,7 +2025,6 @@ _/bumobile phpbin ;
   _/butheatre content ;
   _/buworks-files content ;
   _/buapay/wp-assets content ;
-##TODO: get phpmap entry for bumobile and put in separate file
   _/bucie/wp-assets content ;
   _/bumclive content ;
   _/busmphonathon  content ;
@@ -2071,14 +2057,12 @@ _/bumobile phpbin ;
   _/budentalapparelsale content ;
   _/bumc-it content ;
   _/but content ;
-##TODO: get phpmap entry for buniverse and put in separate file
   _/bus content ;
   _/buworks/assets content ;
   _/buworks/error content ;
   _/buworks/help content ;
   _/buworks-training content ;
   _/burst content ;
-##TODO: get phpmap entry for bufellow/db-admin and put in separate file
   _/bufellow/output content ;
   _/buworksforum content ;
   _/bua content ;
