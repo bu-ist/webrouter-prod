@@ -117,1981 +117,1981 @@ _/bumobile phpbin ;
 
 ####### From stub files/directory scan
 
-  _/jamdocs content ;  # top-level
-  _/jam content ;  # top-level
-  _/jamsponsor content ;  # top-level
-  _/jam-now content ;  # top-level
-  _/jmedday content ;  # top-level
-  _/jewishstudies/shtetl content ;  #
-  _/journalofeducation/wp-assets content ;  #
-  _/joevita content ;  # top-level
-  _/jobs content ;  # top-level
-  _/journals content ;  # top-level
-  _/joinfriends content ;  # top-level
-  _/join-the-challenge content ;  # top-level
-  _/johndesz content ;  # top-level
-  _/jfa content ;  # top-level
-  _/jlengel content ;  # top-level
-  _/jlab/wp-assets content ;  #
-  _/jp content ;  # top-level
-  _/jts2000 content ;  # top-level
-  _/jd content ;  # top-level
-  _/judaicstudies/shtetl content ;  #
-  _/judicialaffairs content ;  # top-level
-  _/zhdanovalab content ;  # top-level
-  _/ccrd content ;  # top-level
-  _/cc content ;  # top-level
-  _/ccboard content ;  # top-level
-  _/cwf content ;  # top-level
-  _/cwc content ;  # top-level
-  _/cnn-nanocancer content ;  # top-level
-  _/camping content ;  # top-level
-  _/capdeck content ;  # top-level
-  _/cascsg content ;  # top-level
-  _/campaignlaunch content ;  # top-level
-  _/cawses content ;  # top-level
-  _/casestudies content ;  # top-level
-  _/caregivinghealthresearch content ;  # top-level
-  _/campaign/docs content ;  #
-  _/campaignvip content ;  # top-level
-  _/caswriting content ;  # top-level
-  _/cateringonthecharles content ;  # top-level
-  _/care content ;  # top-level
-  _/cardiothoracicmain content ;  # top-level
-  _/capdraft content ;  # top-level
-  _/caadlab content ;  # top-level
-  _/careerweeks content ;  # top-level
-  _/casinternal content ;  # top-level
-  _/cap content ;  # top-level
-  _/cashelpdesk content ;  # top-level
-  _/campaignkickoff content ;  # top-level
-  _/cas/common content ;  #
-  _/cas/invite content ;  #
-  _/cas/newsletter content ;  #
-  _/cas/impactx2 content ;  #
-  _/cas/ar content ;  #
-  _/cas/wp-assets content ;  #
-  _/cas/telegraph content ;  #
-  _/cas/magazine content ;  #
-  _/catholic content ;  # top-level
-  _/casstudentacademiclife content ;  # top-level
-  _/caswpinternal content ;  # top-level
-  _/careerworks content ;  # top-level
-  _/caryl content ;  # top-level
-  _/cardiovascular-medicine content ;  # top-level
-  _/casw content ;  # top-level
-  _/careerex content ;  # top-level
-  _/cab content ;  # top-level
+  _/jamdocs content ;
+  _/jam content ;
+  _/jamsponsor content ;
+  _/jam-now content ;
+  _/jmedday content ;
+  _/jewishstudies/shtetl content ;
+  _/journalofeducation/wp-assets content ;
+  _/joevita content ;
+  _/jobs content ;
+  _/journals content ;
+  _/joinfriends content ;
+  _/join-the-challenge content ;
+  _/johndesz content ;
+  _/jfa content ;
+  _/jlengel content ;
+  _/jlab/wp-assets content ;
+  _/jp content ;
+  _/jts2000 content ;
+  _/jd content ;
+  _/judaicstudies/shtetl content ;
+  _/judicialaffairs content ;
+  _/zhdanovalab content ;
+  _/ccrd content ;
+  _/cc content ;
+  _/ccboard content ;
+  _/cwf content ;
+  _/cwc content ;
+  _/cnn-nanocancer content ;
+  _/camping content ;
+  _/capdeck content ;
+  _/cascsg content ;
+  _/campaignlaunch content ;
+  _/cawses content ;
+  _/casestudies content ;
+  _/caregivinghealthresearch content ;
+  _/campaign/docs content ;
+  _/campaignvip content ;
+  _/caswriting content ;
+  _/cateringonthecharles content ;
+  _/care content ;
+  _/cardiothoracicmain content ;
+  _/capdraft content ;
+  _/caadlab content ;
+  _/careerweeks content ;
+  _/casinternal content ;
+  _/cap content ;
+  _/cashelpdesk content ;
+  _/campaignkickoff content ;
+  _/cas/common content ;
+  _/cas/invite content ;
+  _/cas/newsletter content ;
+  _/cas/impactx2 content ;
+  _/cas/ar content ;
+  _/cas/wp-assets content ;
+  _/cas/telegraph content ;
+  _/cas/magazine content ;
+  _/catholic content ;
+  _/casstudentacademiclife content ;
+  _/caswpinternal content ;
+  _/careerworks content ;
+  _/caryl content ;
+  _/cardiovascular-medicine content ;
+  _/casw content ;
+  _/careerex content ;
+  _/cab content ;
   _/cart content ; # 2018-06-04 cleanup
-  _/calendar phpbin ;  # top-level
-  _/casdemo content ;  # top-level
-  _/caderonline content ;  # top-level
-  _/casgov content ;  # top-level
-  _/cagt content ;  # top-level
-  _/cas-scholars content ;  # top-level
-  _/cmmh content ;  # top-level
-  _/cmezian content ;  # top-level
-  _/cme content ;  # top-level
-  _/cmld content ;  # top-level
-  _/cmrl content ;  # top-level
-  _/cms content ;  # top-level
-  _/cmetips content ;  # top-level
-  _/cvn content ;  # top-level
-  _/childhoodtrauma content ;  # top-level
-  _/chelmsford content ;  # top-level
-  _/childcognition content ;  # top-level
-  _/chinese content ;  # top-level
-  _/choosemet content ;  # top-level
-  _/charles content ;  # top-level
-  _/checkpc content ;  # top-level
-  _/childlabs content ;  # top-level
-  _/cise content ;  # top-level
-  _/cip content ;  # top-level
-  _/citylab-olc content ;  # top-level
-  _/civsa content ;  # top-level
-  _/cism content ;  # top-level
-  _/cilse content ;  # top-level
-  _/citylab content ;  # top-level
-  _/citylabacademy content ;  # top-level
-  _/ciap content ;  # top-level
-  _/celebrationvip content ;  # top-level
-  _/celebrationcake content ;  # top-level
-  _/censsis content ;  # top-level
+  _/calendar phpbin ;
+  _/casdemo content ;
+  _/caderonline content ;
+  _/casgov content ;
+  _/cagt content ;
+  _/cas-scholars content ;
+  _/cmmh content ;
+  _/cmezian content ;
+  _/cme content ;
+  _/cmld content ;
+  _/cmrl content ;
+  _/cms content ;
+  _/cmetips content ;
+  _/cvn content ;
+  _/childhoodtrauma content ;
+  _/chelmsford content ;
+  _/childcognition content ;
+  _/chinese content ;
+  _/choosemet content ;
+  _/charles content ;
+  _/checkpc content ;
+  _/childlabs content ;
+  _/cise content ;
+  _/cip content ;
+  _/citylab-olc content ;
+  _/civsa content ;
+  _/cism content ;
+  _/cilse content ;
+  _/citylab content ;
+  _/citylabacademy content ;
+  _/ciap content ;
+  _/celebrationvip content ;
+  _/celebrationcake content ;
+  _/censsis content ;
   _/celop/wp-assets content ;  # 2018-06-04 cleanup
-  _/celop/dev content ;  #
-  _/centurychallenge content ;  # top-level
+  _/celop/dev content ;
+  _/centurychallenge content ;
 ##TODO: get phpmap entry for cellphone-compliance and put in separate file
-  _/cell-met content ;  # top-level
-  _/centers content ;  # top-level
-  _/ces content ;  # top-level
-  _/ce content ;  # top-level
-  _/celebrationofbu content ;  # top-level
-  _/cedh content ;  # top-level
-  _/cermak content ;  # top-level
-  _/ceei content ;  # top-level
-  _/cellular-imaging content ;  # top-level
-  _/cel content ;  # top-level
-  _/comit content ;  # top-level
-  _/copley content ;  # top-level
-  _/counseling content ;  # top-level
-  _/conscious content ;  # top-level
-  _/congregationalstudies content ;  # top-level
-  _/coursenet content ;  # top-level
-  _/codes/simulations content ;  #
-  _/comment content ;  # top-level
-  _/cobth content ;  # top-level
-  _/cohenchallenge content ;  # top-level
-  _/commencement/wp-assets content ;  #
-  _/coreframework content ;  # top-level
+  _/cell-met content ;
+  _/centers content ;
+  _/ces content ;
+  _/ce content ;
+  _/celebrationofbu content ;
+  _/cedh content ;
+  _/cermak content ;
+  _/ceei content ;
+  _/cellular-imaging content ;
+  _/cel content ;
+  _/comit content ;
+  _/copley content ;
+  _/counseling content ;
+  _/conscious content ;
+  _/congregationalstudies content ;
+  _/coursenet content ;
+  _/codes/simulations content ;
+  _/comment content ;
+  _/cobth content ;
+  _/cohenchallenge content ;
+  _/commencement/wp-assets content ;
+  _/coreframework content ;
   _/common/bueas content ;
   _/common/hp content ;
   _/common/level2 content ;
   _/common/wp-assets content ;
-  _/contact content ;  # top-level
-  _/commsurvey content ;  # top-level
-  _/composition content ;  # top-level
-  _/comp content ;  # top-level
-  _/com-dean-search content ;  # top-level
-  _/common-place content ;  # top-level
-  _/corpfound content ;  # top-level
-  _/com100 content ;  # top-level
-  _/computational-biomedicine content ;  # top-level
-  _/commavefair content ;  # top-level
-  _/coredesign content ;  # top-level
-  _/cohstar/wp-assets content ;  #
-  _/com/givetoday content ;  #
-  _/com/playitforward content ;  #
-  _/com/greatdebate content ;  #
-  _/com/test content ;  #
-  _/com/scripts content ;  #
-  _/com/ndow content ;  #
-  _/com/networking content ;  #
-  _/com/course-feeds content ;  #
-  _/com/beaudoin-review content ;  #
-  _/com/narrative content ;  #
-  _/com/flash content ;  #
-  _/com/support-necir content ;  #
-  _/com/humor content ;  #
-  _/com/pradvanced content ;  #
-  _/com/crc content ;  #
-  _/com/lib content ;  #
-  _/com/redstonenyc content ;  #
-  _/com/redstonewest content ;  #
-  _/com/linkedin content ;  #
-  _/com/registration content ;  #
-  _/com/special content ;  #
-  _/com/socialmediaday content ;  #
+  _/contact content ;
+  _/commsurvey content ;
+  _/composition content ;
+  _/comp content ;
+  _/com-dean-search content ;
+  _/common-place content ;
+  _/corpfound content ;
+  _/com100 content ;
+  _/computational-biomedicine content ;
+  _/commavefair content ;
+  _/coredesign content ;
+  _/cohstar/wp-assets content ;
+  _/com/givetoday content ;
+  _/com/playitforward content ;
+  _/com/greatdebate content ;
+  _/com/test content ;
+  _/com/scripts content ;
+  _/com/ndow content ;
+  _/com/networking content ;
+  _/com/course-feeds content ;
+  _/com/beaudoin-review content ;
+  _/com/narrative content ;
+  _/com/flash content ;
+  _/com/support-necir content ;
+  _/com/humor content ;
+  _/com/pradvanced content ;
+  _/com/crc content ;
+  _/com/lib content ;
+  _/com/redstonenyc content ;
+  _/com/redstonewest content ;
+  _/com/linkedin content ;
+  _/com/registration content ;
+  _/com/special content ;
+  _/com/socialmediaday content ;
   # _/com/orientation content ;  # 2018-06-04 removal
-  _/com/live-it content ;  #
-  _/com/ems-review content ;  #
-  _/com/mobile-life-workshop content ;  #
-  _/com/necir-registration content ;  #
-  _/com/amp-registration content ;  #
-  _/com/design-request content ;  #
-  _/com/cmcs content ;  #
-  _/com/new-courses content ;  #
-  _/com/dar content ;  #
-  _/com/lambert-review content ;  #
-  _/com/data-storytelling content ;  #
+  _/com/live-it content ;
+  _/com/ems-review content ;
+  _/com/mobile-life-workshop content ;
+  _/com/necir-registration content ;
+  _/com/amp-registration content ;
+  _/com/design-request content ;
+  _/com/cmcs content ;
+  _/com/new-courses content ;
+  _/com/dar content ;
+  _/com/lambert-review content ;
+  _/com/data-storytelling content ;
   _/com/data-narrative content ;  # 2018-06-04 addition
-  _/com/graduate content ;  #
-  _/com/daly-review content ;  #
-  _/com/labor-films content ;  #
-  _/com/jaramillo-review content ;  #
-  _/com/wu-review content ;  #
-  _/com/student-magazines content ;  #
-  _/com/graduate-programs content ;  #
-  _/com/supa-review content ;  #
-  _/com/film-tv-facts content ;  #
-  _/com/photo-workshops content ;  #
-  _/com/hong-review content ;  #
-  _/com/science-storytelling content ;  #
-  _/com/wtbu-radio content ;  #
-  _/com/groshek-review content ;  #
-  _/com/science-communication content ;  #
-  _/com/social-media-analysis content ;  #
-  _/com/tsay-vogel-review content ;  #
-  _/com/vigil-review content ;  #
-  _/com/sports_institute content ;  #
-  _/com/images content ;  #
-  _/com/includes content ;  #
-  _/compliance/videos content ;  #
-  _/compliance/videos_restricted1 content ;  #
-  _/compliance/openvideos content ;  #
-  _/commonground content ;  # top-level
-  _/computationalimmunology/documentation content ;  #
-  _/computing content ;  # top-level
-  _/compnet content ;  # top-level
-  _/comm content ;  # top-level
-  _/connect content ;  # top-level
+  _/com/graduate content ;
+  _/com/daly-review content ;
+  _/com/labor-films content ;
+  _/com/jaramillo-review content ;
+  _/com/wu-review content ;
+  _/com/student-magazines content ;
+  _/com/graduate-programs content ;
+  _/com/supa-review content ;
+  _/com/film-tv-facts content ;
+  _/com/photo-workshops content ;
+  _/com/hong-review content ;
+  _/com/science-storytelling content ;
+  _/com/wtbu-radio content ;
+  _/com/groshek-review content ;
+  _/com/science-communication content ;
+  _/com/social-media-analysis content ;
+  _/com/tsay-vogel-review content ;
+  _/com/vigil-review content ;
+  _/com/sports_institute content ;
+  _/com/images content ;
+  _/com/includes content ;
+  _/compliance/videos content ;
+  _/compliance/videos_restricted1 content ;
+  _/compliance/openvideos content ;
+  _/commonground content ;
+  _/computationalimmunology/documentation content ;
+  _/computing content ;
+  _/compnet content ;
+  _/comm content ;
+  _/connect content ;
 ##TODO: get phpmap entry for courseware-manager and put in separate file
-  _/comjobs content ;  # top-level
-  _/copyright content ;  # top-level
-  _/collegechampion content ;  # top-level
-  _/countdown content ;  # top-level
-  _/coi content ;  # top-level
-  _/construction content ;  # top-level
-  _/com-csc content ;  # top-level
-  _/compbiomed content ;  # top-level
-  _/complete content ;  # top-level
-  _/creative content ;  # top-level
-  _/crm content ;  # top-level
-  _/crossdomain.xml content ;  # top-level
-  _/crro content ;  # top-level
-  _/crxpress content ;  # top-level
-  _/cruiseandlearn content ;  # top-level
-  _/crew content ;  # top-level
-  _/cra content ;  # top-level
-  _/cre content ;  # top-level
-  _/crtimes content ;  # top-level
-  _/cghd content ;  # top-level
-  _/cgs/wp-assets content ;  #
-  _/cgap content ;  # top-level
-  _/cga content ;  # top-level
-  _/cgs60th content ;  # top-level
-  _/cgef content ;  # top-level
-  _/cghdac content ;  # top-level
-  _/cgs-events content ;  # top-level
-  _/cfait content ;  # top-level
-  _/cfa/ppc7 content ;  #
-  _/cfa/ppc1 content ;  #
-  _/cfa/musiceducation.bu.edu content ;  #
-  _/cfa/ppc2 content ;  #
-  _/cfa/wp-assets content ;  #
-  _/cfa/ppc3 content ;  #
-  _/cfa/ppc4 content ;  #
-  _/cfa/ppc6 content ;  #
-  _/cfa/loans content ;  #
-  _/cfa/incite content ; #
-  _/cfa-alumni content ;  # top-level
-  _/cfdi content ;  # top-level
-  _/cleanenergyventures content ;  # top-level
-  _/clarion content ;  # top-level
-  _/clinicalinvestigation content ;  # top-level
+  _/comjobs content ;
+  _/copyright content ;
+  _/collegechampion content ;
+  _/countdown content ;
+  _/coi content ;
+  _/construction content ;
+  _/com-csc content ;
+  _/compbiomed content ;
+  _/complete content ;
+  _/creative content ;
+  _/crm content ;
+  _/crossdomain.xml content ;
+  _/crro content ;
+  _/crxpress content ;
+  _/cruiseandlearn content ;
+  _/crew content ;
+  _/cra content ;
+  _/cre content ;
+  _/crtimes content ;
+  _/cghd content ;
+  _/cgs/wp-assets content ;
+  _/cgap content ;
+  _/cga content ;
+  _/cgs60th content ;
+  _/cgef content ;
+  _/cghdac content ;
+  _/cgs-events content ;
+  _/cfait content ;
+  _/cfa/ppc7 content ;
+  _/cfa/ppc1 content ;
+  _/cfa/musiceducation.bu.edu content ;
+  _/cfa/ppc2 content ;
+  _/cfa/wp-assets content ;
+  _/cfa/ppc3 content ;
+  _/cfa/ppc4 content ;
+  _/cfa/ppc6 content ;
+  _/cfa/loans content ;
+  _/cfa/incite content ;
+  _/cfa-alumni content ;
+  _/cfdi content ;
+  _/cleanenergyventures content ;
+  _/clarion content ;
+  _/clinicalinvestigation content ;
   _/clinicalresearch content ;
-  _/cliveg content ;  # top-level
-  _/classics/wp-assets content ;  #
-  _/classgiftlove content ;  # top-level
-  _/climateaction content ;  # top-level
-  _/clerkship-subinternship content ;  # top-level
-  _/climate content ;  # top-level
-  _/classroom content ;  # top-level
-  _/classgift content ;  # top-level
-  _/cpr content ;  # top-level
-  _/cphs/archive content ;  #
-  _/ctf content ;  # top-level
-  _/ctxpress content ;  # top-level
-  _/cs/wp-assets content ;  #
-  _/csp/uv content ;  #
-  _/csp/PASS content ;  #
-  _/csp/Conferences content ;  #
-  _/csp/seminar content ;  #
-  _/csp/pss2012 content ;  #
-  _/csp/MUAN content ;  #
-  _/csp/trespass content ;  #
-  _/csp/hall_display content ;  #
-  _/csharp content ;  # top-level
-  _/csiacademy content ;  # top-level
-  _/css content ;  # top-level
-  _/cd content ;  # top-level
-  _/cdc2007 content ;  # top-level
-  _/cdaly content ;  # top-level
-  _/cdn content ;  # top-level
-  _/culture content ;  # top-level
-  _/cughdental content ;  # top-level
-  _/culinaryarts content ;  # top-level
-  _/cball content ;  # top-level
-  _/cbm content ;  # top-level
-  _/yac content ;  # top-level
+  _/cliveg content ;
+  _/classics/wp-assets content ;
+  _/classgiftlove content ;
+  _/climateaction content ;
+  _/clerkship-subinternship content ;
+  _/climate content ;
+  _/classroom content ;
+  _/classgift content ;
+  _/cpr content ;
+  _/cphs/archive content ;
+  _/ctf content ;
+  _/ctxpress content ;
+  _/cs/wp-assets content ;
+  _/csp/uv content ;
+  _/csp/PASS content ;
+  _/csp/Conferences content ;
+  _/csp/seminar content ;
+  _/csp/pss2012 content ;
+  _/csp/MUAN content ;
+  _/csp/trespass content ;
+  _/csp/hall_display content ;
+  _/csharp content ;
+  _/csiacademy content ;
+  _/css content ;
+  _/cd content ;
+  _/cdc2007 content ;
+  _/cdaly content ;
+  _/cdn content ;
+  _/culture content ;
+  _/cughdental content ;
+  _/culinaryarts content ;
+  _/cball content ;
+  _/cbm content ;
+  _/yac content ;
   _/y2kpartners content ;  # 2018-06-04 resync
   _/y2k content ;  # 2018-06-04 resync
   _/y2k-partners content ;  # 2018-06-04 resync
-  _/yourimpact content ;  # top-level
-  _/yourbusm content ;  # top-level
-  _/yourgift content ;  # top-level
-  _/youdo content ;  # top-level
-  _/wcp content ;  # top-level
-  _/wci-training-programs content ;  # top-level
-  _/wcbct2010 content ;  # top-level
-  _/wcrew content ;  # top-level
-  _/www.bu.edu content ;  # top-level
-  _/wwwv content ;  # top-level
-  _/www-test.bu.edu content ;  # top-level
-  _/wwildman content ;  # top-level
-  _/washingtoncelebratesbu content ;  # top-level
-  _/washintern content ;  # top-level
-  _/wheelock-transition content ;  # top-level
-  _/whole_staging_site_in.cms content ;  # top-level
-  _/whistlingduck content ;  # top-level
-  _/whatsnew content ;  # top-level
-  _/whatsnew.html content ;  # top-level
-  _/win/data content ;  #
-  _/wiesel-memorial content ;  # top-level
-  _/wiki content ;  # top-level
-  _/wine content ;  # top-level
-  _/wiesel content ;  # top-level
-  _/wita content ;  # top-level
-  _/wise content ;  # top-level
-  _/wilsonwonglab content ;  # top-level
-  _/wireless content ;  # top-level
-  _/winterfest content ;  # top-level
-  _/webcast content ;  # top-level
-  _/webmail content ;  # top-level
-  _/websummit content ;  # top-level
-  _/webteam/mgburns content ;  #
-  _/webteam/projects content ;  #
-  _/webteam/hiring content ;  #
-  _/webteam/presentations content ;  #
-  _/webteam/clrux content ;  #
-  _/webcentral/common content ;  #
-  _/weddings content ;  # top-level
-  _/weblogin content ;  # top-level
-  _/womenspolo content ;  # top-level
-  _/womensguild/wp-assets content ;  #
-  _/woundbiotech content ;  # top-level
-  _/wonca content ;  # top-level
-  _/wow content ;  # top-level
-  _/world content ;  # top-level
-  _/wordpress content ;  # top-level
-  _/wolozinlab content ;  # top-level
-  _/wgrimes content ;  # top-level
-  _/wgs/wp-assets content ;  #
-  _/wpmu/forms content ;  #
-  _/wpmu/static content ;  #
-  _/wpmu/foo content ;  #
+  _/yourimpact content ;
+  _/yourbusm content ;
+  _/yourgift content ;
+  _/youdo content ;
+  _/wcp content ;
+  _/wci-training-programs content ;
+  _/wcbct2010 content ;
+  _/wcrew content ;
+  _/www.bu.edu content ;
+  _/wwwv content ;
+  _/www-test.bu.edu content ;
+  _/wwildman content ;
+  _/washingtoncelebratesbu content ;
+  _/washintern content ;
+  _/wheelock-transition content ;
+  _/whole_staging_site_in.cms content ;
+  _/whistlingduck content ;
+  _/whatsnew content ;
+  _/whatsnew.html content ;
+  _/win/data content ;
+  _/wiesel-memorial content ;
+  _/wiki content ;
+  _/wine content ;
+  _/wiesel content ;
+  _/wita content ;
+  _/wise content ;
+  _/wilsonwonglab content ;
+  _/wireless content ;
+  _/winterfest content ;
+  _/webcast content ;
+  _/webmail content ;
+  _/websummit content ;
+  _/webteam/mgburns content ;
+  _/webteam/projects content ;
+  _/webteam/hiring content ;
+  _/webteam/presentations content ;
+  _/webteam/clrux content ;
+  _/webcentral/common content ;
+  _/weddings content ;
+  _/weblogin content ;
+  _/womenspolo content ;
+  _/womensguild/wp-assets content ;
+  _/woundbiotech content ;
+  _/wonca content ;
+  _/wow content ;
+  _/world content ;
+  _/wordpress content ;
+  _/wolozinlab content ;
+  _/wgrimes content ;
+  _/wgs/wp-assets content ;
+  _/wpmu/forms content ;
+  _/wpmu/static content ;
+  _/wpmu/foo content ;
 ##TODO: get phpmap entry for wp-deploy and put in separate file
-  _/wtbu content ;  # top-level
-  _/wbball content ;  # top-level
-  _/wbur content ;  # top-level
-  _/xzhou content ;  # top-level
-  _/xcc content ;  # top-level
-  _/xyz content ;  # top-level
-  _/nycgala content ;  # top-level
-  _/nassr-2013/wp-assets content ;  #
-  _/naitest content ;  # top-level
-  _/navyrotc content ;  # top-level
-  _/nassr2013 content ;  # top-level
-  _/nanoheat content ;  # top-level
-  _/naeser content ;  # top-level
-  _/nano content ;  # top-level
-  _/narrative content ;  # top-level
-  _/naturalconference content ;  # top-level
-  _/nml content ;  # top-level
-  _/nis-bkup content ;  # top-level
-  _/nis-sym content ;  # top-level
-  _/nislab content ;  # top-level
-  _/nida-mrc content ;  # top-level
-  _/niscms content ;  # top-level
-  _/nitrides content ;  # top-level
+  _/wtbu content ;
+  _/wbball content ;
+  _/wbur content ;
+  _/xzhou content ;
+  _/xcc content ;
+  _/xyz content ;
+  _/nycgala content ;
+  _/nassr-2013/wp-assets content ;
+  _/naitest content ;
+  _/navyrotc content ;
+  _/nassr2013 content ;
+  _/nanoheat content ;
+  _/naeser content ;
+  _/nano content ;
+  _/narrative content ;
+  _/naturalconference content ;
+  _/nml content ;
+  _/nis-bkup content ;
+  _/nis-sym content ;
+  _/nislab content ;
+  _/nida-mrc content ;
+  _/niscms content ;
+  _/nitrides content ;
   # using entry pointing to phpbin at the top of the file
-  #_/nisdev content ;  # top-level
-  _/nightingale content ;  # top-level
-  _/niteo content ;  # top-level
-  _/nisguide content ;  # top-level
-  _/nisprod content ;  # top-level
-  _/nisprojects content ;  # top-level
-  _/nis content ;  # top-level
-  _/neurorehabilitationlab content ;  # top-level
-  _/newswire content ;  # top-level
-  _/newindex4.html content ;  # top-level
-  _/neuroengineering content ;  # top-level
-  _/newmedia content ;  # top-level
-  _/netreg content ;  # top-level
-  _/neurorehab/wp-assets content ;  #
-  _/neural content ;  # top-level
-  _/newyear content ;  # top-level
-  _/newman content ;  # top-level
-  _/nexus content ;  # top-level
-  _/newindex3.html content ;  # top-level
-  _/newindex2.html content ;  # top-level
-  _/newindex.html content ;  # top-level
-  _/nems content ;  # top-level
-  _/newyorkeveningwithbu content ;  # top-level
-  _/new2bu content ;  # top-level
-  _/neuromusculardisease content ;  # top-level
-  _/newyorkcelebratesbu content ;  # top-level
-  _/nox content ;  # top-level
-  _/nonprofitmba content ;  # top-level
-  _/north-campus content ;  # top-level
-  _/northmba content ;  # top-level
-  _/northcampus content ;  # top-level
-  _/nrotc content ;  # top-level
-  _/npl content ;  # top-level
-  _/nseg content ;  # top-level
-  _/accreditation content ;  # top-level
-  _/acoustics content ;  # top-level
-  _/acs content ;  # top-level
-  _/academy content ;  # top-level
-  _/actforhealth content ;  # top-level
-  _/aclonline content ;  # top-level
-  _/acor content ;  # top-level
-  _/academics/archive content ;  #
-  _/actuary content ;  # top-level
-  _/act content ;  # top-level
-  _/academics-archive content ;  # top-level
-  _/awrecentgrads content ;  # top-level
-  _/anatneuro content ;  # top-level
-  _/analytical-core content ;  # top-level
-  _/answers content ;  # top-level
-  _/animal content ;  # top-level
-  _/annualfund content ;  # top-level
-  _/anep content ;  # top-level
-  _/anatomy content ;  # top-level
-  _/anajam content ;  # top-level
-  _/annualfundroster content ;  # top-level
-  _/anxiety content ;  # top-level
-  _/annualgiving content ;  # top-level
-  _/aaastudy content ;  # top-level
-  _/ame content ;  # top-level
-  _/amp content ;  # top-level
-  _/amplab content ;  # top-level
-  _/avl content ;  # top-level
-  _/avtonkov-today2 content ;  # top-level
-  _/av content ;  # top-level
-  _/airo content ;  # top-level
-  _/aig content ;  # top-level
-  _/aias content ;  # top-level
-  _/aegdalumnidinner content ;  # top-level
-  _/aemdprl content ;  # top-level
-  _/aeacus content ;  # top-level
-  _/aodhealth/wp-assets content ;  #
-  _/ar content ;  # top-level
-  _/arion/wp-assets content ;  #
-  _/arion/forms content ;  #
-  _/arn content ;  # top-level
-  _/arche content ;  # top-level
-  _/artaid content ;  # top-level
-  _/armyrotc content ;  # top-level
-  _/armenia content ;  # top-level
-  _/arlington content ;  # top-level
-  _/ars content ;  # top-level
-  _/archsci content ;  # top-level
-  _/army content ;  # top-level
-  _/archive-vista content ;  # top-level
-  _/artsaid content ;  # top-level
-  _/artslive content ;  # top-level
-  _/arthritis-center content ;  # top-level
-  _/archives content ;  # top-level
-  _/ag content ;  # top-level
-  _/agganisbackup content ;  # top-level
-  _/agganis content ;  # top-level
-  _/agni content ;  # top-level
-  _/af-rotc content ;  # top-level
-  _/afox content ;  # top-level
-  _/africa/wp-assets content ;  #
-  _/africa/publication-assets content ;  #
-  _/afr content ;  # top-level
-  _/alumnicollege content ;  # top-level
-  _/albert content ;  # top-level
-  _/alzresearch/wp-assets content ;  #
-  _/alumni-forms content ;  # top-level
-  _/alumnicenter content ;  # top-level
-  _/alumniweekend content ;  # top-level
-  _/alistaircooke content ;  # top-level
-  _/alert content-nocache ;  # top-level
-  _/alumnirelations content ;  # top-level
-  _/alumni/images content ;  #
-  _/alumni/common content ;  #
-  _/alcoholeducationforyouth content ;  # top-level
-  _/aldolase content ;  # top-level
-  _/aphasia content ;  # top-level
-  _/apreso content ;  # top-level
-  _/aparc content ;  # top-level
-  _/apc content ;  # top-level
-  _/apply content ;  # top-level
-  _/ap/wp-assets content ;  #
-  _/apps-rewrite content ;  # top-level
-  _/api content ;  # top-level
-  _/atttend content ;  # top-level
-  _/attend content ;  # top-level
-  _/attention content ;  # top-level
-  _/athletics content ;  # top-level
-  _/atssa content ;  # top-level
-  _/athchallenge content ;  # top-level
-  _/asor content ;  # top-level
-  _/assistive_technology content ;  # top-level
-  _/asllrp content ;  # top-level
-  _/asianalumni content ;  # top-level
-  _/assist_tech content ;  # top-level
-  _/astronomy/ast_display content ;  #
-  _/astronomy/wp-assets content ;  #
-  _/astronomy/visualizations content ;  #
-  _/ascend content ;  # top-level
-  _/advancement content ;  # top-level
-  _/addictions/wp-assets content ;  #
-  _/addiction content ;  # top-level
-  _/admissionsstatic content ;  # top-level
-  _/adlab content ;  # top-level
-  _/admissions/telegraph content ;  # top-level
-  _/admissions/applicantlink content ;  # top-level
-  _/admissions wordpress ;  # top-level
-  _/auctions content ;  # top-level
+  #_/nisdev content ;
+  _/nightingale content ;
+  _/niteo content ;
+  _/nisguide content ;
+  _/nisprod content ;
+  _/nisprojects content ;
+  _/nis content ;
+  _/neurorehabilitationlab content ;
+  _/newswire content ;
+  _/newindex4.html content ;
+  _/neuroengineering content ;
+  _/newmedia content ;
+  _/netreg content ;
+  _/neurorehab/wp-assets content ;
+  _/neural content ;
+  _/newyear content ;
+  _/newman content ;
+  _/nexus content ;
+  _/newindex3.html content ;
+  _/newindex2.html content ;
+  _/newindex.html content ;
+  _/nems content ;
+  _/newyorkeveningwithbu content ;
+  _/new2bu content ;
+  _/neuromusculardisease content ;
+  _/newyorkcelebratesbu content ;
+  _/nox content ;
+  _/nonprofitmba content ;
+  _/north-campus content ;
+  _/northmba content ;
+  _/northcampus content ;
+  _/nrotc content ;
+  _/npl content ;
+  _/nseg content ;
+  _/accreditation content ;
+  _/acoustics content ;
+  _/acs content ;
+  _/academy content ;
+  _/actforhealth content ;
+  _/aclonline content ;
+  _/acor content ;
+  _/academics/archive content ;
+  _/actuary content ;
+  _/act content ;
+  _/academics-archive content ;
+  _/awrecentgrads content ;
+  _/anatneuro content ;
+  _/analytical-core content ;
+  _/answers content ;
+  _/animal content ;
+  _/annualfund content ;
+  _/anep content ;
+  _/anatomy content ;
+  _/anajam content ;
+  _/annualfundroster content ;
+  _/anxiety content ;
+  _/annualgiving content ;
+  _/aaastudy content ;
+  _/ame content ;
+  _/amp content ;
+  _/amplab content ;
+  _/avl content ;
+  _/avtonkov-today2 content ;
+  _/av content ;
+  _/airo content ;
+  _/aig content ;
+  _/aias content ;
+  _/aegdalumnidinner content ;
+  _/aemdprl content ;
+  _/aeacus content ;
+  _/aodhealth/wp-assets content ;
+  _/ar content ;
+  _/arion/wp-assets content ;
+  _/arion/forms content ;
+  _/arn content ;
+  _/arche content ;
+  _/artaid content ;
+  _/armyrotc content ;
+  _/armenia content ;
+  _/arlington content ;
+  _/ars content ;
+  _/archsci content ;
+  _/army content ;
+  _/archive-vista content ;
+  _/artsaid content ;
+  _/artslive content ;
+  _/arthritis-center content ;
+  _/archives content ;
+  _/ag content ;
+  _/agganisbackup content ;
+  _/agganis content ;
+  _/agni content ;
+  _/af-rotc content ;
+  _/afox content ;
+  _/africa/wp-assets content ;
+  _/africa/publication-assets content ;
+  _/afr content ;
+  _/alumnicollege content ;
+  _/albert content ;
+  _/alzresearch/wp-assets content ;
+  _/alumni-forms content ;
+  _/alumnicenter content ;
+  _/alumniweekend content ;
+  _/alistaircooke content ;
+  _/alert content-nocache ;
+  _/alumnirelations content ;
+  _/alumni/images content ;
+  _/alumni/common content ;
+  _/alcoholeducationforyouth content ;
+  _/aldolase content ;
+  _/aphasia content ;
+  _/apreso content ;
+  _/aparc content ;
+  _/apc content ;
+  _/apply content ;
+  _/ap/wp-assets content ;
+  _/apps-rewrite content ;
+  _/api content ;
+  _/atttend content ;
+  _/attend content ;
+  _/attention content ;
+  _/athletics content ;
+  _/atssa content ;
+  _/athchallenge content ;
+  _/asor content ;
+  _/assistive_technology content ;
+  _/asllrp content ;
+  _/asianalumni content ;
+  _/assist_tech content ;
+  _/astronomy/ast_display content ;
+  _/astronomy/wp-assets content ;
+  _/astronomy/visualizations content ;
+  _/ascend content ;
+  _/advancement content ;
+  _/addictions/wp-assets content ;
+  _/addiction content ;
+  _/admissionsstatic content ;
+  _/adlab content ;
+  _/admissions/telegraph content ;
+  _/admissions/applicantlink content ;
+  _/admissions wordpress ;
+  _/auctions content ;
   _/auth-test content ; #top-level for authentication load test
-  _/auckland content ;  # top-level
-  _/aux content ;  # top-level
-  _/abl content ;  # top-level
-  _/aboutcgs content ;  # top-level
-  _/abroad/wp-assets content ;  #
-  _/abroad-dublin content ;  # top-level
-  _/abroad2 content ;  # top-level
-  _/abroadatbu content ;  # top-level
-  _/mzank content ;  # top-level
-  _/mcinnes content ;  # top-level
-  _/mcapr content ;  # top-level
-  _/mch content ;  # top-level
-  _/myprint content ;  # top-level
-  _/myopathy content ;  # top-level
-  _/myocardial content ;  # top-level
-  _/mygift content ;  # top-level
-  _/mybuphone content ;  # top-level
-  _/mycvsupport content ;  # top-level
-  _/mybu content ;  # top-level
-  _/mybuworks content ;  # top-level
-  _/mycv content ;  # top-level
-  _/mybuworks-sandbox content ;  # top-level
-  _/myhousing content ;  # top-level
-  _/mathfn content ;  # top-level
-  _/mag content ;  # top-level
-  _/marketsandpolicy content ;  # top-level
-  _/marshgiving content ;  # top-level
-  _/management-old content ;  # top-level
-  _/matthies content ;  # top-level
-  _/mattdm content ;  # top-level
-  _/marshplaza content ;  # top-level
-  _/map content ;  # top-level
-  _/marks-test-blog3 content ;  # top-level
-  _/machozi content ;  # top-level
+  _/auckland content ;
+  _/aux content ;
+  _/abl content ;
+  _/aboutcgs content ;
+  _/abroad/wp-assets content ;
+  _/abroad-dublin content ;
+  _/abroad2 content ;
+  _/abroadatbu content ;
+  _/mzank content ;
+  _/mcinnes content ;
+  _/mcapr content ;
+  _/mch content ;
+  _/myprint content ;
+  _/myopathy content ;
+  _/myocardial content ;
+  _/mygift content ;
+  _/mybuphone content ;
+  _/mycvsupport content ;
+  _/mybu content ;
+  _/mybuworks content ;
+  _/mycv content ;
+  _/mybuworks-sandbox content ;
+  _/myhousing content ;
+  _/mathfn content ;
+  _/mag content ;
+  _/marketsandpolicy content ;
+  _/marshgiving content ;
+  _/management-old content ;
+  _/matthies content ;
+  _/mattdm content ;
+  _/marshplaza content ;
+  _/map content ;
+  _/marks-test-blog3 content ;
+  _/machozi content ;
   # using entry pointing to phpbin at the top of the file
-  #_/maps content ;  # top-level
-  _/management content ;  # top-level
-  _/marcom/stationery content ;  #
-  _/marcom/email content ;  #
-  _/marcom/html-emails content ;  #
-  _/marcom/formswritable content ;  #
-  _/marcom/downloads content ;  #
-  _/marcom/president content ;  #
-  _/marcom/projects content ;  #
-  _/madlab content ;  # top-level
-  _/masscoalitionfororalhealth content ;  # top-level
-  _/marks-test content ;  # top-level
-  _/makeagift content ;  # top-level
-  _/make content ;  # top-level
-  _/marks-test-blog content ;  # top-level
-  _/marsh content ;  # top-level
-  _/math/wp-assets content ;  #
-  _/mathfinance content ;  # top-level
-  _/marks-test-blog2 content ;  # top-level
-  _/mathematicseducation content ;  # top-level
-  _/masstwins content ;  # top-level
-  _/mahoa content ;  # top-level
-  _/marketplaceinfo content ;  # top-level
-  _/mathfinanceconference content ;  # top-level
-  _/masterit content ;  # top-level
-  _/match content ;  # top-level
-  _/management-event content ;  # top-level
-  _/maci content ;  # top-level
-  _/maccp content ; # top-level
-  _/mvp content ;  # top-level
-  _/mhbm content ;  # top-level
-  _/millionhours content ;  # top-level
-  _/mille content ;  # top-level
-  _/minds content ;  # top-level
-  _/mickswan content ;  # top-level
-  _/midas content ;  # top-level
+  #_/maps content ;
+  _/management content ;
+  _/marcom/stationery content ;
+  _/marcom/email content ;
+  _/marcom/html-emails content ;
+  _/marcom/formswritable content ;
+  _/marcom/downloads content ;
+  _/marcom/president content ;
+  _/marcom/projects content ;
+  _/madlab content ;
+  _/masscoalitionfororalhealth content ;
+  _/marks-test content ;
+  _/makeagift content ;
+  _/make content ;
+  _/marks-test-blog content ;
+  _/marsh content ;
+  _/math/wp-assets content ;
+  _/mathfinance content ;
+  _/marks-test-blog2 content ;
+  _/mathematicseducation content ;
+  _/masstwins content ;
+  _/mahoa content ;
+  _/marketplaceinfo content ;
+  _/mathfinanceconference content ;
+  _/masterit content ;
+  _/match content ;
+  _/management-event content ;
+  _/maci content ;
+  _/maccp content ;
+  _/mvp content ;
+  _/mhbm content ;
+  _/millionhours content ;
+  _/mille content ;
+  _/minds content ;
+  _/mickswan content ;
+  _/midas content ;
   _/mini-mba content ;  # 2018-06-04 resync
-  _/militarynight content ;  # top-level
-  _/microscopylab content ;  # top-level
-  _/microarray content ;  # top-level
-  _/mih content ;  # top-level
-  _/microstratigraphy content ;  # top-level
-  _/medevents content ;  # top-level
-  _/mediatoday content ;  # top-level
-  _/medlibstaff content ;  # top-level
-  _/met50 content ;  # top-level
-  _/menorca content ;  # top-level
+  _/militarynight content ;
+  _/microscopylab content ;
+  _/microarray content ;
+  _/mih content ;
+  _/microstratigraphy content ;
+  _/medevents content ;
+  _/mediatoday content ;
+  _/medlibstaff content ;
+  _/met50 content ;
+  _/menorca content ;
   _/met-lp content ;  # 2018-06-04 resync
-  _/medfellowship content ;  # top-level
-  _/metfacultydevelopment content ;  # top-level
-  _/medclassnotes content ;  # top-level
-  _/mentoring content ;  # top-level
-  _/mediaguidebook content ;  # top-level
-  _/metadmin content ;  # top-level
-  _/medalum content ;  # top-level
-  _/metabolomics content ;  # top-level
-  _/medaw content ;  # top-level
-  _/medicine content ;  # top-level
-  _/messiaen content ;  # top-level
-  _/mec content ;  # top-level
-  _/mentalhealth content ;  # top-level
-  _/medschoolgradprograms content ;  # top-level
-  _/medenews content ;  # top-level
+  _/medfellowship content ;
+  _/metfacultydevelopment content ;
+  _/medclassnotes content ;
+  _/mentoring content ;
+  _/mediaguidebook content ;
+  _/metadmin content ;
+  _/medalum content ;
+  _/metabolomics content ;
+  _/medaw content ;
+  _/medicine content ;
+  _/messiaen content ;
+  _/mec content ;
+  _/mentalhealth content ;
+  _/medschoolgradprograms content ;
+  _/medenews content ;
   _/medstudy content ;  # 2018-06-04 resync
-  _/metro content ;  # top-level
-  _/meller content ;  # top-level
-  _/medschool content ;  # top-level
-  _/met/common content ;  #
+  _/metro content ;
+  _/meller content ;
+  _/medschool content ;
+  _/met/common content ;
   _/met/events content ;  # 2018-06-04 resync
-  _/met/advertising content ;  #
-  _/met/linkedin content ;  #
-  _/met/elive content ;  #
-  _/met/htmlemail content ;  #
-  _/met/output content ;  #
-  _/met/northcampus content ;  #
-  _/met/homepage content ;  #
-  _/met/pm content ;  #
-  _/met/shared content ;  #
-  _/met/ads content ;  #
-  _/met/forbes content ;  #
-  _/met/msmonline content ;  #
-  _/met/acela content ;  #
-  _/met/event-calendar content ;  #
+  _/met/advertising content ;
+  _/met/linkedin content ;
+  _/met/elive content ;
+  _/met/htmlemail content ;
+  _/met/output content ;
+  _/met/northcampus content ;
+  _/met/homepage content ;
+  _/met/pm content ;
+  _/met/shared content ;
+  _/met/ads content ;
+  _/met/forbes content ;
+  _/met/msmonline content ;
+  _/met/acela content ;
+  _/met/event-calendar content ;
   # NGINX map entries are not case sensitive so we need to comment out one of the USA/usa
-  #_/met/USA content ;  #
-  _/met/50 content ;  #
-  _/met/usa content ;  #
-  _/met/grad11 content ;  #
-  _/met/bestofboston content ;  #
-  _/met/health-it content ;  #
-  _/met/pmi content ;  #
-  _/met/yellowpages content ;  #
-  _/met/audio content ;  #
-  _/met/landing-pages content ;  #
+  #_/met/USA content ;
+  _/met/50 content ;
+  _/met/usa content ;
+  _/met/grad11 content ;
+  _/met/bestofboston content ;
+  _/met/health-it content ;
+  _/met/pmi content ;
+  _/met/yellowpages content ;
+  _/met/audio content ;
+  _/met/landing-pages content ;
   # NGINX map entries are not case sensitive so we need to comment out one of them
-  #_/met/Agganis content ;  #
-  _/met/web content ;  #
+  #_/met/Agganis content ;
+  _/met/web content ;
   # NGINX map entries are not case sensitive so we need to comment out one of them
-  #_/met/Acela content ;  #
-  _/met/magazine content ;  #
-  _/met/mag content ;  #
-  _/met/email-campaign content ;  #
-  _/met/merry content ;  #
-  _/met/commencement-photos-login content ;  #
-  _/met/apply content ;  #
-  _/met/agganis content ;  #
-  _/metropolitan content ;  # top-level
-  _/medalumni content ;  # top-level
-  _/metit/wp-assets content ;  #
-  _/medstures content ;  # top-level
-  _/mentornet content ;  # top-level
-  _/metinternational/registration content ;  #
-  _/metinternational/application content ;  #
-  _/metinternational/dual-degree-application content ;  #
-  _/metinternational/degree-pathway-application content ;  #
-  _/mkramer content ;  # top-level
-  _/moreinfo content ;  # top-level
-  _/modern-med content ;  # top-level
-  _/mobile content ;  # top-level
-  _/morin content ;  # top-level
-  _/move-out content ;  # top-level
-  _/modl content ;  # top-level
-  _/mobile-life-workshop content ;  # top-level
-  _/mobilelab content ;  # top-level
-  _/motives content ;  # top-level
-  _/moc content ;  # top-level
-  _/mgburns-medical content ;  # top-level
-  _/mfd content ;  # top-level
-  _/mfll content ;  # top-level
-  _/mfeldman content ;  # top-level
-  _/mlkjr content ;  # top-level
-  _/mlstaff content ;  # top-level
-  _/mlcl/placement content ;  #
-  _/mln content ;  # top-level
-  _/mlv content ;  # top-level
-  _/mpact content ;  # top-level
-  _/msim content ;  # top-level
-  _/msms content ;  # top-level
-  _/msmsinfo content ;  # top-level
-  _/msadvertising content ;  # top-level
-  _/msmsin9 content ;  # top-level
-  _/mspring content ;  # top-level
-  _/mscasecomp content ;  # top-level
-  _/msphotonics content ;  # top-level
-  _/msmf content ;  # top-level
-  _/msmba content ;  # top-level
-  _/mslade-test content ;  # top-level
-  _/mdparents content ;  # top-level
-  _/mdowney content ;  # top-level
-  _/muedpolicyproject content ;  # top-level
-  _/multimediapoet content ;  # top-level
-  _/mugarlab content ;  # top-level
-  _/muhlbergerlab content ;  # top-level
-  _/mbta content ;  # top-level
-  _/mbabu content ;  # top-level
-  _/mba2010 content ;  # top-level
-  _/mbanorth content ;  # top-level
-  _/mbafocus content ;  # top-level
-  _/mba-connect content ;  # top-level
-  _/mba-programs content ;  # top-level
-  _/mbasession content ;  # top-level
-  _/mba-ga content ;  # top-level
-  _/mba-finance content ;  # top-level
-  _/mbanext content ;  # top-level
-  _/mbalunch content ;  # top-level
-  _/mba-event content ;  # top-level
-  _/mba-apply content ;  # top-level
-  _/mba-guide content ;  # top-level
-  _/mbamph content ;  # top-level
-  _/mba-essays content ;  # top-level
-  _/mba content ;  # top-level
-  _/mba-facts content ;  # top-level
+  #_/met/Acela content ;
+  _/met/magazine content ;
+  _/met/mag content ;
+  _/met/email-campaign content ;
+  _/met/merry content ;
+  _/met/commencement-photos-login content ;
+  _/met/apply content ;
+  _/met/agganis content ;
+  _/metropolitan content ;
+  _/medalumni content ;
+  _/metit/wp-assets content ;
+  _/medstures content ;
+  _/mentornet content ;
+  _/metinternational/registration content ;
+  _/metinternational/application content ;
+  _/metinternational/dual-degree-application content ;
+  _/metinternational/degree-pathway-application content ;
+  _/mkramer content ;
+  _/moreinfo content ;
+  _/modern-med content ;
+  _/mobile content ;
+  _/morin content ;
+  _/move-out content ;
+  _/modl content ;
+  _/mobile-life-workshop content ;
+  _/mobilelab content ;
+  _/motives content ;
+  _/moc content ;
+  _/mgburns-medical content ;
+  _/mfd content ;
+  _/mfll content ;
+  _/mfeldman content ;
+  _/mlkjr content ;
+  _/mlstaff content ;
+  _/mlcl/placement content ;
+  _/mln content ;
+  _/mlv content ;
+  _/mpact content ;
+  _/msim content ;
+  _/msms content ;
+  _/msmsinfo content ;
+  _/msadvertising content ;
+  _/msmsin9 content ;
+  _/mspring content ;
+  _/mscasecomp content ;
+  _/msphotonics content ;
+  _/msmf content ;
+  _/msmba content ;
+  _/mslade-test content ;
+  _/mdparents content ;
+  _/mdowney content ;
+  _/muedpolicyproject content ;
+  _/multimediapoet content ;
+  _/mugarlab content ;
+  _/muhlbergerlab content ;
+  _/mbta content ;
+  _/mbabu content ;
+  _/mba2010 content ;
+  _/mbanorth content ;
+  _/mbafocus content ;
+  _/mba-connect content ;
+  _/mba-programs content ;
+  _/mbasession content ;
+  _/mba-ga content ;
+  _/mba-finance content ;
+  _/mbanext content ;
+  _/mbalunch content ;
+  _/mba-event content ;
+  _/mba-apply content ;
+  _/mba-guide content ;
+  _/mbamph content ;
+  _/mba-essays content ;
+  _/mba content ;
+  _/mba-facts content ;
   _/28qatest content ;  # 2018-06-04 resync
   _/25000 content ;  # 2018-06-04 resync
   _/200word content ;  # 2018-06-04 resync
-  _/qa-2 content ;  # top-level
-  _/qatest28 content ;  # top-level
-  _/qa-3 content ;  # top-level
-  _/qa-4 content ;  # top-level
-  _/qale content ;  # top-level
-  _/qil content ;  # top-level
-  _/qtencoder content ;  # top-level
-  _/qtencodersdp content ;  # top-level
-  _/qsb content ;  # top-level
-  _/qst content ;  # top-level
-  _/questrom/secure content ;  #
-  _/questrom/its-docs content ;  #
-  _/quito content ;  # top-level
-  _/quickpolls content ;  # top-level
-  _/quantumconcepts content ;  # top-level
-  _/questromcareerlink content ;  # top-level
-  _/qualtrics content ;  # top-level
-  _/questromeval content ;  # top-level
-  _/quantum content ;  # top-level
-  _/quitnet content ;  # top-level
-  _/vcb content ;  # top-level
-  _/vnns content ;  # top-level
-  _/vangons content ;  # top-level
-  _/vista-archive content ;  # top-level
-  _/virtualpatient content ;  # top-level
-  _/visit content ;  # top-level
-  _/video content ;  # top-level
-  _/vip content ;  # top-level
-  _/vista content ;  # top-level
-  _/vending/documents content ;  #
-  _/vrc content ;  # top-level
-  _/vpdos content ;  # top-level
-  _/hj2013 content ;  # top-level
-  _/hcep content ;  # top-level
-  _/hydrology content ;  # top-level
-  _/haneke content ;  # top-level
-  _/haydn content ;  # top-level
-  _/hagen content ;  # top-level
-  _/halloween content ;  # top-level
-  _/haydarlab content ;  # top-level
-  _/hasselmo content ;  # top-level
-  _/hariri content ;  # top-level
-  _/hilleldining content ;  # top-level
-  _/histology content ;  # top-level
-  _/hipart content ;  # top-level
-  _/hiccse content ;  # top-level
-  _/high-throughput content ;  # top-level
-  _/history/gradconference content ;  #
-  _/history/APHI content ;  #
-  _/history/apps content ;  #
-  _/hi content ;  # top-level
-  _/historic content ;  # top-level
-  _/helpinfo content ;  # top-level
-  _/healthmba content ;  # top-level
-  _/healthfit content ;  # top-level
-  _/hem-masters content ;  # top-level
-  _/healthyminds content ;  # top-level
-  _/healthmatters content ;  # top-level
-  _/healthconnection content ;  # top-level
-  _/herbalstudy content ;  # top-level
-  _/help content ;  # top-level
-  _/home-media content ;  # top-level
-  _/hotelcommonwealth content ;  # top-level
-  _/housing2010 content ;  # top-level
-  _/hospitality/revenator content ;  #
-  _/hospitality/wp-assets content ;  #
-  _/hoarding content ;  # top-level
-  _/hockeygolf content ;  # top-level
-  _/homepage content ;  # top-level
-  _/home aws_home ;  # top-level
-  _/holmul content ;  # top-level
-  _/honordeanmeenan content ;  # top-level
-  _/homecoming content ;  # top-level
-  _/honordeanwells content ;  # top-level
+  _/qa-2 content ;
+  _/qatest28 content ;
+  _/qa-3 content ;
+  _/qa-4 content ;
+  _/qale content ;
+  _/qil content ;
+  _/qtencoder content ;
+  _/qtencodersdp content ;
+  _/qsb content ;
+  _/qst content ;
+  _/questrom/secure content ;
+  _/questrom/its-docs content ;
+  _/quito content ;
+  _/quickpolls content ;
+  _/quantumconcepts content ;
+  _/questromcareerlink content ;
+  _/qualtrics content ;
+  _/questromeval content ;
+  _/quantum content ;
+  _/quitnet content ;
+  _/vcb content ;
+  _/vnns content ;
+  _/vangons content ;
+  _/vista-archive content ;
+  _/virtualpatient content ;
+  _/visit content ;
+  _/video content ;
+  _/vip content ;
+  _/vista content ;
+  _/vending/documents content ;
+  _/vrc content ;
+  _/vpdos content ;
+  _/hj2013 content ;
+  _/hcep content ;
+  _/hydrology content ;
+  _/haneke content ;
+  _/haydn content ;
+  _/hagen content ;
+  _/halloween content ;
+  _/haydarlab content ;
+  _/hasselmo content ;
+  _/hariri content ;
+  _/hilleldining content ;
+  _/histology content ;
+  _/hipart content ;
+  _/hiccse content ;
+  _/high-throughput content ;
+  _/history/gradconference content ;
+  _/history/APHI content ;
+  _/history/apps content ;
+  _/hi content ;
+  _/historic content ;
+  _/helpinfo content ;
+  _/healthmba content ;
+  _/healthfit content ;
+  _/hem-masters content ;
+  _/healthyminds content ;
+  _/healthmatters content ;
+  _/healthconnection content ;
+  _/herbalstudy content ;
+  _/help content ;
+  _/home-media content ;
+  _/hotelcommonwealth content ;
+  _/housing2010 content ;
+  _/hospitality/revenator content ;
+  _/hospitality/wp-assets content ;
+  _/hoarding content ;
+  _/hockeygolf content ;
+  _/homepage content ;
+  _/home aws_home ;
+  _/holmul content ;
+  _/honordeanmeenan content ;
+  _/homecoming content ;
+  _/honordeanwells content ;
   _/holickehlersdanlosfund content ;  # 2018-06-04 resync
-  _/homeimages content ;  # top-level
-  _/homepage2 content ;  # top-level
-  _/hr/flash content ;  #
-  _/hr/articulate content ;  #
-  _/hr/documents content ;  #
-  _/hre content ;  # top-level
-  _/hghrstudies content ;  # top-level
-  _/hprp content ;  # top-level
-  _/hpcworkshop content ;  # top-level
-  _/hpl content ;  # top-level
-  _/hts-core content ;  # top-level
-  _/htc content ;  # top-level
-  _/htbin.ph content ;  # top-level
+  _/homeimages content ;
+  _/homepage2 content ;
+  _/hr/flash content ;
+  _/hr/articulate content ;
+  _/hr/documents content ;
+  _/hre content ;
+  _/hghrstudies content ;
+  _/hprp content ;
+  _/hpcworkshop content ;
+  _/hpl content ;
+  _/hts-core content ;
+  _/htc content ;
+  _/htbin.ph content ;
 ##TODO: get phpmap entry for html-email and put in separate file
-  _/htmg content ;  # top-level
-  _/hdhd content ;  # top-level
-  _/hdgolf content ;  # top-level
-  _/hdr content ;  # top-level
-  _/hdwg content ;  # top-level
-  _/humanitiesforum content ;  # top-level
-  _/huntington content ;  # top-level
-  _/humandevelopment content ;  # top-level
-  _/humanitiesforums content ;  # top-level
-  _/icshm content ;  # top-level
-  _/ict content ;  # top-level
-  _/icce15 content ;  # top-level
-  _/ice content ;  # top-level
-  _/icons content ;  # top-level
-  _/integrativemed content ;  # top-level
-  _/inst-tech content ;  # top-level
-  _/interactive-design/resources content ;  #
-  _/interactive-design/2 content ;  #
-  _/interactive-design/exported content ;  #
-  _/interv content ;  # top-level
-  _/index2.html content ;  # top-level
-  _/investigate content ;  # top-level
-  _/index.html aws_home_index ;  # top-level
-  _/integratedmed content ;  # top-level
-  _/inaugural content ;  # top-level
-  _/info/downloads content ;  #
-  _/inml content ;  # top-level
-  _/inmlcfp content ;  # top-level
-  _/infancp content ;  # top-level
-  _/index99.html content ;  # top-level
-  _/internal-research content ;  # top-level
-  _/inauguration content ;  # top-level
-  _/index3.html content ;  # top-level
-  _/interactive content ;  # top-level
-  _/insidecampaign content ;  # top-level
-  _/infocenter content ;  # top-level
-  _/intracghd content ;  # top-level
-  _/injurypsychology content ;  # top-level
-  _/inmlprograms content ;  # top-level
-  _/inmlcore content ;  # top-level
-  _/investinprevention content ;  # top-level
-  _/investinginprevention content ;  # top-level
-  _/indigobirds content ;  # top-level
-  _/iaen content ;  # top-level
-  _/iaj content ;  # top-level
-  _/impact content ;  # top-level
-  _/im-intranet content ;  # top-level
-  _/im-residency content ;  # top-level
-  _/immunohistochemistry-core content ;  # top-level
-  _/images content ;  # top-level
-  _/impac content ;  # top-level
-  _/ivcf content ;  # top-level
-  _/ihp content ;  # top-level
-  _/ihs content ;  # top-level
-  _/iip content ;  # top-level
-  _/ionchannelcalcium content ;  # top-level
+  _/htmg content ;
+  _/hdhd content ;
+  _/hdgolf content ;
+  _/hdr content ;
+  _/hdwg content ;
+  _/humanitiesforum content ;
+  _/huntington content ;
+  _/humandevelopment content ;
+  _/humanitiesforums content ;
+  _/icshm content ;
+  _/ict content ;
+  _/icce15 content ;
+  _/ice content ;
+  _/icons content ;
+  _/integrativemed content ;
+  _/inst-tech content ;
+  _/interactive-design/resources content ;
+  _/interactive-design/2 content ;
+  _/interactive-design/exported content ;
+  _/interv content ;
+  _/index2.html content ;
+  _/investigate content ;
+  _/index.html aws_home_index ;
+  _/integratedmed content ;
+  _/inaugural content ;
+  _/info/downloads content ;
+  _/inml content ;
+  _/inmlcfp content ;
+  _/infancp content ;
+  _/index99.html content ;
+  _/internal-research content ;
+  _/inauguration content ;
+  _/index3.html content ;
+  _/interactive content ;
+  _/insidecampaign content ;
+  _/infocenter content ;
+  _/intracghd content ;
+  _/injurypsychology content ;
+  _/inmlprograms content ;
+  _/inmlcore content ;
+  _/investinprevention content ;
+  _/investinginprevention content ;
+  _/indigobirds content ;
+  _/iaen content ;
+  _/iaj content ;
+  _/impact content ;
+  _/im-intranet content ;
+  _/im-residency content ;
+  _/immunohistochemistry-core content ;
+  _/images content ;
+  _/impac content ;
+  _/ivcf content ;
+  _/ihp content ;
+  _/ihs content ;
+  _/iip content ;
+  _/ionchannelcalcium content ;
   _/i3e-ac content ;  # 2018-06-04 resync
-  _/irc content ;  # top-level
-  _/ircenter content ;  # top-level
-  _/iraopportunity content ;  # top-level
-  _/irwa content ;  # top-level
-  _/irafa content ;  # top-level
-  _/irsd content ;  # top-level
-  _/igert content ;  # top-level
-  _/igsw-register content ;  # top-level
-  _/igsw content ;  # top-level
-  _/ipe content ;  # top-level
-  _/iphone content ;  # top-level
-  _/ipcp content ;  # top-level
-  _/ipl content ;  # top-level
-  _/itunesu content ;  # top-level
-  _/ithelp content ;  # top-level
-  _/itcommon content ;  # top-level
-  _/it content ;  # top-level
-  _/italian content ;  # top-level
-  _/it-commons content ;  # top-level
-  _/itrp content ;  # top-level
-  _/it_front_office content ;  # top-level
-  _/itunes content ;  # top-level
-  _/istnews content ;  # top-level
-  _/isi content ;  # top-level
-  _/ist-sa content ;  # top-level
-  _/isec content ;  # top-level
-  _/isso/wp-assets content ;  #
-  _/iscip content ;  # top-level
-  _/ist-automation content ;  # top-level
-  _/ist content ;  # top-level
-  _/isic content ;  # top-level
-  _/isps content ;  # top-level
-  _/id content ;  # top-level
-  _/idp content ;  # top-level
-  _/ezproxy content ;  # top-level
-  _/echu content ;  # top-level
-  _/ecrop content ;  # top-level
-  _/ecologyonline content ;  # top-level
-  _/econ/RePEc content ;  #
-  _/ece-clotho content ;  # top-level
-  _/ecofest content ;  # top-level
-  _/ecllscholarship content ;  # top-level
-  _/ece-cidar content ;  # top-level
-  _/econometrics content ;  # top-level
-  _/execmba content ;  # top-level
-  _/exerciseandcancer content ;  # top-level
-  _/exec content ;  # top-level
-  _/experience-room content ;  # top-level
+  _/irc content ;
+  _/ircenter content ;
+  _/iraopportunity content ;
+  _/irwa content ;
+  _/irafa content ;
+  _/irsd content ;
+  _/igert content ;
+  _/igsw-register content ;
+  _/igsw content ;
+  _/ipe content ;
+  _/iphone content ;
+  _/ipcp content ;
+  _/ipl content ;
+  _/itunesu content ;
+  _/ithelp content ;
+  _/itcommon content ;
+  _/it content ;
+  _/italian content ;
+  _/it-commons content ;
+  _/itrp content ;
+  _/it_front_office content ;
+  _/itunes content ;
+  _/istnews content ;
+  _/isi content ;
+  _/ist-sa content ;
+  _/isec content ;
+  _/isso/wp-assets content ;
+  _/iscip content ;
+  _/ist-automation content ;
+  _/ist content ;
+  _/isic content ;
+  _/isps content ;
+  _/id content ;
+  _/idp content ;
+  _/ezproxy content ;
+  _/echu content ;
+  _/ecrop content ;
+  _/ecologyonline content ;
+  _/econ/RePEc content ;
+  _/ece-clotho content ;
+  _/ecofest content ;
+  _/ecllscholarship content ;
+  _/ece-cidar content ;
+  _/econometrics content ;
+  _/execmba content ;
+  _/exerciseandcancer content ;
+  _/exec content ;
+  _/experience-room content ;
   _/explore phpbin ;
 ##TODO: get phpmap entry for explore and put in separate file
-  _/execed content ;  # top-level
-  _/exed content ;  # top-level
-  _/extended content ;  # top-level
-  _/explorations content ;  # top-level
-  _/executivemba content ;  # top-level
-  _/experience content ;  # top-level
-  _/exchange content ;  # top-level
-  _/excellence content ;  # top-level
-  _/executivevp content ;  # top-level
-  _/encoder content ;  # top-level
+  _/execed content ;
+  _/exed content ;
+  _/extended content ;
+  _/explorations content ;
+  _/executivemba content ;
+  _/experience content ;
+  _/exchange content ;
+  _/excellence content ;
+  _/executivevp content ;
+  _/encoder content ;
   _/execemf content ;  # 2018-06-04 resync
-  _/energytransitions content ;  # top-level
-  _/environment content ;  # top-level
-  _/entrepreneurship content ;  # top-level
-  _/enrsa content ;  # top-level
-  _/eng/magmodel content ;  #
+  _/energytransitions content ;
+  _/environment content ;
+  _/entrepreneurship content ;
+  _/enrsa content ;
+  _/eng/magmodel content ;
   _/eng/wp-assets content ;  # 2018-06-04 resync
-  _/enact/wp-assets content ;  #
-  _/eas content ;  # top-level
-  _/earthhouse content ;  # top-level
-  _/embafaculty content ;  # top-level
-  _/emba09 content ;  # top-level
-  _/emba-facts content ;  # top-level
-  _/emoc content ;  # top-level
-  _/emf content ;  # top-level
-  _/eml content ;  # top-level
-  _/emermgmt content ;  # top-level
-  _/emba22 content ;  # top-level
-  _/emba1 content ;  # top-level
-  _/embainfo content ;  # top-level
-  _/emba content ;  # top-level
-  _/emergingmedia content ;  # top-level
-  _/embacurriculum content ;  # top-level
-  _/events content ;  # top-level
-  _/evening-info content ;  # top-level
-  _/evp content ;  # top-level
-  _/evening content ;  # top-level
-  _/eveningmba content ;  # top-level
-  _/ehs-mobile-test content ;  # top-level
-  _/ehs-mc content ;  # top-level
-  _/ehsmc content ;  # top-level
-  _/ehs/wp-assets content ;  #
-  _/eeef content ;  # top-level
-  _/ee content ;  # top-level
-  _/eeo content ;  # top-level
-  _/er content ;  # top-level
-  _/erp content ;  # top-level
-  _/egch content ;  # top-level
-  _/eforwarding content ;  # top-level
-  _/electric content ;  # top-level
-  _/eliewieselday content ;  # top-level
-  _/eliewieselarchive content ;  # top-level
-  _/eportfolio/wp-assets content ;  #
-  _/episcopal content ;  # top-level
-  _/etc content ;  # top-level
-  _/ethno content ;  # top-level
-  _/ethnomusicology content ;  # top-level
-  _/esa content ;  # top-level
-  _/escort content ;  # top-level
-  _/estateplanning content ;  # top-level
-  _/eso/wp-assets content ;  #
-  _/eso/academic-data-warehouse content ;  #
-  _/esl content ;  # top-level
+  _/enact/wp-assets content ;
+  _/eas content ;
+  _/earthhouse content ;
+  _/embafaculty content ;
+  _/emba09 content ;
+  _/emba-facts content ;
+  _/emoc content ;
+  _/emf content ;
+  _/eml content ;
+  _/emermgmt content ;
+  _/emba22 content ;
+  _/emba1 content ;
+  _/embainfo content ;
+  _/emba content ;
+  _/emergingmedia content ;
+  _/embacurriculum content ;
+  _/events content ;
+  _/evening-info content ;
+  _/evp content ;
+  _/evening content ;
+  _/eveningmba content ;
+  _/ehs-mobile-test content ;
+  _/ehs-mc content ;
+  _/ehsmc content ;
+  _/ehs/wp-assets content ;
+  _/eeef content ;
+  _/ee content ;
+  _/eeo content ;
+  _/er content ;
+  _/erp content ;
+  _/egch content ;
+  _/eforwarding content ;
+  _/electric content ;
+  _/eliewieselday content ;
+  _/eliewieselarchive content ;
+  _/eportfolio/wp-assets content ;
+  _/episcopal content ;
+  _/etc content ;
+  _/ethno content ;
+  _/ethnomusicology content ;
+  _/esa content ;
+  _/escort content ;
+  _/estateplanning content ;
+  _/eso/wp-assets content ;
+  _/eso/academic-data-warehouse content ;
+  _/esl content ;
   _/estateguide content ;  # 2018-06-04 resync
-  _/esf content ;  # top-level
-  _/education content ;  # top-level
-  _/eugene content ;  # top-level
-  _/eufutures content ;  # top-level
-  _/euforyou content ;  # top-level
-  _/ebrochures content ;  # top-level
-  _/kandarian content ;  # top-level
-  _/karystos content ;  # top-level
-  _/katkom content ;  # top-level
-  _/katrina content ;  # top-level
-  _/khalillab content ;  # top-level
-  _/kidsworld content ;  # top-level
-  _/kiosk content ;  # top-level
-  _/kidneypathlab content ;  # top-level
-  _/kerberos content ;  # top-level
-  _/kerberosonly content ;  # top-level
-  _/kenmore content ;  # top-level
-  _/kendall content ;  # top-level
-  _/krugman content ;  # top-level
-  _/kpw content ;  # top-level
-  _/ocn content ;  # top-level
-  _/ocs content ;  # top-level
-  _/onestop content ;  # top-level
-  _/online/static content ;  #
-  _/online-portal content ;  # top-level
-  _/onbase-ug/installer content ;  #
-  _/onbase-ug/training content ;  #
-  _/oas content ;  # top-level
-  _/oaa content ;  # top-level
-  _/oma content ;  # top-level
-  _/omc content ;  # top-level
-  _/om content ;  # top-level
-  _/ovc-care content ;  # top-level
-  _/oittest content ;  # top-level
-  _/oep content ;  # top-level
-  _/orcid content ;  # top-level
-  _/orc-temp content ;  # top-level
-  _/ortho content ;  # top-level
-  _/orpm content ;  # top-level
-  _/orl content ;  # top-level
-  _/ofa content ;  # top-level
-  _/offices content ;  # top-level
-  _/offcampus content ;  # top-level
-  _/office365 content ;  # top-level
-  _/old.law content ;  # top-level
-  _/opg content ;  # top-level
-  _/openaccess content ;  # top-level
-  _/ot content ;  # top-level
-  _/osf content ;  # top-level
-  _/osc content ;  # top-level
-  _/osfm content ;  # top-level
-  _/odsreunionsurvey content ;  # top-level
-  _/output content ;  # top-level
-  _/outreach content ;  # top-level
-  _/outdoor content ;  # top-level
-  _/obgyn content ;  # top-level
-  _/rcl content ;  # top-level
-  _/rc content ;  # top-level
-  _/rcrc content ;  # top-level
-  _/ryeany content ;  # top-level
-  _/rayleigh content ;  # top-level
-  _/raceto50 content ;  # top-level
-  _/raisethebar content ;  # top-level
-  _/ravidlab content ;  # top-level
-  _/rvs content ;  # top-level
-  _/rhett-talks content ;  # top-level
-  _/rize content ;  # top-level
-  _/rideshare content ;  # top-level
-  _/risk content ;  # top-level
-  _/richardgoldsteinlab content ;  # top-level
-  _/recycling content ;  # top-level
-  _/recording content ;  # top-level
-  _/realestate/panos content ;  #
-  _/researchcommittees content ;  # top-level
-  _/research-compliance content ;  # top-level
-  _/resilience content ;  # top-level
-  _/reg/common content ;  #
-  _/reg/information content ;  #
-  _/reg/graphics content ;  #
-  _/reg/gainful-employment content ;  #
-  _/reg/schedules content ;  #
-  _/recognizes content ;  # top-level
-  _/reply content ;  # top-level
-  _/receptions content ;  # top-level
-  _/reports content ;  # top-level
-  _/remotehelp content ;  # top-level
-  _/respectregistry content ;  # top-level
-  _/research-internal content ;  # top-level
-  _/reman content ;  # top-level
-  _/registrar content ;  # top-level
-  _/research-external content ;  # top-level
-  _/recentgrads content ;  # top-level
-  _/register content ;  # top-level
-  _/revpash content ;  # top-level
-  _/remember content ;  # top-level
-  _/retirement-dinner content ;  # top-level
-  _/retired content ;  # top-level
-  _/resnet content ;  # top-level
-  _/research/xml content ;  #
-  _/research/spotlight content ;  #
-  _/research/magazine content ;  #
-  _/research/wp-assets content ;  #
-  _/research/magazine2008 content ;  #
-  _/research/email content ;  #
-  _/research/careerfair2016 content ;  #
-  _/reunion content ;  # top-level
-  _/resources content ;  # top-level
-  _/robots.txt content ;  # top-level
-  _/roybal content ;  # top-level
-  _/roaric content ;  # top-level
-  _/ror content ;  # top-level
-  _/rosenbergarchive content ;  # top-level
-  _/rrtcout content ;  # top-level
-  _/rl content ;  # top-level
-  _/rpm/panos content ;  #
+  _/esf content ;
+  _/education content ;
+  _/eugene content ;
+  _/eufutures content ;
+  _/euforyou content ;
+  _/ebrochures content ;
+  _/kandarian content ;
+  _/karystos content ;
+  _/katkom content ;
+  _/katrina content ;
+  _/khalillab content ;
+  _/kidsworld content ;
+  _/kiosk content ;
+  _/kidneypathlab content ;
+  _/kerberos content ;
+  _/kerberosonly content ;
+  _/kenmore content ;
+  _/kendall content ;
+  _/krugman content ;
+  _/kpw content ;
+  _/ocn content ;
+  _/ocs content ;
+  _/onestop content ;
+  _/online/static content ;
+  _/online-portal content ;
+  _/onbase-ug/installer content ;
+  _/onbase-ug/training content ;
+  _/oas content ;
+  _/oaa content ;
+  _/oma content ;
+  _/omc content ;
+  _/om content ;
+  _/ovc-care content ;
+  _/oittest content ;
+  _/oep content ;
+  _/orcid content ;
+  _/orc-temp content ;
+  _/ortho content ;
+  _/orpm content ;
+  _/orl content ;
+  _/ofa content ;
+  _/offices content ;
+  _/offcampus content ;
+  _/office365 content ;
+  _/old.law content ;
+  _/opg content ;
+  _/openaccess content ;
+  _/ot content ;
+  _/osf content ;
+  _/osc content ;
+  _/osfm content ;
+  _/odsreunionsurvey content ;
+  _/output content ;
+  _/outreach content ;
+  _/outdoor content ;
+  _/obgyn content ;
+  _/rcl content ;
+  _/rc content ;
+  _/rcrc content ;
+  _/ryeany content ;
+  _/rayleigh content ;
+  _/raceto50 content ;
+  _/raisethebar content ;
+  _/ravidlab content ;
+  _/rvs content ;
+  _/rhett-talks content ;
+  _/rize content ;
+  _/rideshare content ;
+  _/risk content ;
+  _/richardgoldsteinlab content ;
+  _/recycling content ;
+  _/recording content ;
+  _/realestate/panos content ;
+  _/researchcommittees content ;
+  _/research-compliance content ;
+  _/resilience content ;
+  _/reg/common content ;
+  _/reg/information content ;
+  _/reg/graphics content ;
+  _/reg/gainful-employment content ;
+  _/reg/schedules content ;
+  _/recognizes content ;
+  _/reply content ;
+  _/receptions content ;
+  _/reports content ;
+  _/remotehelp content ;
+  _/respectregistry content ;
+  _/research-internal content ;
+  _/reman content ;
+  _/registrar content ;
+  _/research-external content ;
+  _/recentgrads content ;
+  _/register content ;
+  _/revpash content ;
+  _/remember content ;
+  _/retirement-dinner content ;
+  _/retired content ;
+  _/resnet content ;
+  _/research/xml content ;
+  _/research/spotlight content ;
+  _/research/magazine content ;
+  _/research/wp-assets content ;
+  _/research/magazine2008 content ;
+  _/research/email content ;
+  _/research/careerfair2016 content ;
+  _/reunion content ;
+  _/resources content ;
+  _/robots.txt content ;
+  _/roybal content ;
+  _/roaric content ;
+  _/ror content ;
+  _/rosenbergarchive content ;
+  _/rrtcout content ;
+  _/rl content ;
+  _/rpm/panos content ;
 ##TODO: get phpmap entry for rpm-agreements and put in separate file
 # skipping rp18p.GIF as we should only add the redirect2lower if necessary
-  _/rsg content ;  # top-level
-  _/rss content ;  # top-level
-  _/rdlewis content ;  # top-level
-  _/rbarnett content ;  # top-level
-  _/gcc content ;  # top-level
-  _/gyoung content ;  # top-level
-  _/galacticring content ;  # top-level
-  _/games content ;  # top-level
-  _/gastronomy content ;  # top-level
+  _/rsg content ;
+  _/rss content ;
+  _/rdlewis content ;
+  _/rbarnett content ;
+  _/gcc content ;
+  _/gyoung content ;
+  _/galacticring content ;
+  _/games content ;
+  _/gastronomy content ;
   # _/gmf content ;  # 2018-06-04 resync
-  _/gms content ;  # top-level
-  _/g2kge content ;  # top-level
-  _/ghi content ;  # top-level
-  _/ghpci content ;  # top-level
-  _/give content ;  # top-level
-  _/giving content ;  # top-level
-  _/givetohillel content ;  # top-level
-  _/givetobuti content ;  # top-level
-  _/give2cas content ;  # top-level
-  _/giftcalculator content ;  # top-level
-  _/givethepoint content ;  # top-level
-  _/givetowtbu content ;  # top-level
-  _/giveonline content ;  # top-level
-  _/giveclassgift content ;  # top-level
-  _/givesargent content ;  # top-level
-  _/gift content ;  # top-level
-  _/givingtuesday content ;  # top-level
-  _/givetobudt content ;  # top-level
-  _/givingsocieties content ;  # top-level
-  _/givetoday content ;  # top-level
-  _/givethroughbu content ;  # top-level
-  _/givetolaw content ;  # top-level
-  _/give2questrom content ;  # top-level
-  _/givingmatters content ;  # top-level
-  _/give2busm content ;  # top-level
-  _/givingday content ;  # top-level
-  _/givetosph content ;  # top-level
-  _/givetobu content ;  # top-level
-  _/givingback content ;  # top-level
-  _/gep content ;  # top-level
-  _/gensex content ;  # top-level
-  _/generalsurgery content ;  # top-level
-  _/geochemistry content ;  # top-level
-  _/gegi content ;  # top-level
-  _/geoscience content ;  # top-level
-  _/gerontology content ;  # top-level
-  _/geosciences content ;  # top-level
-  _/geophysics content ;  # top-level
-  _/genome content ;  # top-level
-  _/geology content ;  # top-level
-  _/geddes/kanji content ;  #
-  _/geddes/course content ;  #
-  _/getready content ;  # top-level
-  _/geriatrics content ;  # top-level
-  _/genetics content ;  # top-level
-  _/gk12 content ;  # top-level
-  _/google665a4eb2dcd06afe.html content ;  # top-level
-  _/google9f2e7abecb89081e.html content ;  # top-level
-  _/google content ;  # top-level
-  _/googlehostedservice.html content ;  # top-level
-  _/google46db49694c214422.html content ;  # top-level
-  _/google99ca0794d90971e7.html content ;  # top-level
-  _/googlec64352682593c8e8.html content ;  # top-level
-  _/gobu content ;  # top-level
-  _/govcenter content ;  # top-level
-  _/googlec7df21def707f08f.html content ;  # top-level
-  _/goterriers content ;  # top-level
-  _/goglobal content ;  # top-level
-  _/googlesites content ;  # top-level
-  _/go content ;  # top-level
-  _/gradanniversary2011 content ;  # top-level
-  _/gradanniversary1991 content ;  # top-level
+  _/gms content ;
+  _/g2kge content ;
+  _/ghi content ;
+  _/ghpci content ;
+  _/give content ;
+  _/giving content ;
+  _/givetohillel content ;
+  _/givetobuti content ;
+  _/give2cas content ;
+  _/giftcalculator content ;
+  _/givethepoint content ;
+  _/givetowtbu content ;
+  _/giveonline content ;
+  _/giveclassgift content ;
+  _/givesargent content ;
+  _/gift content ;
+  _/givingtuesday content ;
+  _/givetobudt content ;
+  _/givingsocieties content ;
+  _/givetoday content ;
+  _/givethroughbu content ;
+  _/givetolaw content ;
+  _/give2questrom content ;
+  _/givingmatters content ;
+  _/give2busm content ;
+  _/givingday content ;
+  _/givetosph content ;
+  _/givetobu content ;
+  _/givingback content ;
+  _/gep content ;
+  _/gensex content ;
+  _/generalsurgery content ;
+  _/geochemistry content ;
+  _/gegi content ;
+  _/geoscience content ;
+  _/gerontology content ;
+  _/geosciences content ;
+  _/geophysics content ;
+  _/genome content ;
+  _/geology content ;
+  _/geddes/kanji content ;
+  _/geddes/course content ;
+  _/getready content ;
+  _/geriatrics content ;
+  _/genetics content ;
+  _/gk12 content ;
+  _/google665a4eb2dcd06afe.html content ;
+  _/google9f2e7abecb89081e.html content ;
+  _/google content ;
+  _/googlehostedservice.html content ;
+  _/google46db49694c214422.html content ;
+  _/google99ca0794d90971e7.html content ;
+  _/googlec64352682593c8e8.html content ;
+  _/gobu content ;
+  _/govcenter content ;
+  _/googlec7df21def707f08f.html content ;
+  _/goterriers content ;
+  _/goglobal content ;
+  _/googlesites content ;
+  _/go content ;
+  _/gradanniversary2011 content ;
+  _/gradanniversary1991 content ;
   _/grandopening redirect_asis ;
-  _/grs content ;  # top-level
-  _/gradanniversary2006 content ;  # top-level
-  _/gradanniversary2015 content ;  # top-level
-  _/grenoble content ;  # top-level
-  _/gradanniversary1966 content ;  # top-level
-  _/green content ;  # top-level
-  _/graphics content ;  # top-level
-  _/globalexec content ;  # top-level
-  _/globalquestionnaire content ;  # top-level
-  _/globaldayofservice content ;  # top-level
-  _/glaisne content ;  # top-level
+  _/grs content ;
+  _/gradanniversary2006 content ;
+  _/gradanniversary2015 content ;
+  _/grenoble content ;
+  _/gradanniversary1966 content ;
+  _/green content ;
+  _/graphics content ;
+  _/globalexec content ;
+  _/globalquestionnaire content ;
+  _/globaldayofservice content ;
+  _/glaisne content ;
   # _/globalprograms content ;  # 2018-06-04 resync
-  _/globalfuture content ;  # top-level
-  _/glc content ;  # top-level
-  _/globaldaysofservice content ;  #
-  _/glacier content ;  # top-level
-  _/globe content ;  # top-level
-  _/globalhouse content ;  # top-level
-  _/globalbeat content ;  # top-level
-  _/globaloperations content ;  # top-level
-  _/globalmfg content ;  # top-level
-  _/globalmediakit content ;  # top-level
+  _/globalfuture content ;
+  _/glc content ;
+  _/globaldaysofservice content ;
+  _/glacier content ;
+  _/globe content ;
+  _/globalhouse content ;
+  _/globalbeat content ;
+  _/globaloperations content ;
+  _/globalmfg content ;
+  _/globalmediakit content ;
   _/globalprograms/wp-assets content;
-  _/global-crisis content ;  # top-level
-  _/gpmm content ;  # top-level
-  _/gpts/wp-assets content ;  #
-  _/gpto content ;  # top-level
-  _/gsu content ;  # top-level
-  _/gsm content ;  # top-level
-  _/gsi content ;  # top-level
-  _/gds content ;  # top-level
-  _/gdp-cn content ;  # top-level
-  _/fcoi content ;  # top-level
-  _/fye content ;  # top-level
-  _/fy101 content ;  # top-level
-  _/fy103 content ;  # top-level
-  _/fysopstyle content ;  # top-level
-  _/favicon.ico content ;  # top-level
-  _/familymed/forms content ;  #
-  _/familymed/distance content ;  #
-  _/familymed/meddebt content ;  #
-  _/faculty-council content ;  # top-level
-  _/fanboyfoodtruck content ;  # top-level
-  _/facultycentral content ;  # top-level
-  _/facilities/webcams content ;  #
-  _/fammed content ;  # top-level
-  _/farewell content ;  # top-level
-  _/fafc-files content ;  # top-level
-  _/fafc/wp-assets content ;  #
-  _/faculty-mslade1 content ;  # top-level
-  _/fafc-temp content ;  # top-level
-  _/facultycouncil content ;  # top-level
-  _/faqs content ;  # top-level
-  _/fabde content ;  # top-level
-  _/faculty-funding content ;  # top-level
-  _/facial-rejuvenation content ;  # top-level
-  _/faculty/ear content ;  #
-  _/fames content ;  # top-level
-  _/favoritepoem content ;  # top-level
-  _/fmherbalstudy content ;  # top-level
-  _/fhcmi content ;  # top-level
-  _/finance content ;  # top-level
-  _/finaid/status_documents content ;  # top-level
-  _/finaid/pdfs content ;  # top-level
-  _/finaid/test content ;  #
-  _/finaid/fedfunds content ;  # top-level
-  _/finaid wordpress ;  # top-level
-  _/finplanners content ;  # top-level
-  _/firesafety content ;  # top-level
-  #_/fifty-states content ;  # top-level
-  _/findmyprint content ;  # top-level
-  _/festival content ;  # top-level
-  _/feltensteinchallenge content ;  # top-level
-  _/features content ;  # top-level
-  _/fetters content ;  # top-level
-  _/formerworker content ;  # top-level
-  _/foodallergy content ;  # top-level
-  _/foo content ;  # top-level
-  _/forensicanthro content ;  # top-level
-  _/forse content ;  # top-level
-  _/forensics content ;  # top-level
-  _/forms content ;  # top-level
-  _/forensicinvestigation content ;  # top-level
-  _/foodandwine content ;  # top-level
-  _/forums content ;  # top-level
-  _/frombtou content ;  # top-level
-  _/franco content ;  # top-level
-  _/freshmen content ;  # top-level
-  _/frydmanlab content ;  # top-level
-  _/flexi-framework content ;  # top-level
-  _/flexi-basic content ;  # top-level
-  _/florencenightingale content ;  # top-level
-  _/ftp-survey content ;  # top-level
-  _/ftl content ;  # top-level
-  _/fsl content ;  # top-level
-  _/fsap content ;  # top-level
-  _/fd content ;  # top-level
-  _/futuremba content ;  # top-level
-  _/ljerrett content ;  # top-level
-  _/lcme content ;  # top-level
-  _/lcemp content ;  # top-level
-  _/lamilpa content ;  # top-level
-  _/lacelebratesbu content ;  # top-level
-  _/laane content ;  # top-level
-  _/law.bkup content ;  # top-level
-  _/language content ;  # top-level
-  _/lawgiving content ;  # top-level
-  _/laverdes content ;  # top-level
-  _/lamovie content ;  # top-level
-  _/law/communications content ;  #
-  _/law/graphics content ;  #
-  _/law/news content ; #
-  _/law/seipp content ;  #
-  _/law/events content ;  #
-  _/law/workingpapers-archive content ;  #
-  _/law/journals-archive content ;  #
-  _/laprogram/wp-assets content ;  #
-  _/lawyearbooks content ;  # top-level
+  _/global-crisis content ;
+  _/gpmm content ;
+  _/gpts/wp-assets content ;
+  _/gpto content ;
+  _/gsu content ;
+  _/gsm content ;
+  _/gsi content ;
+  _/gds content ;
+  _/gdp-cn content ;
+  _/fcoi content ;
+  _/fye content ;
+  _/fy101 content ;
+  _/fy103 content ;
+  _/fysopstyle content ;
+  _/favicon.ico content ;
+  _/familymed/forms content ;
+  _/familymed/distance content ;
+  _/familymed/meddebt content ;
+  _/faculty-council content ;
+  _/fanboyfoodtruck content ;
+  _/facultycentral content ;
+  _/facilities/webcams content ;
+  _/fammed content ;
+  _/farewell content ;
+  _/fafc-files content ;
+  _/fafc/wp-assets content ;
+  _/faculty-mslade1 content ;
+  _/fafc-temp content ;
+  _/facultycouncil content ;
+  _/faqs content ;
+  _/fabde content ;
+  _/faculty-funding content ;
+  _/facial-rejuvenation content ;
+  _/faculty/ear content ;
+  _/fames content ;
+  _/favoritepoem content ;
+  _/fmherbalstudy content ;
+  _/fhcmi content ;
+  _/finance content ;
+  _/finaid/status_documents content ;
+  _/finaid/pdfs content ;
+  _/finaid/test content ;
+  _/finaid/fedfunds content ;
+  _/finaid wordpress ;
+  _/finplanners content ;
+  _/firesafety content ;
+  #_/fifty-states content ;
+  _/findmyprint content ;
+  _/festival content ;
+  _/feltensteinchallenge content ;
+  _/features content ;
+  _/fetters content ;
+  _/formerworker content ;
+  _/foodallergy content ;
+  _/foo content ;
+  _/forensicanthro content ;
+  _/forse content ;
+  _/forensics content ;
+  _/forms content ;
+  _/forensicinvestigation content ;
+  _/foodandwine content ;
+  _/forums content ;
+  _/frombtou content ;
+  _/franco content ;
+  _/freshmen content ;
+  _/frydmanlab content ;
+  _/flexi-framework content ;
+  _/flexi-basic content ;
+  _/florencenightingale content ;
+  _/ftp-survey content ;
+  _/ftl content ;
+  _/fsl content ;
+  _/fsap content ;
+  _/fd content ;
+  _/futuremba content ;
+  _/ljerrett content ;
+  _/lcme content ;
+  _/lcemp content ;
+  _/lamilpa content ;
+  _/lacelebratesbu content ;
+  _/laane content ;
+  _/law.bkup content ;
+  _/language content ;
+  _/lawgiving content ;
+  _/laverdes content ;
+  _/lamovie content ;
+  _/law/communications content ;
+  _/law/graphics content ;
+  _/law/news content ;
+  _/law/seipp content ;
+  _/law/events content ;
+  _/law/workingpapers-archive content ;
+  _/law/journals-archive content ;
+  _/laprogram/wp-assets content ;
+  _/lawyearbooks content ;
 ##TODO: get phpmap entry for law-pub and put in separate file
-  _/languages content ;  # top-level
-  _/lab content ;  # top-level
-  _/languagelearning content ;  # top-level
-  _/laloba content ;  # top-level
-  _/lawdean content ;  # top-level
-  _/lawlibrary/intranet content ;  #
-  _/lawlibrary/graphics content ;  #
-  _/lawlibrary/e-reserves content ;  #
-  _/lawlibrary/common content ;  #
-  _/lawlibrary/facultypublications content ;  #
-  _/lawlibrary/eJournals content ;  #
-  _/lawlibrary/restrictedaccess content ;  #
-  _/latenightkitchen content ;  # top-level
-  _/lastingloyal content ;  # top-level
-  _/lmn content ;  # top-level
-  _/lms content ;  # top-level
-  _/lifebook content ;  # top-level
-  _/linguistics.ro content ;  # top-level
-  _/lifesciences content ;  # top-level
-  _/literary content ;  # top-level
-  _/library/wp-assets content ;  #
-  _/library/primo content ;  #
-  _/liveon content ;  # top-level
-  _/linux content ;  # top-level
-  _/links content ;  # top-level
-  _/linga content ;  # top-level
-  _/linguistics content ;  # top-level
-  _/lifelong content ;  # top-level
-  _/links2 content ;  # top-level
-  _/lite content ;  # top-level
-  _/liberalstudies content ;  # top-level
-  _/libdb-old content ;  # top-level
-  _/library-workflow content ;  # top-level
-  _/libfiles content ;  # top-level
-  _/lifelonglearning content ;  # top-level
-  _/life content ;  # top-level
-  _/libdb content ;  # top-level
-  _/libdb-tst content ;  # top-level
-  _/leed100bsr content ;  # top-level
-  _/leadershipgiving content ;  # top-level
-  _/leegroup content ;  # top-level
-  _/learn content ;  # top-level
-  _/levantine-ceramics content ;  # top-level
-  _/leadershipgifts content ;  # top-level
-  _/lernet content ;  # top-level
-  _/lecture content ;  # top-level
-  _/leboha content ;  # top-level
-  _/leading-by-example content ;  # top-level
-  _/leap content ;  # top-level
-  _/leadershipsupport content ;  # top-level
-  _/loyaltysociety content ;  # top-level
-  _/logout content ;  # top-level
-  _/loyalty content ;  # top-level
-  _/login content ;  # top-level
-  _/lovecanal content ;  # top-level
-  _/lu-lingzi-fund content ;  # top-level
-  _/lungs content ;  # top-level
-  _/lully content ;  # top-level
-  _/lutheran content ;  # top-level
-  _/luce content ;  # top-level
-  _/pzekos content ;  # top-level
-  _/pc content ;  # top-level
-  _/pci content ;  # top-level
-  _/pcms content ;  # top-level
-  _/pnemec content ;  # top-level
-  _/paclab content ;  # top-level
-  _/parentsupport content ;  # top-level
-  _/parentgifts content ;  # top-level
-  _/parkstreet content ;  # top-level
-  _/parfund content ;  # top-level
-  _/pathology content ;  # top-level
-  _/paiella content ;  # top-level
-  _/paideia content ;  # top-level
-  _/parklab content ;  # top-level
-  _/partisanreview content ;  # top-level
-  _/pardeestaff content ;  # top-level
-  _/patientconnect content ;  # top-level
-  _/parentsweekend content ;  # top-level
-  _/parents content ;  # top-level
-  _/paadmissions content ;  # top-level
-  _/parentfund content ;  # top-level
-  _/padova content ;  # top-level
-  _/parking/dbtemplates content ;  #
-  _/pace content ;  # top-level
-  _/payment content ;  # top-level
-  _/pm content ;  # top-level
-  _/p2pguide content ;  # top-level
-  _/p48pu6em39z6neb6rre8i4wx35x6dv.html content ; # top-level
-  _/phylogeny content ;  # top-level
+  _/languages content ;
+  _/lab content ;
+  _/languagelearning content ;
+  _/laloba content ;
+  _/lawdean content ;
+  _/lawlibrary/intranet content ;
+  _/lawlibrary/graphics content ;
+  _/lawlibrary/e-reserves content ;
+  _/lawlibrary/common content ;
+  _/lawlibrary/facultypublications content ;
+  _/lawlibrary/eJournals content ;
+  _/lawlibrary/restrictedaccess content ;
+  _/latenightkitchen content ;
+  _/lastingloyal content ;
+  _/lmn content ;
+  _/lms content ;
+  _/lifebook content ;
+  _/linguistics.ro content ;
+  _/lifesciences content ;
+  _/literary content ;
+  _/library/wp-assets content ;
+  _/library/primo content ;
+  _/liveon content ;
+  _/linux content ;
+  _/links content ;
+  _/linga content ;
+  _/linguistics content ;
+  _/lifelong content ;
+  _/links2 content ;
+  _/lite content ;
+  _/liberalstudies content ;
+  _/libdb-old content ;
+  _/library-workflow content ;
+  _/libfiles content ;
+  _/lifelonglearning content ;
+  _/life content ;
+  _/libdb content ;
+  _/libdb-tst content ;
+  _/leed100bsr content ;
+  _/leadershipgiving content ;
+  _/leegroup content ;
+  _/learn content ;
+  _/levantine-ceramics content ;
+  _/leadershipgifts content ;
+  _/lernet content ;
+  _/lecture content ;
+  _/leboha content ;
+  _/leading-by-example content ;
+  _/leap content ;
+  _/leadershipsupport content ;
+  _/loyaltysociety content ;
+  _/logout content ;
+  _/loyalty content ;
+  _/login content ;
+  _/lovecanal content ;
+  _/lu-lingzi-fund content ;
+  _/lungs content ;
+  _/lully content ;
+  _/lutheran content ;
+  _/luce content ;
+  _/pzekos content ;
+  _/pc content ;
+  _/pci content ;
+  _/pcms content ;
+  _/pnemec content ;
+  _/paclab content ;
+  _/parentsupport content ;
+  _/parentgifts content ;
+  _/parkstreet content ;
+  _/parfund content ;
+  _/pathology content ;
+  _/paiella content ;
+  _/paideia content ;
+  _/parklab content ;
+  _/partisanreview content ;
+  _/pardeestaff content ;
+  _/patientconnect content ;
+  _/parentsweekend content ;
+  _/parents content ;
+  _/paadmissions content ;
+  _/parentfund content ;
+  _/padova content ;
+  _/parking/dbtemplates content ;
+  _/pace content ;
+  _/payment content ;
+  _/pm content ;
+  _/p2pguide content ;
+  _/p48pu6em39z6neb6rre8i4wx35x6dv.html content ;
+  _/phylogeny content ;
   # The .rw and .ro items are related to filesystem and should not be part of the front-end map which
   # only cares that /phpbin/ goes to the phpbin backend.
-  #_/phpbin.rw content ;  # top-level
-  #_/phpbin.ro content ;  # top-level
-  #_/phpbin content ;  # top-level
-  _/photo content ;  # top-level
-  _/physics-resources content ;  # top-level
-  _/phys-biophys content ;  # top-level
-  _/phhprc content ;  # top-level
-  _/phpbin-selector content ;  # top-level
-  _/physics content ;  # top-level
-  _/pipgiving content ;  # top-level
-  _/pike content ;  # top-level
-  _/pin content ;  # top-level
-  _/personnel content ;  # top-level
-  _/perd content ;  # top-level
-  _/peaclab/temm11 content ;  #
-  _/peaclab/apmmi11 content ;  #
-  _/pehs content ;  # top-level
-  _/pemba-essays content ;  # top-level
-  _/perlstaff content ;  # top-level
-  _/peeradvising content ;  # top-level
-  _/pehc content ;  # top-level
-  _/pemba-part-time content ;  # top-level
-  _/pemba content ;  # top-level
-  _/posenprogram content ;  # top-level
-  _/postdocs content ;  # top-level
-  _/porco content ;  # top-level
-  _/polymer content ;  # top-level
-  _/pocketmba content ;  # top-level
-  _/prerelease content ;  # top-level
-  _/practicemanagement content ;  # top-level
-  _/prism content ;  # top-level
-  _/precisiondx content ;  # top-level
-  _/prudential content ;  # top-level
-  _/professional content ;  # top-level
-  _/provost/secure content ;  #
-  _/provost/admin content ;  #
-  _/provost/wp-assets content ;  #
-  _/provost/complexity2008 content ;  #
-  _/proarte content ;  # top-level
-  _/provost2 content ;  # top-level
-  _/presidentsearch content ;  # top-level
-  _/prssa content ;  # top-level
-  _/protected content ;  # top-level
-  _/prj content ;  # top-level
-  _/printcenter content ;  # top-level
-  _/preservation content ;  # top-level
-  _/practice content ;  # top-level
-  _/prostars content ;  # top-level
-  _/projectred content ;  # top-level
-  _/projects content ;  # top-level
-  _/prs content ;  # top-level
-  _/premed content ;  # top-level
-  _/preview aws_home ;  # top-level
-  _/prevmedresidency content ;  # top-level
-  _/procurement content ;  # top-level
-  _/playground content ;  # top-level
-  _/platform content ;  # top-level
-  _/plakias content ;  # top-level
-  _/plan2015 content ;  # top-level
-  _/plannedgiving content ;  # top-level
-  _/pledges content ;  # top-level
-  _/ptfellowship/wp-assets content ;  #
-  _/pt3 content ;  # top-level
-  _/ptc content ;  # top-level
-  _/psych/charris content ;  #
-  _/psc content ;  # top-level
-  _/psp content ;  # top-level
-  _/pusteblume content ;  # top-level
-  _/publications content ;  # top-level
-  _/purchasing content ;  # top-level
-  _/pulmonary content ;  # top-level
-  _/pulmonarycenter content ;  # top-level
-  _/pulmonary-test content ;  # top-level
-  _/publichealthworkforce content ;  # top-level
-  _/publicsafety content ;  # top-level
-  _/tcp content ;  # top-level
-  _/tyngsboro content ;  # top-level
-  _/tad content ;  # top-level
-  _/tanglewoodtwo content ;  # top-level
-  _/tanglewood content ;  # top-level
-  _/talks content ;  # top-level
-  _/tmp-orc content ;  # top-level
-  _/tml content ;  # top-level
-  _/tmp-admissions content ;  # top-level
-  _/tmp-cghd content ;  # top-level
-  _/tmp-webcentral content ;  # top-level
-  _/tv content ;  # top-level
-  _/thedash content ;  # top-level
-  _/thurmanarchives content ;  # top-level
-  _/thecology content ;  # top-level
-  _/theory content ;  # top-level
-  _/thomasmenino content ;  # top-level
-  _/thehive content ;  # top-level
-  _/thanksgiving content ;  # top-level
-  _/theotrauma content ;  # top-level
-  _/thebus/gtfs content ;  #
-  _/thebus/wp-assets content ;  #
-  _/tickle content ;  # top-level
-  _/tims content ;  # top-level
-  _/techconnect content ;  # top-level
-  _/tech-links content ;  # top-level
-  _/telefund content ;  # top-level
-  _/terrierpride content ;  # top-level
-  _/techweb-survey content ;  # top-level
-  _/test-blog content ;  # top-level
-  _/testnfs content ;  # top-level
-  #_/testing content ;  # top-level
-  _/tech/plan content ;  #
-  _/tech/slp content ;  #
-  _/tech/wp-assets content ; #
-  _/test content ;  # top-level
-  _/terrierconnection content ;  # top-level
-  _/terriermarketplace content ;  # top-level
-  _/terriertales content ;  # top-level
-  _/tedbu content ;  # top-level
-  _/techinternal/wp-assets content ;  #
-  _/test4proxyroute content ;  # top-level
-  _/teenpanic content ;  # top-level
-  _/tech-prod content ;  # top-level
-  _/tech-maintenance content ;  # top-level
-  _/terriersconnect content ;  # top-level
-  _/techv1 content ;  # top-level
-  _/tech-copy content ;  # top-level
-  _/tech-backup content ;  # top-level
-  _/tech-restricted content ;  # top-level
-  _/test-to-production content ;  # top-level
-  _/testshibro content ; #top-level
-  _/testshibrw content ; #top-level
-  _/techorg content ;  # top-level
-  _/terriers content ;  # top-level
-  _/tech-refresh content ;  # top-level
-  _/techbios content ;  # top-level
-  _/tech-staging content ;  # top-level
-  _/testprep content ;  # top-level
-  _/techweb content ;  # top-level
-  _/terriertoasts content ;  # top-level
-  _/today/common content ;  #
-  _/today/media content ;  #
-  _/today/wpassets content ;  #
-  _/today/bubooks content ;  #
-  _/today/projects content ;  #
-  _/today/frozenfour content ;  #
-  _/today/blasts content ;  #
-  _/today/commencement content ;  #
-  _/today/v2-devl content ;  #
-  _/today/news content ;  #
-  _/today/buniverse content ;  #
-  _/today/v2 content ;  #
-  _/tol content ;  # top-level
-  _/today-spash content ;  # top-level
-  _/trustees-intranet/install content ;  #
-  _/tricia content ;  # top-level
-  _/transportation content ;  # top-level
-  _/transfer content ;  # top-level
-  _/training content ;  # top-level
-  _/trl content ;  # top-level
-  _/transgenic content ;  # top-level
-  _/trusteescholars content ;  # top-level
-  _/track content ;  # top-level
-  _/travelregistry content ;  # top-level
-  _/travel content ;  # top-level
-  _/ttt content ;  # top-level
-  _/tskoog content ;  # top-level
-  _/tso content ;  # top-level
-  _/tdl content ;  # top-level
-  _/turnitin content ;  # top-level
-  _/tutorials content ;  # top-level
-  _/tulliusgroup content ;  # top-level
-  _/tbergend content ;  # top-level
-  _/sjmag content ;  # top-level
-  _/schroeter content ;  # top-level
-  _/scoe content ;  # top-level
-  _/scscb content ;  # top-level
-  _/schoolofeducation content ;  # top-level
-  _/scibowl content ;  # top-level
-  _/sciguide content ;  # top-level
-  _/schneiderslab content ;  # top-level
-  _/scnutrition content ;  # top-level
-  _/scarlet-squad content ;  # top-level
-  _/schools content ;  # top-level
-  _/scarletkey content ;  # top-level
-  _/sci content ;  # top-level
-  _/scenery content ;  # top-level
-  _/schneider content ;  # top-level
-  _/sccc content ;  # top-level
-  _/sclerodermaworkshop content ;  # top-level
-  _/schoolphys content ;  # top-level
-  _/scnc/wp-assets content ;  #
-  _/scv content ;  # top-level
-  _/scv_import content ;  # top-level
+  #_/phpbin.rw content ;
+  #_/phpbin.ro content ;
+  #_/phpbin content ;
+  _/photo content ;
+  _/physics-resources content ;
+  _/phys-biophys content ;
+  _/phhprc content ;
+  _/phpbin-selector content ;
+  _/physics content ;
+  _/pipgiving content ;
+  _/pike content ;
+  _/pin content ;
+  _/personnel content ;
+  _/perd content ;
+  _/peaclab/temm11 content ;
+  _/peaclab/apmmi11 content ;
+  _/pehs content ;
+  _/pemba-essays content ;
+  _/perlstaff content ;
+  _/peeradvising content ;
+  _/pehc content ;
+  _/pemba-part-time content ;
+  _/pemba content ;
+  _/posenprogram content ;
+  _/postdocs content ;
+  _/porco content ;
+  _/polymer content ;
+  _/pocketmba content ;
+  _/prerelease content ;
+  _/practicemanagement content ;
+  _/prism content ;
+  _/precisiondx content ;
+  _/prudential content ;
+  _/professional content ;
+  _/provost/secure content ;
+  _/provost/admin content ;
+  _/provost/wp-assets content ;
+  _/provost/complexity2008 content ;
+  _/proarte content ;
+  _/provost2 content ;
+  _/presidentsearch content ;
+  _/prssa content ;
+  _/protected content ;
+  _/prj content ;
+  _/printcenter content ;
+  _/preservation content ;
+  _/practice content ;
+  _/prostars content ;
+  _/projectred content ;
+  _/projects content ;
+  _/prs content ;
+  _/premed content ;
+  _/preview aws_home ;
+  _/prevmedresidency content ;
+  _/procurement content ;
+  _/playground content ;
+  _/platform content ;
+  _/plakias content ;
+  _/plan2015 content ;
+  _/plannedgiving content ;
+  _/pledges content ;
+  _/ptfellowship/wp-assets content ;
+  _/pt3 content ;
+  _/ptc content ;
+  _/psych/charris content ;
+  _/psc content ;
+  _/psp content ;
+  _/pusteblume content ;
+  _/publications content ;
+  _/purchasing content ;
+  _/pulmonary content ;
+  _/pulmonarycenter content ;
+  _/pulmonary-test content ;
+  _/publichealthworkforce content ;
+  _/publicsafety content ;
+  _/tcp content ;
+  _/tyngsboro content ;
+  _/tad content ;
+  _/tanglewoodtwo content ;
+  _/tanglewood content ;
+  _/talks content ;
+  _/tmp-orc content ;
+  _/tml content ;
+  _/tmp-admissions content ;
+  _/tmp-cghd content ;
+  _/tmp-webcentral content ;
+  _/tv content ;
+  _/thedash content ;
+  _/thurmanarchives content ;
+  _/thecology content ;
+  _/theory content ;
+  _/thomasmenino content ;
+  _/thehive content ;
+  _/thanksgiving content ;
+  _/theotrauma content ;
+  _/thebus/gtfs content ;
+  _/thebus/wp-assets content ;
+  _/tickle content ;
+  _/tims content ;
+  _/techconnect content ;
+  _/tech-links content ;
+  _/telefund content ;
+  _/terrierpride content ;
+  _/techweb-survey content ;
+  _/test-blog content ;
+  _/testnfs content ;
+  #_/testing content ;
+  _/tech/plan content ;
+  _/tech/slp content ;
+  _/tech/wp-assets content ;
+  _/test content ;
+  _/terrierconnection content ;
+  _/terriermarketplace content ;
+  _/terriertales content ;
+  _/tedbu content ;
+  _/techinternal/wp-assets content ;
+  _/test4proxyroute content ;
+  _/teenpanic content ;
+  _/tech-prod content ;
+  _/tech-maintenance content ;
+  _/terriersconnect content ;
+  _/techv1 content ;
+  _/tech-copy content ;
+  _/tech-backup content ;
+  _/tech-restricted content ;
+  _/test-to-production content ;
+  _/testshibro content ;
+  _/testshibrw content ;
+  _/techorg content ;
+  _/terriers content ;
+  _/tech-refresh content ;
+  _/techbios content ;
+  _/tech-staging content ;
+  _/testprep content ;
+  _/techweb content ;
+  _/terriertoasts content ;
+  _/today/common content ;
+  _/today/media content ;
+  _/today/wpassets content ;
+  _/today/bubooks content ;
+  _/today/projects content ;
+  _/today/frozenfour content ;
+  _/today/blasts content ;
+  _/today/commencement content ;
+  _/today/v2-devl content ;
+  _/today/news content ;
+  _/today/buniverse content ;
+  _/today/v2 content ;
+  _/tol content ;
+  _/today-spash content ;
+  _/trustees-intranet/install content ;
+  _/tricia content ;
+  _/transportation content ;
+  _/transfer content ;
+  _/training content ;
+  _/trl content ;
+  _/transgenic content ;
+  _/trusteescholars content ;
+  _/track content ;
+  _/travelregistry content ;
+  _/travel content ;
+  _/ttt content ;
+  _/tskoog content ;
+  _/tso content ;
+  _/tdl content ;
+  _/turnitin content ;
+  _/tutorials content ;
+  _/tulliusgroup content ;
+  _/tbergend content ;
+  _/sjmag content ;
+  _/schroeter content ;
+  _/scoe content ;
+  _/scscb content ;
+  _/schoolofeducation content ;
+  _/scibowl content ;
+  _/sciguide content ;
+  _/schneiderslab content ;
+  _/scnutrition content ;
+  _/scarlet-squad content ;
+  _/schools content ;
+  _/scarletkey content ;
+  _/sci content ;
+  _/scenery content ;
+  _/schneider content ;
+  _/sccc content ;
+  _/sclerodermaworkshop content ;
+  _/schoolphys content ;
+  _/scnc/wp-assets content ;
+  _/scv content ;
+  _/scv_import content ;
 # skipping systems-programming.RESTORED as we should only add the redirect2lower if necessary
-  _/synbio content ;  # top-level
-  _/systemsbiology content ;  # top-level
-  _/systems-programming content ;  # top-level
-  _/sysprg content ;  # top-level
-  _/synt content ;  # top-level
-  _/synesthesia content ;  # top-level
-  _/snl content ;  # top-level
-  _/snc content ;  # top-level
-  _/sn content ;  # top-level
-  _/sarp content ;  # top-level
-  _/sardlb content ;  # top-level
-  _/sargentluncheon content ;  # top-level
-  _/sandbox content ;  # top-level
-  _/sara content ;  # top-level
-  _/sargentcamp content ;  # top-level
-  _/sargenteconnection content ;  # top-level
-  _/sarptat content ;  # top-level
-  _/sargent/wp-assets content ;  #
-  _/sargent.ro/wp-assets content ;  #
-  _/sao content ;  # top-level
-  _/sarhouse content ;  # top-level
-  _/samlab content ;  # top-level
-  _/sac content ;  # top-level
-  _/sarpsych content ;  # top-level
-  _/saa content ;  # top-level
-  _/sail content ;  # top-level
-  _/satellite content ;  # top-level
-  _/safety/stand-up content ;  #
-  _/sm322 content ;  # top-level
-  _/smgcentennial content ;  # top-level
-  _/smgalum content ;  # top-level
-  _/smg-em content ;  # top-level
-  _/smscint content ;  # top-level
-  _/smghonors content ;  # top-level
-  _/smg content ;  # top-level
-  _/smg-event content ;  # top-level
-  _/smec content ;  # top-level
-  _/smhaley content ;  # top-level
-  _/smartcities content ;  # top-level
-  _/shawnp content ;  # top-level
-  _/shprp content ;  # top-level
-  _/shawcenter content ;  # top-level
-  _/shongchallenge content ;  # top-level
-  _/showme content ;  # top-level
-  _/sha content ;  # top-level
-  _/shsmobile content ;  # top-level
-  _/sif content ;  # top-level
-  _/sil content ;  # top-level
-  _/silber content ;  # top-level
-  _/sites content ;  # top-level
-  _/simulation content ;  # top-level
-  _/sisrenewal content ;  # top-level
-  _/sixsixty content ;  # top-level
-  _/senlab content ;  # top-level
-  _/search content ;  # top-level
-  _/se-demo content ;  # top-level
-  _/sed-gpape content ;  # top-level
-  _/service-now content ;  # top-level
-  _/sedreadingclinic/wp-assets content ;  #
-  _/sed/wp-assets content ;  #
-  _/secret content ;  # top-level
-  _/seniors content ;  # top-level
-  _/securitycampimport content ;  # top-level
-  _/securityinfo content ;  # top-level
-  _/seaurchinmeeting2011 content ;  # top-level
-  _/securitycamp content ;  # top-level
-  _/services content ;  # top-level
-  _/sedimc content ;  # top-level
-  _/session content ;  # top-level
-  _/sep content ;  # top-level
-  _/security/advisories content ;  #
-  _/software content ;  # top-level
-  _/south content ;  # top-level
-  _/sourceguide content ;  # top-level
-  _/sourcing/contracted_suppliers_ui content ;  #
-  _/southfloridacelebratesbu content ;  # top-level
-  _/srp content ;  # top-level
-  _/sfa content ;  # top-level
-  _/slatkin content ;  # top-level
-  _/sleepmed content ;  # top-level
-  _/sleeplab content ;  # top-level
-  _/sportsmed content ;  # top-level
-  _/spirithealth content ;  # top-level
-  _/spidr content ;  # top-level
-  _/specialreports content ;  # top-level
-  _/sph/wp-assets content ;  #
-  _/sph-imports content ;  # top-level
-  _/spectrumarts content ;  # top-level
-  _/sph40th content ;  # top-level
-  _/speechlab content ;  # top-level
-  _/speccol content ;  # top-level
-  _/space content ;  # top-level
-  _/sports content ;  # top-level
-  _/specialdonation content ;  # top-level
-  _/sphgiving content ;  # top-level
-  _/sphcommportal content ;  # top-level
-  _/student-health-services content ;  # top-level
-  _/storage-admin content ;  # top-level
-  _/startup content ;  # top-level
-  _/study content ;  # top-level
-  _/studentexperience content ;  # top-level
-  _/sthacker/stata content ;  #
-  _/state content ;  # top-level
-  _/stay content ;  # top-level
-  _/stepup content ;  # top-level
-  _/studentvillage content ;  # top-level
-  _/studio content ;  # top-level
-  _/studentvillage2 content ;  # top-level
-  _/story content ;  # top-level
-  _/stats content ;  # top-level
-  _/stationery content ;  # top-level
-  _/sth-sc content ;  # top-level
-  _/stay-test content ;  # top-level
-  _/strategicreport content ;  # top-level
-  _/sthfulladmission content ;  # top-level
-  _/studentgiving content ;  # top-level
-  _/sthope content ;  # top-level
-  _/stimulus content ;  # top-level
-  _/studyfinder content ;  # top-level
-  _/stratcom content ;  # top-level
-  _/stemcells content ;  # top-level
-  _/stayemployed content ;  # top-level
-  _/stamasfund content ;  # top-level
-  _/state-authorization content ;  # top-level
-  _/ssw/common content ;  #
-  _/ssw/wp-assets content ;  #
+  _/synbio content ;
+  _/systemsbiology content ;
+  _/systems-programming content ;
+  _/sysprg content ;
+  _/synt content ;
+  _/synesthesia content ;
+  _/snl content ;
+  _/snc content ;
+  _/sn content ;
+  _/sarp content ;
+  _/sardlb content ;
+  _/sargentluncheon content ;
+  _/sandbox content ;
+  _/sara content ;
+  _/sargentcamp content ;
+  _/sargenteconnection content ;
+  _/sarptat content ;
+  _/sargent/wp-assets content ;
+  _/sargent.ro/wp-assets content ;
+  _/sao content ;
+  _/sarhouse content ;
+  _/samlab content ;
+  _/sac content ;
+  _/sarpsych content ;
+  _/saa content ;
+  _/sail content ;
+  _/satellite content ;
+  _/safety/stand-up content ;
+  _/sm322 content ;
+  _/smgcentennial content ;
+  _/smgalum content ;
+  _/smg-em content ;
+  _/smscint content ;
+  _/smghonors content ;
+  _/smg content ;
+  _/smg-event content ;
+  _/smec content ;
+  _/smhaley content ;
+  _/smartcities content ;
+  _/shawnp content ;
+  _/shprp content ;
+  _/shawcenter content ;
+  _/shongchallenge content ;
+  _/showme content ;
+  _/sha content ;
+  _/shsmobile content ;
+  _/sif content ;
+  _/sil content ;
+  _/silber content ;
+  _/sites content ;
+  _/simulation content ;
+  _/sisrenewal content ;
+  _/sixsixty content ;
+  _/senlab content ;
+  _/search content ;
+  _/se-demo content ;
+  _/sed-gpape content ;
+  _/service-now content ;
+  _/sedreadingclinic/wp-assets content ;
+  _/sed/wp-assets content ;
+  _/secret content ;
+  _/seniors content ;
+  _/securitycampimport content ;
+  _/securityinfo content ;
+  _/seaurchinmeeting2011 content ;
+  _/securitycamp content ;
+  _/services content ;
+  _/sedimc content ;
+  _/session content ;
+  _/sep content ;
+  _/security/advisories content ;
+  _/software content ;
+  _/south content ;
+  _/sourceguide content ;
+  _/sourcing/contracted_suppliers_ui content ;
+  _/southfloridacelebratesbu content ;
+  _/srp content ;
+  _/sfa content ;
+  _/slatkin content ;
+  _/sleepmed content ;
+  _/sleeplab content ;
+  _/sportsmed content ;
+  _/spirithealth content ;
+  _/spidr content ;
+  _/specialreports content ;
+  _/sph/wp-assets content ;
+  _/sph-imports content ;
+  _/spectrumarts content ;
+  _/sph40th content ;
+  _/speechlab content ;
+  _/speccol content ;
+  _/space content ;
+  _/sports content ;
+  _/specialdonation content ;
+  _/sphgiving content ;
+  _/sphcommportal content ;
+  _/student-health-services content ;
+  _/storage-admin content ;
+  _/startup content ;
+  _/study content ;
+  _/studentexperience content ;
+  _/sthacker/stata content ;
+  _/state content ;
+  _/stay content ;
+  _/stepup content ;
+  _/studentvillage content ;
+  _/studio content ;
+  _/studentvillage2 content ;
+  _/story content ;
+  _/stats content ;
+  _/stationery content ;
+  _/sth-sc content ;
+  _/stay-test content ;
+  _/strategicreport content ;
+  _/sthfulladmission content ;
+  _/studentgiving content ;
+  _/sthope content ;
+  _/stimulus content ;
+  _/studyfinder content ;
+  _/stratcom content ;
+  _/stemcells content ;
+  _/stayemployed content ;
+  _/stamasfund content ;
+  _/state-authorization content ;
+  _/ssw/common content ;
+  _/ssw/wp-assets content ;
 ##TODO: get phpmap entry for ssw/usfostercare and put in separate file
-  _/sscores/downloads content ;  #
-  _/sswphd content ;  # top-level
-  _/sdb-osa-eval content ;  # top-level
-  _/supportaphasiacenter content ;  # top-level
-  _/summerterm content ;  # top-level
-  _/suemac content ;  # top-level
+  _/sscores/downloads content ;
+  _/sswphd content ;
+  _/sdb-osa-eval content ;
+  _/supportaphasiacenter content ;
+  _/summerterm content ;
+  _/suemac content ;
   _/susilo content ;  # 2018-06-04 resync (WordPress to content)
-  _/suppliers content ;  # top-level
-  _/summerfun content ;  # top-level
-  _/survey content ;  # top-level
-  _/summer content ;  # top-level
-  _/supportpmh content ;  # top-level
-  _/supportingbusm content ;  # top-level
-  _/supportbu content ;  # top-level
-  _/supportrotc content ;  # top-level
-  _/supportquestrom content ;  # top-level
-  _/susilo-symposium-2017 content ;  # top-level
-  _/supportanatomylab content ;  # top-level
-  _/supportbusm content ;  # top-level
-  _/supportclubsports content ;  # top-level
-  _/supplier content ;  # top-level
-  _/susilo-symposium-2016 content ;  # top-level
-  _/sbrptraining content ;  # top-level
-  _/dje content ;  # top-level
-  _/dcg content ;  # top-level
-  _/dna content ;  # top-level
+  _/suppliers content ;
+  _/summerfun content ;
+  _/survey content ;
+  _/summer content ;
+  _/supportpmh content ;
+  _/supportingbusm content ;
+  _/supportbu content ;
+  _/supportrotc content ;
+  _/supportquestrom content ;
+  _/susilo-symposium-2017 content ;
+  _/supportanatomylab content ;
+  _/supportbusm content ;
+  _/supportclubsports content ;
+  _/supplier content ;
+  _/susilo-symposium-2016 content ;
+  _/sbrptraining content ;
+  _/dje content ;
+  _/dcg content ;
+  _/dna content ;
 ##TODO: get phpmap entry for dnamixtures and put in separate file
-  _/darwin2009 content ;  # top-level
-  _/darwin content ;  # top-level
-  _/dan content ;  # top-level
-  _/daysofservice content ;  # top-level
-  _/dar content ;  # top-level
-  _/danrather content ;  # top-level
-  _/data content ;  # top-level
-  _/dayofservice content ;  # top-level
-  _/danielsen/wp-assets content ;  #
-  _/dme content ;  # top-level
-  _/disability/wp-assets content ;  #
-  _/dinghysailors content ;  # top-level
-  _/diabetescenter content ;  # top-level
-  _/directory content ;  # top-level
-  _/diaspora-fig content ;  # top-level
-  _/diversity content ;  # top-level
-  _/digital-strategy content ;  # top-level
-  _/digication content ;  # top-level
-  _/distance content ;  # top-level
-  _/diploma content ;  # top-level
-  _/discoveries content ;  # top-level
-  _/digitalrevolutionevent content ;  # top-level
-  _/diversitytaskforce/media content ;  #
-  _/dinegreen content ;  # top-level
-  _/discover content ;  # top-level
-  _/disted content ;  # top-level
+  _/darwin2009 content ;
+  _/darwin content ;
+  _/dan content ;
+  _/daysofservice content ;
+  _/dar content ;
+  _/danrather content ;
+  _/data content ;
+  _/dayofservice content ;
+  _/danielsen/wp-assets content ;
+  _/dme content ;
+  _/disability/wp-assets content ;
+  _/dinghysailors content ;
+  _/diabetescenter content ;
+  _/directory content ;
+  _/diaspora-fig content ;
+  _/diversity content ;
+  _/digital-strategy content ;
+  _/digication content ;
+  _/distance content ;
+  _/diploma content ;
+  _/discoveries content ;
+  _/digitalrevolutionevent content ;
+  _/diversitytaskforce/media content ;
+  _/dinegreen content ;
+  _/discover content ;
+  _/disted content ;
 ##TODO: get phpmap entry for dining/api and put in separate file
-  _/dining/wp-assets content ;  #
-  _/dining/report2015 content ;  #
-  _/dining/report2013 content ;  #
-  _/dining/report2014 content ;  #
-  _/dining/report2017 content ;  #
-  _/dining/report2016 content ;  #
+  _/dining/wp-assets content ;
+  _/dining/report2015 content ;
+  _/dining/report2013 content ;
+  _/dining/report2014 content ;
+  _/dining/report2017 content ;
+  _/dining/report2016 content ;
 ##TODO: get phpmap entry for degree-advice and put in separate file
-  _/degreecomplete content ;  # top-level
-  _/dev content ;  # top-level
-  _/dentures content ;  # top-level
-  _/derm content ;  # top-level
-  _/devbio content ;  # top-level
-  _/dermatology-associates content ;  # top-level
-  _/dentalassisting content ;  # top-level
+  _/degreecomplete content ;
+  _/dev content ;
+  _/dentures content ;
+  _/derm content ;
+  _/devbio content ;
+  _/dermatology-associates content ;
+  _/dentalassisting content ;
 ##TODO: get phpmap entry for degree-audit and put in separate file
-  _/dental/lobbyscreen content ;  #
-  _/dental/nerb-mcmanama content ;  #
-  _/dos-test content ;  # top-level
-  _/doubleit content ;  # top-level
-  _/dos/lulingzi content ;  #
-  _/dos/facebook content ;  #
-  _/double-it content ;  # top-level
-  _/dlanglai content ;  # top-level
-  _/dsgsupport content ;  # top-level
-  _/dsg content ;  # top-level
-  _/ds-biolobby content ;  # top-level
-  _/ds-test content ;  # top-level
-  _/dsmk content ;  # top-level
-  _/dssandbox content ;  # top-level
-  _/ddalton content ;  # top-level
-  _/dublinseminar content ;  # top-level
-  _/dbin-selector content ;  # top-level
-  _/uctech content ;  # top-level
-  _/ugso content ;  # top-level
-  _/uhc content ;  # top-level
-  _/uis content ;  # top-level
-  _/uis-core content ;  # top-level
-  _/uni content ;  # top-level
-  _/union content ;  # top-level
-  _/univcomputer content ;  # top-level
-  _/univcomp content ;  # top-level
-  _/universe content ;  # top-level
+  _/dental/lobbyscreen content ;
+  _/dental/nerb-mcmanama content ;
+  _/dos-test content ;
+  _/doubleit content ;
+  _/dos/lulingzi content ;
+  _/dos/facebook content ;
+  _/double-it content ;
+  _/dlanglai content ;
+  _/dsgsupport content ;
+  _/dsg content ;
+  _/ds-biolobby content ;
+  _/ds-test content ;
+  _/dsmk content ;
+  _/dssandbox content ;
+  _/ddalton content ;
+  _/dublinseminar content ;
+  _/dbin-selector content ;
+  _/uctech content ;
+  _/ugso content ;
+  _/uhc content ;
+  _/uis content ;
+  _/uis-core content ;
+  _/uni content ;
+  _/union content ;
+  _/univcomputer content ;
+  _/univcomp content ;
+  _/universe content ;
 # skipping Templates as we should only add the redirect2lower if necessary
-  _/urc content ;  # top-level
-  _/urgent content ;  # top-level
-  _/ur content ;  # top-level
-  _/ussi content ;  # top-level
-  _/us-microimaging content ;  # top-level
-  _/bcrhhr content ;  # top-level
-  _/bysocelebrates content ;  # top-level
-  _/bnorc content ;  # top-level
-  _/backbay content ;  # top-level
-  _/bashoexpress content ;  # top-level
-  _/baburmemorial content ;  # top-level
-  _/battleforbu content ;  # top-level
-  _/bahec content ;  # top-level
-  _/ballab content ;  # top-level
-  _/bands/graphics content ;  #
-  _/bands/common content ;  #
-  _/bam2012/wp-assets content ;  #
-  _/barc2007 content ;  # top-level
-  _/barc2015 content ;  # top-level
-  _/bme-tic content ;  # top-level
-  _/bhlp content ;  # top-level
-  _/bionicpancreas content ;  # top-level
-  _/biosci content ;  # top-level
-  _/bioimaging content ;  # top-level
-  _/bioimages content ;  # top-level
-  _/biotechlab content ;  # top-level
-  _/bigdatasf content ;  # top-level
-  _/bike content ;  # top-level
-  _/biosquare content ;  # top-level
-  _/biophysics content ;  # top-level
-  _/bikesaftey content ;  # top-level
-  _/biotech content ;  # top-level
-  _/biosafety content ;  # top-level
-  _/biomuseum content ;  # top-level
-  _/biochemistry content ;  # top-level
-  _/biomedforensic content ;  # top-level
-  _/biomed content ;  # top-level
-  _/biomedresearchtech content ;  # top-level
-  _/biology/herps content ;  #
-  _/biomedcrimas content ;  # top-level
-  _/biorobotics content ;  # top-level
-  _/bioskin content ;  # top-level
+  _/urc content ;
+  _/urgent content ;
+  _/ur content ;
+  _/ussi content ;
+  _/us-microimaging content ;
+  _/bcrhhr content ;
+  _/bysocelebrates content ;
+  _/bnorc content ;
+  _/backbay content ;
+  _/bashoexpress content ;
+  _/baburmemorial content ;
+  _/battleforbu content ;
+  _/bahec content ;
+  _/ballab content ;
+  _/bands/graphics content ;
+  _/bands/common content ;
+  _/bam2012/wp-assets content ;
+  _/barc2007 content ;
+  _/barc2015 content ;
+  _/bme-tic content ;
+  _/bhlp content ;
+  _/bionicpancreas content ;
+  _/biosci content ;
+  _/bioimaging content ;
+  _/bioimages content ;
+  _/biotechlab content ;
+  _/bigdatasf content ;
+  _/bike content ;
+  _/biosquare content ;
+  _/biophysics content ;
+  _/bikesaftey content ;
+  _/biotech content ;
+  _/biosafety content ;
+  _/biomuseum content ;
+  _/biochemistry content ;
+  _/biomedforensic content ;
+  _/biomed content ;
+  _/biomedresearchtech content ;
+  _/biology/herps content ;
+  _/biomedcrimas content ;
+  _/biorobotics content ;
+  _/bioskin content ;
   # _/becf content ;  # 2018-06-04 resync (content to WordPress)
-  _/bemerson content ;  # top-level
-  _/behaviorlab content ;  # top-level
-  _/beanpot-party content ;  # top-level
+  _/bemerson content ;
+  _/behaviorlab content ;
+  _/beanpot-party content ;
 ##TODO: get phpmap entry for betabionics and put in separate file
-  _/bergethonlab content ;  # top-level
-  _/betonrhett content ;  # top-level
-  _/benefitstaskforce content ;  # top-level
-  _/behere content ;  # top-level
-  _/betterwaytowork content ;  # top-level
-  _/behavneuro content ;  # top-level
-  _/because content ;  # top-level
-  _/beijing2014 content ;  # top-level
-  _/bostoncelebratesbu content ;  # top-level
-  _/booth content ;  # top-level
-  _/bostoneveningwithbu content ;  # top-level
-  _/bonrc content ;  # top-level
-  _/bostonia/bostonia_archives content ;  #
-  _/bostonia/web content ;  #
-  _/bostonia/summer08 content ;  #
-  _/bostonia/spring08 content ;  #
-  _/bostonia/winter08 content ;  #
-  _/bostonia/spring09 content ;  #
-  _/bostonia/winter09 content ;  #
-  _/bostonia/fall08 content ;  #
-  _/bostonia/search content ;  #
-  _/bostonia/global content ;  #
-  _/bostonia/link content ;  #
-  _/bostonia/summer11 content ;  #
-  _/bostonia/extra content ;  #
-  _/bostonia/email content ;  #
-  _/bostonia/Scripts content ;  #
-  _/bostonia/summer09 content ;  #
-  _/bostonia/toc content ;  #
-  _/bostonia/fall09 content ;  #
-  _/bostonia/fall11 content ;  #
-  _/bostonia/winter-spring12 content ;  #
-  _/bostonia/winter-spring10 content ;  #
-  _/bostonia/campaign12 content ;  #
-  _/bostonia/css content ;  #
-  _/bostonia/summer10 content ;  #
-  _/bostonia/fall10 content ;  #
-  _/bostonia/winter-spring11 content ;  #
-  _/bostonia/summer12 content ;  #
-  _/bostonia/wpassets content ;  #
-  _/bostonroc content ;  # top-level
-  _/books content ;  # top-level
-  _/bostonscholars content ;  # top-level
-  _/borinsky content ;  # top-level
-  _/braintree content ;  # top-level
-  _/bravi/archive content ;  #
-  _/brussels content ;  # top-level
-  _/bridge content ;  # top-level
-  _/brownstone content ;  # top-level
-  _/bfr2011 content ;  # top-level
-  _/blendedlearning content ;  # top-level
-  _/blended content ;  # top-level
-  _/blazars content ;  # top-level
-  _/blogs content ;  # top-level
-  _/bpassoff content ;  # top-level
-  _/btou content ;  # top-level
-  _/btm content ;  # top-level
-  _/bsl content ;  # top-level
-  _/buildyourgift content ;  # top-level
-  _/busdm content ;  # top-level
-  _/buvs content ;  # top-level
-  _/buworkscentral content ;  # top-level
-  _/bu-nano content ;  # top-level
-  _/bu-wheelock-merger/wp-assets content ;  # top-level
-  _/busm-facultycentral content ;  # top-level
-  _/buba content ;  # top-level
-  _/busmplus/form content ;  #
-  _/buinphiladelphia content ;  # top-level
-  _/bubin content ;  # top-level
-  _/bu.edu content ;  # top-level
-  _/buzzlab content ;  # top-level
-  _/bumc-wellness content ;  # top-level
-  _/bumcparking content ;  # top-level
-  _/bumc content ;  # top-level
-  _/business content ;  # top-level
-  _/buildyourbu content ;  # top-level
-  _/butheatre content ;  # top-level
-  _/buworks-files content ;  # top-level
-  _/buapay/wp-assets content ;  #
+  _/bergethonlab content ;
+  _/betonrhett content ;
+  _/benefitstaskforce content ;
+  _/behere content ;
+  _/betterwaytowork content ;
+  _/behavneuro content ;
+  _/because content ;
+  _/beijing2014 content ;
+  _/bostoncelebratesbu content ;
+  _/booth content ;
+  _/bostoneveningwithbu content ;
+  _/bonrc content ;
+  _/bostonia/bostonia_archives content ;
+  _/bostonia/web content ;
+  _/bostonia/summer08 content ;
+  _/bostonia/spring08 content ;
+  _/bostonia/winter08 content ;
+  _/bostonia/spring09 content ;
+  _/bostonia/winter09 content ;
+  _/bostonia/fall08 content ;
+  _/bostonia/search content ;
+  _/bostonia/global content ;
+  _/bostonia/link content ;
+  _/bostonia/summer11 content ;
+  _/bostonia/extra content ;
+  _/bostonia/email content ;
+  _/bostonia/Scripts content ;
+  _/bostonia/summer09 content ;
+  _/bostonia/toc content ;
+  _/bostonia/fall09 content ;
+  _/bostonia/fall11 content ;
+  _/bostonia/winter-spring12 content ;
+  _/bostonia/winter-spring10 content ;
+  _/bostonia/campaign12 content ;
+  _/bostonia/css content ;
+  _/bostonia/summer10 content ;
+  _/bostonia/fall10 content ;
+  _/bostonia/winter-spring11 content ;
+  _/bostonia/summer12 content ;
+  _/bostonia/wpassets content ;
+  _/bostonroc content ;
+  _/books content ;
+  _/bostonscholars content ;
+  _/borinsky content ;
+  _/braintree content ;
+  _/bravi/archive content ;
+  _/brussels content ;
+  _/bridge content ;
+  _/brownstone content ;
+  _/bfr2011 content ;
+  _/blendedlearning content ;
+  _/blended content ;
+  _/blazars content ;
+  _/blogs content ;
+  _/bpassoff content ;
+  _/btou content ;
+  _/btm content ;
+  _/bsl content ;
+  _/buildyourgift content ;
+  _/busdm content ;
+  _/buvs content ;
+  _/buworkscentral content ;
+  _/bu-nano content ;
+  _/bu-wheelock-merger/wp-assets content ;
+  _/busm-facultycentral content ;
+  _/buba content ;
+  _/busmplus/form content ;
+  _/buinphiladelphia content ;
+  _/bubin content ;
+  _/bu.edu content ;
+  _/buzzlab content ;
+  _/bumc-wellness content ;
+  _/bumcparking content ;
+  _/bumc content ;
+  _/business content ;
+  _/buildyourbu content ;
+  _/butheatre content ;
+  _/buworks-files content ;
+  _/buapay/wp-assets content ;
 ##TODO: get phpmap entry for bumobile and put in separate file
-  _/bucie/wp-assets content ;  #
-  _/bumclive content ;  # top-level
-  _/busmphonathon  content ;  # top-level
-  _/bunano content ;  # top-level
-  _/bumc-admissions content ;  # top-level
-  _/buinpittsburgh content ;  # top-level
-  _/builders-leaders content ;  # top-level
-  _/buinsf content ;  # top-level
-  _/bums content ;  # top-level
-  _/busmgiving content ;  # top-level
-  _/buonline content ;  # top-level
-  _/bua25 content ;  # top-level
-  _/bu2do content ;  # top-level
-  _/busm content ;  # top-level
-  _/bu-wheel-merger/wp-assets content ;  # top-level
-  _/buildingbu content ;  # top-level
-  _/busm-pm content ;  # top-level
-  _/buapayments/wp-assets content ;  #
-  _/buloyalty content ;  # top-level
-  _/burc content ;  # top-level
-  _/buspace content ;  # top-level
-  _/bumcprovost content ;  # top-level
-  _/buildbu content ;  # top-level
-  _/buc content ;  # top-level
-  _/bucentral content ;  # top-level
-  _/buwg content ;  # top-level
-  _/buwc content ;  # top-level
-  _/buinchicago content ;  # top-level
-  _/buenvisions content ;  # top-level
-  _/budentalapparelsale content ;  # top-level
-  _/bumc-it content ;  # top-level
-  _/but content ;  # top-level
+  _/bucie/wp-assets content ;
+  _/bumclive content ;
+  _/busmphonathon  content ;
+  _/bunano content ;
+  _/bumc-admissions content ;
+  _/buinpittsburgh content ;
+  _/builders-leaders content ;
+  _/buinsf content ;
+  _/bums content ;
+  _/busmgiving content ;
+  _/buonline content ;
+  _/bua25 content ;
+  _/bu2do content ;
+  _/busm content ;
+  _/bu-wheel-merger/wp-assets content ;
+  _/buildingbu content ;
+  _/busm-pm content ;
+  _/buapayments/wp-assets content ;
+  _/buloyalty content ;
+  _/burc content ;
+  _/buspace content ;
+  _/bumcprovost content ;
+  _/buildbu content ;
+  _/buc content ;
+  _/bucentral content ;
+  _/buwg content ;
+  _/buwc content ;
+  _/buinchicago content ;
+  _/buenvisions content ;
+  _/budentalapparelsale content ;
+  _/bumc-it content ;
+  _/but content ;
 ##TODO: get phpmap entry for buniverse and put in separate file
-  _/bus content ;  # top-level
-  _/buworks/assets content ;  #
-  _/buworks/error content ;  #
-  _/buworks/help content ;  #
-  _/buworks-training content ;  # top-level
-  _/burst content ;  # top-level
+  _/bus content ;
+  _/buworks/assets content ;
+  _/buworks/error content ;
+  _/buworks/help content ;
+  _/buworks-training content ;
+  _/burst content ;
 ##TODO: get phpmap entry for bufellow/db-admin and put in separate file
-  _/bufellow/output content ;  #
-  _/buworksforum content ;  # top-level
-  _/bua content ;  # top-level
-  _/buworks-staff content ;  # top-level
-  _/bualumnicenter content ;  # top-level
-  _/bucde content ;  # top-level
-  _/bucld/wp-assets content ;  #
-  _/bumc-research content ;  # top-level
-  _/bumc-pulmonarycenter content ;  # top-level
-  _/bucflp/wp-assets content ;  #
-  _/buleads content ;  # top-level
-  _/build content ;  # top-level
-  _/burppe content ;  # top-level
+  _/bufellow/output content ;
+  _/buworksforum content ;
+  _/bua content ;
+  _/buworks-staff content ;
+  _/bualumnicenter content ;
+  _/bucde content ;
+  _/bucld/wp-assets content ;
+  _/bumc-research content ;
+  _/bumc-pulmonarycenter content ;
+  _/bucflp/wp-assets content ;
+  _/buleads content ;
+  _/build content ;
+  _/burppe content ;
 ### 1939 content
 ### 774 wordpress
 ### 16 app
