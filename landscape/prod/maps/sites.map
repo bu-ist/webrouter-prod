@@ -416,7 +416,6 @@ _/bumobile phpbin ;
   _/wcrew content ;  # top-level
   _/www.bu.edu content ;  # top-level
   _/wwwv content ;  # top-level
-  _/www-test.bu.edu content ;  # top-level
   _/wwildman content ;  # top-level
   _/washingtoncelebratesbu content ;  # top-level
   _/washintern content ;  # top-level
