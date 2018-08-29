@@ -181,7 +181,7 @@ _/bumobile phpbin ;
   _/casw content ;
   _/careerex content ;
   _/cab content ;
-  _/cart content ; # 2018-06-04 cleanup
+  _/cart content ;
   _/calendar phpbin ;
   _/casdemo content ;
   _/caderonline content ;
@@ -216,7 +216,7 @@ _/bumobile phpbin ;
   _/celebrationvip content ;
   _/celebrationcake content ;
   _/censsis content ;
-  _/celop/wp-assets content ;  # 2018-06-04 cleanup
+  _/celop/wp-assets content ;
   _/celop/dev content ;
   _/centurychallenge content ;
   _/cell-met content ;
