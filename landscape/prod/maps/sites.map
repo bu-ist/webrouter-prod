@@ -11,7 +11,7 @@ _/employeelink redirect_asis ;
 _/geography/brdf redirect_asis ;
 _/givenow redirect_asis ;
 _/business-analytics redirect_asis ;
-_/kssf redirect_asis ; # 2018-07-10 INC12451604
+_/kssf redirect_asis ;
 _/sthfund redirect_asis ;
 _/scholarshipimpact redirect_asis ;
 _/celebratela redirect_asis ;
@@ -43,10 +43,6 @@ _/uiszl_eostc legacy ;
 _/uiszl_j2ee legacy ;
 _/formlogin legacy ;
 
-#admissions wordpress
-
-# dbin
-
 # default application backends
 _/dbin dbin ;
 _/phpbin phpbin ;
@@ -61,7 +57,6 @@ _/degree-audit degree-advice ;
 
 # Send old-style redirects and aliases to the content backend
 # we are not transitioning anything older than 2009 unless necessary.
-#
 
 ##### END of common prefix
 ###############################################
@@ -69,8 +64,7 @@ _/degree-audit degree-advice ;
 ##### PHPMAP items
 
 ### Django applications
-#
-##
+
 _/fifty-states       django ;
 #changed fifty-states Name to /ssw/usfostercare
 _/ssw/usfostercare     django ;
@@ -83,14 +77,12 @@ _/summer/admin       django ;
 _/html-email       django ;
 _/betabionics        django ;
 _/rpm-agreements       django ;
-# _/provost        django ; should be wordpress
 _/wp-deploy        django ;
 #ghir          django ; # /ghir = /globalhealth
 #globalhealth        django ; # Wait to add this
 _/law-pub        django ;
 
 # Ask Web team about:
-#
 ##############
 # /dbin misc:
 ##############
@@ -182,7 +174,7 @@ _/bumobile phpbin ;
   _/casw content ;
   _/careerex content ;
   _/cab content ;
-  _/cart content ; # 2018-06-04 cleanup
+  _/cart content ;
   _/calendar phpbin ;
   _/casdemo content ;
   _/caderonline content ;
@@ -217,7 +209,7 @@ _/bumobile phpbin ;
   _/celebrationvip content ;
   _/celebrationcake content ;
   _/censsis content ;
-  _/celop/wp-assets content ;  # 2018-06-04 cleanup
+  _/celop/wp-assets content ;
   _/celop/dev content ;
   _/centurychallenge content ;
   _/cell-met content ;
@@ -280,7 +272,6 @@ _/bumobile phpbin ;
   _/com/registration content ;
   _/com/special content ;
   _/com/socialmediaday content ;
-  # _/com/orientation content ;  # 2018-06-04 removal
   _/com/live-it content ;
   _/com/ems-review content ;
   _/com/mobile-life-workshop content ;
@@ -292,7 +283,7 @@ _/bumobile phpbin ;
   _/com/dar content ;
   _/com/lambert-review content ;
   _/com/data-storytelling content ;
-  _/com/data-narrative content ;  # 2018-06-04 addition
+  _/com/data-narrative content ;
   _/com/graduate content ;
   _/com/daly-review content ;
   _/com/labor-films content ;
@@ -401,9 +392,9 @@ _/bumobile phpbin ;
   _/cball content ;
   _/cbm content ;
   _/yac content ;
-  _/y2kpartners content ;  # 2018-06-04 resync
-  _/y2k content ;  # 2018-06-04 resync
-  _/y2k-partners content ;  # 2018-06-04 resync
+  _/y2kpartners content ;
+  _/y2k content ;
+  _/y2k-partners content ;
   _/yourimpact content ;
   _/yourbusm content ;
   _/yourgift content ;
@@ -480,8 +471,6 @@ _/bumobile phpbin ;
   _/nida-mrc content ;
   _/niscms content ;
   _/nitrides content ;
-  # using entry pointing to phpbin at the top of the file
-  #_/nisdev content ;
   _/nightingale content ;
   _/niteo content ;
   _/nisguide content ;
@@ -658,8 +647,6 @@ _/bumobile phpbin ;
   _/map content ;
   _/marks-test-blog3 content ;
   _/machozi content ;
-  # using entry pointing to phpbin at the top of the file
-  #_/maps content ;
   _/management content ;
   _/marcom/stationery content ;
   _/marcom/email content ;
@@ -695,7 +682,7 @@ _/bumobile phpbin ;
   _/minds content ;
   _/mickswan content ;
   _/midas content ;
-  _/mini-mba content ;  # 2018-06-04 resync
+  _/mini-mba content ;
   _/militarynight content ;
   _/microscopylab content ;
   _/microarray content ;
@@ -706,7 +693,7 @@ _/bumobile phpbin ;
   _/medlibstaff content ;
   _/met50 content ;
   _/menorca content ;
-  _/met-lp content ;  # 2018-06-04 resync
+  _/met-lp content ;
   _/medfellowship content ;
   _/metfacultydevelopment content ;
   _/medclassnotes content ;
@@ -722,12 +709,12 @@ _/bumobile phpbin ;
   _/mentalhealth content ;
   _/medschoolgradprograms content ;
   _/medenews content ;
-  _/medstudy content ;  # 2018-06-04 resync
+  _/medstudy content ;
   _/metro content ;
   _/meller content ;
   _/medschool content ;
   _/met/common content ;
-  _/met/events content ;  # 2018-06-04 resync
+  _/met/events content ;
   _/met/advertising content ;
   _/met/linkedin content ;
   _/met/elive content ;
@@ -742,8 +729,6 @@ _/bumobile phpbin ;
   _/met/msmonline content ;
   _/met/acela content ;
   _/met/event-calendar content ;
-  # NGINX map entries are not case sensitive so we need to comment out one of the USA/usa
-  #_/met/USA content ;
   _/met/50 content ;
   _/met/usa content ;
   _/met/grad11 content ;
@@ -753,11 +738,7 @@ _/bumobile phpbin ;
   _/met/yellowpages content ;
   _/met/audio content ;
   _/met/landing-pages content ;
-  # NGINX map entries are not case sensitive so we need to comment out one of them
-  #_/met/Agganis content ;
   _/met/web content ;
-  # NGINX map entries are not case sensitive so we need to comment out one of them
-  #_/met/Acela content ;
   _/met/magazine content ;
   _/met/mag content ;
   _/met/email-campaign content ;
@@ -831,9 +812,9 @@ _/bumobile phpbin ;
   _/mba-essays content ;
   _/mba content ;
   _/mba-facts content ;
-  _/28qatest content ;  # 2018-06-04 resync
-  _/25000 content ;  # 2018-06-04 resync
-  _/200word content ;  # 2018-06-04 resync
+  _/28qatest content ;
+  _/25000 content ;
+  _/200word content ;
   _/qa-2 content ;
   _/qatest28 content ;
   _/qa-3 content ;
@@ -908,7 +889,7 @@ _/bumobile phpbin ;
   _/honordeanmeenan content ;
   _/homecoming content ;
   _/honordeanwells content ;
-  _/holickehlersdanlosfund content ;  # 2018-06-04 resync
+  _/holickehlersdanlosfund content ;
   _/homeimages content ;
   _/homepage2 content ;
   _/hr/flash content ;
@@ -978,7 +959,7 @@ _/bumobile phpbin ;
   _/ihs content ;
   _/iip content ;
   _/ionchannelcalcium content ;
-  _/i3e-ac content ;  # 2018-06-04 resync
+  _/i3e-ac content ;
   _/irc content ;
   _/ircenter content ;
   _/iraopportunity content ;
@@ -1038,13 +1019,13 @@ _/bumobile phpbin ;
   _/excellence content ;
   _/executivevp content ;
   _/encoder content ;
-  _/execemf content ;  # 2018-06-04 resync
+  _/execemf content ;
   _/energytransitions content ;
   _/environment content ;
   _/entrepreneurship content ;
   _/enrsa content ;
   _/eng/magmodel content ;
-  _/eng/wp-assets content ;  # 2018-06-04 resync
+  _/eng/wp-assets content ;
   _/enact/wp-assets content ;
   _/eas content ;
   _/earthhouse content ;
@@ -1091,7 +1072,7 @@ _/bumobile phpbin ;
   _/eso/wp-assets content ;
   _/eso/academic-data-warehouse content ;
   _/esl content ;
-  _/estateguide content ;  # 2018-06-04 resync
+  _/estateguide content ;
   _/esf content ;
   _/education content ;
   _/eugene content ;
@@ -1207,7 +1188,6 @@ _/bumobile phpbin ;
   _/rrtcout content ;
   _/rl content ;
   _/rpm/panos content ;
-# skipping rp18p.GIF as we should only add the redirect2lower if necessary
   _/rsg content ;
   _/rss content ;
   _/rdlewis content ;
@@ -1217,7 +1197,6 @@ _/bumobile phpbin ;
   _/galacticring content ;
   _/games content ;
   _/gastronomy content ;
-  # _/gmf content ;  # 2018-06-04 resync
   _/gms content ;
   _/g2kge content ;
   _/ghi content ;
@@ -1292,7 +1271,6 @@ _/bumobile phpbin ;
   _/globalquestionnaire content ;
   _/globaldayofservice content ;
   _/glaisne content ;
-  # _/globalprograms content ;  # 2018-06-04 resync
   _/globalfuture content ;
   _/glc content ;
   _/globaldaysofservice content ;
@@ -1350,7 +1328,6 @@ _/bumobile phpbin ;
   _/finaid wordpress ;
   _/finplanners content ;
   _/firesafety content ;
-  #_/fifty-states content ;
   _/findmyprint content ;
   _/festival content ;
   _/feltensteinchallenge content ;
@@ -1596,7 +1573,6 @@ _/bumobile phpbin ;
   _/techweb-survey content ;
   _/test-blog content ;
   _/testnfs content ;
-  #_/testing content ;
   _/tech/plan content ;
   _/tech/slp content ;
   _/tech/wp-assets content ;
@@ -1680,7 +1656,6 @@ _/bumobile phpbin ;
   _/scnc/wp-assets content ;
   _/scv content ;
   _/scv_import content ;
-# skipping systems-programming.RESTORED as we should only add the redirect2lower if necessary
   _/synbio content ;
   _/systemsbiology content ;
   _/systems-programming content ;
@@ -1813,7 +1788,7 @@ _/bumobile phpbin ;
   _/supportaphasiacenter content ;
   _/summerterm content ;
   _/suemac content ;
-  _/susilo content ;  # 2018-06-04 resync (WordPress to content)
+  _/susilo content ;
   _/suppliers content ;
   _/summerfun content ;
   _/survey content ;
@@ -1899,7 +1874,6 @@ _/bumobile phpbin ;
   _/univcomputer content ;
   _/univcomp content ;
   _/universe content ;
-# skipping Templates as we should only add the redirect2lower if necessary
   _/urc content ;
   _/urgent content ;
   _/ur content ;
@@ -1942,7 +1916,6 @@ _/bumobile phpbin ;
   _/biomedcrimas content ;
   _/biorobotics content ;
   _/bioskin content ;
-  # _/becf content ;  # 2018-06-04 resync (content to WordPress)
   _/bemerson content ;
   _/behaviorlab content ;
   _/beanpot-party content ;
@@ -2076,8 +2049,3 @@ _/bumobile phpbin ;
   _/buleads content ;
   _/build content ;
   _/burppe content ;
-### 1939 content
-### 774 wordpress
-### 16 app
-### 1 type
-### 3 redirect2lower
