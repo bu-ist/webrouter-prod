@@ -279,7 +279,6 @@ _/bumobile phpbin ;
   _/com/registration content ;
   _/com/special content ;
   _/com/socialmediaday content ;
-  # _/com/orientation content ;  # 2018-06-04 removal
   _/com/live-it content ;
   _/com/ems-review content ;
   _/com/mobile-life-workshop content ;
