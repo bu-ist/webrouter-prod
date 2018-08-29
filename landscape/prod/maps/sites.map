@@ -1207,7 +1207,6 @@ _/bumobile phpbin ;
   _/rrtcout content ;
   _/rl content ;
   _/rpm/panos content ;
-# skipping rp18p.GIF as we should only add the redirect2lower if necessary
   _/rsg content ;
   _/rss content ;
   _/rdlewis content ;
@@ -1680,7 +1679,6 @@ _/bumobile phpbin ;
   _/scnc/wp-assets content ;
   _/scv content ;
   _/scv_import content ;
-# skipping systems-programming.RESTORED as we should only add the redirect2lower if necessary
   _/synbio content ;
   _/systemsbiology content ;
   _/systems-programming content ;
@@ -1899,7 +1897,6 @@ _/bumobile phpbin ;
   _/univcomputer content ;
   _/univcomp content ;
   _/universe content ;
-# skipping Templates as we should only add the redirect2lower if necessary
   _/urc content ;
   _/urgent content ;
   _/ur content ;
