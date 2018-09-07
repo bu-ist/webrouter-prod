@@ -12,6 +12,7 @@ _/kssf redirect_asis ;
 _/sthfund redirect_asis ;
 _/scholarshipimpact redirect_asis ;
 _/celebratela redirect_asis ;
+_/bu-wind redirect_asis ;
 
 # items from the www:phpmap.txt
 _/buniverse phpbin ;
