@@ -13,7 +13,7 @@ _/sthfund redirect_asis ;
 _/scholarshipimpact redirect_asis ;
 _/celebratela redirect_asis ;
 _/buwind redirect_asis ;
-_/mba-msdi redirect_asis;
+_/mba-msdi redirect_asis ;
 
 # items from the www:phpmap.txt
 _/buniverse phpbin ;
