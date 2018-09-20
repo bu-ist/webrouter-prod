@@ -37,9 +37,11 @@ _/link uiscgi_content ;
 # These are the old tomcat servlets on the server
 _/uis_web3270 legacy ;
 _/uis_eostc legacy ;
+
 # not certain that the following is necessary
 _/uiszl_eostc legacy ;
 _/uiszl_j2ee legacy ;
+_/uiszl_pdf legacy ;
 _/formlogin legacy ;
 
 # default application backends
