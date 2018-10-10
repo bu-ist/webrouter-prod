@@ -16,6 +16,7 @@ _/buwind redirect_asis ;
 _/mba-msdi redirect_asis ;
 _/questrom-phd redirect_asis ;
 _/bdc redirect_asis ;
+_/wheelockfamilytheatre redirect_asis ;
 
 # items from the www:phpmap.txt
 _/buniverse phpbin ;
