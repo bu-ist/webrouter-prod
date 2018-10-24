@@ -10,7 +10,6 @@ _/geography/brdf http://www-modis.bu.edu/brdf ;
 
 
 # Marketing URLs (setup with cost-recovery fee to IS&T Applications):
-_/donorwebinar https://bostonu.imodules.com/s/1759/2-bu/2col.aspx?sid=1759&gid=2&pgid=6340&content_id=6881 ;
 _/givenow https://trusted.bu.edu/s/1759/2-bu/giving/interior.aspx?sid=1759&gid=2&pgid=412&cid=1044&appealcode=WEBAGC-TM ;
 _/business-analytics http://www.bu.edu/questrom/degree-programs/ms-in-business-analytics ;
 _/grandopening http://bostonu.imodules.com/s/1759/2-bu/2col.aspx?sid=1759&gid=2&pgid=5827&content_id=6271 ;
@@ -23,3 +22,4 @@ _/mba-msdi https://www.bu.edu/questrom/degree-programs/mba-ms-in-digital-innovat
 _/questrom-phd https://www.bu.edu/questrom/degree-programs/phd-program/ ;
 _/bdc https://bdc.bu.edu ;
 _/wheelockfamilytheatre https://trusted.bu.edu/s/1759/2-bu/giving/interior.aspx?sid=1759&gid=2&pgid=412&cid=1044&dids=436&appealcode=WEBAGC&bledit=1 ;
+_/donorwebinar https://bostonu.imodules.com/s/1759/2-bu/2col.aspx?sid=1759&gid=2&pgid=6340&content_id=6881 ;
