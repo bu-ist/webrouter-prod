@@ -17,6 +17,7 @@ _/mba-msdi redirect_asis ;
 _/questrom-phd redirect_asis ;
 _/bdc redirect_asis ;
 _/wheelockfamilytheatre redirect_asis ;
+_/donorwebinar redirect_asis ;
 
 # items from the www:phpmap.txt
 _/buniverse phpbin ;
