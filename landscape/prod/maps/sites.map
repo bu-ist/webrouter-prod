@@ -18,6 +18,7 @@ _/questrom-phd redirect_asis ;
 _/bdc redirect_asis ;
 _/wheelockfamilytheatre redirect_asis ;
 _/donorwebinar redirect_asis ;
+_/activistlab redirect_asis ;
 
 # items from the www:phpmap.txt
 _/buniverse phpbin ;
