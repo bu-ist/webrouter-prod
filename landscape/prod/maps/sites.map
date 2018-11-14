@@ -19,6 +19,8 @@ _/bdc redirect_asis ;
 _/wheelockfamilytheatre redirect_asis ;
 _/donorwebinar redirect_asis ;
 _/activistlab redirect_asis ;
+_/cohenchallenge redirect_asis ;
+_/doubleit redirect_asis ;
 
 # items from the www:phpmap.txt
 _/buniverse phpbin ;
