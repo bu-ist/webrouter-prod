@@ -21,6 +21,8 @@ _/donorwebinar redirect_asis ;
 _/activistlab redirect_asis ;
 _/cohenchallenge redirect_asis ;
 _/doubleit redirect_asis ;
+_/bumc redirect_asis ;
+_/busm redirect_asis ;
 
 # items from the www:phpmap.txt
 _/buniverse phpbin ;
@@ -372,7 +374,6 @@ _/buinpittsburgh content ;
 _/buinsf content ;
 _/buleads content ;
 _/buloyalty content ;
-_/bumc content ;
 _/bumc-admissions content ;
 _/bumc-it content ;
 _/bumc-pulmonarycenter content ;
@@ -390,7 +391,6 @@ _/burst content ;
 _/bus content ;
 _/busdm content ;
 _/business content ;
-_/busm content ;
 _/busm-facultycentral content ;
 _/busm-pm content ;
 _/busmgiving content ;
