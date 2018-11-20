@@ -3,28 +3,28 @@
 #
 
 # StudentLink main menu
-_/studentlink /link/bin/uiscgi_studentlink.pl/uismpl/?ModuleName=menu.pl&NewMenu=Home ;
-_/employeelink /link/bin/uiscgi_employeelink.pl/uismpl ;
 _/applicantlink /link/bin/uiscgi_applicantlink.pl/uismpl ;
+_/employeelink /link/bin/uiscgi_employeelink.pl/uismpl ;
 _/geography/brdf http://www-modis.bu.edu/brdf ;
+_/studentlink /link/bin/uiscgi_studentlink.pl/uismpl/?ModuleName=menu.pl&NewMenu=Home ;
 
 # Marketing URLs (setup with cost-recovery fee to IS&T Applications):
-_/givenow https://trusted.bu.edu/s/1759/2-bu/giving/interior.aspx?sid=1759&gid=2&pgid=412&cid=1044&appealcode=WEBAGC-TM ;
+_/activistlab https://trusted.bu.edu/s/1759/2-bu/giving/interior.aspx?sid=1759&gid=2&pgid=497&cid=1170&dids=377&bledit=1&appealcode=WEBSPH-PR ;
+_/bdc https://bdc.bu.edu ;
 _/business-analytics http://www.bu.edu/questrom/degree-programs/ms-in-business-analytics ;
+_/buwind https://www.bu.edu/sustainability/what-were-doing/bu-wind/ ;
+_/celebratela http://bostonu.imodules.com/s/1759/2-bu/2col.aspx?sid=1759&gid=2&pgid=6044&content_id=6516 ;
+_/cohenchallenge https://www.bu.edu/campaign/find-your-cause/provide-opportunity/the-cohen-challenge ;
+_/donorwebinar https://bostonu.imodules.com/s/1759/2-bu/2col.aspx?sid=1759&gid=2&pgid=6413&content_id=6942&appealcode=postcard ;
+_/doubleit https://www.bu.edu/campaign/find-your-cause/provide-opportunity/the-cohen-challenge ;
+_/givenow https://trusted.bu.edu/s/1759/2-bu/giving/interior.aspx?sid=1759&gid=2&pgid=412&cid=1044&appealcode=WEBAGC-TM ;
 _/grandopening http://bostonu.imodules.com/s/1759/2-bu/2col.aspx?sid=1759&gid=2&pgid=5827&content_id=6271 ;
 _/kssf https://trusted.bu.edu/s/1759/2-bu/giving/interior.aspx?sid=1759&gid=2&pgid=1333&cid=2638&dids=431&appealcode=WEBSTH ;
-_/sthfund https://trusted.bu.edu/s/1759/2-bu/giving/interior.aspx?sid=1759&gid=2&pgid=1333&cid=2638&dids=32&appealcode=WEBSTH ;
-_/scholarshipimpact https://www.bu.edu/campaign/ways-of-giving/annual-fund/donor-impact-page/videos/scholarship-stories/ ;
-_/celebratela http://bostonu.imodules.com/s/1759/2-bu/2col.aspx?sid=1759&gid=2&pgid=6044&content_id=6516 ;
-_/buwind https://www.bu.edu/sustainability/what-were-doing/bu-wind/ ;
 _/mba-msdi https://www.bu.edu/questrom/degree-programs/mba-ms-in-digital-innovation/ ;
 _/questrom-phd https://www.bu.edu/questrom/degree-programs/phd-program/ ;
-_/bdc https://bdc.bu.edu ;
+_/scholarshipimpact https://www.bu.edu/campaign/ways-of-giving/annual-fund/donor-impact-page/videos/scholarship-stories/ ;
+_/sthfund https://trusted.bu.edu/s/1759/2-bu/giving/interior.aspx?sid=1759&gid=2&pgid=1333&cid=2638&dids=32&appealcode=WEBSTH ;
 _/wheelockfamilytheatre https://trusted.bu.edu/s/1759/2-bu/giving/interior.aspx?sid=1759&gid=2&pgid=412&cid=1044&dids=436&appealcode=WEBAGC&bledit=1 ;
-_/donorwebinar https://bostonu.imodules.com/s/1759/2-bu/2col.aspx?sid=1759&gid=2&pgid=6413&content_id=6942&appealcode=postcard ;
-_/activistlab https://trusted.bu.edu/s/1759/2-bu/giving/interior.aspx?sid=1759&gid=2&pgid=497&cid=1170&dids=377&bledit=1&appealcode=WEBSPH-PR ;
-_/cohenchallenge https://www.bu.edu/campaign/find-your-cause/provide-opportunity/the-cohen-challenge ;
-_/doubleit https://www.bu.edu/campaign/find-your-cause/provide-opportunity/the-cohen-challenge ;
 
 # Other redirects
 _/bumc https://www.bumc.bu.edu/ ;
