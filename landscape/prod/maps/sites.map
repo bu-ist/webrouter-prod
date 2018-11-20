@@ -1,11 +1,13 @@
 ### Common mapping to all bu.edu systems
 _/version 20181010 ;
 
-# redirects
+# StudentLink main menu
 _/studentlink redirect_asis ;
-_/applicantlink redirect_asis ;
 _/employeelink redirect_asis ;
+_/applicantlink redirect_asis ;
 _/geography/brdf redirect_asis ;
+
+# Marketing URLs (setup with cost-recovery fee to IS&T Applications):
 _/givenow redirect_asis ;
 _/business-analytics redirect_asis ;
 _/kssf redirect_asis ;
@@ -21,6 +23,8 @@ _/donorwebinar redirect_asis ;
 _/activistlab redirect_asis ;
 _/cohenchallenge redirect_asis ;
 _/doubleit redirect_asis ;
+
+# Other redirects
 _/bumc redirect_asis ;
 _/busm redirect_asis ;
 
