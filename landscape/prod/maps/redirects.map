@@ -11,6 +11,7 @@ _/studentlink /link/bin/uiscgi_studentlink.pl/uismpl/?ModuleName=menu.pl&NewMenu
 # Marketing URLs (setup with cost-recovery fee to IS&T Applications):
 _/activistlab https://trusted.bu.edu/s/1759/2-bu/giving/interior.aspx?sid=1759&gid=2&pgid=497&cid=1170&dids=377&bledit=1&appealcode=WEBSPH-PR ;
 _/bdc https://bdc.bu.edu ;
+_/bizanalytics https://www.bu.edu/msba-ad/?utm_source=bu%20campus&utm_medium=posters&utm_campaign=msba&utm_content=bizanalytics ;
 _/business-analytics http://www.bu.edu/questrom/degree-programs/ms-in-business-analytics ;
 _/buwind https://www.bu.edu/sustainability/what-were-doing/bu-wind/ ;
 _/celebratela http://bostonu.imodules.com/s/1759/2-bu/2col.aspx?sid=1759&gid=2&pgid=6044&content_id=6516 ;
