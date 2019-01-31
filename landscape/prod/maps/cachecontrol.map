@@ -11,4 +11,8 @@
   content "no-cache, no-store" ;
   oldcontent "no-cache, no-store" ;
 
+  # Same story for WordPress content on the
+  # wpassets server:
+  wpassets "no-cache, no-store" ;
+
   apps-rewrite "no-cache, no-store" ;
