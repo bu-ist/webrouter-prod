@@ -252,6 +252,7 @@ _/auctions content ;
 _/auth-test content ; #top-level for authentication load test
 _/aux content ;
 _/av content ;
+_/av/cader wordpress ;
 _/avl content ;
 _/avtonkov-today2 content ;
 _/awrecentgrads content ;
