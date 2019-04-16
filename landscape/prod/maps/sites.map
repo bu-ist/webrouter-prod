@@ -253,16 +253,6 @@ _/auckland content ;
 _/auctions content ;
 _/auth-test content ; #top-level for authentication load test
 _/aux content ;
-_/av content ;
-_/av/abroad wordpress ;
-_/av/asllrp wordpress ;
-_/av/cader wordpress ;
-_/av/celop wordpress ;
-_/av/chapel wordpress ;
-_/av/disted wordpress ;
-_/av/globalprograms wordpress ;
-_/av/isso wordpress ;
-_/av/tech wordpress ;
 _/avl content ;
 _/avtonkov-today2 content ;
 _/awrecentgrads content ;
