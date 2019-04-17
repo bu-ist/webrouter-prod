@@ -35,5 +35,6 @@ _/sthfund https://trusted.bu.edu/s/1759/2-bu/giving/interior.aspx?sid=1759&gid=2
 _/wheelockfamilytheatre https://trusted.bu.edu/s/1759/2-bu/giving/interior.aspx?sid=1759&gid=2&pgid=412&cid=1044&dids=436&appealcode=WEBAGC&bledit=1 ;
 
 # Other redirects
+_/awslogin https://shib.bu.edu/idp/profile/SAML2/Unsolicited/SSO?providerId=urn:amazon:webservices ;
 _/bumc https://www.bumc.bu.edu/ ;
 _/busm https://www.bumc.bu.edu/busm/ ;
