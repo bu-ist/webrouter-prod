@@ -35,6 +35,7 @@ _/wheelockfamilytheatre redirect_asis ;
 # Other redirects
 _/bumc redirect_asis ;
 _/busm redirect_asis ;
+_/awslogin redirect_asis ;
 
 # items from the www:phpmap.txt
 _/buniverse phpbin ;
