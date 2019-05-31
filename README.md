@@ -1,5 +1,15 @@
 # Overview
 
+The BU web router is an Nginx based AWS hosted routing system for our front-end web traffic. Our main www.bu.edu domain now utilizes this system for routing sites, apps, and redirects. For non-production see the [non-prod router](https://github.com/bu-ist/webrouter-nonprod).
+
+For virtual host routing please refer to our [legacy routing documentation](https://developer.bu.edu/webteam/developer/resources/routing/). For additional detailed information about the webrouter please see our [SOP webrouter configuration docs](https://bushare.sharepoint.com/:w:/r/sites/ist/pm/support/other/web-fe-cloud/PLCdocs/IST-SOP-WebRouterConfiguration.docx?d=wada8f23d21674171977574c206fbc776&csf=1).
+
+To verify if a route is being managed by the BU Webrouter, you can append `/server/lookup/` in front of any path. Routes that are managed by the Webrouter will respond with a snippet of information including which backend is servicing the request.
+
+For instance, to see how requests to https://www.bu.edu/calendar/ are routed, visit https://www.bu.edu/server/lookup/calendar/
+
+## Deploying changes
+
 This repo contains the landscape specific files for the BU web router.  In general updates to this repo are
 safe to release to in a change restriction period.  That is because:
 
