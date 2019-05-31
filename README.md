@@ -8,6 +8,30 @@ To verify if a route is being managed by the BU Webrouter, you can append `/serv
 
 For instance, to see how requests to https://www.bu.edu/calendar/ are routed, visit https://www.bu.edu/server/lookup/calendar/
 
+## Sites map
+
+All of our non-redirect routes are in the [sites.map file](https://github.com/bu-ist/webrouter-prod/blob/prod/landscape/prod/maps/sites.map). All routing changes, including redirects, are implemented via this sites map file. The sites.map file can be considered a key-value mapping where the key is the path and the value is which backend the path resolves to.
+
+For instance, when a request is made for https://www.bu.edu/calendar, the Nginx server looks up "calendar" in the sites map, sees that its' backend is listed as `phpbin` and then sends requests for /calendar to our php backends.
+
+Please note that all paths in the sites.map file are prefaced with an underscore and slash to allow for easy searchability. For instance, the calendar path noted above is listed in sites.map as:
+
+`_/calendar phpbin ;`
+
+Also note the semicolon closing the line!
+
+### Unknown/unlisted sites
+
+As the majority of our routes/sites currently are served via [BU WordPress](https://www.bu.edu/tech/services/cccs/websites/www/wordpress/) the default destination for any site/route that is not explicitly listed in sites.map is the BU WordPress backends. Note, that there are very few routes listed with an explicit wordpress backend as any unlisted routes will automatically go to the WP backends.
+
+That does mean that legitimate unknown routes will also be served a 404 response from BU WordPress's root site.
+
+You can have sub-paths under the main path pointing at different backends. For instance, https://www.bu.edu/com/is a BU WordPress site and there is no root `_/com` entry in sites.map. But there are several entries for paths underneath the main com route.
+
+For example, https://www.bu.edu/com/crc is a static micro-site hosted in our static content backend and thus has the below route so that `com/crc` requests don't go to the WP backends but instead the content backends:
+
+`_/com/crc content ;`
+
 ## Deploying changes
 
 This repo contains the landscape specific files for the BU web router.  In general updates to this repo are
