@@ -121,5 +121,5 @@ URLs for this process:
 - https://sanderknape.com/2017/08/custom-cloudformation-resource-example-codedeploy/?__s=1qw3d4dssvntsxck5tuk
 - https://aws.amazon.com/blogs/compute/managing-secrets-for-amazon-ecs-applications-using-parameter-store-and-iam-roles-for-tasks/
 
-- http://blog.xebia.com/docker-container-secrets-aws-ecs/
+- https://blog.xebia.com/docker-container-secrets-aws-ecs/
 
