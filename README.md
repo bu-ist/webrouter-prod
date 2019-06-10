@@ -73,6 +73,29 @@ Finally, you will need to create a NAS/Isilon volume as well until we migrate fr
 
 After proxy_route completes and the new image deploys your new site should now be available at www-test.bu.edu/new-static-site [ and any other environments you’ve created the site in ].
 
+## Redirects
+
+[Example of redirect commit](https://github.com/dsmk/web-router-prod/commit/6b0532a81e78c2779bacf1afadd2b8d47538ce99)
+
+Creating a redirect (also called a marketing URL) requires two changes to the web router. First, we need an entry in the sites.map file for the URL we want to redirect pointing it at the redirect_asis backend. Next we add an entry with the path we’re redirecting and the target URL it should redirect.
+
+For instance, to redirect bu.edu/marketingredirect to www.example.com
+
+sites.map:
+
+```
+_/marketingredirect redirect_asis ; #Any relevant info like ticket #
+```
+
+redirects.map:
+
+```
+_/marketingredirect https://www.example.com ;
+```
+
+Commit the change and submit a PR to push to PROD.
+
+
 ## Deploying changes
 
 This repo contains the landscape specific files for the BU web router.  In general updates to this repo are
