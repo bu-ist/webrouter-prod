@@ -32,6 +32,47 @@ For example, https://www.bu.edu/com/crc is a static micro-site hosted in our sta
 
 `_/com/crc content ;`
 
+#### Creating new non-Staging WordPress Sites
+
+Having WordPress be our default back-end greatly reduces the complexity around adding new WordPress sites. The procedure for creating a new WordPress site in an AWS-routed environment is to simply use the Add New Site panel in wp-admin.
+
+#### Creating new Staging WordPress Sites
+
+www-staging is currently not going through the webrouter and is still routing via the legacy system. The impact of that is that creating a new Staging WordPress site requires, in brief:
+
+    1. Creating the site in the Staging WordPress network.
+    1. Create the AFS directory in the split-path
+    1. Add a whole site in staging stub file
+    1. Confirm site is available at www-staging.bu.edu/SITENAME
+
+There are plans to move www-staging to the webrouter but in the interim the steps above are the summary of what needs to occur and for more detailed information see [Creating a new site in WordPress](https://developer.bu.edu/webteam/support/wordpress/site-management/creating-a-wordpress-site/#create-new-wp-site) and ignore the proxy_route steps.
+
+Creating new non-WordPress Sites
+
+The procedure for creating a new non-wordpress site has a few steps. First, add the site to the sites.map file for the DEVL and TEST landscapes [ for PROD for now please ask David King until a procedure is in place ]. You can see the available backends in the [cachecontrol file](https://github.com/bu-ist/webrouter-prod/blob/prod/landscape/prod/maps/cachecontrol.map).
+
+Once committed and pushed, an AWS CodePipeline will build a new container image and deploy it automatically. If you have not received credentials to the non-prod AWS account and believe you should please ask Ron Yeany to ask Tim Carter to set you up.
+
+After adding the file to the sites.map file for the appropriate environments, add the destination to the designated backend. For instance, if creating a new static site called new-static-site you would add:
+
+```
+_/new-static-site content ;
+```
+
+to the sites.map for the landscape(s) you want the site in. Then, create the new AFS volume,
+
+```
+/afs/.bu.edu/cwis/web/n/e/new-static-site
+```
+
+Finally, you will need to create a NAS/Isilon volume as well until we migrate from AFS. Log in to it.bu.edu and run the proxy_route tool to create the NAS volume. For instance to create the TEST volume:
+
+```
+/afs/bu/cwis/admin/proxy_route -e test new-static-site
+```
+
+After proxy_route completes and the new image deploys your new site should now be available at www-test.bu.edu/new-static-site [ and any other environments you’ve created the site in ].
+
 ## Deploying changes
 
 This repo contains the landscape specific files for the BU web router.  In general updates to this repo are
