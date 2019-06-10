@@ -95,6 +95,45 @@ _/marketingredirect https://www.example.com ;
 
 Commit the change and submit a PR to push to PROD.
 
+## HTML Domain Verification Files
+
+HTML Domain Verification Files
+
+Occasionally we receive requests to serve HTML files out of the root www.bu.edu domain to verify we do own bu.edu. For instance we have a www.bu.edu/p48pu6em39z6neb6rre8i4wx35x6dv.html file for Facebook and multiple files for Google www.bu.edu/google9f2e7abecb89081e.html.
+
+For new requests, create the route in the web router by adding an entry listing the html filename and pointing it to the content backends. Start with the TEST environment repo, here’s an [example commit](https://github.com/dsmk/web-router-nonprod/commit/470675ac66d32f5f7e87e67c6dffccaecd0a4ca7), to test the procedure first.
+
+```
+_/p48pu6em39z6neb6rre8i4wx35x6dv.html content ;
+```
+
+While the web router builds and deploys, add the file to Isilon.
+
+If the split path doesn’t exist, create it:
+
+```
+mkdir /cwis-shares/test-c1f-rw/web/p/4
+```
+
+Then, place the html file in the websites directory in the Isilon routing path:
+
+```
+touch /cwis-shares/test-c1f-rw/websites/p48pu6em39z6neb6rre8i4wx35x6dv.html
+cat "p48pu6em39z6neb6rre8i4wx35x6dv.html" > /cwis-shares/test-c1f-rw/websites/p48pu6em39z6neb6rre8i4wx35x6dv.html
+```
+
+Finally, create a symlink from the route path to the split path directory you created earlier:
+
+```
+ln -s /cwis-shares/routefs-test/_route/websites/p48pu6em39z6neb6rre8i4wx35x6dv.html /cwis-shares/test-c1f-rw/web/p/4
+```
+
+Check the web router’s status in CodePipeline or try accessing the file directly or by doing a [server lookup](http://www-test.bu.edu/server/lookup/p48pu6em39z6neb6rre8i4wx35x6dv.html) to see which backend it’s routing to.
+
+#### Legacy HTML Verification files
+
+In the legacy AFS environment, these files exist under the split path for instance in /afs/bu.edu/cwis/web/g/o/ google9f2e7abecb89081e.html, and other google*.html files exist.
+
 
 ## Deploying changes
 
