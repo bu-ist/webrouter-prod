@@ -38,6 +38,3 @@ apps-rewrite <%= ENV['BACKEND_PHPBIN'] || "ist-web-phpbin-#{ENV['LANDSCAPE']}.bu
 # This aws_homepage bucket is used for everything that maps normally:
 aws_home buaws-websites-homepage-prod.s3-website-us-east-1.amazonaws.com ;
 
-# These entries are necessary to map to specific URLs in the /home space:
-#
-aws_home_index buaws-websites-homepage-prod.s3-website-us-east-1.amazonaws.com/home/index.html ;
