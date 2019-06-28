@@ -394,6 +394,7 @@ _/bostonia/winterspring-2011 content ;
 _/bostonia/winterspring-2012 content ;
 _/bostonia/wp-content content ;
 _/bostonia/wp-includes content ;
+_/bostonia/static-assets content ;
 _/bostonia/wpassets content ;
 _/bostonroc content ;
 _/bostonscholars content ;
