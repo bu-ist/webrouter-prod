@@ -46,11 +46,6 @@ _/bumc redirect_asis ;
 _/busm redirect_asis ;
 _/awslogin redirect_asis ;
 
-# items from the www:phpmap.txt
-_/buniverse phpbin ;
-_/maps phpbin ;
-_/nisdev phpbin ;
-
 # These mappings are needed for Shibboleth authentication
 _/saml/content content ;
 
@@ -97,45 +92,21 @@ _/degree-audit degree-advice ;
 
 ### Django applications
 
-_/fifty-states       django ;
-#changed fifty-states Name to /ssw/usfostercare
 _/ssw/usfostercare     django ;
 _/cellphone-compliance     django ;
 _/dnamixtures        django ;
-_/systems-programming/django-sysmon  django ;
 _/courseware-manager     django ;
-_/bufellow/db-admin       django ;
 _/summer/admin       django ;
 _/html-email       django ;
-_/betabionics        django ;
-_/rpm-agreements       django ;
-_/wp-deploy        django ;
-#ghir          django ; # /ghir = /globalhealth
-#globalhealth        django ; # Wait to add this
 _/law-pub        django ;
 
-# Ask Web team about:
-##############
-# /dbin misc:
-##############
-#/dbin/admissions  software15.bu.edu:260
-#/dbin/sleep   malahide.bu.edu:80      # Django test
-
-##############
-# /phpbin misc:
-##############
-#/phpbin/efs   http://software33-dbin.bu.edu:181
-
-##############
-# The /dbin USW34 or USW18 Section:
-# PLEASE HAVE 2 ENTRIES FOR EACH:
-##############
-#/dbin/today     usoftware34.bu.edu:261
-
 # PHPBIN sites
+_/buniverse phpbin ;
+_/calendar phpbin ;
+_/maps phpbin ;
+_/nisdev phpbin ;
 _/summer/courses-test phpbin ;
 _/summer/courses phpbin ;
-_/maps/livebus phpbin ;
 _/bumobile phpbin ;
 
 
@@ -143,9 +114,6 @@ _/bumobile phpbin ;
 
 # only cares that /phpbin/ goes to the phpbin backend.
 # The .rw and .ro items are related to filesystem and should not be part of the front-end map which
-#_/phpbin content ;
-#_/phpbin.ro content ;
-#_/phpbin.rw content ;
 _/25000 content ;
 _/28qatest content ;
 _/aaastudy content ;
@@ -485,7 +453,6 @@ _/cab content ;
 _/cader/av content ;
 _/caderonline content ;
 _/cagt content ;
-_/calendar phpbin ;
 _/campaign/docs content ;
 _/campaignkickoff content ;
 _/campaignlaunch content ;
@@ -1636,7 +1603,6 @@ _/perlstaff content ;
 _/personnel content ;
 _/phhprc content ;
 _/photo content ;
-_/phpbin-selector content ;
 _/phylogeny content ;
 _/phys-biophys content ;
 _/physics content ;
