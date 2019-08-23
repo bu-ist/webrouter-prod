@@ -35,6 +35,7 @@ _/mba-admissions redirect_asis ;
 _/mba-event redirect_asis ;
 _/mba-msdi redirect_asis ;
 _/mba-tips redirect_asis ;
+_/mbaexec redirect_asis ;
 _/plr redirect_asis ;
 _/questrom-phd redirect_asis ;
 _/rctfund redirect_asis ;
