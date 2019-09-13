@@ -8,7 +8,7 @@ _/geography/brdf redirect_asis ;
 _/studentlink redirect_asis ;
 
 # Marketing URLs (setup with cost-recovery fee to IS&T Applications):
-_/1839Society redirect_asis ;
+_/1839society redirect_asis ;
 _/activistlab redirect_asis ;
 _/amandaandtom redirect_asis ;
 _/bdc redirect_asis ;
