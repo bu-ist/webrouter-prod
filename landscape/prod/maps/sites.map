@@ -48,6 +48,7 @@ _/sthfund redirect_asis ;
 _/victorycelebration redirect_asis ;
 _/victorytix redirect_asis ;
 _/wellbeingproject redirect_asis ;
+_/wellbeingproject/events redirect_asis ;
 _/wheelockfamilytheatre redirect_asis ;
 
 # Other redirects
