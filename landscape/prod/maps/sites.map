@@ -51,6 +51,7 @@ _/victorytix redirect_asis ;
 _/wellbeingproject redirect_asis ;
 _/wellbeingproject/events redirect_asis ;
 _/wheelockfamilytheatre redirect_asis ;
+_/xcc-faculty redirect_asis ;
 
 # Other redirects
 _/bumc redirect_asis ;
