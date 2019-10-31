@@ -9,6 +9,7 @@ _/geography/brdf http://www-modis.bu.edu/brdf ;
 _/studentlink /link/bin/uiscgi_studentlink.pl/uismpl/?ModuleName=menu.pl&NewMenu=Home ;
 
 # Marketing URLs (setup with cost-recovery fee to IS&T Applications):
+_/1839gifts https://trusted.bu.edu/s/1759/2-bu/giving/interior.aspx?sid=1759&gid=2&pgid=470&cid=1130&appealcode=WEBAGC-AL ;
 _/1839society https://www.bu.edu/campaign/ways-of-giving/annual-fund/aflgs ;
 _/activistlab https://trusted.bu.edu/s/1759/2-bu/giving/interior.aspx?sid=1759&gid=2&pgid=497&cid=1170&dids=377&bledit=1&appealcode=WEBSPH-PR ;
 _/amandaandtom https://trusted.bu.edu/s/1759/2-bu/giving/interior.aspx?sid=1759&gid=2&pgid=412&cid=1044&dids=477&bledit=1&appealcode=9AAT ;
