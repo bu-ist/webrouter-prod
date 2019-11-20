@@ -1,6 +1,21 @@
 ### Common mapping to all bu.edu systems
 _/version 20181010 ;
 
+
+###############################################
+# Shibboleth:
+
+# After successful Shibboleth authentication, the Shibboleth IdP needs
+# to redirect the visitor to the backend that requested the
+# authentication. If it was wpassets authenticating, the request needs
+# to land back on the wpassets backend. We do that by sending to
+# www.bu.edu/saml/BACKEND-HERE
+
+_/saml/content content ;
+_/saml/wp-app wordpress ;  # Not required, but let's be explicit here.
+_/saml/wp-assets wpassets ;
+###############################################
+
 # StudentLink main menu
 _/applicantlink redirect_asis ;
 _/employeelink redirect_asis ;
