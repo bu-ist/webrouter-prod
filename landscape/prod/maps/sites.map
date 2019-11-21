@@ -122,6 +122,7 @@ _/nisdev phpbin ;
 _/summer/courses-test phpbin ;
 _/summer/courses phpbin ;
 _/bumobile phpbin ;
+_/phpbin/hello-world phpbin-aws ;
 
 
 ####### From stub files/directory scan
