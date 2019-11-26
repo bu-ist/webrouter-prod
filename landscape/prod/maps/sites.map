@@ -47,7 +47,7 @@ _/plr redirect_asis ;
 _/questrom-phd redirect_asis ;
 _/rctfund redirect_asis ;
 _/scholarshipimpact redirect_asis ;
-_/scholarships redirec_asis;
+_/scholarships redirec_asis ;
 _/sthfund redirect_asis ;
 _/victorycelebration redirect_asis ;
 _/victorytix redirect_asis ;
