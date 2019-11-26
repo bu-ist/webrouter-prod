@@ -75,9 +75,6 @@ _/bumc redirect_asis ;
 _/busm redirect_asis ;
 _/awslogin redirect_asis ;
 
-# These mappings are needed for Shibboleth authentication
-_/saml/content content ;
-
 # DegreeAdvice needs to be added
 # we should make a third party table for http backend services (maybe)
 #
