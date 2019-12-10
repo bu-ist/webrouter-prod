@@ -118,13 +118,13 @@ _/law-pub        django ;
 
 # PHPBIN sites
 _/buniverse phpbin ;
-_/calendar phpbin ;
+_/calendar phpbin-aws ;
 _/maps phpbin ;
 _/nisdev phpbin ;
 _/summer/courses-test phpbin ;
 _/summer/courses phpbin ;
 _/bumobile phpbin ;
-
+_/phpbin/faculty-applicants phpbin-aws ;
 
 ####### From stub files/directory scan
 
@@ -1915,6 +1915,7 @@ _/study content ;
 _/studyfinder content ;
 _/suemac content ;
 _/summer content ;
+_/summer-registration/wp-assets content ;
 _/summerfun content ;
 _/summerterm content ;
 _/supplier content ;
