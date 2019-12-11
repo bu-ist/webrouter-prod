@@ -11,6 +11,8 @@ _/studentlink /link/bin/uiscgi_studentlink.pl/uismpl/?ModuleName=menu.pl&NewMenu
 # Marketing URLs (setup with cost-recovery fee to IS&T Applications):
 _/1839gifts https://www.bu.edu/alumni/giving/who-gives/1839-society/ ;
 _/1839society https://www.bu.edu/alumni/giving/who-gives/1839-society/ ;
+_/alumnicenter https://www.bu.edu/alumni/services/dahod-family-alumni-center/ ;
+_/alumniweekend https://www.bu.edu/alumni/events/alumni-weekend/ ;
 _/activistlab https://www.bu.edu/sph/practice/activist-lab/ ;
 _/amandaandtom https://trusted.bu.edu/s/1759/2-bu/giving/interior.aspx?sid=1759&gid=2&pgid=412&cid=1044&dids=477&bledit=1&appealcode=9AAT ;
 _/appspace https://cloud.appspace.com/login/ba7afe51-12c9-4347-874e-21dc25d9fc8c ;
