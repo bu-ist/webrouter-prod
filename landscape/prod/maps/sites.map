@@ -42,6 +42,8 @@ _/mba-msdi redirect_asis ;
 _/mba-tips redirect_asis ;
 _/mbaexec redirect_asis ;
 _/medlib redirect_asis ;
+_/omba redirect_asis ;
+_/omba-admissions redirect_asis ;
 _/plr redirect_asis ;
 _/proudtobu redirect_asis ;
 _/questrom-phd redirect_asis ;
