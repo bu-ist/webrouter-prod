@@ -46,6 +46,7 @@ _/mba-msdi redirect_asis ;
 _/mba-tips redirect_asis ;
 _/mbaexec redirect_asis ;
 _/medlib redirect_asis ;
+_/nyc2020 redirect_asis ;
 _/omba redirect_asis ;
 _/omba-admissions redirect_asis ;
 _/plr redirect_asis ;
