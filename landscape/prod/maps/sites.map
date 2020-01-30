@@ -142,6 +142,7 @@ _/law-pub        django ;
 # PHPBIN sites
 _/buniverse phpbin ;
 _/calendar phpbin-aws ;
+_/phpbin/cecredential phpbin-aws ;
 _/maps phpbin ;
 _/nisdev phpbin ;
 _/summer/courses-test phpbin ;
