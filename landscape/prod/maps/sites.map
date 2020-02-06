@@ -144,6 +144,7 @@ _/law-pub        django ;
 _/buniverse phpbin ;
 _/calendar phpbin-aws ;
 _/phpbin/cecredential phpbin-aws ;
+_/phpbin/coursedesc2 redirect_asis ;
 _/maps phpbin ;
 _/nisdev phpbin ;
 _/summer/courses-test phpbin ;
