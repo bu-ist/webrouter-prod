@@ -151,13 +151,14 @@ _/calendar phpbin-aws ;
 _/phpbin/cecredential phpbin-aws ;
 _/phpbin/coursedesc2 redirect_asis ;
 _/phpbin/course-search phpbin-aws ;
+_/phpbin/directory phpbin-aws ;
+_/phpbin/faculty-applicants phpbin-aws ;
+_/phpbin/oompatech phpbin-aws ;
 _/maps phpbin ;
 _/nisdev phpbin ;
 _/summer/courses-test phpbin ;
 _/summer/courses phpbin ;
 _/bumobile phpbin ;
-_/phpbin/faculty-applicants phpbin-aws ;
-_/phpbin/directory phpbin-aws ;
 
 ####### From stub files/directory scan
 
