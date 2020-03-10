@@ -77,6 +77,7 @@ _/medlib redirect_asis ;
 _/nyc2020 redirect_asis ;
 _/omba redirect_asis ;
 _/omba-admissions redirect_asis ;
+_/onlinemba redirect_asis ;
 _/plr redirect_asis ;
 _/proudtobu redirect_asis ;
 _/questrom-phd redirect_asis ;
