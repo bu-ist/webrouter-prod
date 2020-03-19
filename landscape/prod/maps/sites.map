@@ -89,6 +89,7 @@ _/rctfund redirect_asis ;
 _/scholarshipimpact redirect_asis ;
 _/scholarships redirect_asis ;
 _/sthfund redirect_asis ;
+_/supportoshinsfund index_asis ;
 _/theology redirect_asis ;
 _/victorytix redirect_asis ;
 _/wellbeingproject redirect_asis ;
