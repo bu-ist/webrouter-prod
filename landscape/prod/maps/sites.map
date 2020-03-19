@@ -25,6 +25,7 @@ _/studentlink redirect_asis ;
 # Marketing URLs (setup with cost-recovery fee to IS&T Applications):
 _/1839gifts redirect_asis ;
 _/1839society redirect_asis ;
+_/activecontrol redirect_asis ;
 _/activistlab redirect_asis ;
 _/alumnicenter redirect_asis ;
 _/alumnisummit redirect_asis ;
