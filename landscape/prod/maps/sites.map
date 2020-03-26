@@ -88,6 +88,7 @@ _/questrom-phd redirect_asis ;
 _/rctfund redirect_asis ;
 _/scholarshipimpact redirect_asis ;
 _/scholarships redirect_asis ;
+_/slef redirect_asis ;
 _/sthfund redirect_asis ;
 _/supportoshinsfund redirect_asis ;
 _/theology redirect_asis ;
