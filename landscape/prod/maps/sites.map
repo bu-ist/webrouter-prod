@@ -168,7 +168,11 @@ _/phpbin/directory phpbin-aws ;
 _/phpbin/faculty-applicants phpbin-aws ;
 _/phpbin/lawyearbooks phpbin-aws ;
 _/phpbin/oompatech phpbin-aws ;
+_/phpbin/organ-library phpbin-aws ;
+_/phpbin/signup phpbin-aws ;
 _/phpbin/sleep phpbin-aws ;
+_/phpbin/vp-lunch phpbin-aws ;
+
 _/maps phpbin ;
 _/nisdev phpbin ;
 _/summer/courses-test phpbin ;
