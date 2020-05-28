@@ -185,6 +185,7 @@ _/phpbin/coursedesc2 redirect_asis ;
 _/phpbin/course-search phpbin-aws ;
 _/phpbin/directory phpbin-aws ;
 _/phpbin/faculty-applicants phpbin-aws ;
+_/phpbin/ijahs phpbin-aws ;
 _/phpbin/lawyearbooks phpbin-aws ;
 _/phpbin/oompatech phpbin-aws ;
 _/phpbin/organ-library phpbin-aws ;
