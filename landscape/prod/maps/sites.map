@@ -17,7 +17,8 @@ _/saml/wp-assets wpassets ;
 ###############################################
 
 # StudentLink main menu
-_/applicantlink redirect_asis ;
+# comment out applicant link as per INC12946498
+# _/applicantlink redirect_asis ;
 _/employeelink redirect_asis ;
 _/geography/brdf redirect_asis ;
 _/studentlink redirect_asis ;
