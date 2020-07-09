@@ -106,6 +106,7 @@ _/mba-msdi redirect_asis ;
 _/mba-tips redirect_asis ;
 _/mbaexec redirect_asis ;
 _/medlib redirect_asis ;
+_/msba redirect_asis ;
 _/msmft redirect_asis ;
 _/nyc2020 redirect_asis ;
 _/oir redirect_asis ;
