@@ -198,6 +198,7 @@ _/law-pub        django ;
 _/buniverse phpbin ;
 _/calendar phpbin-aws ;
 _/phpbin/cecredential phpbin-aws ;
+_/phpbin/cise phpbin-aws ;
 _/phpbin/coursedesc2 redirect_asis ;
 _/phpbin/course-search phpbin-aws ;
 _/phpbin/directory phpbin-aws ;
