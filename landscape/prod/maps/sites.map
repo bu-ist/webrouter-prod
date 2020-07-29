@@ -54,6 +54,8 @@ _/cds redirect_asis ;
 _/cds-center redirect_asis ;
 _/cohenchallenge redirect_asis ;
 _/connects redirect_asis ;
+_/covid-19-information redirect_asis ;
+_/covid-19-info-chn redirect_asis ;
 _/donorwebinar redirect_asis ;
 _/earthhouse redirect_asis ;
 _/eportfolio redirect_asis ;
