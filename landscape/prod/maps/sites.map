@@ -23,7 +23,7 @@ _/employeelink redirect_asis ;
 _/geography/brdf redirect_asis ;
 _/studentlink redirect_asis ;
 
-# Marketing URLs (setup with cost-recovery fee to IS&T Applications):
+# Marketing URLs (via business reasons or via client cost-recovery fee to IS&T Applications):
 _/1839gifts redirect_asis ;
 _/1839society redirect_asis ;
 _/activecontrol redirect_asis ;
@@ -124,6 +124,7 @@ _/plr redirect_asis ;
 _/proudtobu redirect_asis ;
 _/questrom-phd redirect_asis ;
 _/rctfund redirect_asis ;
+_/regionalization redirect_asis ;
 _/scholarshipimpact redirect_asis ;
 _/scholarships redirect_asis ;
 _/seniors redirect_asis ;
