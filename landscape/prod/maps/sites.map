@@ -1252,7 +1252,7 @@ _/isps content ;
 _/isso/wp-assets content ;
 _/isso/av content ;
 _/ist content ;
-_/ist-automation content ;
+_/ist-automation/webdis redirect_asis ;
 _/ist-sa content ;
 _/istnews content ;
 _/it content ;
