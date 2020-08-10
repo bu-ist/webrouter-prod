@@ -202,6 +202,7 @@ _/law-pub        django ;
 # PHPBIN sites
 _/buniverse phpbin ;
 _/calendar phpbin-aws ;
+_/dbin/agni phpbin-aws ;
 _/phpbin/cecredential phpbin-aws ;
 _/phpbin/cise phpbin-aws ;
 _/phpbin/coursedesc2 redirect_asis ;
