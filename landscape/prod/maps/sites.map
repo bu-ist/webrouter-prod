@@ -201,9 +201,12 @@ _/html-email       django ;
 _/law-pub        django ;
 
 # PHPBIN sites
-_/buniverse phpbin ;
+_/bumobile phpbin-aws ;
+_/buniverse phpbin-aws ;
 _/calendar phpbin-aws ;
+
 _/dbin/agni phpbin-aws ;
+
 _/phpbin/cecredential phpbin-aws ;
 _/phpbin/cise phpbin-aws ;
 _/phpbin/coursedesc2 redirect_asis ;
@@ -226,7 +229,6 @@ _/phpbin/webdis phpbin-aws ;
 _/nisdev phpbin ;
 _/summer/courses-test phpbin ;
 _/summer/courses phpbin ;
-_/bumobile phpbin ;
 
 ####### From stub files/directory scan
 
