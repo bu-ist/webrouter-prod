@@ -202,7 +202,7 @@ _/law-pub        django ;
 
 # PHPBIN sites
 _/bumobile phpbin-aws ;
-_/buniverse phpbin-aws ;
+_/buniverse phpbin ;
 _/calendar phpbin-aws ;
 
 _/dbin/agni phpbin-aws ;
