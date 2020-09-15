@@ -101,6 +101,7 @@ _/hubiejonesrsvp redirect_asis ;
 _/impact redirect_asis ;
 _/infosec redirect_asis ;
 _/infosec/newtobu redirect_asis ;
+_/infosec/phishbowl redirect_asis ;
 _/isgc redirect_asis ;
 _/janetosprize redirect_asis ;
 _/jeremyyudkinscholarship redirect_asis ;
