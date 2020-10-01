@@ -239,6 +239,7 @@ _/summer/courses phpbin ;
 
 # only cares that /phpbin/ goes to the phpbin backend.
 # The .rw and .ro items are related to filesystem and should not be part of the front-end map which
+_/2020-year-in-review content ;
 _/25000 content ;
 _/28qatest content ;
 _/aaastudy content ;
