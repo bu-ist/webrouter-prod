@@ -118,6 +118,8 @@ _/mba-event redirect_asis ;
 _/mba-msdi redirect_asis ;
 _/mba-tips redirect_asis ;
 _/mbaexec redirect_asis ;
+_/mbaevents redirect_asis ;
+_/mbapathway redirect_asis ;
 _/medlib redirect_asis ;
 _/msba redirect_asis ;
 _/msmft redirect_asis ;
