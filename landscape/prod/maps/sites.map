@@ -55,6 +55,7 @@ _/buworkscentral redirect_asis ;
 _/cci redirect_asis ;
 _/cds redirect_asis ;
 _/cds-center redirect_asis ;
+_/cod redirect_asis ;
 _/cohenchallenge redirect_asis ;
 _/connects redirect_asis ;
 _/covid-19-information redirect_asis ;
