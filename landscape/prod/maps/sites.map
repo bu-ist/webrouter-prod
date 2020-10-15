@@ -1496,6 +1496,7 @@ _/met/common content ;
 _/met/elive content ;
 _/met/email-campaign content ;
 _/met/event-calendar content ;
+# met/events was removed from here - these MET redirects need to be audited asap
 _/met/forbes content ;
 _/met/grad11 content ;
 _/met/health-it content ;
