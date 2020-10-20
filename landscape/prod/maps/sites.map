@@ -2,31 +2,34 @@
 _/version 20181010 ;
 
 
-###############################################
+#####################################################################
 # Shibboleth:
-
+# 
 # After successful Shibboleth authentication, the Shibboleth IdP needs
 # to redirect the visitor to the backend that requested the
 # authentication. If it was wpassets authenticating, the request needs
 # to land back on the wpassets backend. We do that by sending to
 # www.bu.edu/saml/BACKEND-HERE
+#
+#####################################################################
 
 _/saml/content content ;
 _/saml/wp-app wordpress ;  # Not required, but let's be explicit here.
 _/saml/wp-assets wpassets ;
-###############################################
 
-# StudentLink main menu
-# comment out applicant link as per INC12946498
-# _/applicantlink redirect_asis ;
+
+#####################################################################
+# UISCGI/Link:
+#
+# 
+#####################################################################
+
+# Marketing URLs:
 _/employeelink redirect_asis ;
 _/geography/brdf redirect_asis ;
 _/studentlink redirect_asis ;
 
-
-_/django apps ;
-
-# UISCGI/link entries
+# UISCGI:
 _/link/bin uiscgi_app ;
 _/link uiscgi_content ;
 
@@ -34,29 +37,34 @@ _/link uiscgi_content ;
 _/uis_web3270 legacy ;
 _/uis_eostc legacy ;
 
-# not certain that the following is necessary
+# Not certain these are necessary:
 _/uiszl_eostc legacy ;
 _/uiszl_j2ee legacy ;
 _/uiszl_pdf legacy ;
-_/formlogin legacy ;
-
-# default application backends
-_/dbin dbin ;
-_/phpbin phpbin ;
 
 # old CGI script locations (right now we send those to the existing Solaris backend)
 _/htbin legacy ;
 _/testing legacy ;
 
-# by default we map degree-advice although it should be listed in the phpmap file
+
+#####################################################################
+# Degree Advice:
+#
+#####################################################################
+
 _/degree-advice degree-advice ;
 _/degree-audit degree-advice ;
 
 
+#####################################################################
+# Web Applications:
+#
+# These sites are mainly in dbin or phpbin.
+# Questions To: IS&T Web Applications 
+#
+#####################################################################
 
-##### PHPMAP items
-
-### Django applications
+# Django applications:
 
 _/ssw/usfostercare     django ;
 _/cellphone-compliance     django ;
@@ -66,13 +74,26 @@ _/summer/admin       django ;
 _/html-email       django ;
 _/law-pub        django ;
 
-# PHPBIN sites
+
+# Standalone Sites:
+
 _/bumobile phpbin-aws ;
 _/buniverse phpbin ;
 _/calendar phpbin-aws ;
+_/nisdev phpbin ;
+_/summer/courses-test phpbin ;
+_/summer/courses phpbin ;
 
+
+# dbin:
+
+_/dbin dbin ;
 _/dbin/agni phpbin-aws ;
 
+
+# phpbin:
+
+_/phpbin phpbin ;
 _/phpbin/cecredential phpbin-aws ;
 _/phpbin/cise phpbin-aws ;
 _/phpbin/coursedesc2 redirect_asis ;
@@ -93,13 +114,13 @@ _/phpbin/sleep phpbin-aws ;
 _/phpbin/vp-lunch phpbin-aws ;
 _/phpbin/webdis phpbin-aws ;
 
-_/nisdev phpbin ;
-_/summer/courses-test phpbin ;
-_/summer/courses phpbin ;
 
 
+#####################################################################
+# Content Sites & Redirects:
+#
+#####################################################################
 
-# Standard Content/Redirect URLs:
 _/2020-year-in-review content ;
 _/28qatest content ;
 _/aaastudy redirect_asis ;
