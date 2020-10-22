@@ -476,6 +476,7 @@ _/cgap content ;
 _/cgef content ;
 _/cghd redirect_asis ;
 _/cghdac redirect_asis ;
+_/cgp content ;
 _/cgs-events redirect_asis ;
 _/cgs/wp-assets content ;
 _/cgs60th redirect_asis ;
