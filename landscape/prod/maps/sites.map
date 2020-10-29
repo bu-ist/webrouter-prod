@@ -992,7 +992,7 @@ _/infocenter redirect_asis ;
 _/infosec redirect_asis ;
 _/infosec/newtobu redirect_asis ;
 _/infosec/phishbowl redirect_asis ;
--/infosec/securityhero redirect_asis ;
+_/infosec/securityhero redirect_asis ;
 _/inml content ;
 _/inmlcfp redirect_asis ;
 _/inmlcore redirect_asis ;
