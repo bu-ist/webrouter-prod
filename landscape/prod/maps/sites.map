@@ -178,7 +178,7 @@ _/anatneuro content ;
 _/anatomy content ;
 _/anep content ;
 _/animal redirect_asis ;
-_/annualfund content ;
+_/annualfund redirect_asis ;
 _/annualfundroster redirect_asis ;
 _/annualgiving redirect_asis ;
 _/answers redirect_asis ;
