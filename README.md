@@ -41,9 +41,10 @@ Having WordPress be our default back-end greatly reduces the complexity around a
 www-staging is currently not going through the webrouter and is still routing via the legacy system. The impact of that is that creating a new Staging WordPress site requires, in brief:
 
     1. Creating the site in the Staging WordPress network.
-    1. Create the AFS directory in the split-path
-    1. Add a whole site in staging stub file
-    1. Confirm site is available at www-staging.bu.edu/SITENAME
+    2. Create the AFS directory in the split-path
+    3. Add a whole site in staging stub file
+    4. Run proxy_route via CLI for new AFS directory
+    5. Confirm site is available at www-staging.bu.edu/SITENAME
 
 There are plans to move www-staging to the webrouter but in the interim the steps above are the summary of what needs to occur and for more detailed information see [Creating a new site in WordPress](https://developer.bu.edu/webteam/support/wordpress/site-management/creating-a-wordpress-site/#create-new-wp-site) and ignore the proxy_route steps.
 
