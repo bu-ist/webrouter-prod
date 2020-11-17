@@ -1350,6 +1350,7 @@ _/openaccess redirect_asis ;
 _/opg redirect_asis ;
 _/orcid redirect_asis ;
 _/orientation2020/wp-assets content ;
+_/orientation2021/wp-assets content ;
 _/orl content ;
 _/orpm content ;
 _/ortho content ;
