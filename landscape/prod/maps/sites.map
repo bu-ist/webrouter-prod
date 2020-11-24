@@ -641,7 +641,7 @@ _/data content ;
 _/data-sciences-center content ;
 _/dayofservice redirect_asis ;
 _/daysofservice redirect_asis ;
-_/dbin-selector content ;
+_/dbin-cnsb-assets content ;
 _/dcg content ;
 _/degreecomplete redirect_asis ;
 _/dental/lobbyscreen content ;
