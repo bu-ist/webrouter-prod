@@ -123,6 +123,8 @@ _/phpbin/webdis phpbin-aws ;
 #
 #####################################################################
 
+_/1839gifts redirect_asis ; 
+_/1839society redirect_asis ;
 _/2020-year-in-review content ;
 _/28qatest content ;
 _/aaastudy redirect_asis ;
