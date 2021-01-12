@@ -3,7 +3,6 @@
 #
 
 # StudentLink main menu
-_/applicantlink /link/bin/uiscgi_applicantlink.pl/uismpl ;
 _/employeelink /link/bin/uiscgi_employeelink.pl/uismpl ;
 _/geography/brdf http://www-modis.bu.edu/brdf ;
 _/studentlink /link/bin/uiscgi_studentlink.pl/uismpl/?ModuleName=menu.pl&NewMenu=Home ;
