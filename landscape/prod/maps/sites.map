@@ -110,7 +110,6 @@ _/phpbin/organ-library phpbin-aws ;
 _/phpbin/signup phpbin-aws ;
 _/phpbin/sleep phpbin-aws ;
 _/phpbin/ssw-network phpbin-aws ;
-_/phpbin/vp-lunch phpbin-aws ;
 _/phpbin/webdis phpbin-aws ;
 
 
