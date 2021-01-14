@@ -87,6 +87,7 @@ _/nisdev phpbin ;
 _/dbin dbin ;
 _/dbin/agni phpbin-aws ;
 _/dbin/cupidcubesat phpbin-aws ;
+_/dbin/pma phpbin-aws ;
 _/dbin/stemcells phpbin-aws ;
 
 
