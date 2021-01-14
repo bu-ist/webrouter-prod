@@ -86,6 +86,9 @@ _/nisdev phpbin ;
 
 _/dbin dbin ;
 _/dbin/agni phpbin-aws ;
+_/dbin/cupidcubesat phpbin-aws ;
+_/dbin/pma phpbin-aws ;
+_/dbin/stemcells phpbin-aws ;
 
 
 # phpbin:
@@ -640,6 +643,7 @@ _/data-sciences-center content ;
 _/dayofservice redirect_asis ;
 _/daysofservice redirect_asis ;
 _/dbin-cnsb-assets content ;
+_/dbin-cupidcubesat-data content ;
 _/dcg content ;
 _/degreecomplete redirect_asis ;
 _/dental/lobbyscreen content ;
