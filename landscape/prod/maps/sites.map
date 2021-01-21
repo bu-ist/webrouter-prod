@@ -1402,6 +1402,7 @@ _/pledges redirect_asis ;
 _/plr redirect_asis ;
 _/pm content ;
 _/pocketmba redirect_asis ;
+_/postdocs redirect_asis ;
 _/premed redirect_asis ;
 _/preservation redirect_asis ;
 _/presidentsearch redirect_asis ;
