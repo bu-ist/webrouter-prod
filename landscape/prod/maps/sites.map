@@ -935,7 +935,7 @@ _/hiccse redirect_asis ;
 _/hilleldining redirect_asis ;
 _/hipart redirect_asis ;
 _/hirequestrom redirect_asis ;
-_/histology content ;
+_/histology redirect_asis ;
 _/historic content ;
 _/hj2013 content ;
 _/hockeygolf redirect_asis ;
