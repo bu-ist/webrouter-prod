@@ -615,6 +615,7 @@ _/cpr content ;
 _/cre redirect_asis ;
 _/crew redirect_asis ;
 _/crossdomain.xml content ;
+_/crumpler redirect_asis ;
 _/crtimes content ;
 _/cruiseandlearn redirect_asis ;
 _/cs/wp-assets content ;
