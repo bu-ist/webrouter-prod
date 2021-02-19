@@ -1705,6 +1705,7 @@ _/track redirect_asis ;
 _/training content ;
 _/transfer content ;
 _/transgenic content ;
+_/transit/microsite content ;
 _/transportation content ;
 _/travel redirect_asis ;
 _/travelregistry redirect_asis ;
