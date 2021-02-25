@@ -4,7 +4,7 @@ _/version 20181010 ;
 
 #####################################################################
 # Shibboleth:
-# 
+#
 # After successful Shibboleth authentication, the Shibboleth IdP needs
 # to redirect the visitor to the backend that requested the
 # authentication. If it was wpassets authenticating, the request needs
@@ -21,7 +21,7 @@ _/saml/wp-assets wpassets ;
 #####################################################################
 # UISCGI/Link:
 #
-# 
+#
 #####################################################################
 
 # Marketing URLs:
@@ -60,7 +60,7 @@ _/degree-audit degree-advice ;
 # Web Applications:
 #
 # These sites are mainly in dbin or phpbin.
-# Questions To: IS&T Web Applications 
+# Questions To: IS&T Web Applications
 #
 #####################################################################
 
@@ -124,7 +124,7 @@ _/phpbin/webdis phpbin-aws ;
 #
 #####################################################################
 
-_/1839gifts redirect_asis ; 
+_/1839gifts redirect_asis ;
 _/1839society redirect_asis ;
 _/2020-year-in-review content ;
 _/28qatest content ;
@@ -816,7 +816,7 @@ _/fysopstyle redirect_asis ;
 _/galacticring content ;
 _/gastronomy redirect_asis ;
 _/gcc content ;
-_/gdp/china-debt-swap-climate-nature ;
+_/gdp/china-debt-swap-climate-nature content ;
 _/gdp/chinas-overseas-development-finance content ;
 _/gds redirect_asis ;
 _/geddes/course content ;
