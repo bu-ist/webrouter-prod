@@ -1540,6 +1540,7 @@ _/scoe content ;
 _/scscb content ;
 _/scv content ;
 _/sdb-osa-eval redirect_asis ;
+_/sdo redirect_asis ;
 _/search redirect_asis ;
 _/search/coursedescriptions redirect_asis ;
 _/seaurchinmeeting2011 content ;
