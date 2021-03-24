@@ -1782,6 +1782,7 @@ _/wow redirect_asis ;
 _/wpmu/foo content ;
 _/wpmu/forms content ;
 _/wpmu/static content ;
+_/wp-security redirect_asis ;
 _/www-test.bu.edu content ;
 _/wwwv content ;
 _/xcc redirect_asis ;
