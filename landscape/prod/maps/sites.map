@@ -1332,7 +1332,7 @@ _/north-campus redirect_asis ;
 _/northmba redirect_asis ;
 _/nox content ;
 _/npl redirect_asis ;
-_/nrotc content ;
+_/nrotc redirect_asis ;
 _/nseg content ;
 _/nyc2020 redirect_asis ;
 _/nycgala redirect_asis ;
