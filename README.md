@@ -42,7 +42,7 @@ www-staging is currently not going through the webrouter and is still routing vi
 
     1. Creating the site in the Staging WordPress network.
     2. Create the AFS directory in the split-path
-    3. Add a whole site in staging stub file
+    3. Add a "whole_staging_site_in.cms" stub file
     4. Run proxy_route via CLI for new AFS directory
     5. Confirm site is available at www-staging.bu.edu/SITENAME
 
