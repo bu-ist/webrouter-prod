@@ -1659,7 +1659,6 @@ _/tcp redirect_asis ;
 _/tech-maintenance content ;
 _/tech-restricted content ;
 _/tech/av content ;
-_/tech/plan content ;
 _/tech/plan2015 content ;
 _/tech/slp content ;
 _/tech/wp-assets content ;
