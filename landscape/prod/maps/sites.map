@@ -1616,6 +1616,7 @@ _/sth/wp-assets content ;
 _/sthacker/stata content ;
 _/sthfund redirect_asis ;
 _/story content ;
+_/strategic-plan-taskforce redirect_asis ;
 _/strategicreport content ;
 _/streambu redirect_asis ;
 _/student-health-services redirect_asis ;
