@@ -1,0 +1,15 @@
+name: Check nginx config parsing
+
+on:
+  pull_request:
+    branches: [ prod ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Build the Docker image
+      run: docker build . --build-arg "landscape=prod" --tag webrouter:test
+    - name: Try parsing the configs
+      run: docker run -e "LANDSCAPE=prod" webrouter:test /usr/sbin/run-nginx.sh -t
