@@ -96,6 +96,7 @@ _/dbin/stemcells phpbin-aws ;
 # phpbin:
 
 _/phpbin phpbin ;
+_/phpbin/calendar phpbin-aws ;
 _/phpbin/cashier-admin redirect_asis ;
 _/phpbin/cecredential phpbin-aws ;
 _/phpbin/cise phpbin-aws ;
