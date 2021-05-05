@@ -1001,7 +1001,6 @@ _/lite content ;
 _/liveon content ;
 _/login redirect_asis ;
 _/logout redirect_asis ;
-_/lovecanal content ;
 _/loyalty redirect_asis ;
 _/loyaltysociety redirect_asis ;
 _/lu-lingzi-fund redirect_asis ;
