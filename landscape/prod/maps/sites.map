@@ -1119,7 +1119,7 @@ _/mille content ;
 _/millionhours content ;
 _/mini-mba redirect_asis ;
 _/mkramer content ;
-_/mlkjr content ;
+_/mlkjr redirect_asis ;
 _/mobile-life-workshop redirect_asis ;
 _/moc redirect_asis ;
 _/modern-med redirect_asis ;
