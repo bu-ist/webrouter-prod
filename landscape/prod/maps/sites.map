@@ -1244,7 +1244,6 @@ _/parkstreet redirect_asis ;
 _/partisanreview content ;
 _/patientconnect redirect_asis ;
 _/payment redirect_asis ;
-_/peaclab/temm11 content ;
 _/peeradvising redirect_asis ;
 _/pemba content ;
 _/pemba-essays redirect_asis ;
