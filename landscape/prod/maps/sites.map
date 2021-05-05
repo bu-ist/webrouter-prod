@@ -1374,7 +1374,6 @@ _/sfa content ;
 _/sha content ;
 _/shawcenter redirect_asis ;
 _/shongchallenge redirect_asis ;
-_/showme content ;
 _/shsmobile redirect_asis ;
 _/simulation content ;
 _/sisrenewal redirect_asis ;
