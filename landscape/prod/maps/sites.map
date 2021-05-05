@@ -1002,7 +1002,6 @@ _/links redirect_asis ;
 _/links2 redirect_asis ;
 _/linux content ;
 _/lite content ;
-_/literary content ;
 _/liveon content ;
 _/login redirect_asis ;
 _/logout redirect_asis ;
