@@ -119,7 +119,7 @@ _/phpbin/signup phpbin-aws ;
 _/phpbin/sleep phpbin-aws ;
 _/phpbin/ssw-network phpbin-aws ;
 _/phpbin/webdis phpbin-aws ;
-
+_/phpbin/wiki phpbin-aws ;
 
 
 #####################################################################
