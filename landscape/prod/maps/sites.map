@@ -669,7 +669,6 @@ _/executivevp redirect_asis ;
 _/exed redirect_asis ;
 _/experience redirect_asis ;
 _/experience-room redirect_asis ;
-_/explorations content ;
 _/extended content ;
 _/ezproxy redirect_asis ;
 _/fabde content ;
