@@ -1175,7 +1175,7 @@ _/ocn redirect_asis ;
 _/ocs redirect_asis ;
 _/odsreunionsurvey redirect_asis ;
 _/oep content ;
-_/offcampus content ;
+_/offcampus redirect_asis ;
 _/office365 redirect_asis ;
 _/offices content ;
 _/ogc/wp-assets content ;
