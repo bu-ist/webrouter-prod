@@ -975,6 +975,7 @@ _/leboha redirect_asis ;
 _/lecture content ;
 _/leed100bsr redirect_asis ;
 _/leegroup content ;
+_/lernet content ;
 _/libdb content ;
 _/libdb-old content ;
 _/libdb-tst content ;
