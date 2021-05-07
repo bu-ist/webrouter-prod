@@ -805,7 +805,7 @@ _/gradanniversary2011 redirect_asis ;
 _/gradanniversary2015 redirect_asis ;
 _/graphics content ;
 _/green content ;
-_/grs content ;
+_/grs redirect_asis ;
 _/gsu content ;
 _/hagen content ;
 _/halloween redirect_asis ;
