@@ -1241,7 +1241,7 @@ _/preview aws_home ;
 _/printcenter content ;
 _/prj content ;
 _/proarte redirect_asis ;
-_/procurement content ;
+_/procurement redirect_asis ;
 _/professional content ;
 _/project-inclusive content ;
 _/prostars content ;
