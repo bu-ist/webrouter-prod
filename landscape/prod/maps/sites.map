@@ -439,7 +439,6 @@ _/classroom redirect_asis ;
 _/cleanenergyventures redirect_asis ;
 _/climate redirect_asis ;
 _/clinicalinvestigation content ;
-_/clinicalresearch content ;
 _/cme content ;
 _/cmetips redirect_asis ;
 _/cod redirect_asis ;
