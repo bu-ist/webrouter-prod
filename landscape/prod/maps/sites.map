@@ -96,6 +96,8 @@ _/dbin/stemcells phpbin-aws ;
 # phpbin:
 
 _/phpbin phpbin ;
+_/wiki phpbin ;
+
 _/phpbin/calendar phpbin-aws ;
 _/phpbin/cashier-admin redirect_asis ;
 _/phpbin/cecredential phpbin-aws ;
@@ -1544,7 +1546,6 @@ _/wheelock-transition redirect_asis ;
 _/wheelockfamilytheatre redirect_asis ;
 _/wiesel redirect_asis ;
 _/wiesel-memorial redirect_asis ;
-_/wiki content ;
 _/wilsonwonglab redirect_asis ;
 _/win/data content ;
 _/wine content ;
