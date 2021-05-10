@@ -217,7 +217,6 @@ _/athchallenge redirect_asis ;
 _/athletics redirect_asis ;
 _/attend redirect_asis ;
 _/auctions content ;
-_/avl content ;
 _/awrecentgrads redirect_asis ;
 _/awslogin redirect_asis ;
 _/baburmemorial content ;
