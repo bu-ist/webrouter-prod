@@ -1321,7 +1321,6 @@ _/terriertales redirect_asis ;
 _/terriertoasts redirect_asis ;
 _/testprep content ;
 _/thanksgiving redirect_asis ;
-_/thebus/gtfs content ;
 _/thedash redirect_asis ;
 _/thehive redirect_asis ;
 _/theology redirect_asis ;
