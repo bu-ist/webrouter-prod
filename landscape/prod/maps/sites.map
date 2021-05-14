@@ -752,6 +752,7 @@ _/giveclassgift redirect_asis ;
 _/givenow redirect_asis ;
 _/giveonline redirect_asis ;
 _/givesargent redirect_asis ;
+_/givethepoint redirect_asis ;
 _/givethroughbu redirect_asis ;
 _/givetobu redirect_asis ;
 _/givetobudt redirect_asis ;
