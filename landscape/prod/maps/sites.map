@@ -375,7 +375,7 @@ _/buworksforum redirect_asis ;
 _/buzzlab redirect_asis ;
 _/caadlab content ;
 _/cader/av content ;
-_/cagt content ;
+_/cagt redirect_asis ;
 _/cap content ;
 _/capdraft redirect_asis ;
 _/careerex redirect_asis ;
