@@ -756,7 +756,7 @@ _/headspace redirect_asis ;
 _/healthmatters redirect_asis ;
 _/healthmba redirect_asis ;
 _/help content ;
-_/helpinfo content ;
+_/helpinfo redirect_asis ;
 _/herbalstudy redirect_asis ;
 _/hi redirect_asis ;
 _/hiccse redirect_asis ;
