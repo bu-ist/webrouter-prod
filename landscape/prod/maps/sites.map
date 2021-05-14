@@ -915,7 +915,7 @@ _/marcom/formswritable content ;
 _/marcom/html-emails content ;
 _/marcom/president content ;
 _/marcom/projects content ;
-_/marcom/stationery content ;
+_/marcom/stationery redirect_asis ;
 _/marketingcloud redirect_asis ;
 _/marketplaceinfo redirect_asis ;
 _/marshgiving redirect_asis ;

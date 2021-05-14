@@ -11,6 +11,7 @@ _/studentlink /link/bin/uiscgi_studentlink.pl/uismpl/?ModuleName=menu.pl&NewMenu
 _/cagt http://cagt.bu.edu/ ;
 _/agni https://agnionline.bu.edu/ ;
 _/helpinfo http://www.bu.edu/shs/behavioral-medicine/ ;
+_/marcom/stationery https://www.bu.edu/marcom/printcenter/ ;
 
 _/1839gifts https://trusted.bu.edu/s/1759/2-bu/giving/interior.aspx?sid=1759&gid=2&pgid=470&cid=1130&appealcode=WEBAGC-AL ;
 _/1839society https://www.bu.edu/alumni/giving/who-gives/1839-society/ ;
