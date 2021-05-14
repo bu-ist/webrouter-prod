@@ -158,7 +158,7 @@ _/af-rotc redirect_asis ;
 _/afr redirect_asis ;
 _/ag redirect_asis ;
 _/agganis content ;
-_/agni content ;
+_/agni redirect_asis ;
 _/aias content ;
 _/aig redirect_asis ;
 _/aldolase content ;
