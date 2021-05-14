@@ -825,7 +825,6 @@ _/istnews redirect_asis ;
 _/it content ;
 _/itcommon redirect_asis ;
 _/itrp redirect_asis ;
-_/ivcf content ;
 _/jam redirect_asis ;
 _/jam-now redirect_asis ;
 _/jamdocs redirect_asis ;
