@@ -1239,7 +1239,6 @@ _/presidentsearch redirect_asis ;
 _/preview aws_home ;
 _/printcenter redirect_asis ;
 _/prism content ;
-_/prj content ;
 _/proarte redirect_asis ;
 _/procurement content ;
 _/professional content ;
