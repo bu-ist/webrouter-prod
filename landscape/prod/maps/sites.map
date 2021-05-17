@@ -954,7 +954,7 @@ _/mbanorth redirect_asis ;
 _/mbapathway redirect_asis ;
 _/mbasession redirect_asis ;
 _/mbta redirect_asis ;
-_/mch content ;
+_/mch redirect_asis ;
 _/mdparents redirect_asis ;
 _/medalum redirect_asis ;
 _/medalumni redirect_asis ;
