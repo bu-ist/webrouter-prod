@@ -1237,7 +1237,7 @@ _/premed redirect_asis ;
 _/preservation redirect_asis ;
 _/presidentsearch redirect_asis ;
 _/preview aws_home ;
-_/printcenter content ;
+_/printcenter redirect_asis ;
 _/prism content ;
 _/prj content ;
 _/proarte redirect_asis ;
