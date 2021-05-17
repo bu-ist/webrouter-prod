@@ -98,6 +98,8 @@ _/dbin/stemcells phpbin-aws ;
 _/phpbin phpbin ;
 _/wiki phpbin ;
 
+_/alert phpbin ;
+
 _/phpbin/calendar phpbin-aws ;
 _/phpbin/cashier-admin redirect_asis ;
 _/phpbin/cecredential phpbin-aws ;
@@ -171,7 +173,6 @@ _/aias redirect_asis ;
 _/aig redirect_asis ;
 _/alcoholeducationforyouth content ;
 _/aldolase content ;
-_/alert content-nocache ;
 _/alistaircooke redirect_asis ;
 _/alumni/wp-assets content ;
 _/alumnicenter redirect_asis ;
