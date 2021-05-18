@@ -1151,7 +1151,7 @@ _/provost/secure content ;
 _/prudential redirect_asis ;
 _/psp redirect_asis ;
 _/psych/charris content ;
-_/ptc content ;
+_/ptc redirect_asis ;
 _/publichealthworkforce redirect_asis ;
 _/purchasing redirect_asis ;
 _/pusteblume content ;
