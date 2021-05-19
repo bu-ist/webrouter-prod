@@ -105,6 +105,7 @@ _/phpbin/cise phpbin-aws ;
 _/phpbin/coursedesc2 redirect_asis ;
 _/phpbin/course-search phpbin-aws ;
 _/phpbin/courses phpbin-aws ;
+_/phpbin/courseware phpbin-aws ;
 _/phpbin/directory phpbin-aws ;
 _/phpbin/ear redirect_asis ;
 _/phpbin/emailer phpbin-aws ;
