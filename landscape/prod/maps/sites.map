@@ -1341,7 +1341,6 @@ _/today/wpassets content ;
 _/track redirect_asis ;
 _/training redirect_asis ;
 _/transfer redirect_asis ;
-_/transgenic content ;
 _/travel redirect_asis ;
 _/travelregistry redirect_asis ;
 _/trustees-intranet/install content ;
