@@ -1175,7 +1175,6 @@ _/recycling redirect_asis ;
 _/reg/common content ;
 _/reg/graphics content ;
 _/reg/information content ;
-_/reg/schedules content ;
 _/regionalization redirect_asis ;
 _/registrar redirect_asis ;
 _/remember content ;
