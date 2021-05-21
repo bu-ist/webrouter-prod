@@ -1336,6 +1336,7 @@ _/today/v2 content ;
 _/today/v2-devl content ;
 _/today/wpassets content ;
 _/track redirect_asis ;
+_/training redirect_asis ;
 _/transfer redirect_asis ;
 _/transgenic content ;
 _/travel redirect_asis ;
