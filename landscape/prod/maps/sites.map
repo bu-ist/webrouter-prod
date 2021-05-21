@@ -1253,7 +1253,7 @@ _/smgcentennial redirect_asis ;
 _/smghonors redirect_asis ;
 _/snc redirect_asis ;
 _/snl redirect_asis ;
-_/software content ;
+_/software redirect_asis ;
 _/someday content ;
 _/south redirect_asis ;
 _/southfloridacelebratesbu redirect_asis ;
