@@ -244,7 +244,7 @@ _/bionicpancreas redirect_asis ;
 _/biorobotics content ;
 _/biosafety redirect_asis ;
 _/biosci redirect_asis ;
-_/biotech content ;
+_/biotech redirect_asis ;
 _/bizanalytics redirect_asis ;
 _/blacklegacy redirect_asis ;
 _/blazars content ;
