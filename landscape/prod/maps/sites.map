@@ -826,7 +826,6 @@ _/isso/av content ;
 _/isso/wp-assets content ;
 _/ist content ;
 _/ist-automation/webdis redirect_asis ;
-_/ist-sa content ;
 _/istnews redirect_asis ;
 _/it redirect_asis ;
 _/itcommon redirect_asis ;
