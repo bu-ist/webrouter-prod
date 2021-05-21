@@ -829,7 +829,7 @@ _/ist content ;
 _/ist-automation/webdis redirect_asis ;
 _/ist-sa content ;
 _/istnews redirect_asis ;
-_/it content ;
+_/it redirect_asis ;
 _/itcommon redirect_asis ;
 _/itrp redirect_asis ;
 _/jam redirect_asis ;
