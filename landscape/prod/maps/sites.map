@@ -1033,6 +1033,7 @@ _/mycv redirect_asis ;
 _/mygift redirect_asis ;
 _/myhousing redirect_asis ;
 _/myopathy redirect_asis ;
+_/mypinnaclelogin redirect_asis ;
 _/myprint redirect_asis ;
 _/mzank content ;
 _/naeser content ;
