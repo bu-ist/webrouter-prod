@@ -411,6 +411,7 @@ _/cds-center redirect_asis ;
 _/cel content ;
 _/celebrationofbu redirect_asis ;
 _/celebrationvip redirect_asis ;
+_/celop/av content ;
 _/celop/dev content ;
 _/celop/wp-assets content ;
 _/centers redirect_asis ;
