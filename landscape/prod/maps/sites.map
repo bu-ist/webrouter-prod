@@ -182,6 +182,7 @@ _/answers redirect_asis ;
 _/antiracist-center redirect_asis ;
 _/anxiety redirect_asis ;
 _/anxiety/dbh redirect_asis ;
+_/ap/wp-assets content ;
 _/aparc redirect_asis ;
 _/apc redirect_asis ;
 _/apfd redirect_asis ;
