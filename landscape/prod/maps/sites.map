@@ -1070,7 +1070,6 @@ _/om redirect_asis ;
 _/omba redirect_asis ;
 _/omba-admissions redirect_asis ;
 _/omc redirect_asis ;
-_/onbase-ug/installer content ;
 _/onbase-ug/training content ;
 _/online/static content ;
 _/onlinemba redirect_asis ;
