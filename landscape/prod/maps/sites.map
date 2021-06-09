@@ -19,6 +19,23 @@ _/saml/wp-assets wpassets ;
 
 
 #####################################################################
+# Backend Health Checks:
+# 
+# These directories proxy to specific backends specifically to verify
+# the health of the individual backend in an end-to-end test.
+# 
+# This works the same as the /saml/ directories above but will also
+# cover non-Shibboleth backends
+#
+#####################################################################
+
+_/webrouter-health/static-protected static-protected ;
+_/webrouter-health/static-public static-public ;
+_/webrouter-heatlh/wp-app wordpress ;
+_/webrouter-health/wp-assets wpassets ;
+
+
+#####################################################################
 # UISCGI/Link:
 #
 #
