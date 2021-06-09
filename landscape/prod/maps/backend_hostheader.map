@@ -23,3 +23,5 @@ aws_home $backend_hostname ;
 
 # These backends map to specific URLs and need to be hardcoded
 aws_home_index buaws-websites-homepage-prod.s3-website-us-east-1.amazonaws.com ;
+
+static-public static-sites-prod-public.s3-website-us-east-1.amazonaws.com ;
