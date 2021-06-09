@@ -1035,6 +1035,7 @@ _/mybuphone redirect_asis ;
 _/mybuworks redirect_asis ;
 _/mybuworks-sandbox redirect_asis ;
 _/mycv redirect_asis ;
+_/myfinancialaid redirect_asis ;
 _/mygift redirect_asis ;
 _/myhousing redirect_asis ;
 _/myopathy redirect_asis ;
