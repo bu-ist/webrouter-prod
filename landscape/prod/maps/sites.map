@@ -886,7 +886,7 @@ _/latenightkitchen redirect_asis ;
 _/law/communications content ;
 _/law/course-planner content ;
 _/law/journals-archive content ;
-_/law/seipp content ;
+_/law/seipp redirect_asis ;
 _/law/wp-assets content ;
 _/lawgiving redirect_asis ;
 _/lawlibrary/common content ;
