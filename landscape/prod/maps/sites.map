@@ -581,7 +581,7 @@ _/directory static-public ;
 _/discover static-public ;
 _/discoveries redirect_asis ;
 _/distance redirect_asis ;
-_/disted static-protected ;
+_/disted content ;
 _/diversitytaskforce/media static-protected ;
 _/dme redirect_asis ;
 _/donorwebinar redirect_asis ;
