@@ -787,7 +787,7 @@ _/headspace redirect_asis ;
 _/healthmatters redirect_asis ;
 _/healthmba redirect_asis ;
 _/hello-restricted static-protected ;
-_/help static-protected ;
+_/help content ;
 _/helpinfo redirect_asis ;
 _/herbalstudy redirect_asis ;
 _/hi redirect_asis ;
