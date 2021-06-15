@@ -13,7 +13,7 @@ _/version 20181010 ;
 #
 #####################################################################
 
-_/saml/content static-public ;
+_/saml/content static-protected ;
 _/saml/wp-app wordpress ;  # Not required, but let's be explicit here.
 _/saml/wp-assets wpassets ;
 
