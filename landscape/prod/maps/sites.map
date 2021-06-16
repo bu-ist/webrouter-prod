@@ -918,7 +918,7 @@ _/lifebook redirect_asis ;
 _/lifelong redirect_asis ;
 _/lifelonglearning redirect_asis ;
 _/lifesciences redirect_asis ;
-_/linguistics redirect_asis ;
+_/linguistics static-protected ;
 _/links redirect_asis ;
 _/links2 redirect_asis ;
 _/lite static-public ;
