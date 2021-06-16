@@ -1394,7 +1394,7 @@ _/webteam/clrux static-public ;
 _/webteam/hiring static-public ;
 _/webteam/mgburns static-public ;
 _/webteam/presentations static-protected ;
-_/webteam/projects static-protected ;
+_/webteam/projects static-public ;
 _/wellbeingproject redirect_asis ;
 _/wellbeingproject/events redirect_asis ;
 _/wgrimes static-public ;
