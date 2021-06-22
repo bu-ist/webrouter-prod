@@ -224,7 +224,7 @@ _/armyrotc redirect_asis ;
 _/ars redirect_asis ;
 _/artslive redirect_asis ;
 _/ascend redirect_asis ;
-_/asllrp static-protected ;
+_/asllrp static-public ;
 _/asor static-public ;
 _/astronomy/visualizations static-public ;
 _/astronomy/wp-assets static-public ;
