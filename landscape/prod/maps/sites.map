@@ -345,6 +345,7 @@ _/bostonia/winter08 static-protected ;
 _/bostonia/winter09 static-protected ; 
 _/bostonia/winterspring-2010 static-protected ; 
 _/bostonia/winterspring-2011 static-protected ; 
+_/bostonia/winterspring-2012 static-public ; 
 _/bostonia/wp-content static-public ;
 _/bostonia/wp-includes static-public ;
 _/bostonia/wpassets static-public ;
