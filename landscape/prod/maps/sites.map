@@ -1304,7 +1304,7 @@ _/stay-test redirect_asis ;
 _/sthfund redirect_asis ;
 _/story static-public ;
 _/strategic-plan-taskforce redirect_asis ;
-_/strategicreport static-public ;
+_/strategicreport static-protected ;
 _/streambu redirect_asis ;
 _/student-health-services redirect_asis ;
 _/studentgiving redirect_asis ;
