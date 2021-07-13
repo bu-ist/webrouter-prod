@@ -247,6 +247,7 @@ _/bcdsp redirect_asis ;
 _/bcrhhr redirect_asis ;
 _/bdc redirect_asis ;
 _/because redirect_asis ;
+_/bedac redirect_asis ;
 _/behavneuro redirect_asis ;
 _/behere redirect_asis ;
 _/beijing2014 redirect_asis ;
