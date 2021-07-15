@@ -117,7 +117,6 @@ _/wiki phpbin ;
 
 _/alert phpbin ;
 
-_/phpbin/alert phpbin-aws ;
 _/phpbin/calendar phpbin-aws ;
 _/phpbin/cashier-admin redirect_asis ;
 _/phpbin/cecredential phpbin-aws ;
