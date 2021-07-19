@@ -1,27 +1,22 @@
 legacy <%= ENV['BACKEND_WEB_LEGACY'] || "ist-web-legacy-#{ENV['LANDSCAPE']}.bu.edu" %> ;
 
-# these are the old content servers using buapache configuration
-oldcontent <%= ENV['BACKEND_WEB_OLDCONTENT'] || "ist-web-oldcontent-#{ENV['LANDSCAPE']}.bu.edu" %> ;
-oldcontent-nocache <%= ENV['BACKEND_WEB_OLDCONTENT'] || "ist-web-oldcontent-#{ENV['LANDSCAPE']}.bu.edu" %> ;
-oldcontent-cache <%= ENV['BACKEND_WEB_OLDCONTENT'] || "ist-web-oldcontent-#{ENV['LANDSCAPE']}.bu.edu" %> ;
-
-# these are the new content servers built as part of the Weblogin retirement project
-content <%= ENV['BACKEND_WEB_CONTENT'] || "ist-web-content-#{ENV['LANDSCAPE']}.bu.edu" %> ;
-content-nocache <%= ENV['BACKEND_WEB_CONTENT'] || "ist-web-content-#{ENV['LANDSCAPE']}.bu.edu" %> ;
-content-cache <%= ENV['BACKEND_WEB_CONTENT'] || "ist-web-content-#{ENV['LANDSCAPE']}.bu.edu" %> ;
-
+# Static Sites:
 static-public static-sites-prod-public.s3-website-us-east-1.amazonaws.com ;
+static-public-nocache static-sites-prod-public.s3-website-us-east-1.amazonaws.com ;
+
 static-protected ist-web-static-sites-prod.bu.edu ;
 
+# WordPress:
 wpassets <%= ENV['BACKEND_WP_CONTENT'] || "ist-wp-assets-#{ENV['LANDSCAPE']}.bu.edu" %> ;
-
 wordpress <%= ENV['BACKEND_WP_APP'] || "ist-wp-app-#{ENV['LANDSCAPE']}.bu.edu" %> ;
 
+# PHP:
 dbin <%= ENV['BACKEND_DBIN'] || "ist-web-dbin-#{ENV['LANDSCAPE']}.bu.edu" %> ;
 
 phpbin <%= ENV['BACKEND_PHPBIN'] || "ist-web-phpbin-#{ENV['LANDSCAPE']}.bu.edu" %> ;
 phpbin-aws ist-web-phpbin-aws-prod.bu.edu ;
 
+# Other Apps:
 degree-advice <%= ENV['BACKEND_DEGREE_ADVICE'] || "ist-degreeadvice-#{ENV['LANDSCAPE']}.bu.edu" %> ;
 
 django <%= ENV['BACKEND_DJANGO'] || "ist-web-django-#{ENV['LANDSCAPE']}.bu.edu" %> ;
