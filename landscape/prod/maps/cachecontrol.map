@@ -4,17 +4,10 @@
   degree-advice "no-cache, no-store" ;
   legacy "no-cache, no-store" ;
   django "no-cache, no-store" ;
-  content-nocache "no-cache, no-store" ;
-  content-cache "max-age=1800" ;
+  static-public-nocache "no-cache, no-store" ;
 
-  # non-WordPress static content can not be
-  # cached because Weblogin does not set the
-  # no-cache header on protected content.
-  content "no-cache, no-store" ;
-  oldcontent "no-cache, no-store" ;
-
-  # Same story for WordPress content on the
-  # wpassets server:
+  # WebLogin does not set a no-cache header on WebLogin-protected
+  # content, so cache nothing
   wpassets "no-cache, no-store" ;
 
   apps-rewrite "no-cache, no-store" ;
