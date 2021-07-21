@@ -794,6 +794,7 @@ _/healthmatters redirect_asis ;
 _/healthmba redirect_asis ;
 _/hello-restricted static-protected ;
 _/help phpbin ;
+_/help/wordpress redirect_asis ;
 _/helpinfo redirect_asis ;
 _/herbalstudy redirect_asis ;
 _/hi redirect_asis ;
