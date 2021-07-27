@@ -88,7 +88,6 @@ _/cellphone-compliance     django ;
 _/dnamixtures        django ;
 _/courseware-manager     django ;
 _/summer/admin       django ;
-_/html-email       django ;
 _/law-pub        django ;
 
 
@@ -820,6 +819,7 @@ _/hr/flash static-public ;
 _/hr/hris static-public ;
 _/hr/wp-assets static-protected ;
 _/htc redirect_asis ;
+_/html-email phpbin-aws ;
 _/hubiejonesfund redirect_asis ;
 _/hubiejonesrsvp redirect_asis ;
 _/humanitiesforums redirect_asis ;
