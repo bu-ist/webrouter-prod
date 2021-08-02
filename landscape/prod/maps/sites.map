@@ -519,6 +519,7 @@ _/com/wells-review static-protected ;
 _/com/wtbu-radio static-public ;
 _/com/wu-review static-protected ;
 _/com100 redirect_asis ;
+_/comatbu redirect_asis ;
 _/commavefair redirect_asis ;
 _/common/bueas static-public ;
 _/common/hp static-public ;
