@@ -688,7 +688,7 @@ _/gdp/china-debt-swap-climate-nature static-public ;
 _/gdp/chinas-overseas-development-finance static-public ;
 _/gds redirect_asis ;
 _/gegi redirect_asis ;
-_/genchem static-public ;
+_/genchem static-public-nocache ;
 _/geochemistry redirect_asis ;
 _/geology redirect_asis ;
 _/geophysics redirect_asis ;
