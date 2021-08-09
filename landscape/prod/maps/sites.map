@@ -416,6 +416,7 @@ _/cap static-public ;
 _/capdraft redirect_asis ;
 _/careerex redirect_asis ;
 _/careerweeks redirect_asis ;
+_/cards redirect_asis ;
 _/cart redirect_asis ;
 _/caryl redirect_asis ;
 _/cas/ar static-protected ;
