@@ -425,6 +425,7 @@ _/cas/common static-public ;
 _/cas/impactx2 static-public ;
 _/cas/invite static-public ;
 _/cas/magazine static-protected ;
+_/casadvising redirect_asis ;
 _/casdemo static-public ;
 _/cateringonthecharles redirect_asis ;
 _/cawses static-public ;
