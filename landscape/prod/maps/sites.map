@@ -899,7 +899,7 @@ _/law/communications static-public ;
 _/law/course-planner static-protected ;
 _/law/journals-archive static-public ;
 _/law/seipp redirect_asis ;
-_/law/wp-assets static-protected ;
+_/law/wp-assets static-public-nocache ;
 _/lawgiving redirect_asis ;
 _/lawlibrary/common static-public ;
 _/lawlibrary/e-reserves static-protected ;
