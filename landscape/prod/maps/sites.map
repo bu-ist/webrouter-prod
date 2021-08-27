@@ -216,7 +216,7 @@ _/apply redirect_asis ;
 _/apply/financial-aid redirect_asis ;
 _/apply/graduate redirect_asis ;
 _/appspace redirect_asis ;
-_/ar static-public ;
+_/ar static-public-nocache ;
 _/ar/2012 static-protected ;
 _/ar/2013 static-protected ;
 _/ar/2014 static-protected ;
