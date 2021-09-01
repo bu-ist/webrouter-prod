@@ -1374,6 +1374,7 @@ _/today/news static-public ;
 _/today/projects static-public ;
 _/today/v2 static-public ;
 _/today/wpassets static-public-nocache ;
+_/totenbergchallenge redirect_asis ;
 _/track redirect_asis ;
 _/training redirect_asis ;
 _/transfer redirect_asis ;
