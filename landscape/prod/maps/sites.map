@@ -1141,6 +1141,7 @@ _/parkstreet redirect_asis ;
 _/partisanreview static-public ;
 _/patientconnect redirect_asis ;
 _/payment redirect_asis ;
+_/paymyrent redirect_asis ;
 _/peeradvising redirect_asis ;
 _/pemba redirect_asis ;
 _/pemba-essays redirect_asis ;
