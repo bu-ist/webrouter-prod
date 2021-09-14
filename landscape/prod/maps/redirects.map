@@ -630,6 +630,7 @@ _/parfund http://bostonu.imodules.com/s/1759/2-bu/2col.aspx?sid=1759&pgid=1744&g
 _/parkstreet http://management.bu.edu/pemba/?utm_source=parkstreet&utm_medium=number1eveningmba&utm_campaign=aug2012 ;
 _/patientconnect http://bu.edu/shs/patientconnect ;
 _/payment https://www.bu.edu/link/bin/uiscgi_student_account_payment_third_party.pl ;
+_/paymyrent https://www.bu.edu/link/bin/uiscgi_student_account_payment_third_party.pl?ModuleName=grad_housing_payment.pl ;
 _/peeradvising http://www.bu.edu/peermentor ;
 _/pemba https://www.bu.edu/mbainfo/professional-evening-mba ;
 _/pemba-essays http://www.bu.edu/questrom/admissions/graduate-programs/part-time-mba/admissions-checklist/ ;
