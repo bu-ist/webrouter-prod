@@ -1282,6 +1282,7 @@ _/slatkin redirect_asis ;
 _/slef redirect_asis ;
 _/smartcities redirect_asis ;
 _/smg redirect_asis ;
+_/smg100 redirect_asis ;
 _/smg-em redirect_asis ;
 _/smg-event redirect_asis ;
 _/smgalum redirect_asis ;
