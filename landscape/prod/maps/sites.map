@@ -193,6 +193,7 @@ _/aldolase static-public ;
 _/alert static-public ;
 _/alistaircooke redirect_asis ;
 _/alumni/wp-assets static-public ;
+_/alumniawards redirect_asis ;
 _/alumnicenter redirect_asis ;
 _/alumnisummit redirect_asis ;
 _/alumniweekend redirect_asis ;
