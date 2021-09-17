@@ -1144,6 +1144,7 @@ _/partisanreview static-public ;
 _/patientconnect redirect_asis ;
 _/payment redirect_asis ;
 _/paymyrent redirect_asis ;
+_/pcms static-public ;
 _/peeradvising redirect_asis ;
 _/pemba redirect_asis ;
 _/pemba-essays redirect_asis ;
