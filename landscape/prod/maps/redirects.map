@@ -683,6 +683,7 @@ _/recentgrads http://www.bu.edu/alumni/connected/networks/recent-grad-network/ ;
 _/receptions http://www.bu.edu/admissions/visit-us/well-visit-you-too/ ;
 _/recognizes http://www.bu.edu/campaign/donors/ ;
 _/recycling http://www.bu.edu/sustainability/what-were-doing/waste-reduction/recycling-at-bu/ ;
+_/reg/validate https://www.bu.edu/phpbin/cecredential/validate/ ;
 _/regionalization https://www.mass.gov/service-details/public-health-shared-services ;
 _/registrar http://www.bu.edu/reg ;
 _/remotehelp http://ist-simplehelp.bu.edu/ ;
