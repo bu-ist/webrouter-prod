@@ -1211,6 +1211,7 @@ _/recycling redirect_asis ;
 _/reg/common static-public ;
 _/reg/graphics static-public ;
 _/reg/information static-public ;
+_/reg/validate redirect_asis ;
 _/regionalization redirect_asis ;
 _/registrar redirect_asis ;
 _/remember static-public ;
