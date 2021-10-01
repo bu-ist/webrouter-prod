@@ -1445,3 +1445,6 @@ _/yourbusm redirect_asis ;
 _/yourgift redirect_asis ;
 _/yourimpact redirect_asis ;
 _/zerowasteplan redirect_asis ;
+
+# Custom Domains
+webmail.bu.edu redirect_asis ;

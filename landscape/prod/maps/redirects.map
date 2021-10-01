@@ -859,3 +859,6 @@ _/yourbusm http://www.bumc.bu.edu/medalumni/yourbusm/ ;
 _/yourgift https://trusted.bu.edu/s/1759/2-bu/index.aspx?sid=1759&gid=2&pgid=428&cid=1069&appealcode=WEBAGC-TL ;
 _/yourimpact https://trusted.bu.edu/s/1759/2-bu/index.aspx?sid=1759&gid=2&pgid=456&cid=1110&appealcode=WEBAGC-YI ;
 _/zerowasteplan https://www.bu.edu/sustainability/projects/zero-waste-plan/ ;
+
+# Custom Domains
+webmail.bu.edu https://www.bu.edu/webmail/ ;
