@@ -592,7 +592,7 @@ _/directory static-public ;
 _/discover static-public ;
 _/discoveries redirect_asis ;
 _/distance redirect_asis ;
-_/disted static-protected ;
+_/disted static-public-nocache ;
 _/diversitytaskforce/media static-protected ;
 _/dli redirect_asis ;
 _/dli/av static-public ;
