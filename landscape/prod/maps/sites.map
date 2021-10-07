@@ -161,7 +161,7 @@ _/aboutcgs redirect_asis ;
 _/abroad/av static-protected ;
 _/abroad/wp-assets static-public ;
 _/abroadatbu redirect_asis ;
-_/academics/archive static-protected ;
+_/academics/archive static-public ;
 _/academy redirect_asis ;
 _/acs redirect_asis ;
 _/act static-public ;
