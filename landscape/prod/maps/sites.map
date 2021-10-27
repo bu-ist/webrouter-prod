@@ -568,6 +568,7 @@ _/data static-public ;
 _/data-sciences-center static-public ;
 _/dayofservice redirect_asis ;
 _/daysofservice redirect_asis ;
+_/dct redirect_asis ;
 _/dbin-cnsb-assets static-public ;
 _/dbin-cupidcubesat-data static-public ;
 _/dbin-dance static-public ;
