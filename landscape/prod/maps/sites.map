@@ -265,6 +265,7 @@ _/biomedcrimas redirect_asis ;
 _/biomedforensic redirect_asis ;
 _/biomedresearchtech static-public ;
 _/bionicpancreas redirect_asis ;
+_/biorender redirect_asis ;
 _/biorobotics static-public ;
 _/biosafety redirect_asis ;
 _/biosci redirect_asis ;
