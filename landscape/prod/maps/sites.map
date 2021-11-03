@@ -102,6 +102,7 @@ _/nisdev phpbin ;
 
 _/dbin dbin ;
 _/dbin/agni phpbin-aws ;
+_/dbin/archives static-public ;
 _/dbin/cnsb phpbin-aws ;
 _/dbin/cupidcubesat phpbin-aws ;
 _/dbin/dance phpbin-aws ;
