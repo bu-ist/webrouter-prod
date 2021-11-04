@@ -106,7 +106,7 @@ _/dbin/archives static-public ;
 _/dbin/cnsb phpbin-aws ;
 _/dbin/cupidcubesat phpbin-aws ;
 _/dbin/dance phpbin-aws ;
-_/dbin/ece phpbin-aws ;
+_/dbin/ece static-public ;
 _/dbin/pma phpbin-aws ;
 _/dbin/project-inclusive phpbin-aws ;
 _/dbin/stemcells phpbin-aws ;
