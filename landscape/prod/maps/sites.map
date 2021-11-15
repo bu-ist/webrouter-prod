@@ -482,6 +482,7 @@ _/classgiftlove redirect_asis ;
 _/classroom redirect_asis ;
 _/cleanenergyventures redirect_asis ;
 _/climate redirect_asis ;
+_/climateactionplan redirect_asis ;
 _/clinicalinvestigation static-public ;
 _/cme redirect_asis ;
 _/cmetips redirect_asis ;
