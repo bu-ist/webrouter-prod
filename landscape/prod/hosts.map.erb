@@ -37,3 +37,5 @@ apps-rewrite <%= ENV['BACKEND_PHPBIN'] || "ist-web-phpbin-#{ENV['LANDSCAPE']}.bu
 # This aws_homepage bucket is used for everything that maps normally:
 aws_home buaws-websites-homepage-prod.s3-website-us-east-1.amazonaws.com ;
 
+# Custom Domain Proxies:
+www-rewrite-wiki ist-web-phpbin-aws-prod.bu.edu/phpbin/wiki ;
