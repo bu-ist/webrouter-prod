@@ -596,6 +596,7 @@ _/dining/report2016 static-public ;
 _/dining/report2017 static-public ;
 _/dining/report2018 static-public ;
 _/directory static-public ;
+_/disc redirect_asis ;
 _/discover static-public ;
 _/discoveries redirect_asis ;
 _/distance redirect_asis ;
