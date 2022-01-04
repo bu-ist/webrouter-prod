@@ -107,6 +107,7 @@ _/dbin/bands phpbin-aws ;
 _/dbin/cnsb phpbin-aws ;
 _/dbin/cupidcubesat phpbin-aws ;
 _/dbin/dance phpbin-aws ;
+_/dbin/disted phpbin-aws ;
 _/dbin/ece static-public ;
 _/dbin/eng phpbin-aws ;
 _/dbin/mlkjr phpbin-aws ;
