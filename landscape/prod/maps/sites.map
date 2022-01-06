@@ -109,6 +109,7 @@ _/dbin/cupidcubesat phpbin-aws ;
 _/dbin/dance phpbin-aws ;
 _/dbin/disted phpbin-aws ;
 _/dbin/ece static-public ;
+_/dbin/ejournals phpbin-aws ;
 _/dbin/eng phpbin-aws ;
 _/dbin/mlkjr phpbin-aws ;
 _/dbin/pma phpbin-aws ;
