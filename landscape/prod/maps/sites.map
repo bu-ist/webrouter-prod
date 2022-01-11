@@ -908,6 +908,7 @@ _/kpw/printsync redirect_asis ;
 _/kssf redirect_asis ;
 _/lab redirect_asis ;
 _/lacelebratesbu redirect_asis ;
+_/lamilpa static-public ;
 _/lamovie redirect_asis ;
 _/languagelearning redirect_asis ;
 _/languages redirect_asis ;
