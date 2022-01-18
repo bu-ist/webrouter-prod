@@ -140,6 +140,7 @@ _/phpbin/hilleldining phpbin-aws ;
 _/phpbin/ijahs phpbin-aws ;
 _/phpbin/lawyearbooks phpbin-aws ;
 _/phpbin/marconi phpbin-aws ;
+_/phpbin/mask-distribution phpbin-aws ;
 _/phpbin/meal-donation phpbin-aws ;
 _/phpbin/medlib phpbin-aws ;
 _/phpbin/nispm phpbin-aws ;
