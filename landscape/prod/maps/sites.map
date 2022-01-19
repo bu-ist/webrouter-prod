@@ -249,6 +249,7 @@ _/attend redirect_asis ;
 _/awrecentgrads redirect_asis ;
 _/awslogin redirect_asis ;
 _/backbay static-public ;
+_/backtoschool redirect_asis ;
 _/ballab static-public ;
 _/barc static-public ;
 _/bashoexpress redirect_asis ;
