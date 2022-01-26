@@ -93,7 +93,6 @@ _/law-pub        django ;
 
 # Standalone Sites:
 
-_/bumobile phpbin-aws ;
 _/buniverse phpbin-aws ;
 _/calendar phpbin-aws ;
 _/nisdev phpbin ;
