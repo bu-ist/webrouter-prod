@@ -454,8 +454,6 @@ _/centers redirect_asis ;
 _/centurychallenge redirect_asis ;
 _/ces redirect_asis ;
 _/cfa/loans static-public ;
-_/cfa/ppc1 static-public ;
-_/cfa/ppc9 static-public ;
 _/cfdi redirect_asis ;
 _/cga redirect_asis ;
 _/cgap static-public ;
