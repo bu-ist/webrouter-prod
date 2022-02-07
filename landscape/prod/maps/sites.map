@@ -930,7 +930,7 @@ _/learn redirect_asis ;
 _/learnmore redirect_asis ;
 _/leboha redirect_asis ;
 _/leed100bsr redirect_asis ;
-_/lernet static-public ;
+_/lernet static-public-nocache ;
 _/liberalstudies redirect_asis ;
 _/library/firstyear static-public ;
 _/library/wp-assets static-protected ;
