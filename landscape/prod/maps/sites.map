@@ -1454,6 +1454,7 @@ _/yourimpact redirect_asis ;
 _/zerowasteplan redirect_asis ;
 
 # Custom Domains
+digital.bu.edu redirect_asis ;
 icshm.bu.edu redirect_asis ;
 webmail.bu.edu redirect_asis ;
 wiki.bu.edu www-rewrite-wiki ;
