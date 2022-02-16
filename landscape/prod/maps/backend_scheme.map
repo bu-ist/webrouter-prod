@@ -20,3 +20,5 @@ checkhostheader http ;
 
 static-public http ;
 static-public-nocache http ;
+
+mainframe-java-8082 http ;

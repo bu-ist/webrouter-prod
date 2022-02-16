@@ -14,3 +14,5 @@
   
   # set specific max-age for the home page
   aws_home "max-age=1800" ;
+
+  mainframe-java-8082 "no-cache, no-store" ;
