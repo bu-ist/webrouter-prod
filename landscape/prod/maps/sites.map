@@ -126,6 +126,8 @@ _/phpbin/alert phpbin-aws ;
 _/phpbin/calendar phpbin-aws ;
 _/phpbin/cashier-admin redirect_asis ;
 _/phpbin/cecredential phpbin-aws ;
+# TEMPORARY: Added 2022-02 bfenster to validate Directory Modernization infrastructure in PROD
+_/phpbin/change-entry-validation phpbin-aws ;
 _/phpbin/cise phpbin-aws ;
 _/phpbin/coursedesc2 redirect_asis ;
 _/phpbin/course-search phpbin-aws ;
@@ -593,6 +595,8 @@ _/dining/report2016 static-public ;
 _/dining/report2017 static-public ;
 _/dining/report2018 static-public ;
 _/directory static-public ;
+# TEMPORARY: Added 2022-02 bfenster to validate Directory Modernization infrastructure in PROD
+_/directory-validation phpbin-aws ;
 _/disc redirect_asis ;
 _/discover static-public ;
 _/discoveries redirect_asis ;
