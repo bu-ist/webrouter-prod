@@ -1772,4 +1772,4 @@ www.urbanarch.org redirect ;
 www.wheelock.edu redirect_asis ;
 
 www.bumc.bu.edu/gms/review_form static-public ;
-
+_/gms/review_form static-public ;
