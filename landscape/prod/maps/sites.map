@@ -135,7 +135,7 @@ _/phpbin/courseware phpbin-aws ;
 _/phpbin/directory redirect_asis ;
 _/phpbin/ear redirect_asis ;
 _/phpbin/emailer phpbin-aws ;
-_/phpbin/emailforwarding phpbin-aws ;
+_/phpbin/emailforwarding redirect_asis ;
 _/phpbin/faculty-applicants phpbin-aws ;
 _/phpbin/hilleldining phpbin-aws ;
 _/phpbin/ijahs phpbin-aws ;
