@@ -515,7 +515,7 @@ _/com/lambert-review static-protected ;
 _/com/lib static-public ;
 _/com/linkedin static-public ;
 _/com/live-it static-public ;
-_/com/narrative static-protected ;
+_/com/narrative redirect_asis ;
 _/com/new-courses static-public ;
 _/com/phua-review static-protected ;
 _/com/sports_institute static-public ;
