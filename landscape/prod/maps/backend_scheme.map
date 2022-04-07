@@ -21,4 +21,7 @@ checkhostheader http ;
 static-public http ;
 static-public-nocache http ;
 
+static-custom-domain-favoritepoem http ;
+static-custom-domain-madlab http ;
+
 mainframe-java-8082 http ;
