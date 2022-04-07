@@ -856,6 +856,7 @@ _/infocenter redirect_asis ;
 _/infosec redirect_asis ;
 _/infosec/newtobu redirect_asis ;
 _/infosec/phishbowl redirect_asis ;
+_/infosec/researchers redirect_asis ;
 _/infosec/securityhero redirect_asis ;
 _/inmlcfp redirect_asis ;
 _/inmlcore redirect_asis ;
