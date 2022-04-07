@@ -8,6 +8,10 @@ static-public-nocache static-sites-prod-public.s3-website-us-east-1.amazonaws.co
 
 static-protected ist-web-static-sites-prod.bu.edu ;
 
+static-custom-domain-madlab static-sites-prod-public.s3-website-us-east-1.amazonaws.com/_custom-domains/www.madlab.bu.edu ;
+static-custom-domain-favoritepoem static-sites-prod-public.s3-website-us-east-1.amazonaws.com/_custom-domains/www.favoritepoem.org ;
+
+
 # WordPress:
 wpassets <%= ENV['BACKEND_WP_CONTENT'] || "ist-wp-assets-#{ENV['LANDSCAPE']}.bu.edu" %> ;
 wordpress <%= ENV['BACKEND_WP_APP'] || "ist-wp-app-#{ENV['LANDSCAPE']}.bu.edu" %> ;

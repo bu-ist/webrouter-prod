@@ -26,3 +26,6 @@ aws_home_index buaws-websites-homepage-prod.s3-website-us-east-1.amazonaws.com ;
 
 static-public static-sites-prod-public.s3-website-us-east-1.amazonaws.com ;
 static-public-nocache static-sites-prod-public.s3-website-us-east-1.amazonaws.com ;
+
+static-custom-domain-madlab static-sites-prod-public.s3-website-us-east-1.amazonaws.com ;
+static-custom-domain-favoritepoem static-sites-prod-public.s3-website-us-east-1.amazonaws.com ;
