@@ -843,6 +843,7 @@ _/id redirect_asis ;
 _/igsw static-public ;
 _/igsw-register redirect_asis ;
 _/ihs redirect_asis ;
+_/ihsip redirect_asis ;
 _/impact redirect_asis ;
 _/inaugural redirect_asis ;
 _/index.html aws_home ;
