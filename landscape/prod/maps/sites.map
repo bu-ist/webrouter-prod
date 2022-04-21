@@ -1484,7 +1484,7 @@ buworkshelp.bu.edu redirect ;
 cashelp.bu.edu redirect ;
 cflp.bu.edu redirect ;
 chemed.bu.edu redirect_asis ;
-chinaafricaloandata.bu.edu redirect ;
+chinaafricaloandata.bu.edu redirect_asis ;
 ciopocketmba.bu.edu redirect ;
 cisonline.bu.edu redirect_asis ;
 cjdegreeonline.bu.edu redirect_asis ;
