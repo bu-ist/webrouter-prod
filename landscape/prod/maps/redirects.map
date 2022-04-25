@@ -429,6 +429,7 @@ _/inaugural http://www.bu.edu/inauguration/ ;
 _/infancp http://www.bu.edu/infantcp ;
 _/infocenter http://www.bu.edu/info/about/ ;
 _/infosec https://www.bu.edu/tech/support/information-security/ ;
+_/infosec/newsfeed https://www.bu.edu/tech/support/information-security/infosec-newsfeed/ ;
 _/infosec/newtobu https://www.bu.edu/tech/support/information-security/information-security-new-to-bu/ ;
 _/infosec/phishbowl https://www.bu.edu/tech/support/information-security/bus-phish-bowl/ ;
 _/infosec/researchers https://www.bu.edu/tech/support/information-security/security-for-researchers/ ;

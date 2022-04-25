@@ -851,6 +851,7 @@ _/indigobirds static-public ;
 _/infancp redirect_asis ;
 _/infocenter redirect_asis ;
 _/infosec redirect_asis ;
+_/infosec/newsfeed redirect_asis ;
 _/infosec/newtobu redirect_asis ;
 _/infosec/phishbowl redirect_asis ;
 _/infosec/researchers redirect_asis ;
