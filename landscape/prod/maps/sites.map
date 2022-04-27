@@ -1762,3 +1762,52 @@ www.wheelock.edu redirect_asis ;
 # This is NOT SUPPORTED until on-campus webrouter is decommissioned
 www.bumc.bu.edu/gms/review_form static-public ;
 _/gms/review_form static-public ;
+
+# people.bu.edu
+people.bu.edu people-public ;
+
+# Sites with .shtml files:
+people.bu.edu/kjacobs people-protected ;
+people.bu.edu/trachten people-protected ;
+people.bu.edu/alyasoff people-protected ;
+
+# Sites with .htaccess files:
+people.bu.edu/aasagrad people-protected ;
+people.bu.edu/abramsb people-protected ;
+people.bu.edu/alyasoff people-protected ;
+people.bu.edu/arn people-protected ;
+people.bu.edu/azs people-protected ;
+people.bu.edu/cball people-protected ;
+people.bu.edu/celenza people-protected ;
+people.bu.edu/dako people-protected ;
+people.bu.edu/dsmk people-protected ;
+people.bu.edu/eflagg people-protected ;
+people.bu.edu/eisara people-protected ;
+people.bu.edu/furman people-protected ;
+people.bu.edu/gtrotman people-protected ;
+people.bu.edu/imiller people-protected ;
+people.bu.edu/imurator people-protected ;
+people.bu.edu/jbuchr people-protected ;
+people.bu.edu/jenwelin people-protected ;
+people.bu.edu/jillb people-protected ;
+people.bu.edu/johnb people-protected ;
+people.bu.edu/jschmidt people-protected ;
+people.bu.edu/jywong people-protected ;
+people.bu.edu/kearns people-protected ;
+people.bu.edu/manfredi people-protected ;
+people.bu.edu/marnold1 people-protected ;
+people.bu.edu/mfk people-protected ;
+people.bu.edu/mnh people-protected ;
+people.bu.edu/nghani people-protected ;
+people.bu.edu/ottest people-protected ;
+people.bu.edu/peverett people-protected ;
+people.bu.edu/rbs people-protected ;
+people.bu.edu/rcarney people-protected ;
+people.bu.edu/rudi people-protected ;
+people.bu.edu/salge people-protected ;
+people.bu.edu/scottm people-protected ;
+people.bu.edu/smarks people-protected ;
+people.bu.edu/somers people-protected ;
+people.bu.edu/temkin people-protected ;
+people.bu.edu/wonglab people-protected ;
+

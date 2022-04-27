@@ -29,3 +29,5 @@ static-public-nocache static-sites-prod-public.s3-website-us-east-1.amazonaws.co
 
 static-custom-domain-madlab static-sites-prod-public.s3-website-us-east-1.amazonaws.com ;
 static-custom-domain-favoritepoem static-sites-prod-public.s3-website-us-east-1.amazonaws.com ;
+
+people-public static-sites-prod-public.s3-website-us-east-1.amazonaws.com ;

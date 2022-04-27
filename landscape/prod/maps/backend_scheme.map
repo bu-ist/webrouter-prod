@@ -24,4 +24,7 @@ static-public-nocache http ;
 static-custom-domain-favoritepoem http ;
 static-custom-domain-madlab http ;
 
+people-public http ;
+
+
 mainframe-java-8082 http ;
