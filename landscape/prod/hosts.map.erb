@@ -1,28 +1,62 @@
+# # # # # # # # # # # # # # # # # # # #
+#  Legacy Systems
+# # # # # # # # # # # # # # # # # # # #
+
 legacy <%= ENV['BACKEND_WEB_LEGACY'] || "ist-web-legacy-#{ENV['LANDSCAPE']}.bu.edu" %> ;
 
 mainframe-java-8082 usl0.bu.edu:8082 ;
 
-# Static Sites:
+
+# # # # # # # # # # # # # # # # # # # #
+#  Static Sites
+# # # # # # # # # # # # # # # # # # # #
+
 static-public static-sites-prod-public.s3-website-us-east-1.amazonaws.com ;
 static-public-nocache static-sites-prod-public.s3-website-us-east-1.amazonaws.com ;
 
 static-protected ist-web-static-sites-prod.bu.edu ;
 
+
+# # # # # # # # # # # # # # # # # # # #
+#  Custom Domains
+# # # # # # # # # # # # # # # # # # # #
+
 static-custom-domain-madlab static-sites-prod-public.s3-website-us-east-1.amazonaws.com/_custom-domains/www.madlab.bu.edu ;
 static-custom-domain-favoritepoem static-sites-prod-public.s3-website-us-east-1.amazonaws.com/_custom-domains/www.favoritepoem.org ;
 
+# # # # # # # # # # # # # # # # # # # #
+#  people.bu.edu
+# # # # # # # # # # # # # # # # # # # #
 
-# WordPress:
+people-public static-sites-prod-public.s3-website-us-east-1.amazonaws.com/_custom-domains/people.bu.edu ;
+people-protected ist-web-static-sites-prod.bu.edu/_custom-domains/people.bu.edu ;
+
+
+# # # # # # # # # # # # # # # # # # # #
+#  WordPress
+# # # # # # # # # # # # # # # # # # # #
+
 wpassets <%= ENV['BACKEND_WP_CONTENT'] || "ist-wp-assets-#{ENV['LANDSCAPE']}.bu.edu" %> ;
 wordpress <%= ENV['BACKEND_WP_APP'] || "ist-wp-app-#{ENV['LANDSCAPE']}.bu.edu" %> ;
 
-# PHP:
+# # # # # # # # # # # # # # # # # # # #
+#  PHP
+# # # # # # # # # # # # # # # # # # # #
+
 dbin <%= ENV['BACKEND_DBIN'] || "ist-web-dbin-#{ENV['LANDSCAPE']}.bu.edu" %> ;
 
 phpbin <%= ENV['BACKEND_PHPBIN'] || "ist-web-phpbin-#{ENV['LANDSCAPE']}.bu.edu" %> ;
 phpbin-aws ist-web-phpbin-aws-prod.bu.edu ;
 
-# Other Apps:
+# Custom Domain for wiki.bu.edu:
+www-rewrite-wiki ist-web-phpbin-aws-prod.bu.edu/phpbin/wiki ;
+
+
+
+# # # # # # # # # # # # # # # # # # # #
+#  Other Apps
+# # # # # # # # # # # # # # # # # # # #
+
 degree-advice <%= ENV['BACKEND_DEGREE_ADVICE'] || "ist-degreeadvice-#{ENV['LANDSCAPE']}.bu.edu" %> ;
 
 django <%= ENV['BACKEND_DJANGO'] || "ist-web-django-#{ENV['LANDSCAPE']}.bu.edu" %> ;
@@ -31,9 +65,7 @@ uiscgi_app <%= ENV['BACKEND_UISCGI_APP'] || "ist-uiscgi-app-#{ENV['LANDSCAPE']}.
 
 uiscgi_content <%= ENV['BACKEND_UISCGI_CONTENT'] || "ist-uiscgi-content-#{ENV['LANDSCAPE']}.bu.edu" %> ;
 
-# app-rewrite backend to make certain that the /apps-rewrite is on the path
-# #
-apps-rewrite <%= ENV['BACKEND_PHPBIN'] || "ist-web-phpbin-#{ENV['LANDSCAPE']}.bu.edu" %>/apps-rewrite ;
+
 
 # ###
 # The following backend types provide the homepage in S3.
@@ -42,6 +74,3 @@ apps-rewrite <%= ENV['BACKEND_PHPBIN'] || "ist-web-phpbin-#{ENV['LANDSCAPE']}.bu
 #
 # This aws_homepage bucket is used for everything that maps normally:
 aws_home buaws-websites-homepage-prod.s3-website-us-east-1.amazonaws.com ;
-
-# Custom Domain Proxies:
-www-rewrite-wiki ist-web-phpbin-aws-prod.bu.edu/phpbin/wiki ;
