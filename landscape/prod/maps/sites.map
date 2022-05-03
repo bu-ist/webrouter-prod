@@ -1698,7 +1698,6 @@ online.bu.edu redirect ;
 onlinetaxllm.bu.edu redirect_asis ;
 pep.bu.edu redirect_asis ;
 pionline.bu.edu redirect ;
-postdocacademy.org redirect_asis ;
 presto.bu.edu redirect ;
 qgc.bu.edu redirect_asis ;
 quantum.bu.edu redirect ;
@@ -1818,4 +1817,3 @@ people.bu.edu/smarks people-protected ;
 people.bu.edu/somers people-protected ;
 people.bu.edu/temkin people-protected ;
 people.bu.edu/wonglab people-protected ;
-
