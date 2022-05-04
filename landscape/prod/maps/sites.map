@@ -937,7 +937,7 @@ _/leporelecture redirect_asis ;
 _/lernet static-public-nocache ;
 _/liberalstudies redirect_asis ;
 _/library/firstyear static-public ;
-_/library/wp-assets static-protected ;
+_/library/wp-assets static-public ;
 _/life redirect_asis ;
 _/lifebook redirect_asis ;
 _/lifelong redirect_asis ;
