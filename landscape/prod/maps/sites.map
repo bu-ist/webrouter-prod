@@ -620,6 +620,7 @@ _/emba22 redirect_asis ;
 _/embacurriculum redirect_asis ;
 _/embafaculty redirect_asis ;
 _/embainfo redirect_asis ;
+_/emd redirect_asis ;
 _/emergingmedia redirect_asis ;
 _/emermgmt static-public ;
 _/emf redirect_asis ;
