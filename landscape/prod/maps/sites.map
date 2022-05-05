@@ -1428,7 +1428,6 @@ _/wcrew redirect_asis ;
 _/webcentral/common static-public ;
 _/weblogin static-protected ;
 _/webteam/hiring static-public-nocache ;
-_/webteam/presentations static-protected ;
 _/webteam/projects static-public-nocache ;
 _/wellbeingproject redirect_asis ;
 _/wellbeingproject/events redirect_asis ;
