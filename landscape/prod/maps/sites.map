@@ -1701,6 +1701,7 @@ online.bu.edu redirect ;
 onlinetaxllm.bu.edu redirect_asis ;
 pep.bu.edu redirect_asis ;
 pionline.bu.edu redirect ;
+platforms.bu.edu redirect_asis ;
 presto.bu.edu redirect ;
 qgc.bu.edu redirect_asis ;
 quantum.bu.edu redirect ;
