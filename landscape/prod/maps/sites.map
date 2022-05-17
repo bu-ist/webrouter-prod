@@ -1776,6 +1776,7 @@ _/gms/review_form static-public ;
 
 # people.bu.edu
 people.bu.edu people-public ;
+people.bu.edu/_domains/people.bu.edu redirect-asis ;
 
 # Sites with .shtml files:
 people.bu.edu/alyasoff people-protected ;
