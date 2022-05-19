@@ -85,7 +85,8 @@ _/degree-audit degree-advice ;
 
 _/ssw/usfostercare     django ;
 _/cellphone-compliance     django ;
-_/dnamixtures        django ;
+_/dnamixtures django ;
+_/dnamixtures/uploads static-public ;
 _/courseware-manager     django ;
 _/summer/admin       django ;
 _/law-pub        django ;
