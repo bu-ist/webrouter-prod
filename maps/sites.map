@@ -248,6 +248,7 @@ _/autodiscover static-public ;
 _/awrecentgrads redirect_asis ;
 _/awslogin redirect_asis ;
 _/back2bu redirect_asis ;
+_/back2bu-chn redirect_asis ;
 _/backbay static-public ;
 _/backtoschool redirect_asis ;
 _/ballab static-public ;
