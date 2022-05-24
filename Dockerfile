@@ -5,10 +5,9 @@ FROM buist/websites-webrouter-base:2022.05.18
 # for now this is our split and everything below this is for a different location
 #
 # the final default landscape should be test
-ARG landscape=syst
+ARG landscape=prod
 
 # These files remains in the landscape specific CodePipeline area.
-ADD landscape/${landscape}/vars.sh /etc/nginx/vars.sh
-ADD landscape/${landscape}/hosts.map.erb /etc/erb/nginx/hosts.map.erb
-ADD landscape/${landscape}/maps /etc/nginx/maps
+ADD maps/hosts.map.erb /etc/erb/nginx/hosts.map.erb
+ADD maps /etc/nginx/maps
 
