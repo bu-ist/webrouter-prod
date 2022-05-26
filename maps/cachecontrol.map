@@ -16,3 +16,5 @@
   aws_home "max-age=1800" ;
 
   mainframe-java-8082 "no-cache, no-store" ;
+
+  search "no-cache, no-store" ;
