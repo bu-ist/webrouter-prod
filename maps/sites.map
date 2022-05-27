@@ -81,6 +81,10 @@ _/degree-audit degree-advice ;
 #
 #####################################################################
 
+# Search:
+
+search.bu.edu search ;
+
 # Django applications:
 
 _/ssw/usfostercare     django ;
@@ -1711,7 +1715,6 @@ quantum.bu.edu redirect ;
 quantumconcepts.bu.edu redirect ;
 questromconnect.bu.edu redirect_asis ;
 questromfixit.bu.edu redirect_asis ;
-search.bu.edu redirect_asis ;
 sed-it.bu.edu redirect ;
 sed-survey.bu.edu redirect ;
 service-now.bu.edu redirect_asis ;
