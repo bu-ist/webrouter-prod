@@ -1693,6 +1693,8 @@ isps.bu.edu redirect_asis ;
 leap.bu.edu redirect_asis ;
 library.bu.edu redirect ;
 lite.bu.edu redirect ;
+live.bu.edu/commencement-2020 redirect_asis ;
+live.bu.edu/commencement-2021 redirect_asis ;
 management.bu.edu redirect ;
 management.bu.edu/yfif redirect_asis ;
 mark.bu.edu redirect ;
