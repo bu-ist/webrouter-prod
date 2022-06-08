@@ -164,7 +164,7 @@ _/phpbin/wiki phpbin-aws ;
 
 
 #####################################################################
-# Content Sites & Redirects:
+# Content Sites & Redirects for www.bu.edu:
 #
 #####################################################################
 
@@ -1784,6 +1784,9 @@ www.wheelock.edu redirect_asis ;
 # This is NOT SUPPORTED until on-campus webrouter is decommissioned
 www.bumc.bu.edu/gms/review_form static-public ;
 _/gms/review_form static-public ;
+
+# sites.bu.edu
+sites.bu.edu/akwok redirect ;
 
 # people.bu.edu
 people.bu.edu people-public ;
