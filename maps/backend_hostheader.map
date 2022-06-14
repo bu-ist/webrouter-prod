@@ -31,3 +31,4 @@ static-custom-domain-madlab static-sites-prod-public.s3-website-us-east-1.amazon
 static-custom-domain-favoritepoem static-sites-prod-public.s3-website-us-east-1.amazonaws.com ;
 
 people-public static-sites-prod-public.s3-website-us-east-1.amazonaws.com ;
+people-public-nocache static-sites-prod-public.s3-website-us-east-1.amazonaws.com ;
