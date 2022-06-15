@@ -16,8 +16,8 @@ namespace BU\Webrouter;
  *    might be redirecting to a login screen.
  */
 
-$redirects = parse( file( dirname(__DIR__) . '/landscape/prod/maps/redirects.map' ) );
-$sites = parse( file( dirname(__DIR__) . '/landscape/prod/maps/sites.map' ) );
+$redirects = parse( file( dirname(__DIR__) . '/maps/redirects.map' ) );
+$sites = parse( file( dirname(__DIR__) . '/maps/sites.map' ) );
 
 
 // Note: we do not iterate over sites. This reporting is explicitly for redirects.
