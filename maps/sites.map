@@ -43,7 +43,6 @@ _/webrouter-health/wp-assets wpassets ;
 
 # Marketing URLs:
 _/employeelink redirect_asis ;
-_/geography/brdf redirect_asis ;
 _/studentlink redirect_asis ;
 
 # UISCGI:
@@ -708,6 +707,7 @@ _/gds redirect_asis ;
 _/gegi redirect_asis ;
 _/genchem static-public-nocache ;
 _/geochemistry redirect_asis ;
+_/geography/brdf redirect_asis ;
 _/geology redirect_asis ;
 _/geophysics redirect_asis ;
 _/geoscience redirect_asis ;
