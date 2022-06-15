@@ -1712,6 +1712,8 @@ onlinetaxllm.bu.edu redirect_asis ;
 pep.bu.edu redirect_asis ;
 pionline.bu.edu redirect ;
 platforms.bu.edu redirect_asis ;
+ppm.bumc.bu.edu redirect_asis ;
+ppm.bumc.bu.edu/dotNet redirect ;
 presto.bu.edu redirect ;
 probstatdata.bu.edu redirect_asis ;
 qgc.bu.edu redirect_asis ;
