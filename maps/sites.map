@@ -1202,6 +1202,7 @@ _/proudtobu redirect_asis ;
 _/provost/complexity2008 static-protected ;
 _/provost/secure static-public ;
 _/prudential redirect_asis ;
+_/przytyckilab static-public ;
 _/psp redirect_asis ;
 _/psych/charris static-public ;
 _/ptc redirect_asis ;
