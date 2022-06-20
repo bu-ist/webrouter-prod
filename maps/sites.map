@@ -220,6 +220,7 @@ _/annualfund redirect_asis ;
 _/annualfundroster redirect_asis ;
 _/annualgiving redirect_asis ;
 _/answers redirect_asis ;
+_/antiracism-center/test-site static-public ;
 _/antiracist-center redirect_asis ;
 _/anxiety redirect_asis ;
 _/anxiety/dbh redirect_asis ;
