@@ -1435,6 +1435,7 @@ _/washingtoncelebratesbu redirect_asis ;
 _/washintern redirect_asis ;
 _/wcp static-public ;
 _/wcrew redirect_asis ;
+_/webcentral redirect ;
 _/webcentral/common static-public ;
 _/weblogin static-protected ;
 _/webteam/hiring static-public-nocache ;
