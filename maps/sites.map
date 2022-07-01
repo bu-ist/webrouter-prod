@@ -127,7 +127,6 @@ _/dbin/stemcells redirect_asis ;
 _/phpbin phpbin ;
 _/wiki phpbin ;
 
-_/phpbin/alert phpbin-aws ;
 _/phpbin/calendar phpbin-aws ;
 _/phpbin/cashier-admin redirect_asis ;
 _/phpbin/cecredential phpbin-aws ;
@@ -205,7 +204,6 @@ _/aias redirect_asis ;
 _/aig redirect_asis ;
 _/alcoholeducationforyouth static-public ;
 _/aldolase static-public ;
-_/alert static-public ;
 _/alistaircooke redirect_asis ;
 _/alumni/wp-assets static-public ;
 _/alumniawards redirect_asis ;
