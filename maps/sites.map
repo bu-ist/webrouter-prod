@@ -1815,6 +1815,9 @@ www.wheelock.edu redirect_asis ;
 www.bumc.bu.edu/gms/review_form static-public ;
 _/gms/review_form static-public ;
 
+# bumc.bu.edu
+bumc.bu.edu/publicsafety redirect_asis ;
+
 # sites.bu.edu
 sites.bu.edu/akwok redirect ;
 
