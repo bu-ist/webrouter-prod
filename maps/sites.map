@@ -232,7 +232,7 @@ _/apply/graduate redirect_asis ;
 _/appspace redirect_asis ;
 _/ar static-public-nocache ;
 _/arche static-public ;
-_/archives static-public ;
+_/archives redirect_asis ;
 _/arlington redirect_asis ;
 _/armyrotc redirect_asis ;
 _/ars redirect_asis ;
