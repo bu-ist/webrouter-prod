@@ -457,6 +457,7 @@ _/centers redirect_asis ;
 _/centurychallenge redirect_asis ;
 _/ces redirect_asis ;
 _/cfdi redirect_asis ;
+_/cftcc redirect_asis ;
 _/cga redirect_asis ;
 _/cgap static-public ;
 _/cgef static-public ;
