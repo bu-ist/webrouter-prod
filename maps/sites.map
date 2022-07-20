@@ -922,6 +922,7 @@ _/law/journals-archive static-public ;
 _/law/seipp redirect_asis ;
 _/law/wp-assets static-public-nocache ;
 _/lawgiving redirect_asis ;
+_/lawlibrary redirect ;
 _/lawlibrary/common static-public ;
 _/lawlibrary/e-reserves static-protected ;
 _/lawlibrary/facultypublications static-public ;
