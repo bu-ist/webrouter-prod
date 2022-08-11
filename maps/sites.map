@@ -1157,6 +1157,7 @@ _/parfund redirect_asis ;
 _/parking/dbtemplates static-public ;
 _/parkstreet redirect_asis ;
 _/partisanreview static-public ;
+_/parttimefaculty redirect_asis ;
 _/part-time-mba redirect_asis ;
 _/patientconnect redirect_asis ;
 _/payment redirect_asis ;
