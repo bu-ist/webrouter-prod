@@ -140,6 +140,7 @@ _/phpbin/ear redirect_asis ;
 _/phpbin/emailer phpbin-aws ;
 _/phpbin/emailforwarding redirect_asis ;
 _/phpbin/faculty-applicants phpbin-aws ;
+_/phpbin/gravity-redirect phpbin-aws ;
 _/phpbin/hilleldining phpbin-aws ;
 _/phpbin/ijahs phpbin-aws ;
 _/phpbin/lawyearbooks phpbin-aws ;
