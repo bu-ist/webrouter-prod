@@ -1035,7 +1035,6 @@ _/medstures redirect_asis ;
 _/mentalhealth redirect_asis ;
 _/messiaen redirect_asis ;
 _/met/acela static-public ;
-_/met/ads static-protected ;
 _/met/advertising static-public ;
 _/met/agganis static-protected ;
 _/met/apply static-public ;
