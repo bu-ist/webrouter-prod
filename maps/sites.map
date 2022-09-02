@@ -979,6 +979,7 @@ _/marcom/downloads static-public-nocache ;
 _/marcom/email static-public-nocache ;
 _/marcom/formswritable static-public-nocache ;
 _/marcom/html-emails static-public-nocache ;
+_/marcom/html-emails-protected static-protected ;
 _/marcom/projects static-public-nocache ;
 _/marcom/stationery redirect_asis ;
 _/marketingcloud redirect_asis ;
