@@ -1824,6 +1824,7 @@ _/gms/review_form static-public ;
 bumc.bu.edu/publicsafety redirect_asis ;
 
 # sites.bu.edu
+blogs.bu.edu/vschmidt redirect_asis ;
 sites.bu.edu/akwok redirect ;
 
 # people.bu.edu
