@@ -1431,6 +1431,7 @@ _/video redirect_asis ;
 _/vip redirect_asis ;
 _/vip/files static-public ;
 _/virtualpatient static-public ;
+_/vision2030nyc redirect_asis ;
 _/vista redirect_asis ;
 _/vnns static-public ;
 _/washingtoncelebratesbu redirect_asis ;
