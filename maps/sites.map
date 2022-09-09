@@ -135,6 +135,7 @@ _/phpbin/coursedesc2 redirect_asis ;
 _/phpbin/course-search phpbin-aws ;
 _/phpbin/courses phpbin-aws ;
 _/phpbin/courseware phpbin-aws ;
+_/phpbin/dining phpbin-aws ;
 _/phpbin/directory redirect_asis ;
 _/phpbin/ear redirect_asis ;
 _/phpbin/emailer phpbin-aws ;
