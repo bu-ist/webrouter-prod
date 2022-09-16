@@ -23,6 +23,7 @@ static-public-nocache http ;
 
 static-custom-domain-favoritepoem http ;
 static-custom-domain-madlab http ;
+static-custom-domain-sitesbuedu http ;
 
 people-public http ;
 people-public-nocache http ;

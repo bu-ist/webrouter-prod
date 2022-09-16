@@ -1830,7 +1830,7 @@ bumc.bu.edu/publicsafety redirect_asis ;
 # sites.bu.edu
 blogs.bu.edu/vschmidt redirect_asis ;
 sites.bu.edu/akwok redirect ;
-sites.bu.edu/maasap/lgbt-aging-project static-public-sitesbuedu ;
+sites.bu.edu/maasap/lgbt-aging-project static-custom-domain-sitesbuedu ;
 
 # people.bu.edu
 people.bu.edu people-public ;
