@@ -1,6 +1,6 @@
 # These are all defined in the base image
 #
-FROM buist/websites-webrouter-base:2022.06.21
+FROM buist/websites-webrouter-base:2022.09.15
 
 # for now this is our split and everything below this is for a different location
 #
