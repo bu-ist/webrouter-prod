@@ -153,6 +153,7 @@ _/phpbin/nispm phpbin-aws ;
 _/phpbin/oompatech phpbin-aws ;
 _/phpbin/organ-library phpbin-aws ;
 _/phpbin/parking phpbin-aws ;
+_/phpbin/proxy-groups phpbin-aws ;
 _/phpbin/rcr phpbin-aws ;
 _/phpbin/signup phpbin-aws ;
 _/phpbin/sleep phpbin-aws ;
