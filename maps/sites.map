@@ -1450,6 +1450,7 @@ _/webcentral/common static-public ;
 _/weblogin static-protected ;
 _/webteam/hiring static-public-nocache ;
 _/webteam/projects static-public-nocache ;
+_/webticket redirect_asis ;
 _/wellbeingproject redirect_asis ;
 _/wellbeingproject/events redirect_asis ;
 _/wgrimes static-public ;
