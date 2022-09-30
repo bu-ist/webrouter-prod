@@ -694,6 +694,7 @@ _/foodallergy redirect_asis ;
 _/foodandwine static-public ;
 _/formerworker redirect_asis ;
 _/forse redirect_asis ;
+_/foundrop redirect_asis ;
 _/frombtou redirect_asis ;
 _/ftp-survey redirect_asis ;
 _/futuremba redirect_asis ;
