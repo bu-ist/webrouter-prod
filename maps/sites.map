@@ -1840,6 +1840,7 @@ blogs.bu.edu/kmccall redirect_asis ;
 blogs.bu.edu/vschmidt redirect_asis ;
 sites.bu.edu/akwok redirect ;
 sites.bu.edu/maasap/lgbt-aging-project static-custom-domain-sitesbuedu ;
+sites.bu.edu/musicbridge redirect_asis ;
 
 # people.bu.edu
 people.bu.edu people-public ;
