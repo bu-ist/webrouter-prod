@@ -92,7 +92,6 @@ _/cellphone-compliance     django ;
 _/dnamixtures django ;
 _/dnamixtures/uploads static-public ;
 _/courseware-manager     django ;
-_/law-pub        django ;
 
 
 # Standalone Sites:
@@ -924,6 +923,7 @@ _/languagelearning redirect_asis ;
 _/languages redirect_asis ;
 _/lastingloyal redirect_asis ;
 _/latenightkitchen redirect_asis ;
+_/law-pub phpbin-aws ;
 _/law/communications static-public ;
 _/law/course-planner static-protected ;
 _/law/journals-archive static-public ;
