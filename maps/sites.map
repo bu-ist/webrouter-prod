@@ -87,7 +87,6 @@ search.bu.edu search ;
 
 # Django applications:
 
-_/ssw/usfostercare     django ;
 _/cellphone-compliance     django ;
 _/dnamixtures django ;
 _/dnamixtures/uploads static-public ;
@@ -1339,6 +1338,7 @@ _/sph40th redirect_asis ;
 _/sphgiving redirect_asis ;
 _/sscores/downloads static-public ;
 _/ssw/common static-public ;
+_/ssw/usfostercare phpbin-aws ;
 _/sswemergencyfund redirect_asis ;
 _/stamasfund redirect_asis ;
 _/startup redirect_asis ;
