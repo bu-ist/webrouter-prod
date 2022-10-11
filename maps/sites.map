@@ -88,8 +88,6 @@ search.bu.edu search ;
 # Django applications:
 
 _/cellphone-compliance     django ;
-_/dnamixtures django ;
-_/dnamixtures/uploads static-public ;
 _/courseware-manager     django ;
 
 
@@ -576,10 +574,10 @@ _/data static-public ;
 _/data-sciences-center static-public ;
 _/dayofservice redirect_asis ;
 _/daysofservice redirect_asis ;
-_/dct redirect_asis ;
 _/dbin-cnsb-assets static-public ;
 _/dbin-cupidcubesat-data static-public ;
 _/dbin-dance static-public ;
+_/dct redirect_asis ;
 _/degreecomplete redirect_asis ;
 _/dental/lobbyscreen static-public ;
 _/dental/nerb-mcmanama static-public ;
@@ -606,6 +604,8 @@ _/disted static-public-nocache ;
 _/diversitytaskforce/media static-protected ;
 _/dli/av static-public ;
 _/dme redirect_asis ;
+_/dnamixtures phpbin-aws ;
+_/dnamixtures/uploads static-public ;
 _/donorwebinar redirect_asis ;
 _/doors redirect_asis;
 _/dos/facebook static-public ;
@@ -616,8 +616,8 @@ _/ebrochures redirect_asis ;
 _/eci/econpapers static-public ;
 _/ecllscholarship redirect_asis ;
 _/ecologyonline static-public ;
-_/edtech redirect_asis ;
 _/econ/RePEc static-public ;
+_/edtech redirect_asis ;
 _/electric redirect_asis ;
 _/eliewieselarchive redirect_asis ;
 _/eliewieselday redirect_asis ;
