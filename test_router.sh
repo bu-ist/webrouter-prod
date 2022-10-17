@@ -263,10 +263,6 @@ fi
 
 if [ "$LANDSCAPE" != "syst" ]; then
 test_url "http-students" "http://${CONNECT_TO}/students/" 200 wordpress 'generated in'
-
-test_url "http-degree-advice-root" "http://${CONNECT_TO}/degree-advice/" 301 degree-advice "://$HOST/degree-advice/IRISLink.cgi"
-test_url "http-degree-advice-cgi" "http://${CONNECT_TO}/degree-advice/IRISLink.cgi" 302 degree-advice "idp/profile/SAML2/Redirect/SSO"
-test_url "https-degree-advice-cgi" "https://${CONNECT_TO}/degree-advice/IRISLink.cgi" 302 degree-advice "idp/profile/SAML2/Redirect/SSO"
 fi
 
 test_url "http-healthcheck" "http://${CONNECT_TO}/server/healthcheck" 200  healthcheck OK
@@ -275,9 +271,5 @@ test_url "https-healthcheck" "https://${CONNECT_TO}/server/healthcheck" 200  hea
 #echo ""
 #echo "Testing legacy entries from the Apache config"
 #test_url "apache-redirect-pcsc" "http://${CONNECT_TO}/pcsc/foo" 301 content '/tech/help/foo'
-
-# to double-check stuff
-#debug=/bin/true
-#test_url "https-degree-advice-cgi" "https://${CONNECT_TO}/degree-advice/IRISLink.cgi" 302 degree-advice "idp/profile/SAML2/Redirect/SSO" "X-Backend-Protocol: http" "X-Backend-Host: test-backend"
 
 exit $exitcode

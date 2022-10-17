@@ -65,15 +65,6 @@ _/testing legacy ;
 
 
 #####################################################################
-# Degree Advice:
-#
-#####################################################################
-
-_/degree-advice degree-advice ;
-_/degree-audit degree-advice ;
-
-
-#####################################################################
 # Web Applications:
 #
 # These sites are mainly in dbin or phpbin.
