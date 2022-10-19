@@ -1771,6 +1771,7 @@ wp-deploy.webteam.bu.edu redirect_asis ;
 www-modis.bu.edu redirect ;
 www-modis.bu.edu/brdf redirect ;
 www-modis.bu.edu/lidar redirect ;
+www-staging.bu.edu/summer/courses phpbin-aws ;
 www.660corp.com redirect_asis ;
 www.agganisarena.net redirect_asis ;
 www.agganisarena.org redirect_asis ;
