@@ -33,3 +33,6 @@ static-custom-domain-sitesbuedu static-sites-prod-public.s3-website-us-east-1.am
 
 people-public static-sites-prod-public.s3-website-us-east-1.amazonaws.com ;
 people-public-nocache static-sites-prod-public.s3-website-us-east-1.amazonaws.com ;
+
+phpbin-aws www.bu.edu ;
+
