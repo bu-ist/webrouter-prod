@@ -81,16 +81,8 @@ search.bu.edu search ;
 _/cellphone-compliance     django ;
 _/courseware-manager     django ;
 
+# PHP applications (dbin / phpbin)
 
-# Standalone Sites:
-
-_/buniverse phpbin-aws ;
-_/calendar phpbin-aws ;
-_/nisdev phpbin ;
-
-# dbin:
-
-_/dbin dbin ;
 _/dbin/agni phpbin-aws ;
 _/dbin/archives static-public ;
 _/dbin/bands phpbin-aws ;
@@ -106,12 +98,6 @@ _/dbin/pma phpbin-aws ;
 _/dbin/project-inclusive phpbin-aws ;
 _/dbin/quantumconcepts phpbin-aws ;
 _/dbin/stemcells redirect_asis ;
-
-
-# phpbin:
-
-_/phpbin phpbin ;
-_/wiki phpbin ;
 
 _/phpbin/calendar phpbin-aws ;
 _/phpbin/cashier-admin redirect_asis ;
@@ -138,10 +124,12 @@ _/phpbin/organ-library phpbin-aws ;
 _/phpbin/parking phpbin-aws ;
 _/phpbin/proxy-groups phpbin-aws ;
 _/phpbin/rcr phpbin-aws ;
+_/phpbin/security phpbin ;
 _/phpbin/signup phpbin-aws ;
 _/phpbin/sleep phpbin-aws ;
 _/phpbin/ssw-network phpbin-aws ;
 _/phpbin/static-sites phpbin-aws ;
+_/phpbin/telegraph phpbin ;
 _/phpbin/training phpbin-aws ;
 _/phpbin/webdis phpbin-aws ;
 _/phpbin/wiki phpbin-aws ;
@@ -387,6 +375,7 @@ _/bunano redirect_asis ;
 _/bunextchicago redirect_asis ;
 _/bunextla redirect_asis ;
 _/bunextsf redirect_asis ;
+_/buniverse phpbin-aws ;
 _/burc redirect_asis ;
 _/burppe redirect_asis ;
 _/burst redirect_asis ;
@@ -413,6 +402,7 @@ _/buzzlab redirect_asis ;
 _/caadlab static-public ;
 _/cader/av static-public ;
 _/cagt redirect_asis ;
+_/calendar phpbin-aws ;
 _/cap static-public ;
 _/capdraft redirect_asis ;
 _/cards redirect_asis ;
