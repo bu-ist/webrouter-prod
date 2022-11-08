@@ -1825,10 +1825,13 @@ _/gms/review_form static-public ;
 # bumc.bu.edu
 bumc.bu.edu/publicsafety redirect_asis ;
 
-# sites.bu.edu
+# blogs.bu.edu
 blogs.bu.edu/kmccall redirect_asis ;
 blogs.bu.edu/vschmidt redirect_asis ;
+
+# sites.bu.edu
 sites.bu.edu/akwok redirect ;
+sites.bu.edu/geddesgrants redirect_asis ;
 sites.bu.edu/maasap/lgbt-aging-project static-custom-domain-sitesbuedu-nocache ;
 sites.bu.edu/musicbridge redirect_asis ;
 
