@@ -1830,7 +1830,7 @@ blogs.bu.edu/kmccall redirect_asis ;
 blogs.bu.edu/vschmidt redirect_asis ;
 
 # sites.bu.edu
-sites.bu.edu/agingny/ redirect_asis ;
+sites.bu.edu/agingny redirect_asis ;
 sites.bu.edu/akwok redirect ;
 sites.bu.edu/geddesgrants redirect_asis ;
 sites.bu.edu/maasap/lgbt-aging-project static-custom-domain-sitesbuedu-nocache ;
