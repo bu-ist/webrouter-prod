@@ -3,9 +3,10 @@
   dbin "no-cache, no-store" ;
   legacy "no-cache, no-store" ;
   django "no-cache, no-store" ;
-  static-public-nocache "no-cache, no-store" ;
-  static-custom-domain-sitesbuedu-nocache "no-cache, no-store" ;
-  people-public-nocache "no-cache, no-store" ;
+  static-public "no-cache, no-store" ;
+  static-custom-domain-sitesbuedu "no-cache, no-store" ;
+  static-custom-domain-madlab "no-cache, no-store" ;
+  people-public "no-cache, no-store" ;
 
   # WebLogin does not set a no-cache header on WebLogin-protected
   # content, so cache nothing

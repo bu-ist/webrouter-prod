@@ -19,15 +19,10 @@ aws_home_index http ;
 checkhostheader http ;
 
 static-public http ;
-static-public-nocache http ;
 
 static-custom-domain-madlab http ;
-
 static-custom-domain-sitesbuedu http ;
-static-custom-domain-sitesbuedu-nocache http ;
 
 people-public http ;
-people-public-nocache http ;
-
 
 mainframe-java-8082 http ;
