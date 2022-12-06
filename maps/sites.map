@@ -1364,6 +1364,7 @@ _/supportquestrom redirect_asis ;
 _/supportrotc redirect_asis ;
 _/susilo-symposium-2016 redirect_asis ;
 _/susilo-symposium-2017 redirect_asis ;
+_/sustainability/virtual-tour-ccds static-public ;
 _/symposium redirect_asis ;
 _/synbio redirect_asis ;
 _/synesthesia static-public ;
