@@ -1081,6 +1081,7 @@ _/msphotonics static-public ;
 _/mugarlab redirect_asis ;
 _/multimediapoet redirect_asis ;
 _/mvp redirect_asis ;
+_/mybu static-public ;
 _/mybuphone redirect_asis ;
 _/mybuworks redirect_asis ;
 _/mybuworks-sandbox redirect_asis ;
