@@ -1845,6 +1845,9 @@ sites.bu.edu/reinhartlab redirect_asis ;
 # people.bu.edu
 people.bu.edu people-public ;
 
+# www.framinghamheartstudy.org
+www.framinghamheartstudy.org/training static-custom-domain-framinghamheartstudy-nocache ;
+
 # Sites with .shtml files:
 people.bu.edu/alyasoff people-protected ;
 people.bu.edu/kjacobs people-protected ;
