@@ -26,6 +26,8 @@ static-custom-domain-madlab http ;
 static-custom-domain-sitesbuedu http ;
 static-custom-domain-sitesbuedu-nocache http ;
 
+static-custom-domain-framinghamheartstudy-nocache http ;
+
 people-public http ;
 people-public-nocache http ;
 
