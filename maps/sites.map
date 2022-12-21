@@ -105,6 +105,7 @@ _/dbin/mlkjr phpbin-aws ;
 _/dbin/pma phpbin-aws ;
 _/dbin/project-inclusive phpbin-aws ;
 _/dbin/quantumconcepts phpbin-aws ;
+_/dbin/research-demographic-data phpbin-aws ;
 _/dbin/stemcells redirect_asis ;
 
 
