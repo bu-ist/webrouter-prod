@@ -111,9 +111,6 @@ _/dbin/stemcells redirect_asis ;
 
 # phpbin:
 
-_/phpbin phpbin ;
-_/wiki phpbin ;
-
 _/phpbin/calendar phpbin-aws ;
 _/phpbin/cashier-admin redirect_asis ;
 _/phpbin/cecredential phpbin-aws ;
@@ -130,6 +127,7 @@ _/phpbin/faculty-applicants phpbin-aws ;
 _/phpbin/gravity-redirect phpbin-aws ;
 _/phpbin/hilleldining phpbin-aws ;
 _/phpbin/ijahs phpbin-aws ;
+_/phpbin/lib phpbin ;
 _/phpbin/lawyearbooks phpbin-aws ;
 _/phpbin/marconi phpbin-aws ;
 _/phpbin/meal-donation phpbin-aws ;
@@ -138,10 +136,12 @@ _/phpbin/organ-library phpbin-aws ;
 _/phpbin/parking phpbin-aws ;
 _/phpbin/proxy-groups phpbin-aws ;
 _/phpbin/rcr phpbin-aws ;
+_/phpbin/security phpbin ;
 _/phpbin/signup phpbin-aws ;
 _/phpbin/sleep phpbin-aws ;
 _/phpbin/ssw-network phpbin-aws ;
 _/phpbin/static-sites phpbin-aws ;
+_/phpbin/telegraph phpbin ;
 _/phpbin/training phpbin-aws ;
 _/phpbin/webdis phpbin-aws ;
 _/phpbin/wiki phpbin-aws ;
