@@ -1300,6 +1300,7 @@ _/shongchallenge redirect_asis ;
 _/shsmobile redirect_asis ;
 _/simulation static-public ;
 _/sisrenewal redirect_asis ;
+_/siteimprove redirect_asis ;
 _/sites redirect_asis ;
 _/sjmag static-public ;
 _/slatkin redirect_asis ;
