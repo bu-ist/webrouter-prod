@@ -86,7 +86,6 @@ _/courseware-manager     django ;
 
 _/buniverse phpbin-aws ;
 _/calendar phpbin-aws ;
-_/nisdev phpbin ;
 
 # dbin:
 
@@ -110,9 +109,6 @@ _/dbin/stemcells redirect_asis ;
 
 
 # phpbin:
-
-_/phpbin phpbin ;
-_/wiki phpbin ;
 
 _/phpbin/calendar phpbin-aws ;
 _/phpbin/cashier-admin redirect_asis ;
@@ -142,6 +138,7 @@ _/phpbin/signup phpbin-aws ;
 _/phpbin/sleep phpbin-aws ;
 _/phpbin/ssw-network phpbin-aws ;
 _/phpbin/static-sites phpbin-aws ;
+_/phpbin/telegraph phpbin-legacy ;
 _/phpbin/training phpbin-aws ;
 _/phpbin/webdis phpbin-aws ;
 _/phpbin/wiki phpbin-aws ;
