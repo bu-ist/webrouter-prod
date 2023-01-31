@@ -655,6 +655,7 @@ _/extended static-public ;
 _/ezproxy redirect_asis ;
 _/facial-rejuvenation redirect_asis ;
 _/facilities/webcams static-public ;
+_/factbook redirect_asis ;
 _/faculty redirect_asis ;
 _/faculty/ear redirect_asis ;
 _/facultycouncil redirect_asis ;
