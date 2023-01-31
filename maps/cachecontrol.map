@@ -8,10 +8,6 @@
   static-custom-domain-framinghamheartstudy-nocache "no-cache, no-store" ;
   people-public-nocache "no-cache, no-store" ;
 
-  # WebLogin does not set a no-cache header on WebLogin-protected
-  # content, so cache nothing
-  wpassets "no-cache, no-store" ;
-
   apps-rewrite "no-cache, no-store" ;
   
   # set specific max-age for the home page
