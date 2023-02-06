@@ -1030,7 +1030,6 @@ _/messiaen redirect_asis ;
 _/met/acela static-public ;
 _/met/advertising static-public ;
 _/met/agganis static-protected ;
-_/met/apply static-public ;
 _/met/bestofboston static-public ;
 _/met/common static-public ;
 _/met/email-campaign static-public ;
