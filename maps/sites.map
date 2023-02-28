@@ -846,7 +846,7 @@ _/hubiejonesrsvp redirect_asis ;
 _/humanitiesforums redirect_asis ;
 _/hydrology redirect_asis ;
 _/ice redirect_asis ;
-_/ict static-public ;
+_/ict redirect_asis ;
 _/id redirect_asis ;
 _/igsw static-public ;
 _/igsw-register redirect_asis ;
