@@ -1348,6 +1348,7 @@ _/strategic-plan-taskforce redirect_asis ;
 _/strategicreport static-protected ;
 _/streambu redirect_asis ;
 _/student redirect_asis ;
+_/students redirect_asis ;
 _/student-health-services redirect_asis ;
 _/studentgiving redirect_asis ;
 _/study redirect_asis ;
