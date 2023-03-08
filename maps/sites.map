@@ -1839,6 +1839,7 @@ www.bumc.bu.edu/gms/review_form static-public ;
 _/gms/review_form static-public ;
 
 # bumc.bu.edu
+bumc.bu.edu/mri redirect_asis ;
 bumc.bu.edu/publicsafety redirect_asis ;
 
 # blogs.bu.edu
