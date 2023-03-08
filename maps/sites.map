@@ -1429,6 +1429,7 @@ _/union redirect_asis ;
 _/univcomp redirect_asis ;
 _/univcomputer redirect_asis ;
 _/universe redirect_asis ;
+_/update redirect_asis ;
 _/ur redirect_asis ;
 _/urc redirect_asis ;
 _/vending/documents static-public ;
