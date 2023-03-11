@@ -622,7 +622,7 @@ _/mygift https://trusted.bu.edu/s/1759/2-bu/index.aspx?sid=1759&gid=2&pgid=489&c
 _/mygradhousing https://bu.starrezhousing.com/StarRezPortalXGrad/ ;
 _/myhousing https://bu.starrezhousing.com/StarRezPortalX/ ;
 _/myopathy http://www.bumc.bu.edu/myopathy/ ;
-_/mypinnaclelogin https://app.calero.com/bu/AUTH?client_id=PINN_BUP ;
+_/mypinnaclelogin https://pinnacle.calero.com/bu/AUTH?client_id=PINN_BUP ;
 _/myprint https://myprintweb.bu.edu/ ;
 _/navyrotc http://www.bu.edu/rotc/navy/ ;
 _/newyear https://www.bu.edu/alumni-forms/forms/giving/online/index/ ;
