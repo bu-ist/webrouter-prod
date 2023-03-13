@@ -1852,7 +1852,7 @@ sites.bu.edu/agingny redirect_asis ;
 sites.bu.edu/akwok redirect ;
 sites.bu.edu/geddesgrants redirect_asis ;
 sites.bu.edu/hothouse redirect_asis ;
-sites.bu.edu/maasap/lgbt-aging-project static-custom-domain-sitesbuedu-nocache ;
+sites.bu.edu/maasap redirect_asis ;
 sites.bu.edu/musicbridge redirect_asis ;
 sites.bu.edu/reinhartlab redirect_asis ;
 sites.bu.edu/shield-drive redirect_asis ;
