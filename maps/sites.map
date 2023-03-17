@@ -355,6 +355,7 @@ _/bravi/archive static-public ;
 _/bridge static-public ;
 _/brink/wpassets static-public-nocache ;
 _/brownstone static-public ;
+_/browntribute redirect_asis ;
 _/bsl static-public ;
 _/btm redirect_asis ;
 _/btou redirect_asis ;
