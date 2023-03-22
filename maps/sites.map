@@ -1859,6 +1859,7 @@ sites.bu.edu/maasap redirect_asis ;
 sites.bu.edu/musicbridge redirect_asis ;
 sites.bu.edu/reinhartlab redirect_asis ;
 sites.bu.edu/shield-drive redirect_asis ;
+sites.bu.edu/signlab redirect_asis ;
 
 # people.bu.edu
 people.bu.edu people-public ;
