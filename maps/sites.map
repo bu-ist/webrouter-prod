@@ -552,6 +552,7 @@ _/crew redirect_asis ;
 _/crtimes static-public ;
 _/cruiseandlearn redirect_asis ;
 _/crumpler redirect_asis ;
+_/cscd redirect_asis ;
 _/csp/Conferences static-public ;
 _/csp/MUAN static-protected ;
 _/csp/PASS static-protected ;
