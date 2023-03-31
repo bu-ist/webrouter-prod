@@ -1141,6 +1141,7 @@ _/openaccess redirect_asis ;
 _/opendoors redirect_asis;
 _/opg redirect_asis ;
 _/orcid redirect_asis ;
+_/orientation redirect_asis ;
 _/orientation2021 redirect_asis ;
 _/orl static-public ;
 _/orpm redirect_asis ;
