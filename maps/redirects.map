@@ -156,7 +156,7 @@ _/butheatre http://bostonu.imodules.com/s/1759/2-bu/giving/landing.aspx?sid=1759
 _/buwc https://www.bu.edu/womensguild/ ;
 _/buwg https://www.bu.edu/womensguild/ ;
 _/buwind https://www.bu.edu/sustainability/projects/bu-wind/ ;
-_/buworkscentral https://www.bu.edu/tech/2023/04/06/planned-buworks-outage-april-9th/ ;
+_/buworkscentral https://ppo.buw.bu.edu/ ;
 _/buworksforum https://www.bu.edu/buworks/training/forum-retired/ ;
 _/buzzlab http://questromworld.bu.edu/entrepreneurship/buzzlab/welcome/ ;
 _/cagt http://cagt.bu.edu/ ;
@@ -616,7 +616,7 @@ _/mugarlab http://www.bu.edu/tech/desktop/labs/mugar/ ;
 _/multimediapoet http://www.bu.edu/com/ft/multimediapoet/ ;
 _/mvp http://www.ihoptimize.org ;
 _/mybuphone https://mybuphone.bu.edu/ucmuser/ ;
-_/mybuworks https://www.bu.edu/tech/2023/04/06/planned-buworks-outage-april-9th/ ;
+_/mybuworks https://pgw.buw.bu.edu/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html/ ;
 _/mybuworks-sandbox https://sgw.buw.bu.edu/ ;
 _/mycv https://www.bu.edu/provost/faculty-affairs/my-cv/ ;
 _/myfinancialaid https://www.bu.edu/link/bin/uiscgi_studentlink.pl/1622734999?applpath=fin_aid_awards_summary.pl&YearPart=2022A&GoLoc=fin_aid_questions.pl ;
