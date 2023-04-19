@@ -696,6 +696,7 @@ _/fy101 redirect_asis ;
 _/fy102 redirect_asis ;
 _/fy103 redirect_asis ;
 _/fye redirect_asis ;
+_/fys redirect_asis ;
 _/fysopstyle redirect_asis ;
 _/galacticring static-public ;
 _/gastronomy redirect_asis ;
