@@ -1793,7 +1793,7 @@ webmail.bu.edu redirect_asis ;
 wiki-test.bu.edu www-rewrite-wiki ;
 wiki.bu.edu www-rewrite-wiki ;
 worcestermsw.bu.edu redirect_asis ;
-wp-deploy.app-prd.aws-cloud.bu.edu wp-deploy ;
+wp-deploy.webrouter-prd.aws-cloud.bu.edu wp-deploy ;
 www-modis.bu.edu redirect ;
 www-modis.bu.edu/brdf redirect ;
 www-modis.bu.edu/lidar redirect ;
