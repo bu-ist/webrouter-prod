@@ -16,3 +16,4 @@
   mainframe-java-8082 "no-cache, no-store" ;
 
   search "no-cache, no-store" ;
+  wp-deploy "no-cache, no-store" ;
