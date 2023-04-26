@@ -1050,7 +1050,6 @@ _/met/htmlemail static-public ;
 _/met/landing-pages static-protected ;
 _/met/linkedin static-public ;
 _/met/mag static-public ;
-_/met/magazine static-protected ;
 _/met/msmonline static-public ;
 _/met/northcampus static-public ;
 _/met/output static-protected ;
