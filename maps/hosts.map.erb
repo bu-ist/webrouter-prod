@@ -46,13 +46,11 @@ people-protected ist-web-static-sites-prod.bu.edu/_domains/people.bu.edu ;
 wpassets <%= ENV['BACKEND_WP_CONTENT'] || "ist-wp-app-#{ENV['LANDSCAPE']}.bu.edu" %> ;
 wordpress <%= ENV['BACKEND_WP_APP'] || "ist-wp-app-#{ENV['LANDSCAPE']}.bu.edu" %> ;
 
+
 # # # # # # # # # # # # # # # # # # # #
 #  PHP
 # # # # # # # # # # # # # # # # # # # #
 
-dbin <%= ENV['BACKEND_DBIN'] || "ist-web-dbin-#{ENV['LANDSCAPE']}.bu.edu" %> ;
-
-phpbin-legacy <%= ENV['BACKEND_PHPBIN'] || "ist-web-phpbin-#{ENV['LANDSCAPE']}.bu.edu" %> ;
 phpbin-aws ist-web-phpbin-aws-prod.bu.edu ;
 
 # Custom Domain for wiki.bu.edu:
