@@ -815,7 +815,7 @@ _/healthmatters redirect_asis ;
 _/healthmba redirect_asis ;
 _/healthway redirect_asis ;
 _/hello-restricted static-protected ;
-_/help www-rewrite-tech-help-forms ;
+_/help phpbin-legacy ;
 _/help/tech-status static-protected ;
 _/help/wordpress redirect_asis ;
 _/helpinfo redirect_asis ;
