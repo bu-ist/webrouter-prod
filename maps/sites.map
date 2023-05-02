@@ -89,6 +89,7 @@ _/calendar phpbin-aws ;
 
 # dbin:
 
+_/dbin dbin ;
 _/dbin/agni phpbin-aws ;
 _/dbin/archives static-public ;
 _/dbin/bands phpbin-aws ;
@@ -137,6 +138,7 @@ _/phpbin/signup phpbin-aws ;
 _/phpbin/sleep phpbin-aws ;
 _/phpbin/ssw-network phpbin-aws ;
 _/phpbin/static-sites phpbin-aws ;
+_/phpbin/telegraph phpbin-legacy ;
 _/phpbin/training phpbin-aws ;
 _/phpbin/webdis phpbin-aws ;
 _/phpbin/wiki phpbin-aws ;
