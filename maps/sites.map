@@ -817,6 +817,7 @@ _/healthway redirect_asis ;
 _/hello-restricted static-protected ;
 _/help phpbin-legacy ;
 _/help/buworks redirect_asis ;
+_/help/desktop redirect_asis ;
 _/help/tech-status static-protected ;
 _/help/web redirect_asis ;
 _/help/wordpress redirect_asis ;
