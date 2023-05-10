@@ -426,6 +426,7 @@ _/healthmatters http://healthmatters.bu.edu/ ;
 _/healthmba http://management.bu.edu/pemba/?utm_source=longwood%20buses&utm_medium=kong%20exterior%20poster&utm_content=jan%2028%20%2B%20mar%203&utm_campaign=pemba%202015 ;
 _/healthway https://www.bu.edu/covid/ ;
 _/help/buworks https://bu.service-now.com/sp/?id=sc_cat_item&sys_id=824ff8fa87909910cdf2ff78cebb35e0&sysparm_category=e15706fc0a0a0aa7007fc21e1ab70c2f ;
+_/help/desktop https://bu.service-now.com/sp?id=sc_cat_item&sys_id=824ff8fa87909910cdf2ff78cebb35e0&sysparm_category=e15706fc0a0a0aa7007fc21e1ab70c2f ;
 _/help/web https://www.bu.edu/phpbin/static-sites/manage/ ;
 _/help/wordpress https://bu.service-now.com/sp/?id=sc_category&sys_id=9498a5951b226490b068ed70604bcb64&catalog_id=-1 ;
 _/helpinfo http://www.bu.edu/shs/behavioral-medicine/ ;
