@@ -1783,7 +1783,7 @@ today.bu.edu redirect_asis ;
 ultra.bu.edu redirect ;
 web.wheelock.edu redirect_asis ;
 webmail.bu.edu redirect_asis ;
-wiki-test.bu.edu www-rewrite-wiki ;
+wiki-test.bu.edu www-rewrite-wiki-test ;
 wiki.bu.edu www-rewrite-wiki ;
 worcestermsw.bu.edu redirect_asis ;
 www-modis.bu.edu redirect ;
