@@ -970,7 +970,7 @@ _/liveon static-public ;
 _/login redirect_asis ;
 _/logout redirect_asis ;
 _/loyalty redirect_asis ;
-_/loyalty24 redirect_asis;
+_/loyalty24 redirect_asis ;
 _/loyaltysociety redirect_asis ;
 _/lu-lingzi-fund redirect_asis ;
 _/lungs static-public ;
