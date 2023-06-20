@@ -1792,6 +1792,7 @@ web.wheelock.edu redirect_asis ;
 webmail.bu.edu redirect_asis ;
 wiki-test.bu.edu www-rewrite-wiki-test ;
 wiki.bu.edu www-rewrite-wiki ;
+wisecircuits.bu.edu redirect ;
 worcestermsw.bu.edu redirect_asis ;
 www-modis.bu.edu redirect ;
 www-modis.bu.edu/brdf redirect ;
