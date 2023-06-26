@@ -575,6 +575,7 @@ _/dbin-cupidcubesat-data static-public ;
 _/dbin-dance static-public ;
 _/dct redirect_asis ;
 _/degreecomplete redirect_asis ;
+_/degreeinfo redirect_asis ;
 _/dental/lobbyscreen static-public ;
 _/dental/nerb-mcmanama static-public ;
 _/dentalassisting redirect_asis ;
