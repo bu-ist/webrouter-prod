@@ -567,7 +567,7 @@ _/culinaryarts redirect_asis ;
 _/cwc redirect_asis ;
 _/danrather redirect_asis ;
 _/data static-public ;
-_/data-sciences-center static-public ;
+_/data-sciences-center redirect_asis ;
 _/dayofservice redirect_asis ;
 _/daysofservice redirect_asis ;
 _/dbin-cnsb-assets static-public ;
