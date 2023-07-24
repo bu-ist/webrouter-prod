@@ -1375,6 +1375,7 @@ _/summerfun redirect_asis ;
 _/summerterm redirect_asis ;
 _/supplier redirect_asis ;
 _/suppliers redirect_asis ;
+_/support24 redirect_asis ;
 _/supportanatomylab redirect_asis ;
 _/supportaphasiacenter redirect_asis ;
 _/supportbu redirect_asis ;
