@@ -1403,6 +1403,7 @@ _/tcs static-public ;
 _/tech/av static-protected ;
 _/tech/plan2015 static-public ;
 _/tech/slp static-public ;
+_/tech/tickets redirect_asis ;
 _/tech/wp-assets static-protected ;
 _/techconnect redirect_asis ;
 _/techweb redirect_asis ;
