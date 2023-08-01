@@ -795,6 +795,7 @@ _/googlesites/admin redirect_asis ;
 _/googlesites/create redirect_asis ;
 _/goterriers redirect_asis ;
 _/govcenter redirect_asis ;
+_/gpr redirect_asis ;
 _/gpto redirect_asis ;
 _/gpts/wp-assets static-public ;
 _/grad/phd-profiles static-public ;
