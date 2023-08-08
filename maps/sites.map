@@ -765,6 +765,7 @@ _/givingtuesday redirect_asis ;
 _/gk12 static-public ;
 _/glacier static-public ;
 _/global-crisis redirect_asis ;
+_/global-parents-network redirect_asis ;
 _/globaldayofservice redirect_asis ;
 _/globaldaysofservice redirect_asis ;
 _/globalexec redirect_asis ;
