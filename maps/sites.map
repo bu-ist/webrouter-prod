@@ -631,6 +631,7 @@ _/emd redirect_asis ;
 _/emergingmedia redirect_asis ;
 _/emermgmt static-public ;
 _/emf redirect_asis ;
+_/eng/app phpbin-aws ;
 _/eng/rankings static-public ;
 _/entrepreneurship redirect_asis ;
 _/environment redirect_asis ;
