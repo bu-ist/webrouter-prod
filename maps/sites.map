@@ -1863,7 +1863,7 @@ blogs.bu.edu/vschmidt redirect_asis ;
 # sites.bu.edu
 sites.bu.edu/agingny redirect_asis ;
 sites.bu.edu/akwok redirect ;
-sites.bu.edu/autismsa/training static-public ;
+sites.bu.edu/autismsa/training static-custom-domain-sitesbuedu-nocache ;
 sites.bu.edu/geddesgrants redirect_asis ;
 sites.bu.edu/hothouse redirect_asis ;
 sites.bu.edu/maasap redirect_asis ;
