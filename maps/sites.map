@@ -1206,7 +1206,6 @@ _/pm redirect_asis ;
 _/pocketmba redirect_asis ;
 _/postdocs redirect_asis ;
 _/premed redirect_asis ;
-_/preservation redirect_asis ;
 _/presidentsearch redirect_asis ;
 _/preview aws_home ;
 _/printcenter redirect_asis ;
