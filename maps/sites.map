@@ -1298,6 +1298,7 @@ _/rpm/panos static-public ;
 _/rural-ancillary-portal redirect_asis ;
 _/saa redirect_asis ;
 _/sac redirect_asis ;
+_/safe redirect_asis ;
 _/safety/stand-up static-public ;
 _/sail redirect_asis ;
 _/sao redirect_asis ;
