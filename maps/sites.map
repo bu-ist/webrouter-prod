@@ -1256,6 +1256,7 @@ _/questromeval redirect_asis ;
 _/quickpolls redirect_asis ;
 _/raceto50 redirect_asis ;
 _/raisethebar redirect_asis ;
+_/rastic redirect_asis ;
 _/rayleigh redirect_asis ;
 _/rctfund redirect_asis ;
 _/recentgrads redirect_asis ;
