@@ -1212,6 +1212,7 @@ _/phylogeny static-protected ;
 _/pin redirect_asis ;
 _/pipgiving redirect_asis ;
 _/plan2015 static-protected ;
+_/plan2030 redirect_asis ;
 _/plannedgiving redirect_asis ;
 _/platform redirect_asis ;
 _/pledges redirect_asis ;
