@@ -642,6 +642,8 @@ _/msmsinfo http://www.bu.edu/msms-ad/?utm_source=BU%20campus&utm_campaign=msms&u
 _/mugarlab http://www.bu.edu/tech/desktop/labs/mugar/ ;
 _/multimediapoet http://www.bu.edu/com/ft/multimediapoet/ ;
 _/mvp http://www.ihoptimize.org ;
+_/mybuaccount https://iam-identity.bu.edu/identityiq/external/registration.jsf#/register ;
+_/mybuidentity https://iam-identity.bu.edu/identityiq/home.jsf ;
 _/mybuphone https://mybuphone.bu.edu/ucmuser/ ;
 _/mybuworks https://pgw.buw.bu.edu/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html ;
 _/mybuworks-sandbox https://sgw.buw.bu.edu/ ;
