@@ -1112,6 +1112,8 @@ _/mugarlab redirect_asis ;
 _/multimediapoet redirect_asis ;
 _/mvp redirect_asis ;
 _/mybu static-public ;
+_/mybuaccount redirect_asis ;
+_/mybuidentity redirect_asis ;
 _/mybuphone redirect_asis ;
 _/mybuworks redirect_asis ;
 _/mybuworks-sandbox redirect_asis ;
