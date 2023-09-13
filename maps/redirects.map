@@ -642,6 +642,7 @@ _/msmsinfo http://www.bu.edu/msms-ad/?utm_source=BU%20campus&utm_campaign=msms&u
 _/mugarlab http://www.bu.edu/tech/desktop/labs/mugar/ ;
 _/multimediapoet http://www.bu.edu/com/ft/multimediapoet/ ;
 _/mvp http://www.ihoptimize.org ;
+_/myaccount https://iam-identity.bu.edu/identityiq/external/registration.jsf#/register ;
 _/mybuaccount https://iam-identity.bu.edu/identityiq/external/registration.jsf#/register ;
 _/mybuidentity https://iam-identity.bu.edu/identityiq/home.jsf ;
 _/mybuphone https://mybuphone.bu.edu/ucmuser/ ;
@@ -652,6 +653,7 @@ _/myfinancialaid https://www.bu.edu/link/bin/uiscgi_studentlink.pl/1622734999?ap
 _/mygift https://trusted.bu.edu/s/1759/2-bu/index.aspx?sid=1759&gid=2&pgid=489&cid=1157&appealcode=WEBAGC-MG ;
 _/mygradhousing https://bu.starrezhousing.com/StarRezPortalXGrad/ ;
 _/myhousing https://bu.starrezhousing.com/StarRezPortalX/ ;
+_/myidentity https://iam-identity.bu.edu/identityiq/home.jsf ;
 _/myopathy http://www.bumc.bu.edu/myopathy/ ;
 _/mypinnaclelogin https://pinnacle.calero.com/bu/AUTH?client_id=PINN_BUP ;
 _/myprint https://myprintweb.bu.edu/ ;
