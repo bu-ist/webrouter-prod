@@ -113,7 +113,7 @@ _/dbin/stemcells redirect_asis ;
 _/phpbin/calendar phpbin-aws ;
 _/phpbin/cashier-admin redirect_asis ;
 _/phpbin/cecredential phpbin-aws ;
-_/phpbin/change-entry phpbin-aws ;
+_/phpbin/change-entry redirect_asis ;
 _/phpbin/course-search phpbin-aws ;
 _/phpbin/courses phpbin-aws ;
 _/phpbin/courseware phpbin-aws ;
