@@ -1120,6 +1120,7 @@ _/myaccount redirect_asis ;
 _/mybuaccount redirect_asis ;
 _/mybuidentity redirect_asis ;
 _/mybuphone redirect_asis ;
+_/mybustudent redirect_asis ;
 _/mybuworks redirect_asis ;
 _/mybuworks-sandbox redirect_asis ;
 _/mycv redirect_asis ;
