@@ -1486,7 +1486,6 @@ _/totenbergchallenge redirect_asis ;
 _/track redirect_asis ;
 _/training redirect_asis ;
 _/transfer redirect_asis ;
-_/transportation redirect_asis ;
 _/travel redirect_asis ;
 _/travelregistry redirect_asis ;
 _/trustees-intranet/install static-public ;
