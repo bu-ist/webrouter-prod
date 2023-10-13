@@ -918,7 +918,7 @@ _/isec redirect_asis ;
 _/isgc redirect_asis ;
 _/isps redirect_asis ;
 _/isso/av static-public ;
-_/isso/wp-assets static-protected ;
+_/isso/wp-assets static-public ;
 _/ist static-protected ;
 _/ist-automation/webdis redirect_asis ;
 _/istnews redirect_asis ;
