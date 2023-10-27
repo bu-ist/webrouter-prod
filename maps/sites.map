@@ -1356,7 +1356,6 @@ _/search redirect_asis ;
 _/search/coursedescriptions redirect_asis ;
 _/secret redirect_asis ;
 _/seniors redirect_asis ;
-_/senlab static-public ;
 _/seo/wp-assets static-public ;
 _/sep redirect_asis ;
 _/service-now redirect_asis ;
