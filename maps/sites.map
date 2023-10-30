@@ -819,7 +819,6 @@ _/googlec7df21def707f08f.html static-public ;
 _/googlehostedservice.html static-public ;
 _/googlesites redirect_asis ;
 _/googlesites/admin redirect_asis ;
-_/googlesites/create redirect_asis ;
 _/goterriers redirect_asis ;
 _/govcenter redirect_asis ;
 _/gpr redirect_asis ;
