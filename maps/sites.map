@@ -592,6 +592,8 @@ _/dbin-cnsb-assets static-public ;
 _/dbin-cupidcubesat-data static-public ;
 _/dbin-dance static-public ;
 _/dct redirect_asis ;
+/_dec2023 redirect_asis ;
+/_dec23 redirect_asis ;
 _/degreecomplete redirect_asis ;
 _/degreeinfo redirect_asis ;
 _/dental/give redirect_asis ;
