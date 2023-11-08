@@ -1906,10 +1906,9 @@ www.todaysbaby.org redirect ;
 www.urbanarch.org redirect ;
 www.wheelock.edu redirect_asis ;
 
-# Custom Domain Microsites
-# This is NOT SUPPORTED until on-campus webrouter is decommissioned
+# www.bumc.bu.edu
 www.bumc.bu.edu/gms/review_form static-public ;
-_/gms/review_form static-public ;
+www.bumc.bu.edu/parking redirect ;
 
 # bumc.bu.edu
 bumc.bu.edu/mri redirect_asis ;
