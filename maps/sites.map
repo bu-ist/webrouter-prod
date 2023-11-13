@@ -1838,6 +1838,8 @@ neidl-sp.bumc.bu.edu redirect_asis ;
 nislab.bu.edu redirect ;
 online.bu.edu redirect ;
 onlinetaxllm.bu.edu redirect_asis ;
+passwordreg.bu.edu redirect_asis ;
+passwordreset.bu.edu redirect_asis ;
 pep.bu.edu redirect_asis ;
 pionline.bu.edu redirect ;
 platforms.bu.edu redirect_asis ;
