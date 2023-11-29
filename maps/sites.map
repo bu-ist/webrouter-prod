@@ -1916,8 +1916,6 @@ www.bumc.bu.edu/parking redirect ;
 # bumc.bu.edu
 bumc.bu.edu/mri redirect_asis ;
 bumc.bu.edu/publicsafety redirect_asis ;
-bumc.bu.edu/busm-pm redirect_asis ;
-bumc.bu.edu/phys-biophys redirect_asis ;
 
 # blogs.bu.edu
 blogs.bu.edu/buasm redirect_asis ;
