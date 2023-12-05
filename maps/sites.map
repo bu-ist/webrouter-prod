@@ -1326,6 +1326,7 @@ _/robots.txt static-public ;
 _/rosenbergarchive redirect_asis ;
 _/roybal redirect_asis ;
 _/rpm/panos static-public ;
+_/rsvp redirect ;
 _/rural-ancillary-portal redirect_asis ;
 _/saa redirect_asis ;
 _/sac redirect_asis ;
