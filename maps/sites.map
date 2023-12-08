@@ -217,7 +217,7 @@ _/apply redirect_asis ;
 _/apply/financial-aid redirect_asis ;
 _/apply/graduate redirect_asis ;
 _/appspace redirect_asis ;
-_/ar redirect_asis ;
+_/ar static-public-nocache ;
 _/arche static-public ;
 _/archives redirect_asis ;
 _/arlington redirect_asis ;
