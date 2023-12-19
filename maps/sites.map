@@ -1932,6 +1932,7 @@ sites.bu.edu/autismsa/training static-custom-domain-sitesbuedu-nocache ;
 sites.bu.edu/collegeharmsfromothersdrinking redirect_asis ;
 sites.bu.edu/geddesgrants redirect_asis ;
 sites.bu.edu/hothouse redirect_asis ;
+sites.bu.edu/kraskerfilm redirect_asis ;
 sites.bu.edu/maasap redirect_asis ;
 sites.bu.edu/musicbridge redirect_asis ;
 sites.bu.edu/reinhartlab redirect_asis ;
