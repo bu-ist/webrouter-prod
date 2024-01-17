@@ -30,3 +30,5 @@ people-public-nocache http ;
 
 
 mainframe-java-8082 http ;
+
+phpbin-nextjs http ;
