@@ -1642,6 +1642,7 @@ fitrec.bu.edu redirect ;
 forms.wheelock.edu redirect_asis ;
 fraunhofer.bu.edu redirect ;
 genchem.bu.edu redirect ;
+genji.bu.edu phpbin-nextjs ;
 geography.bu.edu redirect_asis ;
 go.bu.edu redirect_asis ;
 go.bu.edu/BASAlarm redirect_asis ;
