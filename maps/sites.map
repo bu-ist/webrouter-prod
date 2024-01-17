@@ -1816,7 +1816,7 @@ go.bu.edu/wba redirect_asis ;
 go.bu.edu/wft redirect_asis ;
 go.bu.edu/women2014 redirect_asis ;
 healthcommunication.bu.edu redirect_asis ;
-healthliteracy.bu.edu redirect ;
+healthliteracy.bu.edu redirect_asis ;
 hyness.bu.edu redirect ;
 iasi.bu.edu redirect_asis ;
 icshm.bu.edu redirect_asis ;
