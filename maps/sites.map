@@ -1934,6 +1934,7 @@ sites.bu.edu/agingny redirect_asis ;
 sites.bu.edu/akwok redirect ;
 sites.bu.edu/autismsa/training static-custom-domain-sitesbuedu-nocache ;
 sites.bu.edu/collegeharmsfromothersdrinking redirect_asis ;
+sites.bu.edu/earlcenter redirect_asis ;
 sites.bu.edu/geddesgrants redirect_asis ;
 sites.bu.edu/hothouse redirect_asis ;
 sites.bu.edu/hyness redirect_asis ;
