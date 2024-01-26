@@ -1429,6 +1429,7 @@ _/studyspace redirect_asis ;
 _/summer/admin phpbin-aws ;
 _/summer/courses phpbin-aws ;
 _/summerfun redirect_asis ;
+_/summerinternhousing redirect_asis ;
 _/summerterm redirect_asis ;
 _/supplier redirect_asis ;
 _/suppliers redirect_asis ;
