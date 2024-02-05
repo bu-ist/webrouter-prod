@@ -427,6 +427,7 @@ _/caadlab static-public ;
 _/cader/av static-public ;
 _/cagt redirect_asis ;
 _/camed24 redirect_asis ;
+_/camed24student redirect_asis ;
 _/camedfall24 redirect_asis ;
 _/camedgive redirect_asis ;
 _/camedgifts redirect_asis ;
