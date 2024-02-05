@@ -1288,7 +1288,7 @@ _/questrom-phd redirect_asis ;
 _/questrom/its-docs static-protected ;
 _/questrom/secure static-protected ;
 _/questrom24 redirect_asis ;
-_/questrom24student ;
+_/questrom24student redirect_asis ;
 _/questromgifts redirect_asis ;
 _/questromcareerlink redirect_asis ;
 _/questromeval redirect_asis ;
