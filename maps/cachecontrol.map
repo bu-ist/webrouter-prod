@@ -3,8 +3,8 @@
   legacy "no-cache, no-store" ;
   django "no-cache, no-store" ;
   static-public-nocache "no-cache, no-store" ;
-  static-custom-domain-sitesbuedu-nocache "no-cache, no-store" ;
-  static-custom-domain-framinghamheartstudy-nocache "no-cache, no-store" ;
+  static-domain-sitesbuedu "no-cache, no-store" ;
+  static-domain-framinghamheartstudy "no-cache, no-store" ;
   people-public-nocache "no-cache, no-store" ;
 
   apps-rewrite "no-cache, no-store" ;

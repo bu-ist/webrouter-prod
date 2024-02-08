@@ -13,7 +13,6 @@
 
 # Home Page backends
 aws_home http ;
-aws_home_index http ;
 
 # This test entry is to a fixed value to simplify the test scripts
 checkhostheader http ;
@@ -21,9 +20,9 @@ checkhostheader http ;
 static-public http ;
 static-public-nocache http ;
 
-static-custom-domain-madlab http ;
-static-custom-domain-sitesbuedu-nocache http ;
-static-custom-domain-framinghamheartstudy-nocache http ;
+static-domain-madlab http ;
+static-domain-sitesbuedu http ;
+static-domain-framinghamheartstudy http ;
 
 people-public http ;
 people-public-nocache http ;
