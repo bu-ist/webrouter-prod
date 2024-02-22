@@ -1931,6 +1931,7 @@ www.urbanarch.org redirect ;
 www.wheelock.edu redirect_asis ;
 
 # www.bumc.bu.edu
+www.bumc.bu.edu/cellular-imaging redirect_asis ;
 www.bumc.bu.edu/gms/review_form static-public ;
 www.bumc.bu.edu/parking redirect ;
 
