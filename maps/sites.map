@@ -1225,6 +1225,7 @@ _/parents redirect_asis ;
 _/parentsupport redirect_asis ;
 _/parentsweekend redirect_asis ;
 _/parfund redirect_asis ;
+_/paris redirect_asis ;
 _/parking redirect ;
 _/parking/dbtemplates static-public ;
 _/parkstreet redirect_asis ;
