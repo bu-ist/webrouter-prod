@@ -171,6 +171,7 @@ _/addiction redirect_asis ;
 _/adlab redirect_asis ;
 _/admissions wordpress ;
 _/admissions/applicantlink static-public ;
+_/admissions/presenter static-protected ;
 _/admissions/telegraph static-public ;
 _/admissionsstatic static-public ;
 _/aeacus static-public ;
