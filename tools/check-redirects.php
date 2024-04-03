@@ -114,18 +114,18 @@ foreach( $redirects as $key => $url ) {
 
 function replace_redirect( $key, $target ) {
 	$contents = file_get_contents( dirname(__DIR__) . '/maps/redirects.map' );
-	$contents = preg_replace( '~^' . preg_quote( $key, '~' ) . '.*$~m', $key . ' ' . $target . ' ;', $contents );
+	$contents = preg_replace( '~^' . preg_quote( $key, '~' ) . ' .*$~m', $key . ' ' . $target . ' ;', $contents );
 	file_put_contents( dirname(__DIR__) . '/maps/redirects.map', $contents );
 }
 
 
 function remove_redirect( $key ) {
 	$contents = file_get_contents( dirname(__DIR__) . '/maps/redirects.map' );
-	$contents = preg_replace( '~^' . preg_quote( $key, '~' ) . '.*?$.~sm', '', $contents );
+	$contents = preg_replace( '~^' . preg_quote( $key, '~' ) . ' .*?$.~sm', '', $contents );
 	file_put_contents( dirname(__DIR__) . '/maps/redirects.map', $contents );
 
 	$contents = file_get_contents( dirname(__DIR__) . '/maps/sites.map' );
-	$contents = preg_replace( '~^' . preg_quote( $key, '~' ) . '.*?$.~sm', '', $contents );
+	$contents = preg_replace( '~^' . preg_quote( $key, '~' ) . ' .*?$.~sm', '', $contents );
 	file_put_contents( dirname(__DIR__) . '/maps/sites.map', $contents );
 }
 
