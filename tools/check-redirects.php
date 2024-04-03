@@ -18,6 +18,20 @@ namespace BU\Webrouter;
 
 $redirects = parse( file( dirname(__DIR__) . '/maps/redirects.map' ) );
 $sites = parse( file( dirname(__DIR__) . '/maps/sites.map' ) );
+$checks = [];
+
+$start = time();
+
+$i = 0;
+
+$estimate = intval( count($redirects) / 2 / 60 ) . ' to ' . intval( count($redirects ) / 60 ) . ' minutes';
+
+echo 'Checking all URLs. This will take about ' . $estimate . '. No changes are made during these checks. Redirects to Check: ' . count($redirects) . "\n";
+foreach( $redirects as $key => $url ) {
+	$checks[ $key ] = check_url( $url );
+	if ( $i++ % 20 == 19 )
+		echo "  " . $i . " done (" . (time() - $start) . " seconds)\n";
+}
 
 
 $i = 0;
@@ -29,12 +43,14 @@ foreach( $redirects as $key => $url ) {
 	$counter = '[' . str_pad( $i, 3, ' ', STR_PAD_LEFT ) . '/' . str_pad( count($redirects), 3, ' ', STR_PAD_LEFT ) . '] ';
 
 	if ( !isset( $sites[ $key ] ) ) {
-		echo $couunter . $key . "\n";
+		echo $counter . $key . "\n";
 		echo "    Found in redirects.map but not in sites.map\n";
 		do {
 			echo "    Remove? (y/N) or [o]pen in browser";
 			$replace = strtolower( readline( " > " ) );
 			if ( 'y' === $replace )
+				remove_redirect( $key );
+			if ( 'd' === $replace )
 				remove_redirect( $key );
 			if ( 'o' === $replace )
 				system( 'open "' . str_replace( '_/', 'https://www.bu.edu/', $key ) . '"' );
@@ -47,28 +63,34 @@ foreach( $redirects as $key => $url ) {
 		continue;
 	}
 
-	$check = check_url( $url );
+	$check = $checks[ $key ];
 	if ( $check ) {
 		if ( preg_match( '/Second order redirect: (.*)$/', $check, $match ) ) {
-			echo $counter . $key . "\n";
-			echo "    Target:        " . $url . "\n";
-			echo "    Redirected To: " . $match[1] . "\n\n";
+			if ( $match[1] == $url . '/' || str_replace( 'http://', 'https://', $url ) == $match[1] ) {
+				// Automatically replace when it's just about a trailing slash or HTTPS
+				replace_redirect( $key, $match[1] );
+			} else {
+				echo $counter . $key . "\n";
+				echo "    Target:        " . $url . "\n";
+				echo "    Redirected To: " . $match[1] . "\n\n";
 
-			do {
-				echo "    Replace? (y/N) or [o]pen in browser or [d]elete";
-				$replace = strtolower( readline( " > " ) );
-				if ( 'y' === $replace )
-					replace_redirect( $key, $match[1] );
-				if ( 'd' === $replace )
-					remove_redirect( $key, $match[1] );
-				if ( 'o' === $replace )
-					system( 'open "' . str_replace( '_/', 'https://www.bu.edu/', $key ) . '"' );
-			} while ( 'o' === $replace );
+				do {
+					echo "    Replace? (y/N) or [o]pen in browser or [d]elete";
+					$replace = strtolower( readline( " > " ) );
+					if ( 'y' === $replace )
+						replace_redirect( $key, $match[1] );
+					if ( 'd' === $replace )
+						remove_redirect( $key, $match[1] );
+					if ( 'o' === $replace )
+						system( 'open "https://' . str_replace( '_/', 'www.bu.edu/', $key ) . '"' );
+				} while ( 'o' === $replace );
+			}
 
 		} else if ( preg_match( '/Error: (.*)$/', $check, $match ) ) {
 			if ( '404' == $match[1] ) {
 				echo $counter . $key . "\n";
-				echo "    Error: 404\n";
+				echo "    Target:        " . $url . "\n";
+				echo "    Error:         404\n";
 
 				do {
 					echo "    Remove? (y/N) or [o]pen in browser";
@@ -78,7 +100,7 @@ foreach( $redirects as $key => $url ) {
 					if ( 'd' === $replace )
 						remove_redirect( $key );
 					if ( 'o' === $replace )
-						system( 'open "' . str_replace( '_/', 'https://www.bu.edu/', $key ) . '"' );
+						system( 'open "https://' . str_replace( '_/', 'www.bu.edu/', $key ) . '"' );
 				} while ( 'o' === $replace );
 
 			}
@@ -112,6 +134,7 @@ function check_url( $url ) {
 	$curl = curl_init();
 	curl_setopt( $curl, CURLOPT_URL, $url );
 	curl_setopt( $curl, CURLOPT_RETURNTRANSFER, true );
+	curl_setopt( $curl, CURLOPT_TIMEOUT, 2 );
 	curl_exec( $curl );
 
 	// HTTP response code:
@@ -132,6 +155,8 @@ function check_url( $url ) {
 		if ( stristr( $redirect, 'weblogin.bu.edu' ) )
 			return null; // Second-order redirects are expected for these URLs.
 		if ( stristr( $redirect, 'shib.bu.edu' ) )
+			return null; // Second-order redirects are expected for these URLs.
+		if ( stristr( $redirect, '/wp-app/shibboleth/' ) )
 			return null; // Second-order redirects are expected for these URLs.
 
 		return 'Second order redirect: ' . $redirect;
