@@ -1704,6 +1704,7 @@ sites.bu.edu/hyness redirect_asis ;
 sites.bu.edu/maasap redirect_asis ;
 sites.bu.edu/musicbridge redirect_asis ;
 sites.bu.edu/reinhartlab redirect_asis ;
+sites.bu.edu/ria/geddes static-custom-domain-sitesbuedu-nocache ;
 sites.bu.edu/techlaw redirect_asis ;
 sites.bu.edu/shield-drive redirect_asis ;
 sites.bu.edu/slde redirect_asis ;
