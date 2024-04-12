@@ -1199,6 +1199,7 @@ _/robotics-lp redirect_asis ;
 _/robots.txt static-public ;
 _/rosenbergarchive redirect_asis ;
 _/rpm/panos static-public ;
+_/rsvp redirect ;
 _/rural-ancillary-portal redirect_asis ;
 _/saa redirect_asis ;
 _/safe redirect_asis ;
