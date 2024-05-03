@@ -1683,6 +1683,7 @@ www.wheelock.edu redirect_asis ;
 www.bumc.bu.edu/cellular-imaging redirect_asis ;
 www.bumc.bu.edu/gms/review_form static-public ;
 www.bumc.bu.edu/parking redirect ;
+www.bumc.bu.edu/uis redirect ;
 
 # bumc.bu.edu
 bumc.bu.edu/mri redirect_asis ;
