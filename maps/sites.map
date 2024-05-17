@@ -1348,6 +1348,7 @@ _/transfer redirect_asis ;
 _/travel redirect_asis ;
 _/travelregistry redirect_asis ;
 _/trustees-intranet/install static-public ;
+_/ts redirect_asis ;
 _/turnitin redirect_asis ;
 _/tv redirect_asis ;
 _/uhc redirect_asis ;
