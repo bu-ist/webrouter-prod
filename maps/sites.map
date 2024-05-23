@@ -78,7 +78,6 @@ search.bu.edu search ;
 # Django applications:
 
 _/cellphone-compliance     django ;
-_/courseware-manager     django ;
 
 
 # Standalone Sites:
