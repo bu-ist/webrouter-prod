@@ -4,7 +4,7 @@
 
 # StudentLink main menu
 _/employeelink /link/bin/uiscgi_employeelink.pl/uismpl ;
-_/studentlink /link/bin/uiscgi_studentlink.pl/uismpl/?ModuleName=menu.pl&NewMenu=Home ;
+_/studentlink https://student.bu.edu/MyBU ;
 
 # All Other Redirects:
 _/1839fall https://trusted.bu.edu/s/1759/22/form.aspx?sid=1759&gid=2&pgid=470&cid=1130&appealcode=24ETNSMAURL&utm_medium=appeal&utm_source=link&utm_campaign=print_bualumni&utm_term=give&utm_content=1839_fall_1839_package_url ;
