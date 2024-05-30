@@ -682,6 +682,7 @@ _/gdp/chinese-loans-to-africa-database static-public ;
 _/gdp/country-debt-environment-profiles-database static-public ;
 _/gdp/fair-validation static-public ;
 _/gdp/global-financial-safety-net-tracker static-public ;
+_/gdp/sovereign-debt-environment-profiles-database static-public ;
 _/gds redirect_asis ;
 _/gegi redirect_asis ;
 _/genchem static-public-nocache ;
