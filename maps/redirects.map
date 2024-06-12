@@ -502,6 +502,7 @@ _/links https://www.bu.edu/link/ ;
 _/links2 https://www.bu.edu/link/ ;
 _/login https://iam-identity.bu.edu/identityiq/home.jsf ;
 _/logout https://weblogin.bu.edu/logout/ ;
+_/loyalty https://trusted.bu.edu/s/1759/2-bu/giving/interior.aspx?sid=1759&gid=2&pgid=493&cid=1164&appealcode=WEBAGC-BULS-PR ;
 _/loyalty24 https://trusted.bu.edu/s/1759/22/form.aspx?sid=1759&gid=2&pgid=493&cid=1164&paymenttype=perpetual&appealcode=24LLMURL&utm_medium=appeal&utm_source=link&utm_campaign=print_bualumni&utm_term=give&utm_content=loyalty_labels_2024 ;
 _/loyalty25 https://trusted.bu.edu/s/1759/22/form.aspx?sid=1759&gid=2&pgid=493&cid=1164&paymenttype=perpetual&appealcode=25LLMURL&utm_medium=appeal&utm_source=link&utm_campaign=print_bualumni&utm_term=give&utm_content=loyalty_labels_2025_URL ;
 _/loyaltysociety https://www.bu.edu/alumni/giving/who-gives/loyalty-society/ ;
