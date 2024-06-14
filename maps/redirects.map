@@ -147,7 +147,7 @@ _/buvsnuchallenge https://trusted.bu.edu/s/1759/22/form.aspx?sid=1759&gid=2&pgid
 _/buwc https://www.bu.edu/womensguild/ ;
 _/buwg https://www.bu.edu/womensguild/ ;
 _/buwind https://www.bu.edu/sustainability/projects/bu-wind/ ;
-_/buworkscentral https://ppo.buw.bu.edu/ ;
+_/buworkscentral https://www.bu.edu/tech/2024/06/12/planned-buworks-outages-june-14-16-june-21-23/ ;
 _/cagt http://cagt.bu.edu/ ;
 _/camed24 https://trusted.bu.edu/s/1759/2-bu/giving/interior.aspx?sid=1759&gid=2&pgid=424&cid=1063&appealcode=24DAMAURL&utm_medium=appeal&utm_source=link&utm_campaign=print_bualumni&utm_term=give&utm_content=MED_vanity_url ;
 _/camed24student https://trusted.bu.edu/s/1759/22/form.aspx?sid=1759&gid=2&pgid=424&cid=1063&appealcode=24WSMCAMEDURL&utm_medium=appeal&utm_source=link&utm_campaign=print_bualumni&utm_term=give&utm_content=Winter_Student_CAMED ;
@@ -574,7 +574,7 @@ _/mybuaccount https://iam-identity.bu.edu/identityiq/external/registration.jsf#/
 _/mybuidentity https://iam-identity.bu.edu/identityiq/home.jsf ;
 _/mybuphone https://mybuphone.bu.edu/ucmuser/ ;
 _/mybustudent  https://mybustudent.bu.edu/ ;
-_/mybuworks https://pgw.buw.bu.edu/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html ;
+_/mybuworks https://www.bu.edu/tech/2024/06/12/planned-buworks-outages-june-14-16-june-21-23/ ;
 _/mybuworks-sandbox https://sgw.buw.bu.edu/ ;
 _/mycv https://www.bu.edu/provost/faculty-affairs/my-cv/ ;
 _/myfinancialaid https://www.bu.edu/link/bin/uiscgi_studentlink.pl/1622734999?applpath=fin_aid_awards_summary.pl&YearPart=2022A&GoLoc=fin_aid_questions.pl ;
