@@ -63,8 +63,6 @@ www-rewrite-wiki-test ist-web-phpbin-aws-test.bu.edu/phpbin/wiki ;
 #  Other Apps
 # # # # # # # # # # # # # # # # # # # #
 
-django <%= ENV['BACKEND_DJANGO'] || "ist-web-django-#{ENV['LANDSCAPE']}.bu.edu" %> ;
-
 uiscgi_app <%= ENV['BACKEND_UISCGI_APP'] || "ist-uiscgi-app-#{ENV['LANDSCAPE']}.bu.edu" %> ;
 
 uiscgi_content <%= ENV['BACKEND_UISCGI_CONTENT'] || "ist-uiscgi-content-#{ENV['LANDSCAPE']}.bu.edu" %> ;

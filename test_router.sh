@@ -228,13 +228,9 @@ test_url "uiscgi-http-studentlink-menu" "http://${CONNECT_TO}/link/bin/uiscgi_st
 
 if [ "$LANDSCAPE" != "syst" ]; then
 echo ""
-echo "### Test PHP and Django services"
+echo "### Test PHP service"
 test_url "dbin-http-oittest" http://${CONNECT_TO}/dbin/oittest/info.php 200 dbin '<h2>PHP License</h2>'
 test_url "phpbin-http-buniverse" http://${CONNECT_TO}/buniverse/ 200 phpbin buniverse
-test_url "django-http-cellphone" http://${CONNECT_TO}/cellphone-compliance/ 302 django "Location: http://$HOST/cellphone-compliance/accounts/login"
-test_url "django-https-cellphone" https://${CONNECT_TO}/cellphone-compliance/ 302 django "Location: https://$HOST/cellphone-compliance/accounts/login"
-test_url "django-http-cwaremgr" http://${CONNECT_TO}/courseware-manager/admin/ 302 django "Location: http://$HOST/courseware-manager/admin/login/"
-test_url "django-http-dnamixtures" http://${CONNECT_TO}/dnamixtures/ 200 django /dnamixtures/static/dna_lessons
 fi
 test_url "phpbin-http-maps" http://${CONNECT_TO}/maps/ 200 phpbin 'var BUMapsVersion = 1'
 
