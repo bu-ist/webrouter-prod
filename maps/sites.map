@@ -1167,6 +1167,7 @@ _/qst redirect_asis ;
 _/qualtrics redirect_asis ;
 _/quantum static-public ;
 _/quantumconcepts static-protected ;
+_/questrom wpengine-questrom ;
 _/questrom-phd redirect_asis ;
 _/questrom/its-docs static-protected ;
 _/questrom/secure static-protected ;
