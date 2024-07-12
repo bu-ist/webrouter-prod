@@ -955,7 +955,7 @@ _/masters-in-management redirect_asis ;
 _/match redirect_asis ;
 _/mathfinance redirect_asis ;
 _/mathfinanceconference redirect_asis ;
-_/mba static-public ;
+_/mba redirect_asis ;
 _/mba-admissions redirect_asis ;
 _/mba-apply redirect_asis ;
 _/mba-connect redirect_asis ;
