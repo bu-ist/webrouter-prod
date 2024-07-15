@@ -827,6 +827,7 @@ _/igsw static-public ;
 _/ihs redirect_asis ;
 _/ihsip redirect_asis ;
 _/impact redirect_asis ;
+_/inauguration redirect_asis ;
 _/index.html aws_home ;
 _/indigobirds static-public ;
 _/infancp redirect_asis ;
