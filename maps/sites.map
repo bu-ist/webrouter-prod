@@ -361,6 +361,7 @@ _/buconnects redirect_asis ;
 _/budentalapparelsale redirect_asis ;
 _/budget redirect_asis ;
 _/buenvisions redirect_asis ;
+_/bufellow redirect_asis ;
 _/build redirect_asis ;
 _/builders-leaders redirect_asis ;
 _/buildyourgift redirect_asis ;
