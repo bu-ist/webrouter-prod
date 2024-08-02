@@ -1203,6 +1203,7 @@ _/research/xml static-public ;
 _/researchsupport redirect ;
 _/researchsupport/av static-protected ;
 _/resources redirect_asis ;
+_/reunion redirect_asis ;
 _/revpash static-public ;
 _/rhett-talks redirect_asis ;
 _/rheumradiography static-public ;
