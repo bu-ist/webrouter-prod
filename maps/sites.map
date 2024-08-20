@@ -585,6 +585,7 @@ _/discover static-public ;
 _/distance redirect_asis ;
 _/disted static-public-nocache ;
 _/diversitytaskforce/media static-protected ;
+_/diversity-officer/ redirect_asis ; 
 _/dli/av static-public ;
 _/dme redirect_asis ;
 _/dnamixtures phpbin-aws ;
