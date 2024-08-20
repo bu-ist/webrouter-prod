@@ -1328,6 +1328,7 @@ _/tanglewood redirect_asis ;
 _/tanglewoodtwo static-public ;
 _/tcp redirect_asis ;
 _/tcs static-public ;
+_/tdl redirect_asis ;
 _/tech/av static-protected ;
 _/tech/plan2015 static-public ;
 _/tech/slp static-public ;
