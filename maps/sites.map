@@ -83,7 +83,6 @@ _/calendar phpbin-aws ;
 
 # dbin:
 
-_/dbin dbin ;
 _/dbin/agni phpbin-aws ;
 _/dbin/archives static-public ;
 _/dbin/bands phpbin-aws ;
