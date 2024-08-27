@@ -2,76 +2,102 @@
 #  Legacy Systems
 # # # # # # # # # # # # # # # # # # # #
 
-legacy <%= ENV['BACKEND_WEB_LEGACY'] || "ist-web-legacy-#{ENV['LANDSCAPE']}.bu.edu" %> ;
+legacy                        <%= ENV['BACKEND_WEB_LEGACY'] || "ist-web-legacy-#{ENV['LANDSCAPE']}.bu.edu" %> ;
+#                             # Hosted: ON-PREM (F5 load balancer)
 
-mainframe-java-8082 usl0.bu.edu:8082 ;
+mainframe-java-8082           usl0.bu.edu:8082 ;
+#                             # Hosted: ON-PREM (individual app server)
 
 
 # # # # # # # # # # # # # # # # # # # #
 #  Static Sites
 # # # # # # # # # # # # # # # # # # # #
 
-static-public static-sites-prod-public.s3-website-us-east-1.amazonaws.com ;
-static-public-nocache static-sites-prod-public.s3-website-us-east-1.amazonaws.com ;
+static-public                 static-sites-prod-public.s3-website-us-east-1.amazonaws.com ;
+#                             # Hosted: AWS ist-cloud-central-app-prd
 
-static-protected ist-web-static-sites-prod.bu.edu ;
+static-public-nocache         static-sites-prod-public.s3-website-us-east-1.amazonaws.com ;
+#                             # Hosted: AWS ist-cloud-central-app-prd
+
+static-protected              ist-web-static-sites-prod.bu.edu ;
+#                             # Hosted: AWS ist-cloud-central-app-prd
 
 
 # # # # # # # # # # # # # # # # # # # #
 #  Custom Domains
 # # # # # # # # # # # # # # # # # # # #
 
-static-custom-domain-madlab static-sites-prod-public.s3-website-us-east-1.amazonaws.com/_domains/www.madlab.bu.edu ;
+static-domain-madlab          static-sites-prod-public.s3-website-us-east-1.amazonaws.com/_domains/www.madlab.bu.edu ;
+#                             # Hosted: AWS ist-cloud-central-app-prd
 
-static-custom-domain-sitesbuedu-nocache static-sites-prod-public.s3-website-us-east-1.amazonaws.com/_domains/sites.bu.edu ;
+static-domain-sitesbuedu      static-sites-prod-public.s3-website-us-east-1.amazonaws.com/_domains/sites.bu.edu ;
+#                             # Hosted: AWS ist-cloud-central-app-prd
 
-static-custom-domain-framinghamheartstudy-nocache static-sites-prod-public.s3-website-us-east-1.amazonaws.com/_domains/www.framinghamheartstudy.org ;
+static-domain-framinghamheartstudy static-sites-prod-public.s3-website-us-east-1.amazonaws.com/_domains/www.framinghamheartstudy.org ;
+#                             # Hosted: AWS ist-cloud-central-app-prd
 
 
 # # # # # # # # # # # # # # # # # # # #
 #  people.bu.edu
 # # # # # # # # # # # # # # # # # # # #
 
-people-public static-sites-prod-public.s3-website-us-east-1.amazonaws.com/_domains/people.bu.edu ;
-people-public-nocache static-sites-prod-public.s3-website-us-east-1.amazonaws.com/_domains/people.bu.edu ;
+people-public                 static-sites-prod-public.s3-website-us-east-1.amazonaws.com/_domains/people.bu.edu ;
+#                             # Hosted: AWS ist-cloud-central-app-prd
 
-people-protected ist-web-static-sites-prod.bu.edu/_domains/people.bu.edu ;
+people-public-nocache         static-sites-prod-public.s3-website-us-east-1.amazonaws.com/_domains/people.bu.edu ;
+#                             # Hosted: AWS ist-cloud-central-app-prd
+
+people-protected              ist-web-static-sites-prod.bu.edu/_domains/people.bu.edu ;
+#                             # Hosted: ON-PREM (F5 load balancer)
 
 
 # # # # # # # # # # # # # # # # # # # #
 #  WordPress
 # # # # # # # # # # # # # # # # # # # #
 
-wpassets wordpress-prod-alb.webrouter-prd.aws-cloud.bu.edu ;
-wordpress wordpress-prod-alb.webrouter-prd.aws-cloud.bu.edu ;
+wpassets                      wordpress-prod-alb.webrouter-prd.aws-cloud.bu.edu ;
+#                             # Hosted: AWS buaws-websites-prod, proxied to ist-wp-app-pr*
 
-# WPEngine (WP Engine) Websites, each of which must be defined separately:
-wpengine-questrom buquestrom.wpengine.com ;
+wordpress                     wordpress-prod-alb.webrouter-prd.aws-cloud.bu.edu ;
+#                             # Hosted: AWS buaws-websites-prod, proxied to ist-wp-app-pr*
+
+wpengine-questrom             buquestrom.wpengine.com ;
+#                             # WP Engine
 
 
 # # # # # # # # # # # # # # # # # # # #
 #  PHP
 # # # # # # # # # # # # # # # # # # # #
 
-phpbin-aws ist-web-phpbin-aws-prod.bu.edu ;
-phpbin-nextjs ist-web-phpbin-aws-prod.bu.edu ;
+phpbin-aws                    ist-web-phpbin-aws-prod.bu.edu ;
+#                             # Hosted: AWS ist-cloud-central-app-prd
+
+phpbin-nextjs                 ist-web-phpbin-aws-prod.bu.edu ;
+#                             # Hosted: AWS ist-cloud-central-app-prd
 
 # Custom Domain for wiki.bu.edu:
-www-rewrite-wiki ist-web-phpbin-aws-prod.bu.edu/phpbin/wiki ;
-www-rewrite-wiki-test ist-web-phpbin-aws-test.bu.edu/phpbin/wiki ;
+www-rewrite-wiki              ist-web-phpbin-aws-prod.bu.edu/phpbin/wiki ;
+#                             # Hosted: AWS ist-cloud-central-app-prd
+
+www-rewrite-wiki-test         ist-web-phpbin-aws-test.bu.edu/phpbin/wiki ;
+#                             # Hosted: AWS ist-cloud-central-app-nprd
 
 
 # # # # # # # # # # # # # # # # # # # #
 #  Other Apps
 # # # # # # # # # # # # # # # # # # # #
 
-uiscgi_app <%= ENV['BACKEND_UISCGI_APP'] || "ist-uiscgi-app-#{ENV['LANDSCAPE']}.bu.edu" %> ;
+uiscgi_app                    <%= ENV['BACKEND_UISCGI_APP'] || "ist-uiscgi-app-#{ENV['LANDSCAPE']}.bu.edu" %> ;
+#                             # Hosted: ON-PREM (F5 load balancer)
 
-uiscgi_content <%= ENV['BACKEND_UISCGI_CONTENT'] || "ist-uiscgi-content-#{ENV['LANDSCAPE']}.bu.edu" %> ;
+uiscgi_content                <%= ENV['BACKEND_UISCGI_CONTENT'] || "ist-uiscgi-content-#{ENV['LANDSCAPE']}.bu.edu" %> ;
+#                             # Hosted: ON-PREM (F5 load balancer)
 
-search ist-web-phpbin-aws-prod.bu.edu/phpbin/search ;
+search                        ist-web-phpbin-aws-prod.bu.edu/phpbin/search ;
+#                             # Hosted: AWS ist-cloud-central-app-prd
 
-wp-deploy ist-wp-bld-pr01.bu.edu ;
+wp-deploy                     ist-wp-bld-pr01.bu.edu ;
+#                             # Hosted: ON-PREM (individual app server, as named here)
 
 
 
