@@ -133,7 +133,6 @@ _/phpbin/signup phpbin-aws ;
 _/phpbin/sleep phpbin-aws ;
 _/phpbin/ssw-network phpbin-aws ;
 _/phpbin/static-sites phpbin-aws ;
-_/phpbin/training phpbin-aws ;
 _/phpbin/webdis phpbin-aws ;
 _/phpbin/wiki phpbin-aws ;
 
