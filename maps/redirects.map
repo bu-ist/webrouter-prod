@@ -8,10 +8,12 @@ _/studentlink https://student.bu.edu/MyBU ;
 
 # All Other Redirects:
 _/1839fall https://trusted.bu.edu/s/1759/22/form.aspx?sid=1759&gid=2&pgid=470&cid=1130&appealcode=24ETNSMAURL&utm_medium=appeal&utm_source=link&utm_campaign=print_bualumni&utm_term=give&utm_content=1839_fall_1839_package_url ;
+_/1839fall25 https://trusted.bu.edu/s/1759/22/form.aspx?sid=1759&gid=2&pgid=470&cid=1130&appealcode=25ETNSMAURL&utm_medium=appeal&utm_source=link&utm_campaign=print_bualumni&utm_term=give&utm_content=1839_Fall_A_URL ;
 _/1839gifts https://trusted.bu.edu/s/1759/2-bu/giving/interior.aspx?sid=1759&gid=2&pgid=470&cid=1130&appealcode=WEBAGC-AL ;
 _/1839giving https://trusted.bu.edu/s/1759/22/form.aspx?sid=1759&gid=2&pgid=470&cid=1130&appealcode=24LMMURL1839&utm_medium=appeal&utm_source=link&utm_campaign=print_bualumni&utm_term=give&utm_content=1839_monthly_2024_give ;
 _/1839society https://www.bu.edu/alumni/giving/who-gives/1839-society/ ;
 _/24cye https://trusted.bu.edu/s/1759/2-bu/giving/interior.aspx?sid=1759&gid=2&pgid=468&cid=1127&appealcode=24HOLIDAYCALMBURL&utm_medium=appeal&utm_source=link&utm_campaign=print_bualumni&utm_term=give&utm_content=nocal_package_url ;
+_/25fall1839 https://trusted.bu.edu/s/1759/22/form.aspx?sid=1759&gid=2&pgid=470&cid=1130&appealcode=25ETNSMBURL&utm_medium=appeal&utm_source=link&utm_campaign=print_bualumni&utm_term=give&utm_content=1839_Fall_B_URL ;
 _/aaastudy https://www.bu.edu/autismconnections/ ;
 _/aboutcgs https://www.bu.edu/cgs/admissions/schedule-a-visit/prospective-students/ ;
 _/abroadatbu https://www.bu.edu/metinternational/ ;
@@ -798,6 +800,7 @@ _/supplier https://www.bu.edu/sourcing/sell2bu/ ;
 _/suppliers https://www.bu.edu/sourcing/sell2bu/ ;
 _/support24 https://trusted.bu.edu/s/1759/22/form.aspx?sid=1759&gid=2&pgid=412&cid=1044&appealcode=24SIMURL&utm_medium=appeal&utm_source=link&utm_campaign=print_bualumni&utm_term=give&utm_content=summer_invoice_2024_give ;
 _/support25 https://trusted.bu.edu/s/1759/2-bu/giving/interior.aspx?sid=1759&gid=2&pgid=468&cid=1127&appealcode=25SIMURL&utm_medium=appeal&utm_source=link&utm_campaign=print_bualumni&utm_term=give&utm_content=Summer_invoice_2025_URL ;
+_/supportfall25 https://trusted.bu.edu/s/1759/2-bu/giving/interior.aspx?sid=1759&gid=2&pgid=468&cid=1127&appealcode=25FIMURL&utm_medium=appeal&utm_source=link&utm_campaign=print_bualumni&utm_term=give&utm_content=INV_Fall_URL ;
 _/supportanatomylab http://trusted.bu.edu/s/1759/2-bu/giving.aspx?sid=1759&gid=2&pgid=422&cid=1060&dids=264&appealcode=WEBMED-DV&bledit=1 ;
 _/supportaphasiacenter https://trusted.bu.edu/s/1759/2-bu/giving.aspx?sid=1759&gid=2&pgid=412&cid=1044&dids=263&appealcode=WEBAGC&bledit=1 ;
 _/supportbu https://trusted.bu.edu/s/1759/2-bu/index.aspx?sid=1759&gid=2&pgid=513&cid=1195&appealcode=WEBAGC-SB ;

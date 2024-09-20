@@ -143,11 +143,13 @@ _/phpbin/wiki phpbin-aws ;
 #####################################################################
 
 _/1839fall redirect_asis ;
+_/1839fall25 redirect_asis ;
 _/1839gifts redirect_asis ;
 _/1839giving redirect_asis ;
 _/1839society redirect_asis ;
 _/2020-year-in-review static-public ;
 _/24cye redirect_asis ;
+_/25fall1839 redirect_asis ;
 _/aaastudy redirect_asis ;
 _/aboutcgs redirect_asis ;
 _/abroad/av static-protected ;
@@ -1333,6 +1335,7 @@ _/supportclubsports redirect_asis ;
 _/supportclubsports2023 redirect_asis ;
 _/supportclubsports2024 redirect_asis ;
 _/supportfall24	redirect_asis ;
+_/supportfall25 redirect_asis ;
 _/supportingbusm redirect_asis ;
 _/supportneidl redirect_asis ;
 _/supportoshinsfund redirect_asis ;
