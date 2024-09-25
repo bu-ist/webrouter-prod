@@ -29,7 +29,7 @@ static-public-nocache static-sites-prod-public.s3-website-us-east-1.amazonaws.co
 
 static-domain-madlab static-sites-prod-public.s3-website-us-east-1.amazonaws.com ;
 static-domain-sitesbuedu static-sites-prod-public.s3-website-us-east-1.amazonaws.com ;
-static-domain-wwwframinghamheartstudyorg static-sites-prod-public.s3-website-us-east-1.amazonaws.com ;
+static-domain-framinghamheartstudy static-sites-prod-public.s3-website-us-east-1.amazonaws.com ;
 static-domain static-sites-prod-public.s3-website-us-east-1.amazonaws.com ;
 
 people-public static-sites-prod-public.s3-website-us-east-1.amazonaws.com ;
