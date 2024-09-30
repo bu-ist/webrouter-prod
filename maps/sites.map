@@ -994,6 +994,7 @@ _/mbanext redirect_asis ;
 _/mbanorth redirect_asis ;
 _/mbapathway redirect_asis ;
 _/mbasession redirect_asis ;
+_/mbs redirect_asis ;
 _/mbta redirect_asis ;
 _/mch redirect_asis ;
 _/mdparents redirect_asis ;
