@@ -128,6 +128,7 @@ _/phpbin/organ-library phpbin-aws ;
 _/phpbin/parking phpbin-aws ;
 _/phpbin/policelink phpbin-aws ;
 _/phpbin/proxy-groups phpbin-aws ;
+_/phpbin/safetylink phpbin-aws ;
 _/phpbin/security phpbin-aws ;
 _/phpbin/signup phpbin-aws ;
 _/phpbin/sleep phpbin-aws ;
