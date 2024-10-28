@@ -934,6 +934,7 @@ _/learn redirect_asis ;
 _/learnmore redirect_asis ;
 _/leporelecture redirect_asis ;
 _/lernet static-public-nocache ;
+_/libraries redirect_asis ;
 _/library/firstyear static-public ;
 _/library/wp-assets static-public ;
 _/life redirect_asis ;
