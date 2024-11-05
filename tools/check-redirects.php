@@ -26,7 +26,8 @@ $i = 0;
 
 $estimate = intval( count($redirects) / 2 / 60 ) . ' to ' . intval( count($redirects ) / 60 ) . ' minutes';
 
-echo 'Checking all URLs. This will take about ' . $estimate . '. No changes are made during these checks. Redirects to Check: ' . count($redirects) . "\n";
+date_default_timezone_set( 'America/New_York' );
+echo 'Checking all URLs. This will take about ' . $estimate . '. It is ' . date('H:i') . ' now (Eastern). No changes are made during these checks. Redirects to Check: ' . count($redirects) . "\n";
 foreach( $redirects as $key => $url ) {
 	$checks[ $key ] = check_url( $url );
 	if ( $i++ % 20 == 19 )
