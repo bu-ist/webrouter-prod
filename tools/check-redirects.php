@@ -20,6 +20,15 @@ $redirects = parse( file( dirname(__DIR__) . '/maps/redirects.map' ) );
 $sites = parse( file( dirname(__DIR__) . '/maps/sites.map' ) );
 $checks = [];
 
+$exclude = [
+	'_/rsvp',
+	'_/google',
+	'_/google/calendar',
+	'_/google/docs',
+	'_/google/drive',
+	'_/google/sites'
+];
+
 $start = time();
 
 $i = 0;
@@ -29,11 +38,13 @@ $estimate = intval( count($redirects) / 2 / 60 ) . ' to ' . intval( count($redir
 date_default_timezone_set( 'America/New_York' );
 echo 'Checking all URLs. This will take about ' . $estimate . '. It is ' . date('H:i') . ' now (Eastern). No changes are made during these checks. Redirects to Check: ' . count($redirects) . "\n";
 foreach( $redirects as $key => $url ) {
+	if ( in_array( $key, $exclude ) ) {
+		$checks[ $key ] = null;
+	}
 	$checks[ $key ] = check_url( $url );
 	if ( $i++ % 20 == 19 )
 		echo "  " . $i . " done (" . (time() - $start) . " seconds)\n";
 }
-
 
 $i = 0;
 
@@ -42,6 +53,11 @@ foreach( $redirects as $key => $url ) {
 
 	$i++;
 	$counter = '[' . str_pad( $i, 3, ' ', STR_PAD_LEFT ) . '/' . str_pad( count($redirects), 3, ' ', STR_PAD_LEFT ) . '] ';
+
+	if ( in_array( $key, $exclude ) ) {
+		echo $counter . $key . " - Excluded from checking\n";
+		continue;
+	}
 
 	if ( !isset( $sites[ $key ] ) ) {
 		echo $counter . $key . "\n";
@@ -66,6 +82,11 @@ foreach( $redirects as $key => $url ) {
 
 	$check = $checks[ $key ];
 	if ( $check ) {
+		if ( $sites[ $key ] === 'redirect' ) {
+			echo $counter . $key . " - This is a 'redirect' not a 'redirect_asis'. Skipping.\n";
+			continue;
+		}
+
 		if ( preg_match( '/Second order redirect: (.*)$/', $check, $match ) ) {
 			if ( $match[1] == $url . '/' || str_replace( 'http://', 'https://', $url ) == $match[1] ) {
 				// Automatically replace when it's just about a trailing slash or HTTPS
@@ -158,6 +179,8 @@ function check_url( $url ) {
 		if ( stristr( $redirect, 'shib.bu.edu' ) )
 			return null; // Second-order redirects are expected for these URLs.
 		if ( stristr( $redirect, '/wp-app/shibboleth/' ) )
+			return null; // Second-order redirects are expected for these URLs.
+		if ( stristr( $redirect, '/Shibboleth.sso/Login/' ) )
 			return null; // Second-order redirects are expected for these URLs.
 
 		return 'Second order redirect: ' . $redirect;
