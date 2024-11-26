@@ -59,7 +59,9 @@ _/uiszl_j2ee legacy ;
 _/uiszl_pdf legacy ;
 
 # old CGI script locations (right now we send those to the existing Solaris backend)
-_/htbin legacy ;
+
+# The following path is no longer necessary and I scanned logs to confirm that recent actvity was only 404s -dsmk 11/26/2024
+#_/htbin legacy ;
 _/testing legacy ;
 
 
