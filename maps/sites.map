@@ -1611,6 +1611,7 @@ servicenow.bu.edu redirect ;
 smartlighting.bu.edu redirect_asis ;
 sph.bu.edu redirect ;
 sph.bu.edu/otlt redirect ;
+sphweb.bumc.bu.edu redirect_asis ;
 terrieredev.bu.edu redirect_asis ;
 today.bu.edu redirect_asis ;
 ultra.bu.edu redirect ;
