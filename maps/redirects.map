@@ -630,6 +630,7 @@ _/phpbin/course-search https://public.mybustudent.bu.edu/psp/BUPRD/EMPLOYEE/SA/s
 _/phpbin/directory https://www.bu.edu/directory/ ;
 _/phpbin/ear https://www.bu.edu/provost/faculty-affairs/my-cv/external-activity-report-ear/ ;
 _/phpbin/emailforwarding https://www.bu.edu/myidentity ;
+_/phpbin/policelink https://www.bu.edu/phpbin/safetylink/ ;
 _/pin https://www.bu.edu/neuro/pin/ ;
 _/plan2030 https://www.bu.edu/plan2020/ ;
 _/plannedgiving https://bulegacy.org/ ;
