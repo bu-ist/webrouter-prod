@@ -1313,6 +1313,7 @@ _/techweb redirect_asis ;
 _/telefund redirect_asis ;
 _/terriercard redirect_asis ;
 _/terrierconnection redirect_asis ;
+_/terrierdispatch redirect_asis ;
 _/terriermarketplace redirect_asis ;
 _/testprep redirect_asis ;
 _/thebus redirect ;
