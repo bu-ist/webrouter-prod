@@ -1103,6 +1103,7 @@ _/parttimefaculty redirect_asis ;
 _/payment redirect_asis ;
 _/paymyrent redirect_asis ;
 _/pcms static-public ;
+_/peaclab/ai4hpc static-public ;
 _/pemba redirect_asis ;
 _/pemba-part-time redirect_asis ;
 _/perd redirect_asis ;
@@ -1679,7 +1680,6 @@ blogs.bu.edu/vschmidt redirect_asis ;
 
 # sites.bu.edu
 sites.bu.edu/agingny redirect_asis ;
-sites.bu.edu/ai4hpc static-domain-sitesbuedu ;
 sites.bu.edu/akwok redirect ;
 sites.bu.edu/autismsa/training static-domain-sitesbuedu ;
 sites.bu.edu/collegeharmsfromothersdrinking redirect_asis ;
