@@ -1380,6 +1380,7 @@ _/win/data static-public ;
 _/wine redirect_asis ;
 _/winter2024 redirect_asis ;
 _/winterfest redirect_asis ;
+_/wintersupport24 redirect_asis ;
 _/wireless redirect_asis ;
 _/wise redirect_asis ;
 _/wita static-public ;
