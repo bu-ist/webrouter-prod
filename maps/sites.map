@@ -1132,7 +1132,7 @@ _/printcenter redirect_asis ;
 _/prism static-public ;
 _/proarte redirect_asis ;
 _/procurement redirect_asis ;
-_/professional static-public ;
+_/professional redirect_asis ;
 _/project-inclusive redirect_asis ;
 _/prostars static-public ;
 _/proudtobu redirect_asis ;
