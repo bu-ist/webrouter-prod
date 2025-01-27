@@ -1691,6 +1691,7 @@ sites.bu.edu/agingny redirect_asis ;
 sites.bu.edu/akwok redirect ;
 sites.bu.edu/autismsa/training static-domain-sitesbuedu ;
 sites.bu.edu/collegeharmsfromothersdrinking redirect_asis ;
+sites.bu.edu/cpo-dei redirect_asis ;
 sites.bu.edu/earlcenter redirect_asis ;
 sites.bu.edu/geddesgrants redirect_asis ;
 sites.bu.edu/hothouse redirect_asis ;
