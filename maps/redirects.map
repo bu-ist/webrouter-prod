@@ -72,6 +72,7 @@ _/ascend https://www.bu.edu/questrom/undergraduate-program/bsba/ascend-fellowshi
 _/athchallenge https://givingday.bu.edu/pages/bu-athletics ;
 _/athchallenge2023 https://givingday.bu.edu/pages/bu-athletics/?appeal_id=63dbb0b67ce0802044a94e06 ;
 _/athchallenge2024 https://givingday.bu.edu/pages/bu-athletics/?appeal_id=65bbcd58fd25c424b6eda4c6&utm_medium=postcard&utm_source=link&utm_campaign=print_bualumni&utm_term=give&utm_content=FY24_giving_day_varsity_postcard ;
+_/athchallenge2025 https://give.bu.edu/campaigns/54596/donations/new?tc=41175&a=9464653 ;
 _/athfall24 https://trusted.bu.edu/s/1759/22/form.aspx?sid=1759&gid=2&pgid=410&cid=1042&appealcode=24FIMURL&utm_medium=appeal&utm_source=link&utm_campaign=print_bualumni&utm_term=give&utm_content=Fall_Invoice_athletics ;
 _/athletics http://www.goterriers.com/ ;
 _/athwinter24 https://trusted.bu.edu/s/1759/22/form.aspx?sid=1759&gid=2&pgid=410&cid=1042&appealcode=24WIMURL&utm_medium=appeal&utm_source=link&utm_campaign=print_bualumni&utm_term=give&utm_content=Winter_Invoice_athletics ;
@@ -566,6 +567,7 @@ _/mycv https://www.bu.edu/provost/faculty-affairs/my-cv/ ;
 _/myfinancialaid https://www.bu.edu/link/bin/uiscgi_studentlink.pl/1622734999?applpath=fin_aid_awards_summary.pl&YearPart=2022A&GoLoc=fin_aid_questions.pl ;
 _/mygift https://trusted.bu.edu/s/1759/2-bu/index.aspx?sid=1759&gid=2&pgid=489&cid=1157&appealcode=WEBAGC-MG ;
 _/mygift25 https://trusted.bu.edu/s/1759/22/form.aspx?sid=1759&gid=2&pgid=489&cid=1157&appealcode=25BOSAGADURL ;
+_/mygiftmatters25 https://give.bu.edu/main-form/?a=9404012 ;
 _/mygradhousing https://bu.starrezhousing.com/StarRezPortalXGrad/ ;
 _/myhousing https://bu.starrezhousing.com/StarRezPortalX/ ;
 _/myidentity https://iam-identity.bu.edu/identityiq/home.jsf ;
@@ -760,6 +762,7 @@ _/supportbusm https://trusted.bu.edu/s/1759/2-bu/giving.aspx?sid=1759&gid=2&pgid
 _/supportclubsports https://givingday.bu.edu/pages/club-sports ;
 _/supportclubsports2023 https://givingday.bu.edu/pages/club-sports/?appeal_id=63dbb0d97c72e120446e6f2b ;
 _/supportclubsports2024 https://givingday.bu.edu/pages/club-sports/?appeal_id=65bbcd00eccd5c25aa3c9dd2&utm_medium=postcard&utm_source=link&utm_campaign=print_bualumni&utm_term=give&utm_content=FY24_giving_day_club_sports_postcard ;
+_/supportclubsports2025 https://give.bu.edu/campaigns/54596/donations/new?tc=41184&a=9464654 ;
 _/supportfall24 https://trusted.bu.edu/s/1759/2-bu/giving/interior.aspx?sid=1759&gid=2&pgid=468&cid=1127&appealcode=24FIMURL&utm_medium=appeal&utm_source=link&utm_campaign=print_bualumni&utm_term=give&utm_content=Fall_Invoice_Gen ;
 _/supportingbusm https://www.bumc.bu.edu/camed/giving/ ;
 _/supportneidl https://trusted.bu.edu/s/1759/2-bu/giving/interior.aspx?sid=1759&gid=2&pgid=422&cid=1060&dids=553&bledit=1&appealcode=WEBMED-DV ;
