@@ -1485,6 +1485,7 @@ genchem.bu.edu redirect ;
 genji.bu.edu phpbin-nextjs ;
 geography.bu.edu redirect_asis ;
 givingday.bu.edu redirect_asis ;
+givingday.bu.edu/campaigns/frederick-s-pardee-school-of-global-studies-fund redirect_asis ;
 givingtuesday.bu.edu redirect_asis ;
 go.bu.edu redirect_asis ;
 go.bu.edu/BASAlarm redirect_asis ;
