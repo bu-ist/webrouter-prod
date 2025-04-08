@@ -192,6 +192,7 @@ _/agganis/events redirect_asis ;
 _/agganis/seating redirect_asis ;
 _/agganis/suites redirect_asis ;
 _/agni redirect_asis ;
+_/ai redirect_asis ;
 _/aias redirect_asis ;
 _/alcoholeducationforyouth static-public ;
 _/aldolase static-public ;
