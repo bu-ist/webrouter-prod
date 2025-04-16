@@ -1644,6 +1644,7 @@ www-modis.bu.edu redirect ;
 www-modis.bu.edu/brdf redirect ;
 www-modis.bu.edu/lidar redirect ;
 www-staging.bu.edu/summer/courses phpbin-aws ;
+www-staging.bu.edu/foodandwine redirect_asis ;
 www.660corp.com redirect_asis ;
 www.agganisarena.net redirect_asis ;
 www.agganisarena.org redirect_asis ;
@@ -1720,6 +1721,8 @@ sites.bu.edu/slde redirect_asis ;
 sites.bu.edu/southcampus redirect_asis ;
 sites.bu.edu/startuplaw redirect_asis ;
 sites.bu.edu/vschmidt redirect_asis ;
+
+sites-staging.bu.edu/gastronomy redirect_asis ;
 
 # people.bu.edu
 people.bu.edu people-public ;

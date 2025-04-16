@@ -1140,6 +1140,8 @@ sites.bu.edu/startuplaw https://www.bu.edu/law/experiential-learning/clinics/bu-
 sites.bu.edu/southcampus https://www.bu.edu/reslife/ ;
 sites.bu.edu/vschmidt https://www.vivienaschmidt.com ;
 
+sites-staging.bu.edu/gastronomy https://www-staging.bu.edu/foodstudies/ ;
+
 people.bu.edu/cjmartin https://blogs.bu.edu/cjmartin/ ;
 people.bu.edu/cstepp https://sites.bu.edu/stepplab/ ;
 people.bu.edu/ecohn https://www.bu.edu/sargent/profile/ellen-cohn/ ;
@@ -1155,3 +1157,5 @@ people.bu.edu/salge https://blogs.bu.edu/salge/ ;
 people.bu.edu/sidr https://sites.bu.edu/ramachandranlab/ ;
 people.bu.edu/tgoss https://theodoragoss.com/ ;
 people.bu.edu/theochem https://sites.bu.edu/theochem/ ;
+
+www-staging.bu.edu/foodandwine https://www-staging.bu.edu/foodstudies/ ;
