@@ -81,7 +81,7 @@ search.bu.edu search ;
 # Standalone Sites:
 
 _/buniverse phpbin-aws ;
-_/calendar phpbin-aws ;
+_/calendar phpbin-aws-direct ;
 
 # dbin:
 
@@ -106,7 +106,7 @@ _/dbin/stemcells redirect_asis ;
 # phpbin:
 
 _/phpbin/blackboard-course-copy phpbin-aws ;
-_/phpbin/calendar phpbin-aws-direct ;
+_/phpbin/calendar phpbin-aws ;
 _/phpbin/cashier-admin redirect_asis ;
 _/phpbin/cecredential phpbin-aws ;
 _/phpbin/change-entry redirect_asis ;
