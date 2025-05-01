@@ -1687,6 +1687,7 @@ www.wheelock.edu redirect_asis ;
 # www.bumc.bu.edu
 www.bumc.bu.edu/cellular-imaging redirect_asis ;
 www.bumc.bu.edu/parking redirect ;
+www.bumc.bu.edu/sleepmed redirect ;
 www.bumc.bu.edu/uis redirect_asis ;
 
 # bumc.bu.edu
