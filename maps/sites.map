@@ -1070,6 +1070,7 @@ _/odsreunionsurvey redirect_asis ;
 _/offcampus redirect_asis ;
 _/office365 redirect_asis ;
 _/offices redirect_asis ;
+_/omba redirect_asis ;
 _/onbase-ug/training static-protected ;
 _/online/static static-public ;
 _/onlinemba redirect_asis ;
