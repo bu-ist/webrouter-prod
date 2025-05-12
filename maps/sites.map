@@ -713,7 +713,6 @@ _/foodandwine/professional-certificates redirect_asis ;
 _/foodandwine/register redirect_asis ;
 _/foodandwine/registration-manager redirect_asis ;
 _/foodandwine/seminars redirect_asis ;
-_/foodandwine/seminars/redirect_asis ;
 _/foodandwine/seminars/download-brochure redirect_asis ;
 _/foodandwine/seminars/feasts-of-the-world redirect_asis ;
 _/foodandwine/seminars/special-events redirect_asis ;
