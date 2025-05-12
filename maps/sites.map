@@ -671,7 +671,7 @@ _/findmyprint redirect_asis ;
 _/finplanners redirect_asis ;
 _/firesafety redirect_asis ;
 _/florencenightingale redirect_asis ;
-_/foodallergy redirect_asis
+_/foodallergy redirect_asis ;
 _/foodandwine redirect_asis ;
 _/foodandwine/about redirect_asis ;
 _/foodandwine/about/facilities redirect_asis ;
