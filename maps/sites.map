@@ -1689,6 +1689,7 @@ sites.bu.edu/collegeharmsfromothersdrinking redirect_asis ;
 sites.bu.edu/cpo-dei redirect_asis ;
 sites.bu.edu/disease-rt static-domain-sitesbuedu ;
 sites.bu.edu/earlcenter redirect_asis ;
+sites.bu.edu/gastronomy redirect ;
 sites.bu.edu/geddesgrants redirect_asis ;
 sites.bu.edu/hothouse redirect_asis ;
 sites.bu.edu/hyness redirect_asis ;
