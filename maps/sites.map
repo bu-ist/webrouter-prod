@@ -725,7 +725,6 @@ _/foodandwine/wine/chef/ redirect_asis ;
 _/foodandwine/wine/faculty redirect_asis ;
 _/foodandwine/wine/faculty/ redirect_asis ;
 _/foodandwine/wine/jobs.html redirect_asis ;
-_/foodandwine/wine/redirect_asis ;
 _/foodandwine/wine/register redirect_asis ;
 _/foodandwine/wine/registration-manager redirect_asis ;
 _/foodandwine/wine/seminars redirect_asis ;
