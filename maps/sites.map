@@ -1600,6 +1600,7 @@ onlinetaxllm.bu.edu redirect_asis ;
 passwordreg.bu.edu redirect_asis ;
 passwordreset.bu.edu redirect_asis ;
 pep.bu.edu redirect_asis ;
+photos.bu.edu static-domain-photosbuedu ;
 pionline.bu.edu redirect ;
 platforms.bu.edu redirect_asis ;
 ppm.bumc.bu.edu redirect_asis ;
