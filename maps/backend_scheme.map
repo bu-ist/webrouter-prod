@@ -23,7 +23,6 @@ static-public-nocache http ;
 
 static-domain-madlab http ;
 static-domain-sitesbuedu http ;
-static-domain-photosbuedu http ;
 static-domain-framinghamheartstudy http ;
 
 people-public http ;
