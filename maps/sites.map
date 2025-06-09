@@ -852,6 +852,7 @@ _/integrativemed redirect_asis ;
 _/interactive redirect_asis ;
 _/interactive-design redirect_asis ;
 _/international redirect_asis ;
+_/internships redirect_asis ; ### reserved for Emma Bonanomi/Provost see INC20636359 ###
 _/intracghd redirect_asis ;
 _/investinprevention redirect_asis ;
 _/irwa redirect_asis ;
