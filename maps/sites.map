@@ -1397,6 +1397,7 @@ _/video redirect_asis ;
 _/vip redirect_asis ;
 _/vip/files static-public ;
 _/virtualpatient static-public ;
+_/virtualtour redirect_asis ;
 _/vision2030bh redirect_asis ;
 _/vision2030la redirect_asis ;
 _/vision2030nyc redirect_asis ;
