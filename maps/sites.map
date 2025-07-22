@@ -1228,6 +1228,7 @@ _/rural-ancillary-portal redirect_asis ;
 _/saa redirect_asis ;
 _/safe redirect_asis ;
 _/safety/stand-up static-public ;
+_/sage redirect_asis ;
 _/sail redirect_asis ;
 _/sao redirect_asis ;
 _/sargent/wp-assets static-public ;
