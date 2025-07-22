@@ -1753,6 +1753,7 @@ sites.bu.edu/geddesgrants redirect_asis ;
 sites.bu.edu/hothouse redirect_asis ;
 sites.bu.edu/hyness redirect_asis ;
 sites.bu.edu/ideacon redirect_asis ;
+sites.bu.edu/kolaczyk redirect_asis ;
 sites.bu.edu/maasap redirect_asis ;
 sites.bu.edu/mosquitobrainbrowser static-domain-sitesbuedu ;
 sites.bu.edu/musicbridge redirect_asis ;
