@@ -1728,6 +1728,7 @@ www.urbanarch.org redirect ;
 www.wheelock.edu redirect_asis ;
 
 # www.bumc.bu.edu
+www.bumc.bu.edu/attendance redirect_asis ;
 www.bumc.bu.edu/cellular-imaging redirect_asis ;
 www.bumc.bu.edu/parking redirect ;
 www.bumc.bu.edu/sleepmed redirect_asis ;
@@ -1840,3 +1841,4 @@ people.bu.edu/tgoss redirect_asis ;
 people.bu.edu/theochem redirect_asis ;
 people.bu.edu/wonglab people-protected ;
 people.bu.edu/xinz people-public-nocache ;
+
