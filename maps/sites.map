@@ -854,6 +854,7 @@ _/ice redirect_asis ;
 _/icsg redirect_asis ;
 _/ict redirect_asis ;
 _/id redirect_asis ;
+_/ids redirect_asis ;
 _/igsw static-public ;
 _/ihs redirect_asis ;
 _/ihsip redirect_asis ;
