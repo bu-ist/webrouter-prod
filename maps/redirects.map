@@ -663,8 +663,8 @@ _/parfund http://bostonu.imodules.com/s/1759/2-bu/2col.aspx?sid=1759&pgid=1744&g
 _/parking https://www.bu.edu/transportation/crc-parking/ ;
 _/parttimefaculty https://www.bu.edu/provost/faculty-affairs/ ;
 _/part-time-mba https://www.bu.edu/questrom/graduate-programs/mba-programs/part-time-mba/ ;
-_/payment https://www.bu.edu/link/bin/uiscgi_student_account_payment_third_party.pl ;
-_/paymyrent https://www.bu.edu/link/bin/uiscgi_student_account_payment_third_party.pl?ModuleName=grad_housing_payment.pl ;
+_/payment https://www.bu.edu/third-party-payments/ ;
+_/paymyrent https://www.bu.edu/third-party-payments/graduate-residence-payment/ ;
 _/perd https://www.bu.edu/fitrec/ ;
 _/personnel https://www.bu.edu/hr/ ;
 _/pharm https://www.bu.edu/sph/education/degrees-and-programs/master-of-public-health-programs/certificates/mph-context-certificates/pharmaceutical-development-delivery-access/ ;
