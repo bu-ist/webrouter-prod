@@ -486,6 +486,7 @@ _/cgs25 redirect_asis ;
 _/cgs60th redirect_asis ;
 _/chapel/av static-public ;
 _/childcognition redirect_asis ;
+_/chips redirect_asis ;
 _/cho redirect_asis ;
 _/cilse redirect_asis ;
 _/cip redirect_asis ;
@@ -1843,4 +1844,5 @@ people.bu.edu/tgoss redirect_asis ;
 people.bu.edu/theochem redirect_asis ;
 people.bu.edu/wonglab people-protected ;
 people.bu.edu/xinz people-public-nocache ;
+
 
