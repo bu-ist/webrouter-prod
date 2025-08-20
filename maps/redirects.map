@@ -669,6 +669,7 @@ _/paymyrent https://www.bu.edu/third-party-payments/graduate-residence-payment/ 
 _/perd https://www.bu.edu/fitrec/ ;
 _/personnel https://www.bu.edu/hr/ ;
 _/pharm https://www.bu.edu/sph/education/degrees-and-programs/master-of-public-health-programs/certificates/mph-context-certificates/pharmaceutical-development-delivery-access/ ;
+_/phd https://www.bu.edu/gps/ ;
 _/photo https://www.bu.edu/marcom/our-expertise/photo-video/photo/ ;
 _/photo/commencement https://www.bu.edu/marcom/projects/commencement/ ;
 _/photo/request https://www.bu.edu/marcom/work-with-us/start-project/ ;
@@ -1224,5 +1225,6 @@ people.bu.edu/salge https://blogs.bu.edu/salge/ ;
 people.bu.edu/sidr https://sites.bu.edu/ramachandranlab/ ;
 people.bu.edu/tgoss https://theodoragoss.com/ ;
 people.bu.edu/theochem https://sites.bu.edu/theochem/ ;
+
 
 
