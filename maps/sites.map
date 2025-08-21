@@ -1137,6 +1137,7 @@ _/parking/dbtemplates static-public ;
 _/part-time-mba redirect_asis ;
 _/partisanreview static-public ;
 _/parttimefaculty redirect_asis ;
+_pathways redirect_asis ;
 _/payment redirect_asis ;
 _/paymyrent redirect_asis ;
 _/pcms static-public ;
