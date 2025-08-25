@@ -664,7 +664,7 @@ _/parfund http://bostonu.imodules.com/s/1759/2-bu/2col.aspx?sid=1759&pgid=1744&g
 _/parking https://www.bu.edu/transportation/crc-parking/ ;
 _/parttimefaculty https://www.bu.edu/provost/faculty-affairs/ ;
 _/part-time-mba https://www.bu.edu/questrom/graduate-programs/mba-programs/part-time-mba/ ;
-_/pathways https://www.bu.edu/advising/for-students/undergraduate-pathway-programs/ ;
+_/pathways https://www.bu.edu/advising/for-students/undergraduate-pathways-programs/ ;
 _/payment https://www.bu.edu/third-party-payments/ ;
 _/paymyrent https://www.bu.edu/third-party-payments/graduate-residence-payment/ ;
 _/perd https://www.bu.edu/fitrec/ ;
@@ -1226,6 +1226,7 @@ people.bu.edu/salge https://blogs.bu.edu/salge/ ;
 people.bu.edu/sidr https://sites.bu.edu/ramachandranlab/ ;
 people.bu.edu/tgoss https://theodoragoss.com/ ;
 people.bu.edu/theochem https://sites.bu.edu/theochem/ ;
+
 
 
 
