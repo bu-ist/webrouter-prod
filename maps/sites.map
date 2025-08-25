@@ -1137,7 +1137,7 @@ _/parking/dbtemplates static-public ;
 _/part-time-mba redirect_asis ;
 _/partisanreview static-public ;
 _/parttimefaculty redirect_asis ;
-_pathways redirect_asis ;
+_/pathways redirect_asis ;
 _/payment redirect_asis ;
 _/paymyrent redirect_asis ;
 _/pcms static-public ;
@@ -1846,5 +1846,6 @@ people.bu.edu/tgoss redirect_asis ;
 people.bu.edu/theochem redirect_asis ;
 people.bu.edu/wonglab people-protected ;
 people.bu.edu/xinz people-public-nocache ;
+
 
 
