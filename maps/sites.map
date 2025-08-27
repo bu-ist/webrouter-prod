@@ -438,6 +438,7 @@ _/cap redirect_asis ;
 _/cap2 redirect_asis ;
 _/capbridge redirect_asis ;
 _/capdraft redirect_asis ;
+_/caps redirect_asis ;
 _/cards redirect_asis ;
 _/career redirect_asis ;
 _/careerweeks redirect_asis ;
@@ -1847,6 +1848,7 @@ people.bu.edu/tgoss redirect_asis ;
 people.bu.edu/theochem redirect_asis ;
 people.bu.edu/wonglab people-protected ;
 people.bu.edu/xinz people-public-nocache ;
+
 
 
 
