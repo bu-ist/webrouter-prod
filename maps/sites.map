@@ -1164,7 +1164,6 @@ _/platform redirect_asis ;
 _/1839pledge redirect_asis ;
 _/pledges redirect_asis ;
 _/pm redirect_asis ;
-_/postdocs redirect_asis ;
 _/premed redirect_asis ;
 _/president26 redirect_asis ;
 _/presidentsearch redirect_asis ;
