@@ -7,7 +7,7 @@ _/employeelink /link/bin/uiscgi_employeelink.pl/uismpl ;
 _/studentlink https://student.bu.edu/MyBU ;
 
 # All Other Redirects:
-_/1839fall https://trusted.bu.edu/s/1759/22/form.aspx?sid=1759&gid=2&pgid=470&cid=1130&appealcode=24ETNSMAURL&utm_medium=appeal&utm_source=link&utm_campaign=print_bualumni&utm_term=give&utm_content=1839_fall_1839_package_url ;
+_/1839fall https://give.bu.edu/bu-1839-society-giving-form/?a=10884399 ;
 _/1839fall25 https://trusted.bu.edu/s/1759/22/form.aspx?sid=1759&gid=2&pgid=470&cid=1130&appealcode=25ETNSMAURL&utm_medium=appeal&utm_source=link&utm_campaign=print_bualumni&utm_term=give&utm_content=1839_Fall_A_URL ;
 _/1839gifts https://give.bu.edu/campaigns/61861/donations/new?a=10519229 ;
 _/1839giving https://trusted.bu.edu/s/1759/22/form.aspx?sid=1759&gid=2&pgid=470&cid=1130&appealcode=24LMMURL1839&utm_medium=appeal&utm_source=link&utm_campaign=print_bualumni&utm_term=give&utm_content=1839_monthly_2024_give ;
@@ -318,7 +318,8 @@ _/factbook https://www.bu.edu/asir/bu-facts/fact-book/ ;
 _/faculty https://www.bu.edu/provost/faculty-affairs/faculty-resources/ ;
 _/faculty/ear https://www.bu.edu/provost/faculty-affairs/my-cv/external-activity-report-ear/ ;
 _/facultycouncil https://www.bu.edu/fafc/ ;
-_/fall1839 https://trusted.bu.edu/s/1759/22/form.aspx?sid=1759&gid=2&pgid=470&cid=1130&appealcode=24ETNSMBURL&utm_medium=appeal&utm_source=link&utm_campaign=print_bualumni&utm_term=give&utm_content=1839_fall_BU_package_url ;
+_/fall1839 https://give.bu.edu/bu-1839-society-giving-form/?a=10884403 ;
+_/fall26 https://give.bu.edu/bu-main-giving-form/?a=10884361 ;
 _/fallmarsh24 https://give.bu.edu/campaigns/65553/donations/new ;
 _/fallparents24 https://give.bu.edu/campaigns/66215/donations/new? ;
 _/fallparents25 https://give.bu.edu/campaigns/66215/donations/new? ;
