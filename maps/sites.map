@@ -1141,6 +1141,7 @@ _/parfund redirect_asis ;
 _/paris redirect_asis ;
 _/parking redirect ;
 _/parking/dbtemplates static-public ;
+_/part-time-flex-mba redirect_asis ;
 _/part-time-mba redirect_asis ;
 _/partisanreview static-public ;
 _/parttimefaculty redirect_asis ;
