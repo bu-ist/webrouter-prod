@@ -134,7 +134,6 @@ _/phpbin/parking phpbin-aws ;
 _/phpbin/policelink redirect_asis ;
 _/phpbin/proxy-groups phpbin-aws ;
 _/phpbin/safetylink phpbin-aws ;
-_/phpbin/security phpbin-aws ;
 _/phpbin/signup phpbin-aws ;
 _/phpbin/sleep phpbin-aws ;
 _/phpbin/ssw-network phpbin-aws ;
