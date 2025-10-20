@@ -1158,6 +1158,7 @@ _/photo redirect_asis ;
 _/photo/commencement redirect_asis ;
 _/photo/request redirect_asis ;
 _/photonics/av static-public ;
+_/photonics-reu redirect_asis ;
 _/phylogeny static-protected ;
 _/pin redirect_asis ;
 _/plan2015 static-protected ;
@@ -1859,4 +1860,3 @@ people.bu.edu/tgoss redirect_asis ;
 people.bu.edu/theochem redirect_asis ;
 people.bu.edu/wonglab people-protected ;
 people.bu.edu/xinz people-public-nocache ;
-
