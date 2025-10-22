@@ -899,6 +899,7 @@ _/itrp redirect_asis ;
 _/jam redirect_asis ;
 _/jam-now redirect_asis ;
 _/jamdocs redirect_asis ;
+_/jamesbrann redirect_asis ;
 _/jamsponsor redirect_asis ;
 _/janetosprize redirect_asis ;
 _/january26 redirect_asis ;
@@ -1860,3 +1861,4 @@ people.bu.edu/tgoss redirect_asis ;
 people.bu.edu/theochem redirect_asis ;
 people.bu.edu/wonglab people-protected ;
 people.bu.edu/xinz people-public-nocache ;
+
