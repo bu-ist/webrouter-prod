@@ -1048,6 +1048,7 @@ _/mim redirect_asis ;
 _/mlkjr redirect_asis ;
 _/mmedicapp redirect_asis ;
 _/modern-med redirect_asis ;
+_/mph redirect_asis ;
 _/ms-in-finance redirect_asis ;
 _/ms-in-management redirect_asis ;
 _/msba redirect_asis ;
@@ -1109,6 +1110,7 @@ _/omba redirect_asis ;
 _/onbase-ug/training static-protected ;
 _/online/static static-public ;
 _/onlinemba redirect_asis ;
+_/onlinemph redirect_asis ;
 _/openaccess redirect_asis ;
 _/opendoors redirect_asis ;
 _/opg redirect_asis ;
@@ -1861,4 +1863,5 @@ people.bu.edu/tgoss redirect_asis ;
 people.bu.edu/theochem redirect_asis ;
 people.bu.edu/wonglab people-protected ;
 people.bu.edu/xinz people-public-nocache ;
+
 
