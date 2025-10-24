@@ -595,6 +595,7 @@ _/mim https://www.bu.edu/questrom/graduate-programs/specialty-masters-programs/m
 _/mlkjr https://www.bu.edu/dbin/mlkjr/ ;
 _/mmedicapp  https://wwwapp.bumc.bu.edu/MedPathway/Program/MMEDIC/ ;
 _/modern-med https://sites.bu.edu/modern-med/ ;
+_/mph https://www.bu.edu/sph/education/degrees-and-programs/master-of-public-health-programs/ ;
 _/msba https://www.bu.edu/questrom/graduate-programs/specialty-masters-programs/ms-in-business-analytics/ ;
 _/msmf https://www.bu.edu/questrom/graduate-programs/specialty-masters-programs/ms-in-mathematical-finance-and-financial-technology/ ;
 _/msmft https://www.bu.edu/questrom/graduate-programs/specialty-masters-programs/ms-in-mathematical-finance-and-financial-technology/ ;
@@ -642,6 +643,7 @@ _/office365 https://portal.office.com/ ;
 _/offices https://www.bu.edu/about/admin/ ;
 _/omba https://www.bu.edu/questrom/graduate-programs/mba-programs/online-mba/ ;
 _/onlinemba https://www.bu.edu/questrom/graduate-programs/mba-programs/online-mba/ ;
+_/onlinemph https://www.bu.edu/sph/education/degrees-and-programs/online-master-of-public-health/ ;
 _/openaccess https://www.bu.edu/library/digital-ventures/ ;
 _/opendoors https://trusted.bu.edu/s/1759/22/form.aspx?sid=1759&gid=2&pgid=456&cid=1110&appealcode=23DAMAPQRV&utm_medium=postcard&utm_source=link&utm_campaign=print_bualumni&utm_term=give&utm_content=opening_doors_give ;
 _/opg https://bulegacy.org/ ;
@@ -1243,4 +1245,5 @@ people.bu.edu/sidr https://sites.bu.edu/ramachandranlab/ ;
 people.bu.edu/tgoss https://theodoragoss.com/ ;
 
 people.bu.edu/theochem https://sites.bu.edu/theochem/ ;
+
 
