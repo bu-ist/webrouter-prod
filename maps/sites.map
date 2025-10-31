@@ -1462,8 +1462,8 @@ _/woundbiotech static-public ;
 _/wp-security redirect_asis ;
 _/wtennis2024 redirect_asis ;
 _/xcc-faculty redirect_asis ;
-_/youarewhybostonia26 redirect_asis ;
 _/youarewhy redirect_asis ;
+_/youarewhybostonia26 redirect_asis ;
 _/youdo redirect_asis ;
 _/yourbusm redirect_asis ;
 _/yourgift redirect_asis ;
@@ -1753,7 +1753,9 @@ www.wheelock.edu redirect_asis ;
 # www.bumc.bu.edu
 www.bumc.bu.edu/attendance redirect_asis ;
 www.bumc.bu.edu/cellular-imaging redirect_asis ;
+www.bumc.bu.edu/curate redirect_asis ;
 www.bumc.bu.edu/parking redirect ;
+www.bumc.bu.edu/prit redirect_asis ;
 www.bumc.bu.edu/sleepmed redirect_asis ;
 www.bumc.bu.edu/uis redirect_asis ;
 
