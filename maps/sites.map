@@ -236,7 +236,6 @@ _/archives redirect_asis ;
 _/armyrotc redirect_asis ;
 _/ars redirect_asis ;
 _/art redirect_asis ;
-_/arts redirect ;
 _/artsnow redirect_asis ;
 _/ascend redirect_asis ;
 _/asllrp static-public ;
@@ -1885,6 +1884,7 @@ people.bu.edu/tgoss redirect_asis ;
 people.bu.edu/theochem redirect_asis ;
 people.bu.edu/wonglab people-protected ;
 people.bu.edu/xinz people-public-nocache ;
+
 
 
 
