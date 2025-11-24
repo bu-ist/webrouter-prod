@@ -1559,6 +1559,7 @@ dmca.bu.edu redirect_asis ;
 ece.bu.edu redirect_asis ;
 ece.bu.edu/linkedin redirect_asis ;
 education.bu.edu redirect ;
+engineering.bu.edu redirect_asis ;
 fitrec.bu.edu redirect ;
 forms.wheelock.edu redirect_asis ;
 fraunhofer.bu.edu redirect ;
@@ -1884,8 +1885,3 @@ people.bu.edu/tgoss redirect_asis ;
 people.bu.edu/theochem redirect_asis ;
 people.bu.edu/wonglab people-protected ;
 people.bu.edu/xinz people-public-nocache ;
-
-
-
-
-
