@@ -178,6 +178,7 @@ _/act static-public ;
 _/activecontrol redirect_asis ;
 _/activistlab redirect_asis ;
 _/actuary redirect_asis ;
+_/adapt redirect_asis ;
 _/adlab redirect_asis ;
 _/admissions wordpress ;
 _/admissions/applicantlink static-public ;
@@ -1886,3 +1887,4 @@ people.bu.edu/tgoss redirect_asis ;
 people.bu.edu/theochem redirect_asis ;
 people.bu.edu/wonglab people-protected ;
 people.bu.edu/xinz people-public-nocache ;
+
