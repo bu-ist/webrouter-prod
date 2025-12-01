@@ -678,7 +678,6 @@ _/ezproxy redirect_asis ;
 _/facial-rejuvenation redirect_asis ;
 _/facilities/webcams static-public ;
 _/factbook redirect_asis ;
-_/faculty redirect_asis ;
 _/faculty/ear redirect_asis ;
 _/facultycouncil redirect_asis ;
 _/familymed/distance static-public ;
@@ -1887,4 +1886,3 @@ people.bu.edu/tgoss redirect_asis ;
 people.bu.edu/theochem redirect_asis ;
 people.bu.edu/wonglab people-protected ;
 people.bu.edu/xinz people-public-nocache ;
-
