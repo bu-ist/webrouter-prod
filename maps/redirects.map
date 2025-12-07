@@ -163,7 +163,7 @@ _/buvsnuchallenge https://trusted.bu.edu/s/1759/22/form.aspx?sid=1759&gid=2&pgid
 _/buwc https://www.bu.edu/womensguild/ ;
 _/buwg https://www.bu.edu/womensguild/ ;
 _/buwind https://www.bu.edu/sustainability/projects/bu-wind/ ;
-_/buworkscentral https://www.bu.edu/tech/2025/12/02/planned-buworks-outage-dec-5-7/ ;
+_/buworkscentral https://ppo.buw.bu.edu/ ;
 _/byb25 https://give.bu.edu/top-dog-challenge/?a=9266155 ;
 _/cac https://www.bu.edu/path/ ;
 _/cagt http://cagt.bu.edu/ ;
@@ -621,7 +621,7 @@ _/mybuaccount https://iam-identity.bu.edu/identityiq/external/registration.jsf#/
 _/mybuidentity https://iam-identity.bu.edu/identityiq/home.jsf ;
 _/mybuphone https://mybuphone.bu.edu/ucmuser/ ;
 _/mybustudent  https://mybustudent.bu.edu/ ;
-_/mybuworks https://www.bu.edu/tech/2025/12/02/planned-buworks-outage-dec-5-7/ ;
+_/mybuworks https://pgw.buw.bu.edu/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html ;
 _/mybuworks-sandbox https://sgw.buw.bu.edu/ ;
 _/mycv https://www.bu.edu/provost/faculty-affairs/my-cv/ ;
 _/myfinancialaid https://www.bu.edu/link/bin/uiscgi_studentlink.pl/1622734999?applpath=fin_aid_awards_summary.pl&YearPart=2022A&GoLoc=fin_aid_questions.pl ;
@@ -1271,3 +1271,4 @@ people.bu.edu/sidr https://sites.bu.edu/ramachandranlab/ ;
 people.bu.edu/tgoss https://theodoragoss.com/ ;
 
 people.bu.edu/theochem https://sites.bu.edu/theochem/ ;
+
