@@ -1571,6 +1571,7 @@ givingday.bu.edu redirect_asis ;
 givingday.bu.edu/campaigns/frederick-s-pardee-school-of-global-studies-fund redirect_asis ;
 givingtuesday.bu.edu redirect_asis ;
 go.bu.edu redirect_asis ;
+go.bu.edu/address redirect_asis ;
 go.bu.edu/BASAlarm redirect_asis ;
 go.bu.edu/BASAlerton redirect_asis ;
 go.bu.edu/BASDistech redirect_asis ;
@@ -1886,3 +1887,4 @@ people.bu.edu/tgoss redirect_asis ;
 people.bu.edu/theochem redirect_asis ;
 people.bu.edu/wonglab people-protected ;
 people.bu.edu/xinz people-public-nocache ;
+
