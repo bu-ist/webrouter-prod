@@ -1888,5 +1888,4 @@ people.bu.edu/temkin people-protected ;
 people.bu.edu/tgoss redirect_asis ;
 people.bu.edu/theochem redirect_asis ;
 people.bu.edu/wonglab people-protected ;
-people.bu.edu/xinz people-public-nocache ;
-
+people.bu.edu/xinz redirect_asis ;
