@@ -1800,6 +1800,7 @@ sites.bu.edu/careerdevelopmentlab redirect_asis ;
 sites.bu.edu/collegeharmsfromothersdrinking redirect_asis ;
 sites.bu.edu/cmcs redirect_asis ;
 sites.bu.edu/cpo-dei redirect_asis ;
+sites.bu.edu/deafcenter redirect_asis ;
 sites.bu.edu/disease-rt static-domain-sitesbuedu ;
 sites.bu.edu/earlcenter redirect_asis ;
 sites.bu.edu/gastronomy redirect ;
