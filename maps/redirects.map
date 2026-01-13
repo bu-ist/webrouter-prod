@@ -819,6 +819,7 @@ _/ssw24 https://give.bu.edu/campaigns/56402/donations/new ;
 _/ssw25 https://give.bu.edu/campaigns/56402/donations/new ;
 _/ssw26 https://give.bu.edu/campaigns/56402/donations/new?a=11210093 ;
 _/sswemergencyfund https://give.bu.edu/campaigns/56402/donations/new?designation_id=9300011728 ;
+_/sswfacultyreview https://wwwapp.bumc.bu.edu/FacultyDevelopment/ ;
 _/stay http://stay.bu.edu ;
 _/stay-test http://stay-test.bu.edu ;
 _/sth24 https://give.bu.edu/campaigns/56408/donations/new ;
@@ -1275,5 +1276,6 @@ people.bu.edu/sidr https://sites.bu.edu/ramachandranlab/ ;
 people.bu.edu/tgoss https://theodoragoss.com/ ;
 people.bu.edu/theochem https://sites.bu.edu/theochem/ ;
 people.bu.edu/xinz https://sites.bu.edu/xinzhang-lab/;
+
 
 
