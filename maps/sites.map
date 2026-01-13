@@ -1327,6 +1327,7 @@ _/ssw24 redirect_asis ;
 _/ssw25 redirect_asis ;
 _/ssw26 redirect_asis ;
 _/sswemergencyfund redirect_asis ;
+_/sswfacultyreview redirect_asis ;
 _/stay redirect_asis ;
 _/stay-test redirect_asis ;
 _/sth24 redirect_asis ;
@@ -1891,3 +1892,4 @@ people.bu.edu/tgoss redirect_asis ;
 people.bu.edu/theochem redirect_asis ;
 people.bu.edu/wonglab people-protected ;
 people.bu.edu/xinz redirect_asis ;
+
