@@ -1790,6 +1790,7 @@ bumc.bu.edu/publicsafety redirect_asis ;
 
 # blogs.bu.edu
 blogs.bu.edu/buasm redirect_asis ;
+blogs.bu.edu/hhkyomen redirect ;
 blogs.bu.edu/kmccall redirect_asis ;
 blogs.bu.edu/vschmidt redirect_asis ;
 
