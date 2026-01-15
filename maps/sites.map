@@ -1339,7 +1339,7 @@ _/strategicreport static-public ;
 _/streambu redirect_asis ;
 _/student redirect_asis ;
 _/student-health-services redirect_asis ;
-_/studentaccountingservices redirect ;
+_/studentfinancials redirect ;
 _/studentgiving redirect_asis ;
 _/students redirect_asis ;
 _/study redirect_asis ;
