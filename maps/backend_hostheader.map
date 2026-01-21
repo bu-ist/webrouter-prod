@@ -34,3 +34,5 @@ static-domain static-sites-prod-public.s3-website-us-east-1.amazonaws.com ;
 
 people-public static-sites-prod-public.s3-website-us-east-1.amazonaws.com ;
 people-public-nocache static-sites-prod-public.s3-website-us-east-1.amazonaws.com ;
+
+wpengine-questrom cgka29jgx2.execute-api.us-east-1.amazonaws.com ;
