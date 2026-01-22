@@ -1210,8 +1210,10 @@ _/qst redirect_asis ;
 _/qualtrics redirect_asis ;
 _/quantum static-public ;
 _/quantumconcepts static-protected ;
-_/questrom wpengine-offline ;
-_/questrom/bfenster wpengine-questrom ;
+
+_/questrom wpengine-questrom ;
+# For /questrom look at CloudFront for an explicit override. This traffic may not be reaching webrouter at all.
+
 _/questrom-means redirect_asis ;
 _/questrom-phd redirect_asis ;
 _/questrom/its-docs static-protected ;
