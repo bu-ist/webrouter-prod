@@ -1475,6 +1475,7 @@ _/win/data static-public ;
 _/wine redirect_asis ;
 _/winter2024 redirect_asis ;
 _/winter2025 redirect_asis ;
+_/winter26 redirect_asis ;
 _/winterfest redirect_asis ;
 _/wintersupport2024 redirect_asis ;
 _/wintersupport2025 redirect_asis ;
