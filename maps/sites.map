@@ -128,6 +128,8 @@ _/phpbin/lawyearbooks phpbin-aws ;
 _/phpbin/marconi phpbin-aws ;
 _/phpbin/meal-donation phpbin-aws ;
 _/phpbin/medlib phpbin-aws ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/phpbin/news-cms static-public ;
 _/phpbin/onbase phpbin-aws ;
 _/phpbin/organ-library phpbin-aws ;
 _/phpbin/parking phpbin-aws ;
@@ -149,6 +151,8 @@ _/phpbin/wiki phpbin-aws ;
 #
 #####################################################################
 
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/.well-known static-public ;
 _/1839fall redirect_asis ;
 _/1839fall25 redirect_asis ;
 _/1839gifts redirect_asis ;
@@ -202,6 +206,8 @@ _/ai redirect_asis ;
 _/aias redirect_asis ;
 _/alcoholeducationforyouth static-public ;
 _/aldolase static-public ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/alert/includes static-public ; 
 _/alex redirect_asis ;
 _/alistaircooke redirect_asis ;
 _/alum24 redirect_asis ;
@@ -218,6 +224,10 @@ _/annualfund redirect_asis ;
 _/annualgiving redirect_asis ;
 _/antiracist-center redirect_asis ;
 _/anxiety redirect_asis ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/apple-touch-icon.png static-public ;
+_/apple-touch-icon-120x120.png static-public ;
+_/apple-touch-icon-precomposed.png static-public ;
 _/ap/wp-assets static-public ;
 _/aparc redirect_asis ;
 _/apc redirect_asis ;
@@ -464,6 +474,8 @@ _/ccds redirect_asis ;
 _/cci redirect_asis ;
 _/cdaly static-public ;
 _/cdn static-public ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/cdn-cgi static-public ;
 _/cds redirect_asis ;
 _/cds26 redirect_asis ;
 _/cds-center redirect_asis ;
@@ -971,6 +983,7 @@ _/learnmore redirect_asis ;
 _/leporelecture redirect_asis ;
 _/lernet static-public-nocache ;
 _/libraries redirect_asis ;
+_/library.html static-public ;
 _/library/firstyear static-public ;
 _/library/wp-assets static-public ;
 _/life redirect_asis ;
