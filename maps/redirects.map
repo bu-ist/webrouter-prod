@@ -166,6 +166,7 @@ _/buwind https://www.bu.edu/sustainability/projects/bu-wind/ ;
 _/buworkscentral https://ppo.buw.bu.edu/ ;
 _/byb25 https://give.bu.edu/top-dog-challenge/?a=9266155 ;
 _/cac https://www.bu.edu/path/ ;
+_/cader https://caderonline.bu.edu/cader/ ;
 _/cagt http://cagt.bu.edu/ ;
 _/camed24 https://give.bu.edu/campaigns/59704/donations/new ;
 _/camed24student https://trusted.bu.edu/s/1759/22/form.aspx?sid=1759&gid=2&pgid=424&cid=1063&appealcode=24WSMCAMEDURL&utm_medium=appeal&utm_source=link&utm_campaign=print_bualumni&utm_term=give&utm_content=Winter_Student_CAMED ;
@@ -269,6 +270,7 @@ _/daysofservice https://www.bu.edu/globaldaysofservice/ ;
 _/dbin/mlkjr https://www.bu.edu/dbin/mlkjr/ ;
 _/dbin/stemcells https://crem.bu.edu/ ;
 _/dct https://www.bu.edu/ldt/ ;
+_/deanshost https://www.bu.edu/cas/student-life/undergraduate-students/ospl/student-leadership-opportunities/deans-hosts/ ;
 _/dec2023 https://give.bu.edu/campaigns/50118/donations/new ;
 _/dec2024 https://give.bu.edu/campaigns/50118/donations/new?a=9039005 ;
 _/dec2025 https://give.bu.edu/bu-main-giving-form/?a=11479207 ;
@@ -824,6 +826,7 @@ _/sswemergencyfund https://give.bu.edu/campaigns/56402/donations/new?designation
 _/sswfacultyreview https://wwwapp.bumc.bu.edu/FacultyDevelopment/ ;
 _/stay http://stay.bu.edu ;
 _/stay-test http://stay-test.bu.edu ;
+_/stem https://www.bu.edu/excellence/ ;
 _/sth24 https://give.bu.edu/campaigns/56408/donations/new ;
 _/sth26 https://give.bu.edu/campaigns/56408/donations/new?a=11210093 ;
 _/sthfund https://give.bu.edu/campaigns/56408/donations/new?designation_id=9300000677 ;
@@ -1243,13 +1246,16 @@ www.bumc.bu.edu/uis https://www.bu.edu/tech/ ;
 sites.bu.edu/agingny https://thenetwork.bu.edu/nysofa-training-academy/ ;
 sites.bu.edu/akwok https://sites.bu.edu/slhs-recruiting/ ;
 sites.bu.edu/careerdevelopmentlab https://cfr.bu.edu/ ;
+sites.bu.edu/chenlab https://www.chrischenlab.com/ ;
 sites.bu.edu/cmcs https://www.bu.edu/com/academics/emerging-media-studies/ ;
 sites.bu.edu/collegeharmsfromothersdrinking https://sites.bu.edu/collegehto/ ;
 sites.bu.edu/cpo-dei https://sites.bu.edu/cpo-community/ ;
 sites.bu.edu/deafcenter https://deafcenter.bu.edu/ ;
+sites.bu.edu/dennislab https://www.thedennislab.com/ ;
 sites.bu.edu/earlcenter https://earlcenter.bu.edu/ ;
 sites.bu.edu/gastronomy https://www.bu.edu/foodstudies/ ;
 sites.bu.edu/geddesgrants https://www.bu.edu/geddes/resources/faculty-mini-grants/ ;
+sites.bu.edu/gygaia https://www.gygaia.org/ ;
 sites.bu.edu/hothouse https://sites.bu.edu/real-world-productions/ ;
 sites.bu.edu/hyness https://calinbelta.com ;
 sites.bu.edu/ideacon https://www.bu.edu/innovate/events/idea-con/ ;
@@ -1283,6 +1289,8 @@ people.bu.edu/sidr https://sites.bu.edu/ramachandranlab/ ;
 people.bu.edu/tgoss https://theodoragoss.com/ ;
 people.bu.edu/theochem https://sites.bu.edu/theochem/ ;
 people.bu.edu/xinz https://sites.bu.edu/xinzhang-lab/;
+
+
 
 
 
