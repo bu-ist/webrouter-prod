@@ -1353,7 +1353,6 @@ _/stem redirect_asis ;
 _/sth24 redirect_asis ;
 _/sth26 redirect_asis ;
 _/sthfund redirect_asis ;
-_/sthlibrary redirect_asis ;
 _/story static-public ;
 _/strategic-plan-taskforce redirect_asis ;
 _/strategicreport static-public ;
