@@ -27,7 +27,7 @@ _/aboutcgs https://www.bu.edu/cgs/admissions/schedule-a-visit/prospective-studen
 _/abroadatbu https://www.bu.edu/metinternational/ ;
 _/academic-integrity https://www.bu.edu/provost/students/undergraduate/academic-integrity/ ;
 _/academy https://www.buacademy.org/ ;
-_/acs https://www.bu.edu/computing/accounts/acs/ ;
+_/acs https://www.bu.edu/tech/services/security/iam/buid/overview-of-account-types/ ;
 _/activecontrol https://psa.buw.bu.edu/activecontrol ;
 _/activistlab https://www.bu.edu/sph/practice/activist-lab/ ;
 _/actuary https://www.bu.edu/met/programs/actuarial-science/?utm_campaign=Actuarial-Programs&utm_medium=&utm_source=Actuarial-Programs-Page/ ;
@@ -518,8 +518,8 @@ _/june26 https://give.bu.edu/bu-main-giving-form/?a=10546839 ;
 _/june26camed https://give.bu.edu/chobanian-avedisian-som-giving-form/?a=10546839 ;
 _/june26cas https://give.bu.edu/cas-online-giving-form/?a=10546839 ;
 _/june30 https://trusted.bu.edu/s/1759/22/form.aspx?sid=1759&gid=2&pgid=412&cid=1044&appealcode=23FYEUMMURL ;
-_/kerberos https://www.bu.edu/computing/accounts/kerberos/ ;
-_/kerberosonly https://www.bu.edu/computing/accounts/create/ ;
+_/kerberos https://www.bu.edu/tech/services/security/iam/authentication/kerberos/kerberos/ ;
+_/kerberosonly https://www.bu.edu/tech/services/security/iam/authentication/kerberos/kerberos/ ;
 _/kpw https://weblogin.bu.edu/accounts/create?_hostname=ad&_conffile=kpw ;
 _/kpw/printsync https://weblogin.bu.edu/accounts/create?template_extension=printsync&_hostname=ad&_conffile=printsync ;
 _/kssf https://www.bu.edu/sth/alumni/giving/ ;
@@ -1288,6 +1288,7 @@ people.bu.edu/sidr https://sites.bu.edu/ramachandranlab/ ;
 people.bu.edu/tgoss https://theodoragoss.com/ ;
 people.bu.edu/theochem https://sites.bu.edu/theochem/ ;
 people.bu.edu/xinz https://sites.bu.edu/xinzhang-lab/;
+
 
 
 
