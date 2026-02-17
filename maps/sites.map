@@ -1184,6 +1184,7 @@ _/pathways redirect_asis ;
 _/payment redirect_asis ;
 _/paymentservices redirect ;
 _/paymyrent redirect_asis ;
+_/pcards redirect_asis ;
 _/pcms static-public ;
 _/pdpa redirect_asis ;
 _/peaclab/ai4hpc static-public ;
@@ -1927,4 +1928,5 @@ people.bu.edu/tgoss redirect_asis ;
 people.bu.edu/theochem redirect_asis ;
 people.bu.edu/wonglab people-protected ;
 people.bu.edu/xinz redirect_asis ;
+
 
