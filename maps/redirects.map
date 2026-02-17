@@ -63,6 +63,7 @@ _/annualfund https://www.bu.edu/alumni/giving/ways-to-give/employer-match/ ;
 _/annualgiving https://www.bu.edu/alumni/giving/ways-to-give/fund/ ;
 _/antiracist-center https://www.bu.edu/antiracism-center/ ;
 _/anxiety https://www.bu.edu/card/ ;
+_/ap https://www.bu.edu/p2p/ ;
 _/aparc https://www.bu.edu/ ;
 _/apc https://www.bu.edu/ ;
 _/apfd https://www.bu.edu/diversity/ ;
@@ -696,6 +697,7 @@ _/part-time-flex-mba https://www.bu.edu/questrom/graduate-programs/mba-programs/
 _/part-time-mba https://www.bu.edu/questrom/graduate-programs/mba-programs/part-time-mba/ ;
 _/pathways https://www.bu.edu/advising/for-students/undergraduate-pathways-programs/ ;
 _/payment https://www.bu.edu/third-party-payments/ ;
+_/paymentservices https://www.bu.edu/p2p/ ;
 _/paymyrent https://www.bu.edu/third-party-payments/graduate-residence-payment/ ;
 _/pdpa https://www.bu.edu/gps/ ;
 _/perd https://www.bu.edu/fitrec/ ;
@@ -808,6 +810,7 @@ _/smg100 https://www.bu.edu/questrom/ ;
 _/smgalum https://www.bu.edu/questrom/alumni/ ;
 _/snl https://www.bu.edu/igs/ ;
 _/software https://www.bu.edu/tech/services/cccs/desktop/distribution/ ;
+_/sourcing https://www.bu.edu/p2p/ ;
 _/southfloridacelebratesbu https://secure-alumni.bu.edu/olc/pub/BUAR/event/showEventForm.jsp?form_id=195821 ;
 _/space http://space.bu.edu/ ;
 _/speccol https://www.bu.edu/library/gotlieb-center/ ;
@@ -895,7 +898,8 @@ _/totenbergchallenge https://crowdfunding.bu.edu/campaigns/roman-and-melanie-tot
 _/track http://www.goterriers.com/ ;
 _/training http://www.example.com/ ;
 _/transfer https://www.bu.edu/admissions/apply/transfer/ ;
-_/travel https://www.bu.edu/travelservices/ ;
+_/travel https://www.bu.edu/p2p/travel-services/ ;
+_/travelservices https://www.bu.edu/p2p/ ;
 _/travelregistry https://www.bu.edu/globalprograms/manage/international-travel/international-travel-registry/ ;
 _/ts https://www.bu.edu/advising/for-students/transfer-students/ ;
 _/turnitin https://www.bu.edu/tech/services/teaching/assessment/grading-support-tools/turnitin/ ;
@@ -1289,3 +1293,4 @@ people.bu.edu/sperez https://sites.bu.edu/sperez/ ;
 people.bu.edu/tgoss https://theodoragoss.com/ ;
 people.bu.edu/theochem https://sites.bu.edu/theochem/ ;
 people.bu.edu/xinz https://sites.bu.edu/xinzhang-lab/;
+
