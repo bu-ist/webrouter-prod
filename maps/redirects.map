@@ -699,6 +699,7 @@ _/pathways https://www.bu.edu/advising/for-students/undergraduate-pathways-progr
 _/payment https://www.bu.edu/third-party-payments/ ;
 _/paymentservices https://www.bu.edu/p2p/ ;
 _/paymyrent https://www.bu.edu/third-party-payments/graduate-residence-payment/ ;
+_/pcards https://www.bu.edu/p2p/payment-services/bu-onecard/ ;
 _/pdpa https://www.bu.edu/gps/ ;
 _/perd https://www.bu.edu/fitrec/ ;
 _/personnel https://www.bu.edu/hr/ ;
@@ -810,7 +811,7 @@ _/smg100 https://www.bu.edu/questrom/ ;
 _/smgalum https://www.bu.edu/questrom/alumni/ ;
 _/snl https://www.bu.edu/igs/ ;
 _/software https://www.bu.edu/tech/services/cccs/desktop/distribution/ ;
-_/sourcing https://www.bu.edu/p2p/ ;
+_/sourcing https://www.bu.edu/p2p/old-sourcing/ ;
 _/southfloridacelebratesbu https://secure-alumni.bu.edu/olc/pub/BUAR/event/showEventForm.jsp?form_id=195821 ;
 _/space http://space.bu.edu/ ;
 _/speccol https://www.bu.edu/library/gotlieb-center/ ;
@@ -1293,4 +1294,5 @@ people.bu.edu/sperez https://sites.bu.edu/sperez/ ;
 people.bu.edu/tgoss https://theodoragoss.com/ ;
 people.bu.edu/theochem https://sites.bu.edu/theochem/ ;
 people.bu.edu/xinz https://sites.bu.edu/xinzhang-lab/;
+
 
