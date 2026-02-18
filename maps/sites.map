@@ -485,7 +485,7 @@ _/cdn-cgi static-public ;
 _/cds redirect_asis ;
 _/cds26 redirect_asis ;
 _/cds-center redirect_asis ;
-_/cel static-public ;
+_/cel redirect_asis ;
 _/celebrationofbu redirect_asis ;
 _/celebrationvip redirect_asis ;
 _/celop/av static-public ;
@@ -1928,5 +1928,3 @@ people.bu.edu/tgoss redirect_asis ;
 people.bu.edu/theochem redirect_asis ;
 people.bu.edu/wonglab people-protected ;
 people.bu.edu/xinz redirect_asis ;
-
-
