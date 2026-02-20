@@ -798,6 +798,7 @@ _/givewheelock redirect_asis ;
 _/giving redirect_asis ;
 _/givingday redirect_asis ;
 _/givingday/vip redirect_asis ;
+_/givingday2026 redirect_asis ;
 _/givingdayvip2023 redirect_asis ;
 _/givingdayvip2024 redirect_asis ;
 _/givingsocieties redirect_asis ;
