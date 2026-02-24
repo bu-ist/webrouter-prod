@@ -719,6 +719,8 @@ _/phpbin/ear https://www.bu.edu/provost/faculty-affairs/my-cv/external-activity-
 _/phpbin/emailforwarding https://www.bu.edu/myidentity ;
 _/phpbin/policelink https://www.bu.edu/phpbin/safetylink/ ;
 _/pin https://www.bu.edu/neuro/pin/ ;
+_/plan2015 https://www.bu.edu/strategic-framework/ ;
+_/plan2020 https://www.bu.edu/strategic-framework/ ;
 _/plan2030 https://www.bu.edu/plan2020/ ;
 _/plannedgiving https://bulegacy.org/ ;
 _/platform https://www.bu.edu/executive-courses/platform-strategies/ ;
@@ -1296,6 +1298,7 @@ people.bu.edu/sperez https://sites.bu.edu/sperez/ ;
 people.bu.edu/tgoss https://theodoragoss.com/ ;
 people.bu.edu/theochem https://sites.bu.edu/theochem/ ;
 people.bu.edu/xinz https://sites.bu.edu/xinzhang-lab/;
+
 
 
 
