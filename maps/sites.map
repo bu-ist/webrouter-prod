@@ -1186,6 +1186,7 @@ _/payment redirect_asis ;
 _/paymentservices redirect ;
 _/paymyrent redirect_asis ;
 _/pcards redirect_asis ;
+_/pcif redirect_asis ;
 _/pcms static-public ;
 _/pdpa redirect_asis ;
 _/peaclab/ai4hpc static-public ;
@@ -1199,7 +1200,6 @@ _/photo/request redirect_asis ;
 _/photonics/av static-public ;
 _/photonics-reu redirect_asis ;
 _/phylogeny static-protected ;
-_/picf redirect_asis ;
 _/pin redirect_asis ;
 _/plan2015 redirect_asis ;
 _/plan2020 redirect_asis ;
@@ -1931,5 +1931,6 @@ people.bu.edu/tgoss redirect_asis ;
 people.bu.edu/theochem redirect_asis ;
 people.bu.edu/wonglab people-protected ;
 people.bu.edu/xinz redirect_asis ;
+
 
 
