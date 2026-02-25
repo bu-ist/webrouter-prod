@@ -702,7 +702,6 @@ _/payment https://www.bu.edu/third-party-payments/ ;
 _/paymentservices https://www.bu.edu/p2p/ ;
 _/paymyrent https://www.bu.edu/third-party-payments/graduate-residence-payment/ ;
 _/pcards https://www.bu.edu/p2p/payment-services/bu-onecard/ ;
-_/pcif https://www.bu.edu/bif/ ;
 _/pdpa https://www.bu.edu/gps/ ;
 _/perd https://www.bu.edu/fitrec/ ;
 _/personnel https://www.bu.edu/hr/ ;
@@ -719,6 +718,7 @@ _/phpbin/directory https://www.bu.edu/directory/ ;
 _/phpbin/ear https://www.bu.edu/provost/faculty-affairs/my-cv/external-activity-report-ear/ ;
 _/phpbin/emailforwarding https://www.bu.edu/myidentity ;
 _/phpbin/policelink https://www.bu.edu/phpbin/safetylink/ ;
+_/picf https://www.bu.edu/bif/ ;
 _/pin https://www.bu.edu/neuro/pin/ ;
 _/plan2015 https://www.bu.edu/strategic-framework/ ;
 _/plan2020 https://www.bu.edu/strategic-framework/ ;
@@ -1299,6 +1299,7 @@ people.bu.edu/sperez https://sites.bu.edu/sperez/ ;
 people.bu.edu/tgoss https://theodoragoss.com/ ;
 people.bu.edu/theochem https://sites.bu.edu/theochem/ ;
 people.bu.edu/xinz https://sites.bu.edu/xinzhang-lab/;
+
 
 
 
