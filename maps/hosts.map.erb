@@ -90,12 +90,6 @@ www-rewrite-wiki-test         ist-web-phpbin-aws-test.bu.edu/phpbin/wiki ;
 #  Other Apps
 # # # # # # # # # # # # # # # # # # # #
 
-uiscgi_app                    <%= ENV['BACKEND_UISCGI_APP'] || "ist-uiscgi-app-#{ENV['LANDSCAPE']}.bu.edu" %> ;
-#                             # Hosted: ON-PREM (F5 load balancer)
-
-uiscgi_content                <%= ENV['BACKEND_UISCGI_CONTENT'] || "ist-uiscgi-content-#{ENV['LANDSCAPE']}.bu.edu" %> ;
-#                             # Hosted: ON-PREM (F5 load balancer)
-
 search                        ist-web-phpbin-aws-prod.bu.edu/phpbin/search ;
 #                             # Hosted: AWS ist-cloud-central-app-prd
 

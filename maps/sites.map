@@ -43,14 +43,6 @@ _/webrouter-health/wp-assets wpassets ;
 #
 #####################################################################
 
-# Marketing URLs:
-_/employeelink redirect_asis ;
-_/studentlink redirect_asis ;
-
-# UISCGI:
-_/link/bin uiscgi_app ;
-_/link uiscgi_content ;
-
 # These are the old tomcat servlets on the server
 _/uis_web3270 legacy ;
 _/uis_eostc mainframe-java-8082 ;
@@ -667,6 +659,7 @@ _/embafaculty redirect_asis ;
 _/emd redirect_asis ;
 _/emergingmedia redirect_asis ;
 _/emermgmt static-public ;
+_/employeelink redirect_asis ;
 _/eng/app phpbin-aws ;
 _/eng/rankings static-public ;
 _/eng24 redirect_asis ;
@@ -1000,8 +993,8 @@ _/lifebook redirect_asis ;
 _/lifelong redirect_asis ;
 _/lifelonglearning redirect_asis ;
 _/lifesciences redirect_asis ;
-_/links redirect_asis ;
-_/links2 redirect_asis ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/link static-public ;
 _/lite static-public ;
 _/liveon static-public ;
 _/login redirect_asis ;
@@ -1042,7 +1035,6 @@ _/may26camed redirect_asis ;
 _/may26cas redirect_asis ;
 _/mba redirect_asis ;
 _/mba-admissions redirect_asis ;
-_/mba-apply redirect_asis ;
 _/mbabu redirect_asis ;
 _/mbafocus redirect_asis ;
 _/mbafocus/alumni redirect_asis ;
@@ -1100,7 +1092,6 @@ _/mybustudent redirect_asis ;
 _/mybuworks redirect_asis ;
 _/mybuworks-sandbox redirect_asis ;
 _/mycv redirect_asis ;
-_/myfinancialaid redirect_asis ;
 _/mygift redirect_asis ;
 _/mygift25 redirect_asis ;
 _/mygiftmatters25 redirect_asis ;
@@ -1373,6 +1364,7 @@ _/student redirect_asis ;
 _/student-health-services redirect_asis ;
 _/studentaccountingservices redirect ;
 _/studentgiving redirect_asis ;
+_/studentlink redirect_asis ;
 _/students redirect_asis ;
 _/study redirect_asis ;
 _/studyfinder redirect_asis ;
@@ -1420,7 +1412,6 @@ _/tad static-public ;
 _/tanglewood redirect_asis ;
 _/tanglewoodtwo static-public ;
 _/tasselsforterriers25 redirect_asis ;
-_/tcp redirect_asis ;
 _/tcs static-public ;
 _/tdl redirect_asis ;
 _/tech/av static-protected ;
