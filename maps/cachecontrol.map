@@ -1,4 +1,3 @@
-  uiscgi_app "no-cache, no-store" ;
   legacy "no-cache, no-store" ;
   static-public-nocache "no-cache, no-store" ;
   static-domain-sitesbuedu "no-cache, no-store" ;

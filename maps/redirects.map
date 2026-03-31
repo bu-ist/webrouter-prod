@@ -2,10 +2,6 @@
 # value and the URI is not put on the end
 #
 
-# StudentLink main menu
-_/employeelink /link/bin/uiscgi_employeelink.pl/uismpl ;
-_/studentlink https://student.bu.edu/MyBU ;
-
 # All Other Redirects:
 _/1839fall https://give.bu.edu/bu-1839-society-giving-form/?a=10884399 ;
 _/1839fall25 https://trusted.bu.edu/s/1759/22/form.aspx?sid=1759&gid=2&pgid=470&cid=1130&appealcode=25ETNSMAURL&utm_medium=appeal&utm_source=link&utm_campaign=print_bualumni&utm_term=give&utm_content=1839_Fall_A_URL ;
@@ -301,6 +297,7 @@ _/ecllscholarship https://give.bu.edu/campaigns/58261/donations/new?designation_
 _/edtech https://www.bu.edu/dli/ ;
 _/eliewieselarchive http://hgar-srv3.bu.edu/web/elie-wiesel/home/ ;
 _/eliewieselday http://bostonu.imodules.com/s/1759/2-bu/alumniWeekend/interior.aspx?sid=1759&gid=2&pgid=252&cid=6194&ecid=6194&crid=0&calpgid=3246&calcid=6192 ;
+_/employeelink https://ppo.buw.bu.edu/ ;
 _/embafaculty https://www.bu.edu/questrom/executive-education/our-faculty/ ;
 _/emd https://www.bu.edu/em/ ;
 _/emergingmedia https://www.bu.edu/com/academics/emerging-media-studies/ ;
@@ -555,8 +552,6 @@ _/lifebook https://www.bu.edu/dos/policies/lifebook/ ;
 _/lifelong https://www.bu.edu/foodandwine/ ;
 _/lifelonglearning https://www.bu.edu/foodandwine/ ;
 _/lifesciences https://www.bu.edu/kilachandcenter/ ;
-_/links https://www.bu.edu/link/ ;
-_/links2 https://www.bu.edu/link/ ;
 _/login https://iam-identity.bu.edu/identityiq/home.jsf ;
 _/logout https://weblogin.bu.edu/logout/ ;
 _/london https://www.bu.edu/abroad/ ;
@@ -586,7 +581,6 @@ _/may26camed https://give.bu.edu/chobanian-avedisian-som-giving-form/?a=10546832
 _/may26cas https://give.bu.edu/cas-online-giving-form/?a=10546832 ;
 _/mba https://www.bu.edu/questrom/graduate-programs/mba-programs/ ;
 _/mba-admissions https://www.bu.edu/questrom/graduate-programs/admissions/ ;
-_/mba-apply https://www.bu.edu/link/bin/uiscgi_graduate_application.pl?College=gsm&utm_source=mba%2Bfact%2Bbook&utm_medium=print&utm_content=mba-apply-fact-book&utm_campaign=mba-apply ;
 _/mbabu https://www.bu.edu/mba?utm_source=National%2BSociety%2Bof%2BHispanic%2BMBA%2BNewsletter&utm_medium=newsletter%2Bad&utm_campaign=NSHMBA ;
 _/mbafocus https://gtscandidate.mbafocus.com/BostonUniversity/Candidates/Login.aspx?pid=1714 ;
 _/mbafocus/alumni https://gtscandidate.mbafocus.com/BostonUniversity/Candidates/Login.aspx?pid=1687 ;
@@ -631,7 +625,6 @@ _/mybustudent  https://mybustudent.bu.edu/ ;
 _/mybuworks https://pgw.buw.bu.edu/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html ;
 _/mybuworks-sandbox https://sgw.buw.bu.edu/ ;
 _/mycv https://www.bu.edu/provost/faculty-affairs/my-cv/ ;
-_/myfinancialaid https://www.bu.edu/link/bin/uiscgi_studentlink.pl/1622734999?applpath=fin_aid_awards_summary.pl&YearPart=2022A&GoLoc=fin_aid_questions.pl ;
 _/mygift https://give.bu.edu/campaigns/50118/donations/new ;
 _/mygift25 https://trusted.bu.edu/s/1759/22/form.aspx?sid=1759&gid=2&pgid=489&cid=1157&appealcode=25BOSAGADURL ;
 _/mygiftmatters25 https://give.bu.edu/campaigns/50118/donations/new?a=9404012 ;
@@ -846,6 +839,7 @@ _/student https://student.bu.edu/ ;
 _/student-health-services https://www.bu.edu/shs/ ;
 _/studentaccountingservices https://www.bu.edu/studentfinancials/sas-cr/ ;
 _/studentgiving https://givingday.bu.edu/pages/student-life ;
+_/studentlink https://student.bu.edu/MyBU ;
 _/students https://student.bu.edu/ ;
 _/study http://study.bu.edu/ ;
 _/studyfinder http://wwwapp1.bumc.bu.edu/DOM/studyfinder/ ;
@@ -887,7 +881,6 @@ _/symposium https://trusted.bu.edu/s/1759/2-bu/19/1col.aspx?sid=1759&gid=2&pgid=
 _/systems https://www.bu.edu/cise/ ;
 _/tanglewood https://www.bu.edu/cfa/tanglewood/ ;
 _/tasselsforterriers25 https://give.bu.edu/tassels-for-terriers/?a=10224426 ;
-_/tcp https://www.bu.edu/link/shortcut/tcp/ ;
 _/tdl https://www.bu.edu/tdpl/ ;
 _/tech/tickets https://bu.service-now.com/sp ;
 _/techweb https://www.bu.edu/tech/ ;

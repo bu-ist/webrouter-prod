@@ -208,24 +208,6 @@ echo "### Test legacy routing"
 test_url "legacy-http-htbin-weblogin" http://${CONNECT_TO}/htbin/login 302 legacy "bu.edu/web@login3/"
 test_url "legacy-http-web3270" http://${CONNECT_TO}/uis_web3270/ 302 legacy "bu.edu/web@login3/"
 
-echo ""
-echo "### Test routing to UISCGI"
-test_url "uiscgi-http-link-trailing-slash" http://${CONNECT_TO}/link 301 uiscgi_content "Location: http://$HOST/link/"
-test_url "uiscgi-http-link-to-uiscgi" http://${CONNECT_TO}/link/ 302 uiscgi_content "Location: http://$HOST/link/bin/uiscgi.pl/uismpl/menu"
-test_url "uiscgi-http-link-menu" http://${CONNECT_TO}/link/bin/uiscgi.pl/uismpl/menu 200 uiscgi_app "/link/system/images/bu-logo.gif"
-# next test commented out until test backend handles SSL TODO:
-#test_url "uiscgi-https-link-menu" https://${CONNECT_TO}/link/bin/uiscgi.pl/uismpl/menu 200 uiscgi_app "/link/system/images/bu-logo.gif"
-test_url "uiscgi-http-link-args" http://${CONNECT_TO}/link/bin/args.pl 200 uiscgi_app "Cache-Control: no-cache"
-# next test commented out until test backend handles SSL TODO:
-#test_url "uiscgi-https-link-args" https://${CONNECT_TO}/link/bin/args.pl 200 uiscgi_app "Cache-Control: no-cache"
-#test_url https://localhost/link/bin/uiscgi.pl  200 uiscgi "/link/system/images/bu-logo.gif"
-
-# test mainframe CUSSP call
-echo ""
-echo "### Test studentlink and mainframe CUSSP call"
-test_url "uiscgi-http-studentlink-redirect" "http://${CONNECT_TO}/studentlink/" 302 redirect "Location: http://$HOST/link/bin/uiscgi_studentlink.pl/uismpl/?ModuleName=menu.pl&NewMenu=Home"
-test_url "uiscgi-http-studentlink-menu" "http://${CONNECT_TO}/link/bin/uiscgi_studentlink.pl/1486741068?ModuleName=univschr.pl&SearchOptionDesc=Distance+Education&SearchOptionCd=D&KeySem=20183&ViewSem=Fall+2017" 200 uiscgi_app '<TH>Search by:</TH>'
-
 if [ "$LANDSCAPE" != "syst" ]; then
 echo ""
 echo "### Test PHP service"
