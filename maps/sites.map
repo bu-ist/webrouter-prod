@@ -507,7 +507,6 @@ _/cho redirect ;
 _/cilse redirect_asis ;
 _/cip redirect_asis ;
 _/claflinsociety redirect_asis ;
-_/clarion static-public ;
 _/classroom redirect_asis ;
 _/climate redirect_asis ;
 _/climateactionplan redirect_asis ;
