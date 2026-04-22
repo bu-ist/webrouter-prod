@@ -1348,6 +1348,7 @@ _/studentaccountingservices redirect ;
 _/studentgiving redirect_asis ;
 _/studentlink redirect_asis ;
 _/students redirect_asis ;
+_/studentsinaction redirect_asis ;
 _/study redirect_asis ;
 _/studyfinder redirect_asis ;
 _/studyspace redirect_asis ;
