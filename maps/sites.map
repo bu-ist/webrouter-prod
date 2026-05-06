@@ -660,7 +660,7 @@ _/emd redirect_asis ;
 _/emergingmedia redirect_asis ;
 _/emermgmt static-public ;
 _/employeelink redirect_asis ;
-_/energy redirect_asis ;3
+_/energy redirect_asis ;
 _/eng/app phpbin-aws ;
 _/eng/rankings static-public ;
 _/eng24 redirect_asis ;
