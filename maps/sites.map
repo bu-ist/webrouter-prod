@@ -654,6 +654,7 @@ _/econ/RePEc static-public ;
 _/edtech redirect_asis ;
 _/eliewieselarchive redirect_asis ;
 _/erc redirect ;
+_/ericyellin redirect_asis ;
 _/eliewieselday redirect_asis ;
 _/emba static-public ;
 _/emd redirect_asis ;
