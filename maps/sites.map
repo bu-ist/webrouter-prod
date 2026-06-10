@@ -118,6 +118,7 @@ _/phpbin/hilleldining phpbin-aws ;
 _/phpbin/ijahs phpbin-aws ;
 _/phpbin/lawyearbooks phpbin-aws ;
 _/phpbin/marconi phpbin-aws ;
+_/phpbin/marconi-secure phpbin-marconi-secure ;
 _/phpbin/meal-donation phpbin-aws ;
 _/phpbin/medlib phpbin-aws ;
 # This is a common 404 page; routing away from WordPress for efficiency:
