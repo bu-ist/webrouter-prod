@@ -1098,6 +1098,7 @@ _/mygradhousing redirect_asis ;
 _/myhousing redirect_asis ;
 _/myidentity redirect_asis ;
 _/myprint redirect_asis ;
+_/mysuccess redirect_asis ;
 _/mzank static-public ;
 _/naeser static-public ;
 _/navyrotc redirect_asis ;
