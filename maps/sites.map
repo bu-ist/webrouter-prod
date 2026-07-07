@@ -465,7 +465,7 @@ _/cas/ar static-protected ;
 _/cas/common static-public ;
 _/cas/impactx2 static-public ;
 _/cas/invite static-public ;
-_/cas/magazine static-protected ;
+_/cas/magazine static-public ;
 _/casadvising redirect_asis ;
 _/casdemo static-public ;
 _/cawses static-public ;
