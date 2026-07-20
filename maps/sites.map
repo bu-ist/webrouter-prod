@@ -1,4 +1,41 @@
 ### Common mapping to all bu.edu systems
+_/anniversary27 redirect_asis ;
+_/april27 redirect_asis ;
+_/april27camed redirect_asis ;
+_/april27cas redirect_asis ;
+_/august27 redirect_asis ;
+_/august27camed redirect_asis ;
+_/august27cas redirect_asis ;
+_/december27 redirect_asis ;
+_/december27camed redirect_asis ;
+_/december27cas redirect_asis ;
+_/february27 redirect_asis ;
+_/february27camed redirect_asis ;
+_/february27cas redirect_asis ;
+_/january27 redirect_asis ;
+_/january27camed redirect_asis ;
+_/january27cas redirect_asis ;
+_/july27 redirect_asis ;
+_/july27camed redirect_asis ;
+_/july27cas redirect_asis ;
+_/june27 redirect_asis ;
+_/june27camed redirect_asis ;
+_/june27cas redirect_asis ;
+_/march27 redirect_asis ;
+_/march27camed redirect_asis ;
+_/march27cas redirect_asis ;
+_/may27 redirect_asis ;
+_/may27camed redirect_asis ;
+_/may27cas redirect_asis ;
+_/november27 redirect_asis ;
+_/november27camed redirect_asis ;
+_/november27cas redirect_asis ;
+_/october27 redirect_asis ;
+_/october27camed redirect_asis ;
+_/october27cas redirect_asis ;
+_/september27 redirect_asis ;
+_/september27camed redirect_asis ;
+_/september27cas redirect_asis ;
 _/version 20181010 ;
 
 
