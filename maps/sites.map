@@ -488,6 +488,7 @@ _/cds-center redirect_asis ;
 _/cel redirect_asis ;
 _/celebrationofbu redirect_asis ;
 _/celebrationvip redirect_asis ;
+_/celop redirect_asis ;
 _/celop/av static-public ;
 _/celop/dev static-public ;
 _/celop/wp-assets static-public ;
