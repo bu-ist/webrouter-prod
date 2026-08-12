@@ -1219,6 +1219,7 @@ _/pledges redirect_asis ;
 _/pm redirect_asis ;
 _/premed redirect_asis ;
 _/president26 redirect_asis ;
+_/president27 redirect_asis ;
 _/presidentsearch redirect_asis ;
 _/preview aws_home ;
 _/printcenter redirect_asis ;
