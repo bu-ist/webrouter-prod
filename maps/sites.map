@@ -1890,6 +1890,7 @@ sites.bu.edu/mosquitobrainbrowser static-domain-sitesbuedu ;
 sites.bu.edu/musicbridge redirect_asis ;
 sites.bu.edu/outlist redirect_asis ;
 sites.bu.edu/ph-datascience redirect_asis ;
+sites.bu.edu/phers redirect_asis ;
 sites.bu.edu/project-respect redirect_asis ;
 sites.bu.edu/reinhartlab redirect_asis ;
 sites.bu.edu/ria/geddes static-domain-sitesbuedu ;
