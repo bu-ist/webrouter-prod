@@ -203,6 +203,8 @@ _/ai redirect_asis ;
 _/aias redirect_asis ;
 _/alcoholeducationforyouth static-public ;
 _/aldolase static-public ;
+# Restores the BU alert stylesheet from S3; was a WordPress 404 at ~4,900/day:
+_/alert/css static-public ;
 # This is a common 404 page; routing away from WordPress for efficiency:
 _/alert/includes static-public ; 
 _/alex redirect_asis ;
