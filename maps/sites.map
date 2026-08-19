@@ -1215,6 +1215,7 @@ _/pcards redirect_asis ;
 _/pcms static-public ;
 _/pdpa redirect_asis ;
 _/peaclab/ai4hpc static-public ;
+_/pep redirect_asis ;
 _/perd redirect_asis ;
 _/personnel redirect_asis ;
 _/pharm redirect_asis ;
