@@ -588,6 +588,7 @@ _/cpr static-public ;
 _/crtimes static-public ;
 _/cruiseandlearn redirect_asis ;
 _/crumpler redirect_asis ;
+_/csc redirect_asis ;
 _/cscd redirect_asis ;
 _/csp/Conferences static-public ;
 _/csp/PASS static-public ;
