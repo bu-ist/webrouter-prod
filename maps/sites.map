@@ -1882,6 +1882,8 @@ www.wheelock.edu redirect_asis ;
 
 # www.bumc.bu.edu
 www.bumc.bu.edu/attendance redirect_asis ;
+www.bumc.bu.edu/busmsearchelectives redirect_asis ;
+www.bumc.bu.edu/camedsearchelectives redirect_asis ;
 www.bumc.bu.edu/cellular-imaging redirect_asis ;
 www.bumc.bu.edu/curate redirect_asis ;
 www.bumc.bu.edu/parking redirect ;
