@@ -135,6 +135,7 @@ _/phpbin/ssw-network phpbin-aws ;
 _/phpbin/starrez phpbin-aws ;
 _/phpbin/static-sites phpbin-aws ;
 _/phpbin/tcp phpbin-aws ;
+_/phpbin/ticrypt phpbin-aws ;
 _/phpbin/webdis phpbin-aws ;
 _/phpbin/wiki phpbin-aws ;
 
