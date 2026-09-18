@@ -386,6 +386,8 @@ _/bostonia/winterspring-2012 static-public ;
 _/bostonia/wp-content static-public ;
 _/bostonia/wp-includes static-public ;
 _/bostonia/wpassets static-public-nocache ;
+_/bostoniafoodpantry27 redirect_asis ;
+_/bostonialaunchpad27 redirect_asis ;
 _/bpir redirect_asis ;
 _/bravi/archive static-public ;
 _/bridge static-public ;
