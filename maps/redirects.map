@@ -5,8 +5,10 @@
 # All Other Redirects:
 _/1839fall https://give.bu.edu/bu-1839-society-giving-form/?a=10884399 ;
 _/1839fall25 https://trusted.bu.edu/s/1759/22/form.aspx?sid=1759&gid=2&pgid=470&cid=1130&appealcode=25ETNSMAURL&utm_medium=appeal&utm_source=link&utm_campaign=print_bualumni&utm_term=give&utm_content=1839_Fall_A_URL ;
+_/1839fall27 https://give.bu.edu/campaigns/61861/donations/new?a=13804046 ;
 _/1839gifts https://give.bu.edu/campaigns/61861/donations/new?a=10519229 ;
 _/1839giving https://trusted.bu.edu/s/1759/22/form.aspx?sid=1759&gid=2&pgid=470&cid=1130&appealcode=24LMMURL1839&utm_medium=appeal&utm_source=link&utm_campaign=print_bualumni&utm_term=give&utm_content=1839_monthly_2024_give ;
+_/1839reunion https://give.bu.edu/campaigns/63683/donations/new?a=14051389 ;
 _/1839society https://www.bu.edu/alumni/giving/who-gives/1839-society/ ;
 _/1839spring25 https://give.bu.edu/campaigns/50118/donations/new?a=9839394 ;
 _/1839spring26 https://give.bu.edu/campaigns/61861/donations/new?a=13203120 ;
@@ -823,6 +825,7 @@ _/reply https://onebu.tfaforms.net/forms/view/217873 ;
 _/research-compliance https://www.bu.edu/research/ethics-compliance/ ;
 _/researchsupport https://www.bu.edu/research/ ;
 _/reunion https://www.bu.edu/alumni/events-landing/golden-terriers/ ;
+_/reunion1839 https://give.bu.edu/campaigns/82442/donations/new?a=14051425 ;
 _/rhett-talks https://www.bu.edu/dos/rhett-talks/ ;
 _/risk https://www.bu.edu/cfo/risk-management/ ;
 _/robotics-lp https://www.bu.edu/eng/academics/explore-degree-programs/master-of-science-in-robotics-autonomous-systems/ ;
