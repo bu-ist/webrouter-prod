@@ -640,6 +640,7 @@ _/dental/give redirect_asis ;
 _/dental/lobbyscreen static-public ;
 _/dental/nerb-mcmanama static-public ;
 _/dentures redirect_asis ;
+_/design-system static-public ;
 _/dev/crtimes static-public ;
 _/digication redirect_asis ;
 _/digital redirect_asis ;
