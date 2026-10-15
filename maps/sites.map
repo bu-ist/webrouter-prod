@@ -302,7 +302,6 @@ _/bfenster-test static-public ;
 _/bfr2011 static-public ;
 _/bigdatasf redirect_asis ;
 _/bikesafety redirect ;
-_/bioimaging static-public ;
 _/bionicpancreas redirect_asis ;
 _/biorender redirect_asis ;
 _/biorobotics static-public ;
