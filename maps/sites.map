@@ -79,6 +79,8 @@ _/calendar phpbin-aws ;
 
 # dbin:
 
+# Unlisted /dbin paths are retired and 404; routing away from WordPress for efficiency:
+_/dbin static-public ;
 _/dbin/agni phpbin-aws ;
 _/dbin/archives static-public ;
 _/dbin/bands phpbin-aws ;
@@ -99,6 +101,8 @@ _/dbin/stemcells redirect_asis ;
 
 # phpbin:
 
+# Unlisted /phpbin paths are retired and 404; routing away from WordPress for efficiency:
+_/phpbin static-public ;
 _/phpbin/blackboard-course-copy phpbin-aws ;
 _/phpbin/calendar phpbin-aws ;
 _/phpbin/cashier-admin redirect_asis ;
@@ -146,6 +150,7 @@ _/phpbin/wiki phpbin-aws ;
 #####################################################################
 
 # This is a common 404 page; routing away from WordPress for efficiency:
+_/.map static-public ;
 _/.well-known static-public ;
 _/1839fall redirect_asis ;
 _/1839fall25 redirect_asis ;
@@ -167,6 +172,9 @@ _/25spring1839 redirect_asis ;
 _/25tasselsforterriers redirect_asis ;
 _/26fiscalyearletter redirect_asis ;
 _/26summer redirect_asis ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/__av static-public ;
+_/_next static-public ;
 _/aaastudy redirect_asis ;
 _/aboutcgs redirect_asis ;
 _/abroad/av static-protected ;
@@ -213,6 +221,8 @@ _/alert/includes static-public ;
 _/alex redirect_asis ;
 _/alistaircooke redirect_asis ;
 _/alum24 redirect_asis ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/alumni-forms static-public ;
 _/alumni/wp-assets static-public ;
 _/alumniawards redirect_asis ;
 _/alumnicenter redirect_asis ;
@@ -220,11 +230,16 @@ _/alumniweekend redirect_asis ;
 _/amandaandtom redirect_asis ;
 _/ame redirect_asis ;
 _/amnesp redirect_asis ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/analesgaldosianos static-public ;
 _/animal redirect_asis ;
 _/anniversary26 redirect_asis ;
 _/anniversary27 redirect_asis ;
 _/annualfund redirect_asis ;
 _/annualgiving redirect_asis ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/antiracism-center static-public ;
+_/antiracist-center static-public ;
 _/anxiety redirect_asis ;
 _/ap redirect ;
 _/ap/wp-assets static-public ;
@@ -240,6 +255,8 @@ _/apple-touch-icon-152x152-precomposed.png static-public ;
 _/apple-touch-icon-152x152.png static-public ;
 _/apple-touch-icon-180x180-precomposed.png static-public ;
 _/apple-touch-icon-180x180.png static-public ;
+_/apple-touch-icon-240x240-precomposed.png static-public ;
+_/apple-touch-icon-240x240.png static-public ;
 _/apple-touch-icon-precomposed.png static-public ;
 _/apple-touch-icon.png static-public ;
 _/apply redirect_asis ;
@@ -281,6 +298,11 @@ _/august27camed redirect_asis ;
 _/august27cas redirect_asis ;
 _/autcsa static-public ;
 _/autodiscover static-public ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/auxiliary-services/events static-public ;
+_/av/ah static-public ;
+_/av/core static-public ;
+_/av/itunes static-public ;
 _/awrecentgrads redirect_asis ;
 _/awslogin redirect_asis ;
 _/back2bu redirect_asis ;
@@ -418,6 +440,8 @@ _/buinchicago redirect_asis ;
 _/buinphiladelphia redirect_asis ;
 _/buinpittsburgh redirect_asis ;
 _/buinsf redirect_asis ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/bulletins static-public ;
 _/buloyalty redirect_asis ;
 _/bumc redirect_asis ;
 _/bumo redirect_asis ;
@@ -465,6 +489,9 @@ _/camedgiving25 redirect_asis ;
 _/camedwinter24 redirect_asis ;
 _/campaign redirect_asis ;
 _/campus-discourse redirect ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/campus-life/off-campus-housing static-public ;
+_/campus-life/terrier-athletics static-public ;
 _/cap redirect_asis ;
 _/cap2 redirect_asis ;
 _/capbridge redirect_asis ;
@@ -529,12 +556,18 @@ _/cgs26 redirect_asis ;
 _/cgs27 redirect_asis ;
 _/cgs60th redirect_asis ;
 _/chapel/av static-public ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/chapel/images static-public ;
 _/childcognition redirect_asis ;
 _/chips redirect_asis ;
 _/cho redirect ;
 _/cilse redirect_asis ;
 _/cip redirect_asis ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/cism static-public ;
 _/claflinsociety redirect_asis ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/clarion static-public ;
 _/classroom redirect_asis ;
 _/climate redirect_asis ;
 _/climateactionplan redirect_asis ;
@@ -544,6 +577,8 @@ _/cnr25 redirect_asis ;
 _/cod redirect_asis ;
 _/codes/simulations static-public ;
 _/cohenchallenge redirect_asis ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/cohis static-public ;
 _/coi redirect_asis ;
 _/com-csc redirect_asis ;
 _/com/amp-registration static-public ;
@@ -605,6 +640,8 @@ _/ctf redirect_asis ;
 _/ctl redirect_asis ;
 _/cughdental redirect_asis ;
 _/culinaryarts redirect_asis ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/cura/graphics static-public ;
 _/cwc redirect_asis ;
 _/cye24 redirect_asis ;
 _/cye25 redirect_asis ;
@@ -711,6 +748,8 @@ _/execed redirect_asis ;
 _/execemf redirect_asis ;
 _/executivevp redirect_asis ;
 _/exed redirect_asis ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/exit.asp static-public ;
 _/experience redirect_asis ;
 _/experience-room redirect_asis ;
 _/expo redirect_asis ;
@@ -731,6 +770,9 @@ _/fall27 redirect_asis ;
 _/fallmarsh24 redirect_asis ;
 _/fallparents24	redirect_asis ;
 _/fallparents25 redirect_asis ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/favicon-16x16.png static-public ;
+_/favicon-32x32.png static-public ;
 _/favicon.ico static-public ;
 _/favoritepoem redirect_asis ;
 _/february26 redirect_asis ;
@@ -832,6 +874,8 @@ _/givingsocieties redirect_asis ;
 _/givingtuesday redirect_asis ;
 _/gk12 static-public ;
 _/glacier static-public ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/globalbeat static-public ;
 _/globaldayofservice redirect_asis ;
 _/globaldaysofservice redirect_asis ;
 _/globalexec redirect_asis ;
@@ -887,6 +931,8 @@ _/help/wordpress redirect_asis ;
 _/helpinfo redirect_asis ;
 _/herbalstudy redirect_asis ;
 _/hi redirect_asis ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/hias static-public ;
 _/hiccse redirect_asis ;
 _/hicse redirect_asis ;
 _/highholiday redirect_asis ;
@@ -904,11 +950,15 @@ _/holmul static-public ;
 _/home aws_home ;
 _/homecoming redirect_asis ;
 _/honordeanmeenan redirect_asis ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/housing/off-campus-housing static-public ;
 _/hr/articulate static-public ;
 _/hr/documents static-public ;
 _/hr/flash static-public ;
 _/hr/hris static-public ;
 _/hr/wp-assets static-public ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/htbin static-public ;
 _/htc redirect_asis ;
 _/html-email phpbin-aws ;
 _/hubiejonesfund redirect_asis ;
@@ -919,6 +969,8 @@ _/ice redirect_asis ;
 _/icsg redirect_asis ;
 _/ict redirect_asis ;
 _/id redirect_asis ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/idp static-public ;
 _/ids redirect_asis ;
 _/ietl redirect_asis ;
 _/igsw static-public ;
@@ -940,11 +992,15 @@ _/interactive redirect_asis ;
 _/interactive-design redirect_asis ;
 _/international redirect_asis ;
 _/internships redirect_asis ; ### reserved for Emma Bonanomi/Provost see INC20636359 ###
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/intr static-public ;
 _/intracghd redirect_asis ;
 _/investinprevention redirect_asis ;
 # This is a common 404 page; routing away from WordPress for efficiency:
 _/ip static-public ;
 _/irwa redirect_asis ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/iscip static-public ;
 _/ise redirect_asis ;
 _/isec redirect_asis ;
 _/isgc redirect_asis ;
@@ -1043,6 +1099,8 @@ _/lifesciences redirect_asis ;
 # This is a common 404 page; routing away from WordPress for efficiency:
 _/link static-public ;
 _/lite static-public ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/literary static-public ;
 _/liveon static-public ;
 _/login redirect_asis ;
 _/logout redirect_asis ;
@@ -1115,7 +1173,11 @@ _/met26 redirect_asis ;
 _/met27 redirect_asis ;
 # This is a common 404 page; routing away from WordPress for efficiency:
 _/meta.json static-public ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/mfeldman static-public ;
 _/mickswan static-public ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/microsoft-server-activesync static-public ;
 _/mih static-public ;
 _/military redirect_asis ;
 _/militarynight redirect_asis ;
@@ -1134,6 +1196,8 @@ _/msmft redirect_asis ;
 _/msms redirect_asis ;
 _/msphotonics static-public ;
 _/mvp redirect_asis ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/my-account static-public ;
 _/myaccount redirect_asis ;
 _/mybu static-public ;
 _/mybuaccount redirect_asis ;
@@ -1154,6 +1218,8 @@ _/myprint redirect_asis ;
 _/mysuccess redirect_asis ;
 _/mzank static-public ;
 _/naeser static-public ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/nano-bu/papers static-public ;
 _/navyrotc redirect_asis ;
 _/need26 redirect_asis ;
 _/nems static-public ;
@@ -1185,6 +1251,9 @@ _/october27 redirect_asis ;
 _/october27camed redirect_asis ;
 _/october27cas redirect_asis ;
 _/odsreunionsurvey redirect_asis ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/off-campus-housing static-public ;
+_/off-campus-living static-public ;
 _/offcampus redirect_asis ;
 _/office365 redirect_asis ;
 _/officedi26 redirect_asis ;
@@ -1263,6 +1332,8 @@ _/platform redirect_asis ;
 _/1839pledge redirect_asis ;
 _/pledges redirect_asis ;
 _/pm redirect_asis ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/police/logs static-public ;
 _/premed redirect_asis ;
 _/president26 redirect_asis ;
 _/president27 redirect_asis ;
@@ -1318,9 +1389,15 @@ _/regionalization redirect_asis ;
 _/registrar redirect_asis ;
 _/remember static-public ;
 _/remotehelp redirect_asis ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/remotesensing/documents static-public ;
 _/reply redirect_asis ;
 _/research-compliance redirect_asis ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/research/common static-public ;
 _/research/email static-public ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/research/graphics static-public ;
 _/research/magazine static-public ;
 _/research/magazine2008 static-public ;
 _/research/spotlight static-public ;
@@ -1395,6 +1472,8 @@ _/siteimprove redirect_asis ;
 _/sites redirect_asis ;
 _/sjmag static-public ;
 _/slef redirect_asis ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/sling static-public ;
 _/smartmoney101 redirect_asis ;
 _/smg redirect_asis ;
 _/smg100 redirect_asis ;
@@ -1402,12 +1481,17 @@ _/smgalum redirect_asis ;
 _/snl redirect_asis ;
 _/software redirect_asis ;
 _/someday static-public ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/sourcemaps static-public ;
 _/sourcing redirect ;
 _/southfloridacelebratesbu redirect_asis ;
 _/space redirect_asis ;
 _/speccol redirect_asis ;
 _/specialdonation redirect_asis ;
 _/speechlab redirect_asis ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/sph/menu-id-452.html static-public ;
+_/sph/menu-id-554.html static-public ;
 _/sph/wp-assets static-public ;
 _/sph24 redirect_asis ;
 _/sph25 redirect_asis ;
@@ -1437,7 +1521,11 @@ _/strategic-plan-taskforce redirect_asis ;
 _/strategicreport static-public ;
 _/streambu redirect_asis ;
 _/student redirect_asis ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/student-affairs static-public ;
 _/student-health-services redirect_asis ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/student-life/off-campus-housing static-public ;
 _/studentaccountingservices redirect ;
 _/studentgiving redirect_asis ;
 _/studentlink redirect_asis ;
@@ -1517,6 +1605,8 @@ _/today/commencement static-public ;
 _/today/common static-public ;
 _/today/media static-public ;
 _/today/news static-public ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/today/node static-public ;
 _/today/projects static-public ;
 _/today/v2 static-public ;
 _/today/wpassets static-public-nocache ;
@@ -1527,6 +1617,8 @@ _/transfer redirect_asis ;
 _/travel redirect_asis ;
 _/travelservices redirect ;
 _/travelregistry redirect_asis ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/trl static-public ;
 _/trustees-intranet/install static-public ;
 _/ts redirect_asis ;
 _/turnitin redirect_asis ;
@@ -1554,6 +1646,8 @@ _/washingtoncelebratesbu redirect_asis ;
 _/wcp static-public ;
 _/webcentral redirect ;
 _/webcentral/common static-public ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/webdav static-public ;
 _/weblogin static-protected ;
 _/webteam/hiring static-public-nocache ;
 _/webteam/projects static-public-nocache ;
@@ -1586,7 +1680,11 @@ _/womenstudies redirect_asis ;
 _/wordpress redirect_asis ;
 _/woundbiotech static-public ;
 _/wp-security redirect_asis ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/wpmu/calendar static-public ;
 _/wtennis2024 redirect_asis ;
+# This is a common 404 page; routing away from WordPress for efficiency:
+_/www.bu.edu static-public ;
 _/xcc-faculty redirect_asis ;
 _/youarewhy redirect_asis ;
 _/youarewhybostonia2026 redirect_asis ;
