@@ -57,11 +57,14 @@ people-protected              ist-web-static-sites-prod.bu.edu/_domains/people.b
 # # # # # # # # # # # # # # # # # # # #
 #  WordPress
 # # # # # # # # # # # # # # # # # # # #
+# Kill switch: both WordPress backends point at a name that never resolves
+# (RFC 6761 .invalid), so webrouter answers every WordPress request with a
+# 502 and nothing reaches PHP. Restore: wordpress-prod-alb.webrouter-prd.aws-cloud.bu.edu
 
-wpassets                      wordpress-prod-alb.webrouter-prd.aws-cloud.bu.edu ;
+wpassets                      wordpress-killswitch.invalid ;
 #                             # Hosted: AWS buaws-websites-prod, proxied to ist-wp-app-pr*
 
-wordpress                     wordpress-prod-alb.webrouter-prd.aws-cloud.bu.edu ;
+wordpress                     wordpress-killswitch.invalid ;
 #                             # Hosted: AWS buaws-websites-prod, proxied to ist-wp-app-pr*
 
 wpengine-questrom             buquestrom.wpengine.com ;
