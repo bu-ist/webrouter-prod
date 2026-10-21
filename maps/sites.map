@@ -565,6 +565,7 @@ _/cilse redirect_asis ;
 _/cip redirect_asis ;
 # This is a common 404 page; routing away from WordPress for efficiency:
 _/cism static-public ;
+_/civilrightsarchives redirect_asis ;
 _/claflinsociety redirect_asis ;
 # This is a common 404 page; routing away from WordPress for efficiency:
 _/clarion static-public ;
