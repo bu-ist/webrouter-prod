@@ -88,6 +88,7 @@ _/dbin/cupidcubesat phpbin-aws ;
 _/dbin/dance phpbin-aws ;
 _/dbin/disted phpbin-aws ;
 _/dbin/ece static-public ;
+_/dbin/eng wordpress ;
 _/dbin/ejournals phpbin-aws ;
 _/dbin/gpts phpbin-aws ;
 _/dbin/mlkjr redirect_asis ;
