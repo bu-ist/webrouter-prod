@@ -1475,6 +1475,7 @@ _/sjmag static-public ;
 _/slef redirect_asis ;
 # This is a common 404 page; routing away from WordPress for efficiency:
 _/sling static-public ;
+_/sloane27 redirect_asis ;
 _/smartmoney101 redirect_asis ;
 _/smg redirect_asis ;
 _/smg100 redirect_asis ;
