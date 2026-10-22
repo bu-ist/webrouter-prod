@@ -279,6 +279,7 @@ _/art redirect_asis ;
 _/arts/calendar static-public ;
 _/artsnow redirect_asis ;
 _/ascend redirect_asis ;
+_/asir/analytical-outputs static-protected ;
 _/asllrp static-public ;
 _/asor static-public ;
 _/astronomy/visualizations static-public ;
