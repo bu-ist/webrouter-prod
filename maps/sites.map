@@ -520,6 +520,7 @@ _/casadvising redirect_asis ;
 _/casdemo static-public ;
 _/cawses static-public ;
 _/cbr25 redirect_asis ;
+_/ccd static-public ;
 _/ccds redirect_asis ;
 _/cci redirect_asis ;
 _/cdaly static-public ;
