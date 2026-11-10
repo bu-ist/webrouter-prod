@@ -1297,6 +1297,7 @@ _/parentgifts redirect_asis ;
 _/parents redirect_asis ;
 _/parents27 redirect_asis ;
 _/parentsofgrads25 redirect_asis ;
+_/parentsprogram redirect ;
 _/parentsupport redirect_asis ;
 _/parentsweekend redirect_asis ;
 _/parfund redirect_asis ;
@@ -1409,6 +1410,7 @@ _/research/wp-assets static-public-nocache ;
 _/research/xml static-public ;
 _/researchsupport redirect ;
 _/researchsupport/av static-protected ;
+_/reslife redirect ;
 _/reunion redirect_asis ;
 _/reunion1839 redirect_asis ;
 _/revpash static-public ;
@@ -1532,6 +1534,7 @@ _/student-health-services redirect_asis ;
 # This is a common 404 page; routing away from WordPress for efficiency:
 _/student-life/off-campus-housing static-public ;
 _/studentaccountingservices redirect ;
+_/studentactivities redirect ;
 _/studentgiving redirect_asis ;
 _/studentlink redirect_asis ;
 _/students redirect_asis ;
@@ -1629,6 +1632,7 @@ _/ts redirect_asis ;
 _/turnitin redirect_asis ;
 _/tv redirect_asis ;
 _/uhc redirect_asis ;
+_/undergradorientation redirect ;
 _/update redirect_asis ;
 _/ur redirect_asis ;
 _/urc redirect_asis ;
@@ -1953,12 +1957,8 @@ worcestermsw.bu.edu redirect_asis ;
 www-modis.bu.edu redirect ;
 www-modis.bu.edu/brdf redirect ;
 www-modis.bu.edu/lidar redirect ;
-www-staging.bu.edu/parentsprogram redirect ;
-www-staging.bu.edu/reslife redirect ;
-www-staging.bu.edu/studentactivities redirect ;
 www-staging.bu.edu/summer/courses phpbin-aws ;
 www-staging.bu.edu/foodandwine redirect_asis ;
-www-staging.bu.edu/undergradorientation redirect ;
 www.660corp.com redirect_asis ;
 www.agganisarena.net redirect_asis ;
 www.agganisarena.org redirect_asis ;
@@ -2045,6 +2045,7 @@ sites.bu.edu/economic_racism redirect_asis ;
 sites.bu.edu/edtech redirect_asis ;
 sites.bu.edu/elawclinic redirect_asis ;
 sites.bu.edu/eufutures redirect_asis ;
+sites.bu.edu/familyandfriendsweekend redirect ;
 sites.bu.edu/gastronomy redirect ;
 sites.bu.edu/geddesgrants redirect_asis ;
 sites.bu.edu/gygaia redirect_asis ;
@@ -2088,7 +2089,6 @@ sites.bu.edu/vschmidt redirect_asis ;
 
 
 
-sites-staging.bu.edu/familyandfriendsweekend redirect ;
 sites-staging.bu.edu/gastronomy redirect_asis ;
 
 # people.bu.edu
